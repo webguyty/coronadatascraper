@@ -1,354 +1,446 @@
 city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,population
-,Rockingham County,NC,USA,0,0,0,,36.39209,-79.77325049999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,0,90690
-,Guilford County,NC,USA,0,0,0,,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,533670
-,Alamance County,NC,USA,0,0,0,,36.046625,-79.389903,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,2,166436
-,Alexander County,NC,USA,0,0,0,,35.9112,-81.173576,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,3,37353
-,Randolph County,NC,USA,0,0,0,,35.713162,-79.80440999999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,4,143351
-,Wayne County,NC,USA,0,0,0,,35.372187,-78.0523115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,5,123248
-,Ashe County,NC,USA,0,0,0,,36.414194499999994,-81.4925705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,6,27109
-,Alleghany County,NC,USA,0,0,0,,36.470187499999994,-81.128388,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,7,11161
-,Currituck County,NC,USA,0,0,0,,36.311232000000004,-76.0432625,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,8,27072
-,Camden County,NC,USA,0,0,0,,36.357271,-76.2231965,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,9,10710
-,Surry County,NC,USA,0,0,0,,36.399366,-80.7073595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,10,71948
-,Gates County,NC,USA,0,0,0,,36.424152,-76.70138,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,11,11573
-,Hertford County,NC,USA,0,0,0,,36.392281999999994,-76.94985,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,12,23659
-,Northampton County,NC,USA,0,0,0,,36.356129499999994,-77.48302000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,13,19676
-,Stokes County,NC,USA,0,0,0,,36.4039905,-80.2396115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,14,45467
-,Warren County,NC,USA,0,0,0,,36.373663,-78.110931,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,15,19807
-,Vance County,NC,USA,0,0,0,,36.3539845,-78.394374,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,16,44582
-,Granville County,NC,USA,0,0,0,,36.282139,-78.6309765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,17,60115
-,Caswell County,NC,USA,0,0,0,,36.391928,-79.335016,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,18,22698
-,Person County,NC,USA,0,0,0,,36.389045499999995,-78.974278,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,19,39507
-,Pasquotank County,NC,USA,0,0,0,,36.31698,-76.2753735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,20,39639
-,Halifax County,NC,USA,0,0,0,,36.255891000000005,-77.618624,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,21,50574
-,Wilkes County,NC,USA,0,0,0,,36.217608,-81.20716300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,22,68557
-,Watauga County,NC,USA,0,0,0,,36.2509755,-81.686846,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,23,55945
-,Perquimans County,NC,USA,0,0,0,,36.226709,-76.390806,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,24,13422
-,Chowan County,NC,USA,0,0,0,,36.178765999999996,-76.5666445,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,25,14029
-,Avery County,NC,USA,0,0,0,,36.099315000000004,-81.9081385,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,26,17505
-,Yadkin County,NC,USA,0,0,0,,36.165891,-80.657182,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,27,37543
-,Dare County,NC,USA,0,0,0,,35.708368,-75.7362335,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,28,36501
-,Forsyth County,NC,USA,2,0,0,,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,29,379099
-,Franklin County,NC,USA,0,0,0,,36.0419445,-78.27652549999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,30,67560
-,Bertie County,NC,USA,0,0,0,,36.0338355,-77.0036715,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,31,19026
-,Orange County,NC,USA,0,0,0,,36.052271,-79.107692,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,32,146027
-,Durham County,NC,USA,1,0,0,,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,33,316739
-,Nash County,NC,USA,0,0,0,,35.966553000000005,-77.976391,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,34,94016
-,Mitchell County,NC,USA,0,0,0,,35.991779,-82.198442,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,35,15000
-,Edgecombe County,NC,USA,0,0,0,,35.915150999999994,-77.585453,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,36,52005
-,Caldwell County,NC,USA,0,0,0,,35.939887,-81.5699525,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,37,82029
-,Tyrrell County,NC,USA,0,0,0,,35.7957445,-76.210059,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,38,4131
-,Yancey County,NC,USA,0,0,0,,35.888507000000004,-82.31928300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,39,17903
-,Madison County,NC,USA,0,0,0,,35.8719975,-82.685785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,40,21763
-,Martin County,NC,USA,0,0,0,,35.8664985,-77.084982,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,41,22671
-,Wake County,NC,USA,8,0,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,42,1092305
-,Davie County,NC,USA,0,0,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,43,42733
-,Washington County,NC,USA,0,0,0,,35.840892999999994,-76.6003345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,44,11859
-,Burke County,NC,USA,0,0,0,,35.7791955,-81.675545,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,45,90382
-,Davidson County,NC,USA,0,0,0,,35.765553499999996,-80.2652875,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,46,166614
-,McDowell County,NC,USA,0,0,0,,35.738724500000004,-82.0594425,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,47,45507
-,Chatham County,NC,USA,1,0,0,,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,48,73139
-,Wilson County,NC,USA,0,0,0,,35.7253325,-77.926691,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,49,81455
-,Buncombe County,NC,USA,0,0,0,,35.620303,-82.5263415,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,50,259103
-,Haywood County,NC,USA,0,0,0,,35.5418605,-83.000247,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,51,61971
-,Catawba County,NC,USA,0,0,0,,35.6878485,-81.22916649999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,52,158652
-,Pitt County,NC,USA,0,0,0,,35.580454,-77.392609,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,53,179914
-,Johnston County,NC,USA,1,0,0,,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,54,202675
-,Swain County,NC,USA,0,0,0,,35.4877375,-83.554631,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,55,14245
-,Beaufort County,NC,USA,0,0,0,,35.477776000000006,-76.83147650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,56,47079
-,Hyde County,NC,USA,0,0,0,,35.383544,-76.19371849999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,57,5230
-,Greene County,NC,USA,0,0,0,,35.500008,-77.6507765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,58,21012
-,Rutherford County,NC,USA,0,0,0,,35.395423,-81.985972,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,59,66826
-,Lee County,NC,USA,0,0,0,,35.467607,-79.16466,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,60,61452
-,Cleveland County,NC,USA,0,0,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,61,97645
-,Jackson County,NC,USA,0,0,0,,35.26292,-83.1417865,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,62,43327
-,Harnett County,NC,USA,0,0,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,63,134214
-,Graham County,NC,USA,0,0,0,,35.342066,-83.810297,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,64,8484
-,Henderson County,NC,USA,0,0,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,65,116748
-,Moore County,NC,USA,0,0,0,,35.2805435,-79.43270749999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,66,98682
-,Montgomery County,NC,USA,0,0,0,,35.324289,-79.898494,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,67,27271
-,Stanly County,NC,USA,0,0,0,,35.323707999999996,-80.278733,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,68,62075
-,Transylvania County,NC,USA,0,0,0,,35.2252595,-82.815485,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,69,34215
-,Polk County,NC,USA,0,0,0,,35.296185,-82.1603345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,70,20611
-,Lenoir County,NC,USA,0,0,0,,35.2174715,-77.6126075,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,71,55976
-,Craven County,NC,USA,0,0,0,,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,72,102912
-,Macon County,NC,USA,0,0,0,,35.162244,-83.42341,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,73,35285
-,Cherokee County,NC,USA,0,0,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,74,28383
-,Pamlico County,NC,USA,0,0,0,,35.1507535,-76.72772499999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,75,12670
-,Sampson County,NC,USA,0,0,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,76,63626
-,Cumberland County,NC,USA,0,0,0,,35.0502155,-78.8038205,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,77,332330
-,Clay County,NC,USA,0,0,0,,35.0712515,-83.7441825,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,78,11139
-,Jones County,NC,USA,0,0,0,,35.014189,-77.39021650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,79,9637
-,Carteret County,NC,USA,0,0,0,,34.832848999999996,-76.60086799999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,80,69524
-,Union County,NC,USA,0,0,0,,35.0112285,-80.5587175,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,81,235908
-,Anson County,NC,USA,0,0,0,,35.008912,-80.0844735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,82,24877
-,Hoke County,NC,USA,0,0,0,,35.02319,-79.24694550000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,83,54764
-,Duplin County,NC,USA,0,0,0,,34.9501105,-77.9257305,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,84,58856
-,Richmond County,NC,USA,0,0,0,,34.99408,-79.76728299999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,85,44887
-,Scotland County,NC,USA,0,0,0,,34.836764,-79.5119535,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,86,34810
-,Onslow County,NC,USA,0,0,0,,34.712451,-77.3899735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,87,197683
-,Robeson County,NC,USA,0,0,0,,34.626412,-79.133749,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,88,131831
-,Bladen County,NC,USA,0,0,0,,34.611776500000005,-78.5427315,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,89,33190
-,Pender County,NC,USA,0,0,0,,34.512526,-77.894035,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,90,62162
-,Columbus County,NC,USA,0,0,0,,34.2134885,-78.6167595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,91,55655
-,New Hanover County,NC,USA,0,0,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,92,232274
-,Brunswick County,NC,USA,0,0,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,93,136744
-,Iredell County,NC,USA,0,0,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,94,178435
-,Rowan County,NC,USA,0,0,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,95,141262
-,Lincoln County,NC,USA,0,0,0,,35.484821999999994,-81.24025,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,96,83770
-,Mecklenburg County,NC,USA,1,0,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,97,1093901
-,Cabarrus County,NC,USA,1,0,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,98,211342
-,Gaston County,NC,USA,0,0,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,99,222846
-,Atlantic County,NJ,USA,0,,,0,39.509258,-74.6437035,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,100,265429
-,Bergen County,NJ,USA,17,,,24,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,101,936692
-,Burlington County,NJ,USA,3,,,6,39.8658955,-74.72494950000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,102,445384
-,Camden County,NJ,USA,1,,,4,39.800549000000004,-74.9381575,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,103,507078
-,Cape May County,NJ,USA,0,,,0,39.1261435,-74.756719,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,104,92560
-,Cumberland County,NJ,USA,0,,,1,39.373098,-75.135421,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,105,150972
-,Essex County,NJ,USA,5,,,9,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,106,799767
-,Gloucester County,NJ,USA,0,,,0,39.7016335,-75.15904900000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,107,291408
-,Hudson County,NJ,USA,3,,,9,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,108,676061
-,Hunterdon County,NJ,USA,0,,,1,40.5647375,-74.9494015,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,109,124714
-,Mercer County,NJ,USA,0,,,0,40.280848500000005,-74.7122715,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,110,369811
-,Monmouth County,NJ,USA,7,,,12,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,111,621354
-,Ocean County,NJ,USA,1,,,2,39.835446000000005,-74.29221150000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,112,601651
-,Passaic County,NJ,USA,2,,,4,41.0114805,-74.304839,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,113,503310
-,Salem County,NJ,USA,0,,,0,39.5848515,-75.31079349999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,114,62607
-,Somerset County,NJ,USA,1,,,1,40.566201,-74.5998835,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,115,331164
-,Sussex County,NJ,USA,0,,,1,41.128282,-74.678832,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,116,140799
-,Union County,NJ,USA,1,,,6,40.665566,-74.300027,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,117,558067
-,Warren County,NJ,USA,0,,,1,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,118,105779
-,Morris County,NJ,USA,3,,,3,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,119,494228
-,Middlesex County,NJ,USA,3,,,7,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,120,829685
-,,British Columbia,Canada,53,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,121,5071000
-,,Alberta,Canada,23,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,122,4067175
-,,Saskatchewan,Canada,0,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,123,1098352
-,,Manitoba,Canada,1,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,124,1278365
-,,Ontario,Canada,79,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,125,13448494
-,,Quebec,Canada,17,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,126,8164361
-,,New Brunswick,Canada,1,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,127,747101
-,,,Thailand,75,1,35,,13.04083302850006,101.54455590850003,https://github.com/CSSEGISandData/COVID-19,128,68414135
-,,,Japan,701,19,118,,37.87307291750005,137.65978516150005,https://github.com/CSSEGISandData/COVID-19,129,126451398
-,,,Singapore,200,0,97,,1.3585676125000532,103.80420983150006,https://github.com/CSSEGISandData/COVID-19,130,5888926
-,,,Nepal,1,0,1,,28.38379831950006,84.1027264815001,https://github.com/CSSEGISandData/COVID-19,131,29384297
-,,,Malaysia,197,0,26,,3.9309068840000734,109.69719485800007,https://github.com/CSSEGISandData/COVID-19,132,31381992
-,,New South Wales,Australia,92,2,4,,42.76080525150005,-75.8409706677239,https://github.com/CSSEGISandData/COVID-19,133,8089526
-,,Victoria,Australia,36,0,8,,-36.537788791607284,145.4695804428331,https://github.com/CSSEGISandData/COVID-19,134,6594804
-,,Queensland,Australia,35,0,8,,-19.64674041161055,145.75436445400004,https://github.com/CSSEGISandData/COVID-19,135,5095100
-,,,Cambodia,5,0,1,,12.56212270450002,104.96757694500008,https://github.com/CSSEGISandData/COVID-19,136,16204486
-,,,Sri Lanka,6,0,1,,7.8766543645000695,80.82227623750006,https://github.com/CSSEGISandData/COVID-19,137,22409381
-,,,Germany,3675,7,46,,51.09924480150008,10.473758178500105,https://github.com/CSSEGISandData/COVID-19,138,80594017
-,,,Finland,155,0,1,,64.9866635165001,26.09634464500006,https://github.com/CSSEGISandData/COVID-19,139,5491218
-,,,United Arab Emirates,85,0,17,,24.340997059161296,53.97632897200003,https://github.com/CSSEGISandData/COVID-19,140,6072475
-,,,Philippines,64,5,2,,12.108262437000064,121.93718509200005,https://github.com/CSSEGISandData/COVID-19,141,104256076
-,,,India,82,2,4,,21.151850284000083,82.74863427400004,https://github.com/CSSEGISandData/COVID-19,142,1281935911
-,,,Italy,17660,1266,1439,,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,143,62137802
-,,,Sweden,814,1,1,,62.191185204500094,17.635630730000088,https://github.com/CSSEGISandData/COVID-19,144,9960487
-,,,Spain,5232,133,193,,35.73847077050007,-6.849639452499929,https://github.com/CSSEGISandData/COVID-19,145,48958159
-,,South Australia,Australia,16,0,3,,-32.035240980898976,135.0000995213503,https://github.com/CSSEGISandData/COVID-19,146,1751693
-,,,Belgium,559,3,1,,50.49042053300006,4.4297657472728815,https://github.com/CSSEGISandData/COVID-19,147,11491346
-,,,Egypt,80,2,27,,26.825424706000064,30.791862752500094,https://github.com/CSSEGISandData/COVID-19,148,97041072
-,,,Lebanon,77,3,1,,33.86861807120964,35.85466820900007,https://github.com/CSSEGISandData/COVID-19,149,6229794
-,,,Iraq,101,9,24,,33.21901997950006,43.65276391200004,https://github.com/CSSEGISandData/COVID-19,150,39192111
-,,,Oman,19,0,9,,21.444199937000064,55.911594682500095,https://github.com/CSSEGISandData/COVID-19,151,3424386
-,,,Afghanistan,7,0,0,,33.930139364000084,67.6895422770001,https://github.com/CSSEGISandData/COVID-19,152,34124811
-,,,Bahrain,189,0,44,,26.024400132000068,50.53386477950008,https://github.com/CSSEGISandData/COVID-19,153,1410942
-,,,Kuwait,80,0,5,,29.315860290500055,47.48260848850009,https://github.com/CSSEGISandData/COVID-19,154,2875422
-,,,Algeria,26,2,8,,28.032339379000085,1.6432377520000898,https://github.com/CSSEGISandData/COVID-19,155,40969443
-,,,Croatia,32,0,1,,44.48165314050009,16.33771101500008,https://github.com/CSSEGISandData/COVID-19,156,4292095
-,,,Switzerland,1139,11,4,,46.840811259500086,8.258983805500094,https://github.com/CSSEGISandData/COVID-19,157,8236303
-,,,Austria,504,1,6,,47.71313527500007,13.334746337500093,https://github.com/CSSEGISandData/COVID-19,158,8754413
-,,,Israel,161,0,4,,31.448389692000035,35.06821170350008,https://github.com/CSSEGISandData/COVID-19,159,8299706
-,,,Pakistan,28,0,2,,30.377750552000087,68.94667484550007,https://github.com/CSSEGISandData/COVID-19,160,204924861
-,,,Brazil,151,0,0,,-14.236725569657125,-54.38839290699988,https://github.com/CSSEGISandData/COVID-19,161,207353391
-,,,Georgia,25,0,0,,42.31029968300004,43.34038972821833,https://github.com/CSSEGISandData/COVID-19,162,4926330
-,,,Greece,190,1,0,,38.322331546000065,24.119802279500078,https://github.com/CSSEGISandData/COVID-19,163,10768477
-,,,North Macedonia,14,0,1,,41.591247966000054,21.726869751000095,https://github.com/CSSEGISandData/COVID-19,164,2077132
-,,,Norway,996,0,1,,69.25525543850006,18.013723178000077,https://github.com/CSSEGISandData/COVID-19,165,5320045
-,,,Romania,89,0,7,,45.95662750300005,24.950926754500074,https://github.com/CSSEGISandData/COVID-19,166,21529967
-,,,Estonia,79,0,0,,58.572233381000025,24.943451368500064,https://github.com/CSSEGISandData/COVID-19,167,1251581
-,,,Netherlands,804,10,0,,52.105282697500066,5.272002682500101,https://github.com/CSSEGISandData/COVID-19,168,17084719
-,,,San Marino,80,5,0,,43.92963720000006,12.437976970500117,https://github.com/CSSEGISandData/COVID-19,169,33537
-,,,Belarus,27,0,3,,53.72384073950006,27.942588541500044,https://github.com/CSSEGISandData/COVID-19,170,9549747
-,,,Iceland,134,0,1,,64.96666087450004,-18.861826138499936,https://github.com/CSSEGISandData/COVID-19,171,339747
-,,,Lithuania,6,0,0,,55.16278391600002,23.911012610500066,https://github.com/CSSEGISandData/COVID-19,172,2823859
-,,,Mexico,12,0,4,,23.629557940500092,-101.93334401247205,https://github.com/CSSEGISandData/COVID-19,173,124574795
-,,,New Zealand,5,0,0,,-40.878065687999936,172.51685631600003,https://github.com/CSSEGISandData/COVID-19,174,4510327
-,,,Nigeria,2,0,0,,9.07578074450008,8.671077514500098,https://github.com/CSSEGISandData/COVID-19,175,190632261
-,,Western Australia,Australia,14,1,0,,-24.407891534499925,120.95978010457588,https://github.com/CSSEGISandData/COVID-19,176,2621680
-,,,Ireland,90,1,0,,53.46108633000006,-8.136179165499925,https://github.com/CSSEGISandData/COVID-19,177,5011102
-,,,Luxembourg,34,0,0,,49.80347279900003,6.1075130615000575,https://github.com/CSSEGISandData/COVID-19,178,594130
-,,,Monaco,2,0,0,,43.743117918500026,7.401602119563048,https://github.com/CSSEGISandData/COVID-19,179,30645
-,,,Qatar,320,0,0,,25.363913984500023,51.18376712300005,https://github.com/CSSEGISandData/COVID-19,180,2314307
-,,,Ecuador,17,0,0,,-1.7634670984999161,-83.4578538649999,https://github.com/CSSEGISandData/COVID-19,181,16290913
-,,,Azerbaijan,15,1,3,,40.14320973750006,47.50227481750011,https://github.com/CSSEGISandData/COVID-19,182,9961396
-,,,Armenia,8,0,0,,40.077076823500036,45.01914310700013,https://github.com/CSSEGISandData/COVID-19,183,3045191
-,,,Dominican Republic,5,0,0,,18.771246649000062,-70.13417985399988,https://github.com/CSSEGISandData/COVID-19,184,10734247
-,,,Indonesia,69,4,2,,-2.6357561174999375,118.08721907200007,https://github.com/CSSEGISandData/COVID-19,185,260580739
-,,,Portugal,112,0,1,,37.400416263500055,-15.94334102749994,https://github.com/CSSEGISandData/COVID-19,186,10839514
-,,,Andorra,1,0,0,,42.51501586950006,1.5681518960000886,https://github.com/CSSEGISandData/COVID-19,187,85702
-,,Tasmania,Australia,5,0,0,,-41.60023365649994,146.16134687600004,https://github.com/CSSEGISandData/COVID-19,188,534281
-,,,Latvia,17,0,1,,56.862861023500045,24.59194014100008,https://github.com/CSSEGISandData/COVID-19,189,1944643
-,,,Morocco,7,1,1,,28.67223747529175,-9.030622863196513,https://github.com/CSSEGISandData/COVID-19,190,33986655
-,,,Saudi Arabia,86,0,1,,24.244550886000077,45.132142167500064,https://github.com/CSSEGISandData/COVID-19,191,28571770
-,,,Senegal,10,0,1,,14.474492289500091,-14.37969132899994,https://github.com/CSSEGISandData/COVID-19,192,14668522
-,,,Argentina,31,2,0,,-38.42173074799991,-63.626654215499926,https://github.com/CSSEGISandData/COVID-19,193,44293293
-,,,Chile,43,0,0,,-36.567062457499944,-71.3604937374999,https://github.com/CSSEGISandData/COVID-19,194,17789267
-,,,Jordan,1,0,1,,31.280817871500048,37.04788003839781,https://github.com/CSSEGISandData/COVID-19,195,10248069
-,,,Ukraine,3,1,0,,48.79241852100008,31.137251424000127,https://github.com/CSSEGISandData/COVID-19,196,44033874
-,,,Hungary,19,0,0,,47.156127930000025,19.485817912000087,https://github.com/CSSEGISandData/COVID-19,197,9850845
-,,Northern Territory,Australia,1,0,0,,-18.516157321898987,133.50015133877957,https://github.com/CSSEGISandData/COVID-19,198,245869
-,,,Liechtenstein,1,0,0,,47.15983571400008,9.533092081500058,https://github.com/CSSEGISandData/COVID-19,199,38244
-,,,Poland,68,2,0,,51.93482900350006,19.125478149000088,https://github.com/CSSEGISandData/COVID-19,200,38476269
-,,,Tunisia,16,0,0,,33.78217031200008,9.521981649000097,https://github.com/CSSEGISandData/COVID-19,201,11403800
-,,,Bosnia and Herzegovina,13,0,0,,43.91899993950011,17.668099406000096,https://github.com/CSSEGISandData/COVID-19,202,3856181
-,,,Slovenia,141,0,0,,46.14379954050001,14.940281412500084,https://github.com/CSSEGISandData/COVID-19,203,1972126
-,,,South Africa,24,0,0,,-28.469792578999943,24.690074089500087,https://github.com/CSSEGISandData/COVID-19,204,54841552
-,,,Bhutan,1,0,0,,27.518180482737833,90.40745792650009,https://github.com/CSSEGISandData/COVID-19,205,758288
-,,,Cameroon,2,0,0,,7.407972718000032,12.350860429500074,https://github.com/CSSEGISandData/COVID-19,206,24994885
-,,,Colombia,13,0,0,,4.114416812000066,-72.93652033249992,https://github.com/CSSEGISandData/COVID-19,207,47698524
-,,,Costa Rica,23,0,0,,9.615482479500045,-84.21760006449992,https://github.com/CSSEGISandData/COVID-19,208,4930258
-,,,Peru,28,0,0,,-9.190602483184005,-75.01090500599992,https://github.com/CSSEGISandData/COVID-19,209,31036656
-,,,Serbia,35,0,0,,44.20522467850007,20.9182886145001,https://github.com/CSSEGISandData/COVID-19,210,7111024
-,,,Slovakia,32,0,0,,48.67589304650005,19.692058553000123,https://github.com/CSSEGISandData/COVID-19,211,5445829
-,,,Togo,1,0,0,,8.61773549700009,0.8081207685000891,https://github.com/CSSEGISandData/COVID-19,212,7965055
-,,,French Guiana,5,0,0,,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,213,67106161
-,,,Malta,12,0,1,,35.88346995650005,14.445323113000057,https://github.com/CSSEGISandData/COVID-19,214,416338
-,,,Martinique,3,0,0,,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,213,67106161
-,,,Bulgaria,23,1,0,,42.73391529800004,25.47427473600007,https://github.com/CSSEGISandData/COVID-19,215,7101510
-,,,Maldives,9,0,0,,4.213175576792927,73.52910604309824,https://github.com/CSSEGISandData/COVID-19,216,392709
-,,,Bangladesh,3,0,0,,23.73811778050007,90.33232039450004,https://github.com/CSSEGISandData/COVID-19,217,157826578
-,,,Paraguay,6,0,0,,-23.43368479399996,-58.44782303899994,https://github.com/CSSEGISandData/COVID-19,218,6943739
-,,,Albania,33,1,0,,41.11245290150006,20.154355916000085,https://github.com/CSSEGISandData/COVID-19,219,3047987
-,,,Cyprus,14,0,0,,34.910753335500104,33.197142898000095,https://github.com/CSSEGISandData/COVID-19,220,1221549
-,,,Brunei,37,0,0,,4.510995486500057,114.66157535500005,https://github.com/CSSEGISandData/COVID-19,221,443593
-,,,Burkina Faso,2,0,0,,12.230804951500069,-1.5662045904998934,https://github.com/CSSEGISandData/COVID-19,222,20107509
-,,,Holy See,1,0,0,,41.90333333950011,12.453533325000109,https://github.com/CSSEGISandData/COVID-19,223,1000
-,,,Mongolia,1,0,0,,46.85141784700008,103.85503503500007,https://github.com/CSSEGISandData/COVID-19,224,3068243
-,,,Panama,27,1,0,,8.420921827000058,-80.07274338849989,https://github.com/CSSEGISandData/COVID-19,225,3753142
-,,Hubei,China,67786,3062,51553,,31.166405443456426,112.26392825753302,https://github.com/CSSEGISandData/COVID-19,226,59170000
-,,,Iran,11364,514,2959,,32.412651216000036,53.6631116130001,https://github.com/CSSEGISandData/COVID-19,227,82021564
-,,,"Korea, South",7979,66,510,,35.91235993050006,127.85698489700007,https://github.com/CSSEGISandData/COVID-19,228,51181299
-,,Guangdong,China,1356,8,1296,,22.876783758944043,113.41792352680932,https://github.com/CSSEGISandData/COVID-19,229,113460000
-,,Henan,China,1273,22,1249,,33.87707977965809,113.48442223524788,https://github.com/CSSEGISandData/COVID-19,230,96050000
-,,Zhejiang,China,1215,1,1197,,29.189050400871963,120.1641359794138,https://github.com/CSSEGISandData/COVID-19,231,57370000
-,,Hunan,China,1018,4,1005,,27.369414984613826,111.50909061104284,https://github.com/CSSEGISandData/COVID-19,232,68990000
-,,Anhui,China,990,6,984,,32.02378204990168,117.2581712176775,https://github.com/CSSEGISandData/COVID-19,233,63240000
-,,Jiangxi,China,935,1,934,,27.275131334293633,116.01917707751011,https://github.com/CSSEGISandData/COVID-19,234,46480000
-,,Shandong,China,760,7,739,,36.33507593620547,118.74515424940193,https://github.com/CSSEGISandData/COVID-19,235,100470000
-,,Jiangsu,China,631,0,630,,32.934811713190015,119.14963721029278,https://github.com/CSSEGISandData/COVID-19,236,80510000
-,,Chongqing,China,576,6,566,,30.198712571927643,107.73296451180275,https://github.com/CSSEGISandData/COVID-19,237,31020000
-,,Sichuan,China,539,3,503,,30.165213324835065,102.93966535826965,https://github.com/CSSEGISandData/COVID-19,238,83410000
-,,Heilongjiang,China,482,13,446,,48.501949771374576,127.97325321185173,https://github.com/CSSEGISandData/COVID-19,239,37730000
-,,Beijing,China,436,8,342,,40.236575323991985,116.42780846573805,https://github.com/CSSEGISandData/COVID-19,240,21540000
-,,Shanghai,China,346,3,324,,31.266158547445322,121.43153719907554,https://github.com/CSSEGISandData/COVID-19,241,24240000
-,,Hebei,China,318,6,310,,39.323827419599695,116.65206139450123,https://github.com/CSSEGISandData/COVID-19,242,75560000
-,,Fujian,China,296,1,295,,25.971159641604146,118.13227705193037,https://github.com/CSSEGISandData/COVID-19,243,39410000
-,,Guangxi,China,252,2,243,,23.899949245349177,108.27096784823755,https://github.com/CSSEGISandData/COVID-19,244,49260000
-,,Shaanxi,China,245,2,232,,35.63509908705319,108.36171166401203,https://github.com/CSSEGISandData/COVID-19,245,38640000
-,,Yunnan,China,174,2,170,,25.179122725058342,101.85510583221756,https://github.com/CSSEGISandData/COVID-19,246,48300000
-,,Hainan,China,168,6,160,,19.150763250500063,109.81287682400003,https://github.com/CSSEGISandData/COVID-19,247,9340000
-,,Guizhou,China,146,2,140,,26.9387435980386,106.60127648352287,https://github.com/CSSEGISandData/COVID-19,248,36000000
-,,Tianjin,China,136,3,132,,39.40813751918114,117.34508644325369,https://github.com/CSSEGISandData/COVID-19,249,15600000
-,,Shanxi,China,133,0,133,,37.66312775369286,112.3891919290642,https://github.com/CSSEGISandData/COVID-19,250,37180000
-,,Gansu,China,127,2,88,,37.69770367228662,100.73804263765757,https://github.com/CSSEGISandData/COVID-19,251,26370000
-,,,Hong Kong,134,4,77,,22.41313304250005,114.21021569100003,https://github.com/CSSEGISandData/COVID-19,252,7191503
-,,Liaoning,China,125,1,112,,41.09091390618639,122.31055016440854,https://github.com/CSSEGISandData/COVID-19,253,43590000
-,,Jilin,China,93,1,91,,43.56576924140737,126.47365482303488,https://github.com/CSSEGISandData/COVID-19,254,27040000
-,,,Czechia,141,0,0,,49.80312398300006,15.540038086000095,https://github.com/CSSEGISandData/COVID-19,255,10674723
-,,Xinjiang,China,76,3,73,,41.752899103285706,84.98429810398284,https://github.com/CSSEGISandData/COVID-19,256,24870000
-,,Inner Mongolia,China,75,1,71,,45.35383134546877,111.62347220837569,https://github.com/CSSEGISandData/COVID-19,257,25000034
-,,Ningxia,China,75,0,72,,37.31081075681095,106.00808271719359,https://github.com/CSSEGISandData/COVID-19,258,6880000
-,,,Taiwan,50,1,20,,23.598456122000044,120.98259524850005,https://github.com/CSSEGISandData/COVID-19,259,23508428
-,,,Vietnam,47,0,16,,15.941768090000089,105.79183617800007,https://github.com/CSSEGISandData/COVID-19,260,96160163
-,,,Russia,45,0,3,,61.240742495500065,4.263256414560601e-14,https://github.com/CSSEGISandData/COVID-19,261,142257519
-,,Qinghai,China,18,0,18,,35.43499502195269,96.23774885477579,https://github.com/CSSEGISandData/COVID-19,262,6030000
-,,Macau,China,10,0,10,,22.13420237850005,113.55058841250002,https://github.com/CSSEGISandData/COVID-19,263,667400
-,,,Moldova,6,0,0,,46.967069702500055,28.28525496400006,https://github.com/CSSEGISandData/COVID-19,264,3474121
-,,,Bolivia,3,0,0,,-16.286937560999938,-63.58694087799992,https://github.com/CSSEGISandData/COVID-19,265,11138234
-,,St Martin,France,2,0,0,,18.07776461717568,-63.06228647314417,https://github.com/CSSEGISandData/COVID-19,266,
-,,,Honduras,2,0,0,,14.484747626000058,-86.24603266122396,https://github.com/CSSEGISandData/COVID-19,267,9038741
+,DeKalb County,IN,USA,0,0,,0,41.397172,-84.998833,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,0,43226
+,Boone County,IN,USA,1,0,,0,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,66999
+,Tippecanoe County,IN,USA,0,0,,0,40.388631000000004,-86.89501100000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,193048
+,Johnson County,IN,USA,3,0,,0,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,156225
+,Elkhart County,IN,USA,0,0,,0,41.598169999999996,-85.858041,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,205560
+,Adams County,IN,USA,1,0,,0,40.745404,-84.93797749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,5,35636
+,Noble County,IN,USA,1,0,,0,41.3952975,-85.42342049999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,47532
+,Madison County,IN,USA,0,0,,0,40.1616875,-85.7193405,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,7,129641
+,St Joseph County,IN,USA,1,0,,0,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,8,
+,Jackson County,IN,USA,0,0,,0,38.898375,-86.056745,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,9,44111
+,Vander. County,IN,USA,0,0,,0,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,
+,Grant County,IN,USA,0,0,,0,40.515986999999996,-85.6545605,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,10,65936
+,Porter County,IN,USA,0,0,,0,41.465349,-87.07600400000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,11,169594
+,Marion County,IN,USA,2,0,,0,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,12,954670
+,Hamilton County,IN,USA,0,0,,0,40.0724955,-86.052323,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,13,330086
+,Lake County,IN,USA,0,0,,0,41.4360915,-87.372815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,14,484411
+,Morgan County,IN,USA,0,0,,0,39.486663,-86.46872300000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,15,70116
+,Hendricks County,IN,USA,2,0,,0,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,16,167009
+,LaPorte County,IN,USA,0,0,,0,41.4985245,-86.70959,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,17,110007
+,Floyd County,IN,USA,0,0,,0,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,77781
+,Shelby County,IN,USA,0,0,,0,39.5229175,-85.7912735,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,19,44593
+,Allen County,IN,USA,0,0,,0,41.093929,-85.070744,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,20,375351
+,Tipton County,IN,USA,0,0,,0,40.311361500000004,-86.052076,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,21,15128
+,Rush County,IN,USA,0,0,,0,39.6201645,-85.465533,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,22,16663
+,Orange County,IN,USA,0,0,,0,38.541362,-86.49588800000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,23,19489
+,Crawford County,IN,USA,0,0,,0,38.264135499999995,-86.4664205,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,24,10558
+,Owen County,IN,USA,0,0,,0,39.319545500000004,-86.84269800000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,25,20845
+,Fountain County,IN,USA,0,0,,0,40.159532,-87.2651005,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,26,16351
+,Decatur County,IN,USA,0,0,,0,39.292067,-85.4919175,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,27,26794
+,Fulton County,IN,USA,0,0,,0,41.0412495,-86.2069545,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,28,20092
+,LaGrange County,IN,USA,0,0,,0,41.641722,-85.426917,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,29,39330
+,Knox County,IN,USA,0,0,,0,38.6611855,-87.4215765,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,30,36895
+,Monroe County,IN,USA,0,0,,0,39.173286000000004,-86.50153900000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,31,146917
+,Cass County,IN,USA,0,0,,0,40.736143,-86.3733815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,32,37955
+,Randolph County,IN,USA,0,0,,0,40.157236999999995,-85.011338,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,33,24851
+,Martin County,IN,USA,0,0,,0,38.700171999999995,-86.8032725,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,34,10217
+,Washington County,IN,USA,0,0,,0,38.5984585,-86.078819,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,35,27943
+,Parke County,IN,USA,0,0,,0,39.779033,-87.2218005,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,36,16927
+,Kosciusko County,IN,USA,0,0,,0,41.239367,-85.8647395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,37,79344
+,Wayne County,IN,USA,0,0,,0,39.8599215,-85.01602550000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,38,65936
+,Montgomery County,IN,USA,0,0,,0,40.039825500000006,-86.893817,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,39,38346
+,Hancock County,IN,USA,0,0,,0,39.821446,-85.76510250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,40,76351
+,Vigo County,IN,USA,0,0,,0,39.4335005,-87.40453099999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,41,107386
+,Jefferson County,IN,USA,0,0,,0,38.749990499999996,-85.4428255,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,42,32208
+,Huntington County,IN,USA,0,0,,0,40.8291895,-85.48925399999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,43,36240
+,Harrison County,IN,USA,0,0,,0,38.190351500000006,-86.114784,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,44,40350
+,Wabash County,IN,USA,0,0,,0,40.848853500000004,-85.7925115,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,45,31280
+,Delaware County,IN,USA,0,0,,0,40.2282065,-85.3964875,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,46,114772
+,Posey County,IN,USA,0,0,,0,38.001000000000005,-87.87335350000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,47,25540
+,Spencer County,IN,USA,0,0,,0,37.993821,-87.0179535,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,48,20327
+,Ohio County,IN,USA,0,0,,0,38.9659135,-84.9850845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,49,5844
+,Carroll County,IN,USA,0,0,,0,40.5844765,-86.5738755,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,50,20127
+,Warren County,IN,USA,0,0,,0,40.3021425,-87.311793,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,51,8263
+,Franklin County,IN,USA,0,0,,0,39.397251999999995,-85.056989,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,52,22736
+,Pulaski County,IN,USA,0,0,,0,41.0411035,-86.6989025,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,53,12469
+,Jay County,IN,USA,0,0,,0,40.439459,-85.0111465,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,54,20764
+,Wells County,IN,USA,0,0,,0,40.742376,-85.258652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,55,28206
+,Marshall County,IN,USA,0,0,,0,41.325298000000004,-86.2605775,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,56,46248
+,Sullivan County,IN,USA,0,0,,0,39.080525,-87.4431845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,57,20690
+,Brown County,IN,USA,0,0,,0,39.196282,-86.23083349999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,58,15234
+,Ripley County,IN,USA,0,0,,0,39.1115335,-85.2549985,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,59,28523
+,Henry County,IN,USA,0,0,,0,39.931831,-85.3989305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,60,48271
+,Howard County,IN,USA,1,0,,0,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,61,82366
+,Whitley County,IN,USA,0,0,,0,41.148574999999994,-85.49717749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,62,34074
+,Dearborn County,IN,USA,0,0,,0,39.1234195,-84.9759795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,63,49568
+,Blackford County,IN,USA,0,0,,0,40.473138,-85.32408,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,64,11930
+,Scott County,IN,USA,0,0,,0,38.6948615,-85.729157,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,65,23878
+,Bartholomew County,IN,USA,0,0,,0,39.192976,-85.885058,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,66,82753
+,Jasper County,IN,USA,0,0,,0,41.011453,-87.1030475,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,67,33370
+,Union County,IN,USA,0,0,,0,39.6256065,-84.925108,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,68,7037
+,Verm. County,IN,USA,0,0,,0,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,
+,Benton County,IN,USA,0,0,,0,40.606315,-87.3100935,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,69,8653
+,Clay County,IN,USA,0,0,,0,39.387551,-87.090359,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,70,26170
+,Lawrence County,IN,USA,0,0,,0,38.8394825,-86.47919150000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,71,45668
+,Clark County,IN,USA,0,0,,0,38.436953,-85.704951,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,72,117360
+,Miami County,IN,USA,0,0,,0,40.780922000000004,-86.01632649999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,73,35567
+,Fayette County,IN,USA,0,0,,0,39.6569625,-85.1680795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,74,23047
+,Newton County,IN,USA,0,0,,0,40.977588499999996,-87.3970095,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,75,14011
+,Perry County,IN,USA,0,0,,0,38.0538765,-86.6224235,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,76,19102
+,Putnam County,IN,USA,0,0,,0,39.668384,-86.8280865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,77,37779
+,Starke County,IN,USA,0,0,,0,41.302205,-86.6983865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,78,22935
+,Greene County,IN,USA,0,0,,0,39.0371445,-86.961652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,79,32006
+,Pike County,IN,USA,0,0,,0,38.390486499999994,-87.2676305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,80,12410
+,Warrick County,IN,USA,0,0,,0,38.062363000000005,-87.245218,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,81,62567
+,Daviess County,IN,USA,0,0,,0,38.6973285,-87.0858515,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,82,33147
+,Dubois County,IN,USA,0,0,,0,38.365024000000005,-86.87606650000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,83,42565
+,Clinton County,IN,USA,0,0,,0,40.304673,-86.46908450000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,84,32250
+,White County,IN,USA,0,0,,0,40.737271,-86.8406485,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,85,24133
+,Switzerland County,IN,USA,0,0,,0,38.8085935,-84.9938725,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,86,10717
+,Steuben County,IN,USA,0,0,,0,41.6433265,-85.0007515,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,87,34586
+,Gibson County,IN,USA,0,0,,0,38.349461,-87.64698250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,88,33452
+,Jennings County,IN,USA,0,0,,0,39.0015625,-85.619944,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,89,27611
+,Rockingham County,NC,USA,0,0,0,,36.39209,-79.77325049999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,90,90690
+,Guilford County,NC,USA,0,0,0,,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,91,533670
+,Alamance County,NC,USA,0,0,0,,36.046625,-79.389903,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,92,166436
+,Alexander County,NC,USA,0,0,0,,35.9112,-81.173576,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,93,37353
+,Randolph County,NC,USA,0,0,0,,35.713162,-79.80440999999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,94,143351
+,Wayne County,NC,USA,0,0,0,,35.372187,-78.0523115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,95,123248
+,Ashe County,NC,USA,0,0,0,,36.414194499999994,-81.4925705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,96,27109
+,Alleghany County,NC,USA,0,0,0,,36.470187499999994,-81.128388,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,97,11161
+,Currituck County,NC,USA,0,0,0,,36.311232000000004,-76.0432625,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,98,27072
+,Camden County,NC,USA,0,0,0,,36.357271,-76.2231965,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,99,10710
+,Surry County,NC,USA,0,0,0,,36.399366,-80.7073595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,100,71948
+,Gates County,NC,USA,0,0,0,,36.424152,-76.70138,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,101,11573
+,Hertford County,NC,USA,0,0,0,,36.392281999999994,-76.94985,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,102,23659
+,Northampton County,NC,USA,0,0,0,,36.356129499999994,-77.48302000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,103,19676
+,Stokes County,NC,USA,0,0,0,,36.4039905,-80.2396115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,104,45467
+,Warren County,NC,USA,0,0,0,,36.373663,-78.110931,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,105,19807
+,Vance County,NC,USA,0,0,0,,36.3539845,-78.394374,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,106,44582
+,Granville County,NC,USA,0,0,0,,36.282139,-78.6309765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,107,60115
+,Caswell County,NC,USA,0,0,0,,36.391928,-79.335016,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,108,22698
+,Person County,NC,USA,0,0,0,,36.389045499999995,-78.974278,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,109,39507
+,Pasquotank County,NC,USA,0,0,0,,36.31698,-76.2753735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,110,39639
+,Halifax County,NC,USA,0,0,0,,36.255891000000005,-77.618624,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,111,50574
+,Wilkes County,NC,USA,0,0,0,,36.217608,-81.20716300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,112,68557
+,Watauga County,NC,USA,0,0,0,,36.2509755,-81.686846,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,113,55945
+,Perquimans County,NC,USA,0,0,0,,36.226709,-76.390806,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,114,13422
+,Chowan County,NC,USA,0,0,0,,36.178765999999996,-76.5666445,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,115,14029
+,Avery County,NC,USA,0,0,0,,36.099315000000004,-81.9081385,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,116,17505
+,Yadkin County,NC,USA,0,0,0,,36.165891,-80.657182,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,117,37543
+,Dare County,NC,USA,0,0,0,,35.708368,-75.7362335,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,118,36501
+,Forsyth County,NC,USA,2,0,0,,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,119,379099
+,Franklin County,NC,USA,0,0,0,,36.0419445,-78.27652549999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,120,67560
+,Bertie County,NC,USA,0,0,0,,36.0338355,-77.0036715,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,121,19026
+,Orange County,NC,USA,0,0,0,,36.052271,-79.107692,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,122,146027
+,Durham County,NC,USA,1,0,0,,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,123,316739
+,Nash County,NC,USA,0,0,0,,35.966553000000005,-77.976391,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,124,94016
+,Mitchell County,NC,USA,0,0,0,,35.991779,-82.198442,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,125,15000
+,Edgecombe County,NC,USA,0,0,0,,35.915150999999994,-77.585453,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,126,52005
+,Caldwell County,NC,USA,0,0,0,,35.939887,-81.5699525,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,127,82029
+,Tyrrell County,NC,USA,0,0,0,,35.7957445,-76.210059,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,128,4131
+,Yancey County,NC,USA,0,0,0,,35.888507000000004,-82.31928300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,129,17903
+,Madison County,NC,USA,0,0,0,,35.8719975,-82.685785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,130,21763
+,Martin County,NC,USA,0,0,0,,35.8664985,-77.084982,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,131,22671
+,Wake County,NC,USA,8,0,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
+,Davie County,NC,USA,0,0,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,133,42733
+,Washington County,NC,USA,0,0,0,,35.840892999999994,-76.6003345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,134,11859
+,Burke County,NC,USA,0,0,0,,35.7791955,-81.675545,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,135,90382
+,Davidson County,NC,USA,0,0,0,,35.765553499999996,-80.2652875,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,136,166614
+,McDowell County,NC,USA,0,0,0,,35.738724500000004,-82.0594425,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,137,45507
+,Chatham County,NC,USA,1,0,0,,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,138,73139
+,Wilson County,NC,USA,0,0,0,,35.7253325,-77.926691,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,139,81455
+,Buncombe County,NC,USA,0,0,0,,35.620303,-82.5263415,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,140,259103
+,Haywood County,NC,USA,0,0,0,,35.5418605,-83.000247,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,141,61971
+,Catawba County,NC,USA,0,0,0,,35.6878485,-81.22916649999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,142,158652
+,Pitt County,NC,USA,0,0,0,,35.580454,-77.392609,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,143,179914
+,Johnston County,NC,USA,1,0,0,,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,144,202675
+,Swain County,NC,USA,0,0,0,,35.4877375,-83.554631,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,145,14245
+,Beaufort County,NC,USA,0,0,0,,35.477776000000006,-76.83147650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,146,47079
+,Hyde County,NC,USA,0,0,0,,35.383544,-76.19371849999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,147,5230
+,Greene County,NC,USA,0,0,0,,35.500008,-77.6507765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,148,21012
+,Rutherford County,NC,USA,0,0,0,,35.395423,-81.985972,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,149,66826
+,Lee County,NC,USA,0,0,0,,35.467607,-79.16466,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,150,61452
+,Cleveland County,NC,USA,0,0,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,151,97645
+,Jackson County,NC,USA,0,0,0,,35.26292,-83.1417865,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,152,43327
+,Harnett County,NC,USA,0,0,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
+,Graham County,NC,USA,0,0,0,,35.342066,-83.810297,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,154,8484
+,Henderson County,NC,USA,0,0,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,155,116748
+,Moore County,NC,USA,0,0,0,,35.2805435,-79.43270749999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,156,98682
+,Montgomery County,NC,USA,0,0,0,,35.324289,-79.898494,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,157,27271
+,Stanly County,NC,USA,0,0,0,,35.323707999999996,-80.278733,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,158,62075
+,Transylvania County,NC,USA,0,0,0,,35.2252595,-82.815485,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,159,34215
+,Polk County,NC,USA,0,0,0,,35.296185,-82.1603345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,160,20611
+,Lenoir County,NC,USA,0,0,0,,35.2174715,-77.6126075,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,161,55976
+,Craven County,NC,USA,0,0,0,,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,162,102912
+,Macon County,NC,USA,0,0,0,,35.162244,-83.42341,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,163,35285
+,Cherokee County,NC,USA,0,0,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,164,28383
+,Pamlico County,NC,USA,0,0,0,,35.1507535,-76.72772499999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,165,12670
+,Sampson County,NC,USA,0,0,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,166,63626
+,Cumberland County,NC,USA,0,0,0,,35.0502155,-78.8038205,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,167,332330
+,Clay County,NC,USA,0,0,0,,35.0712515,-83.7441825,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,168,11139
+,Jones County,NC,USA,0,0,0,,35.014189,-77.39021650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,169,9637
+,Carteret County,NC,USA,0,0,0,,34.832848999999996,-76.60086799999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,170,69524
+,Union County,NC,USA,0,0,0,,35.0112285,-80.5587175,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,171,235908
+,Anson County,NC,USA,0,0,0,,35.008912,-80.0844735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,172,24877
+,Hoke County,NC,USA,0,0,0,,35.02319,-79.24694550000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,173,54764
+,Duplin County,NC,USA,0,0,0,,34.9501105,-77.9257305,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,174,58856
+,Richmond County,NC,USA,0,0,0,,34.99408,-79.76728299999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,175,44887
+,Scotland County,NC,USA,0,0,0,,34.836764,-79.5119535,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,176,34810
+,Onslow County,NC,USA,0,0,0,,34.712451,-77.3899735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,177,197683
+,Robeson County,NC,USA,0,0,0,,34.626412,-79.133749,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,178,131831
+,Bladen County,NC,USA,0,0,0,,34.611776500000005,-78.5427315,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,179,33190
+,Pender County,NC,USA,0,0,0,,34.512526,-77.894035,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,180,62162
+,Columbus County,NC,USA,0,0,0,,34.2134885,-78.6167595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,181,55655
+,New Hanover County,NC,USA,0,0,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,182,232274
+,Brunswick County,NC,USA,0,0,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,183,136744
+,Iredell County,NC,USA,0,0,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
+,Rowan County,NC,USA,0,0,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,185,141262
+,Lincoln County,NC,USA,0,0,0,,35.484821999999994,-81.24025,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,186,83770
+,Mecklenburg County,NC,USA,1,0,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
+,Cabarrus County,NC,USA,1,0,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
+,Gaston County,NC,USA,0,0,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
+,Atlantic County,NJ,USA,0,,,0,39.509258,-74.6437035,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,190,265429
+,Bergen County,NJ,USA,17,,,24,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,191,936692
+,Burlington County,NJ,USA,3,,,6,39.8658955,-74.72494950000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,192,445384
+,Camden County,NJ,USA,1,,,4,39.800549000000004,-74.9381575,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,193,507078
+,Cape May County,NJ,USA,0,,,0,39.1261435,-74.756719,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,194,92560
+,Cumberland County,NJ,USA,0,,,1,39.373098,-75.135421,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,195,150972
+,Essex County,NJ,USA,5,,,9,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,196,799767
+,Gloucester County,NJ,USA,0,,,0,39.7016335,-75.15904900000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,197,291408
+,Hudson County,NJ,USA,3,,,9,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,198,676061
+,Hunterdon County,NJ,USA,0,,,1,40.5647375,-74.9494015,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,199,124714
+,Mercer County,NJ,USA,0,,,0,40.280848500000005,-74.7122715,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,200,369811
+,Monmouth County,NJ,USA,7,,,12,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,201,621354
+,Ocean County,NJ,USA,1,,,2,39.835446000000005,-74.29221150000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,202,601651
+,Passaic County,NJ,USA,2,,,4,41.0114805,-74.304839,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,203,503310
+,Salem County,NJ,USA,0,,,0,39.5848515,-75.31079349999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,204,62607
+,Somerset County,NJ,USA,1,,,1,40.566201,-74.5998835,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,205,331164
+,Sussex County,NJ,USA,0,,,1,41.128282,-74.678832,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,206,140799
+,Union County,NJ,USA,1,,,6,40.665566,-74.300027,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,207,558067
+,Warren County,NJ,USA,0,,,1,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
+,Morris County,NJ,USA,3,,,3,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
+,Middlesex County,NJ,USA,3,,,7,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
+,,British Columbia,Canada,53,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
+,,Alberta,Canada,23,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
+,,Saskatchewan,Canada,0,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
+,,Manitoba,Canada,1,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,214,1278365
+,,Ontario,Canada,79,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
+,,Quebec,Canada,17,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,216,8164361
+,,New Brunswick,Canada,1,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,217,747101
+,,,Thailand,75,1,35,,13.04083302850006,101.54455590850003,https://github.com/CSSEGISandData/COVID-19,218,68414135
+,,,Japan,701,19,118,,37.87307291750005,137.65978516150005,https://github.com/CSSEGISandData/COVID-19,219,126451398
+,,,Singapore,200,0,97,,1.3585676125000532,103.80420983150006,https://github.com/CSSEGISandData/COVID-19,220,5888926
+,,,Nepal,1,0,1,,28.38379831950006,84.1027264815001,https://github.com/CSSEGISandData/COVID-19,221,29384297
+,,,Malaysia,197,0,26,,3.9309068840000734,109.69719485800007,https://github.com/CSSEGISandData/COVID-19,222,31381992
+,,New South Wales,Australia,92,2,4,,-32.82977854599065,147.3153664483503,https://github.com/CSSEGISandData/COVID-19,223,8089526
+,,Victoria,Australia,36,0,8,,-36.537788791607284,145.4695804428331,https://github.com/CSSEGISandData/COVID-19,224,6594804
+,,Queensland,Australia,35,0,8,,-19.64674041161055,145.75436445400004,https://github.com/CSSEGISandData/COVID-19,225,5095100
+,,,Cambodia,5,0,1,,12.56212270450002,104.96757694500008,https://github.com/CSSEGISandData/COVID-19,226,16204486
+,,,Sri Lanka,6,0,1,,7.8766543645000695,80.82227623750006,https://github.com/CSSEGISandData/COVID-19,227,22409381
+,,,Germany,3675,7,46,,51.09924480150008,10.473758178500105,https://github.com/CSSEGISandData/COVID-19,228,80594017
+,,,Finland,155,0,1,,64.9866635165001,26.09634464500006,https://github.com/CSSEGISandData/COVID-19,229,5491218
+,,,United Arab Emirates,85,0,17,,24.340997059161296,53.97632897200003,https://github.com/CSSEGISandData/COVID-19,230,6072475
+,,,Philippines,64,5,2,,12.108262437000064,121.93718509200005,https://github.com/CSSEGISandData/COVID-19,231,104256076
+,,,India,82,2,4,,21.151850284000083,82.74863427400004,https://github.com/CSSEGISandData/COVID-19,232,1281935911
+,,,Italy,17660,1266,1439,,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,233,62137802
+,,,Sweden,814,1,1,,62.191185204500094,17.635630730000088,https://github.com/CSSEGISandData/COVID-19,234,9960487
+,,,Spain,5232,133,193,,35.73847077050007,-6.849639452499929,https://github.com/CSSEGISandData/COVID-19,235,48958159
+,,South Australia,Australia,16,0,3,,-32.035240980898976,135.0000995213503,https://github.com/CSSEGISandData/COVID-19,236,1751693
+,,,Belgium,559,3,1,,50.49042053300006,4.4297657472728815,https://github.com/CSSEGISandData/COVID-19,237,11491346
+,,,Egypt,80,2,27,,26.825424706000064,30.791862752500094,https://github.com/CSSEGISandData/COVID-19,238,97041072
+,,,Lebanon,77,3,1,,33.86861807120964,35.85466820900007,https://github.com/CSSEGISandData/COVID-19,239,6229794
+,,,Iraq,101,9,24,,33.21901997950006,43.65276391200004,https://github.com/CSSEGISandData/COVID-19,240,39192111
+,,,Oman,19,0,9,,21.444199937000064,55.911594682500095,https://github.com/CSSEGISandData/COVID-19,241,3424386
+,,,Afghanistan,7,0,0,,33.930139364000084,67.6895422770001,https://github.com/CSSEGISandData/COVID-19,242,34124811
+,,,Bahrain,189,0,44,,26.024400132000068,50.53386477950008,https://github.com/CSSEGISandData/COVID-19,243,1410942
+,,,Kuwait,80,0,5,,29.315860290500055,47.48260848850009,https://github.com/CSSEGISandData/COVID-19,244,2875422
+,,,Algeria,26,2,8,,28.032339379000085,1.6432377520000898,https://github.com/CSSEGISandData/COVID-19,245,40969443
+,,,Croatia,32,0,1,,44.48165314050009,16.33771101500008,https://github.com/CSSEGISandData/COVID-19,246,4292095
+,,,Switzerland,1139,11,4,,46.840811259500086,8.258983805500094,https://github.com/CSSEGISandData/COVID-19,247,8236303
+,,,Austria,504,1,6,,47.71313527500007,13.334746337500093,https://github.com/CSSEGISandData/COVID-19,248,8754413
+,,,Israel,161,0,4,,31.448389692000035,35.06821170350008,https://github.com/CSSEGISandData/COVID-19,249,8299706
+,,,Pakistan,28,0,2,,30.377750552000087,68.94667484550007,https://github.com/CSSEGISandData/COVID-19,250,204924861
+,,,Brazil,151,0,0,,-14.236725569657125,-54.38839290699988,https://github.com/CSSEGISandData/COVID-19,251,207353391
+,,,Georgia,25,0,0,,42.31029968300004,43.34038972821833,https://github.com/CSSEGISandData/COVID-19,252,4926330
+,,,Greece,190,1,0,,38.322331546000065,24.119802279500078,https://github.com/CSSEGISandData/COVID-19,253,10768477
+,,,North Macedonia,14,0,1,,41.591247966000054,21.726869751000095,https://github.com/CSSEGISandData/COVID-19,254,2077132
+,,,Norway,996,0,1,,69.25525543850006,18.013723178000077,https://github.com/CSSEGISandData/COVID-19,255,5320045
+,,,Romania,89,0,7,,45.95662750300005,24.950926754500074,https://github.com/CSSEGISandData/COVID-19,256,21529967
+,,,Estonia,79,0,0,,58.572233381000025,24.943451368500064,https://github.com/CSSEGISandData/COVID-19,257,1251581
+,,,Netherlands,804,10,0,,52.105282697500066,5.272002682500101,https://github.com/CSSEGISandData/COVID-19,258,17084719
+,,,San Marino,80,5,0,,43.92963720000006,12.437976970500117,https://github.com/CSSEGISandData/COVID-19,259,33537
+,,,Belarus,27,0,3,,53.72384073950006,27.942588541500044,https://github.com/CSSEGISandData/COVID-19,260,9549747
+,,,Iceland,134,0,1,,64.96666087450004,-18.861826138499936,https://github.com/CSSEGISandData/COVID-19,261,339747
+,,,Lithuania,6,0,0,,55.16278391600002,23.911012610500066,https://github.com/CSSEGISandData/COVID-19,262,2823859
+,,,Mexico,12,0,4,,23.629557940500092,-101.93334401247205,https://github.com/CSSEGISandData/COVID-19,263,124574795
+,,,New Zealand,5,0,0,,-40.878065687999936,172.51685631600003,https://github.com/CSSEGISandData/COVID-19,264,4510327
+,,,Nigeria,2,0,0,,9.07578074450008,8.671077514500098,https://github.com/CSSEGISandData/COVID-19,265,190632261
+,,Western Australia,Australia,14,1,0,,-24.407891534499925,120.95978010457588,https://github.com/CSSEGISandData/COVID-19,266,2621680
+,,,Ireland,90,1,0,,53.46108633000006,-8.136179165499925,https://github.com/CSSEGISandData/COVID-19,267,5011102
+,,,Luxembourg,34,0,0,,49.80347279900003,6.1075130615000575,https://github.com/CSSEGISandData/COVID-19,268,594130
+,,,Monaco,2,0,0,,43.743117918500026,7.401602119563048,https://github.com/CSSEGISandData/COVID-19,269,30645
+,,,Qatar,320,0,0,,25.363913984500023,51.18376712300005,https://github.com/CSSEGISandData/COVID-19,270,2314307
+,,,Ecuador,17,0,0,,-1.7634670984999161,-83.4578538649999,https://github.com/CSSEGISandData/COVID-19,271,16290913
+,,,Azerbaijan,15,1,3,,40.14320973750006,47.50227481750011,https://github.com/CSSEGISandData/COVID-19,272,9961396
+,,,Armenia,8,0,0,,40.077076823500036,45.01914310700013,https://github.com/CSSEGISandData/COVID-19,273,3045191
+,,,Dominican Republic,5,0,0,,18.771246649000062,-70.13417985399988,https://github.com/CSSEGISandData/COVID-19,274,10734247
+,,,Indonesia,69,4,2,,-2.6357561174999375,118.08721907200007,https://github.com/CSSEGISandData/COVID-19,275,260580739
+,,,Portugal,112,0,1,,37.400416263500055,-15.94334102749994,https://github.com/CSSEGISandData/COVID-19,276,10839514
+,,,Andorra,1,0,0,,42.51501586950006,1.5681518960000886,https://github.com/CSSEGISandData/COVID-19,277,85702
+,,Tasmania,Australia,5,0,0,,-41.60023365649994,146.16134687600004,https://github.com/CSSEGISandData/COVID-19,278,534281
+,,,Latvia,17,0,1,,56.862861023500045,24.59194014100008,https://github.com/CSSEGISandData/COVID-19,279,1944643
+,,,Morocco,7,1,1,,28.67223747529175,-9.030622863196513,https://github.com/CSSEGISandData/COVID-19,280,33986655
+,,,Saudi Arabia,86,0,1,,24.244550886000077,45.132142167500064,https://github.com/CSSEGISandData/COVID-19,281,28571770
+,,,Senegal,10,0,1,,14.474492289500091,-14.37969132899994,https://github.com/CSSEGISandData/COVID-19,282,14668522
+,,,Argentina,31,2,0,,-38.42173074799991,-63.626654215499926,https://github.com/CSSEGISandData/COVID-19,283,44293293
+,,,Chile,43,0,0,,-36.567062457499944,-71.3604937374999,https://github.com/CSSEGISandData/COVID-19,284,17789267
+,,,Jordan,1,0,1,,31.280817871500048,37.04788003839781,https://github.com/CSSEGISandData/COVID-19,285,10248069
+,,,Ukraine,3,1,0,,48.79241852100008,31.137251424000127,https://github.com/CSSEGISandData/COVID-19,286,44033874
+,,,Hungary,19,0,0,,47.156127930000025,19.485817912000087,https://github.com/CSSEGISandData/COVID-19,287,9850845
+,,Northern Territory,Australia,1,0,0,,-18.516157321898987,133.50015133877957,https://github.com/CSSEGISandData/COVID-19,288,245869
+,,,Liechtenstein,1,0,0,,47.15983571400008,9.533092081500058,https://github.com/CSSEGISandData/COVID-19,289,38244
+,,,Poland,68,2,0,,51.93482900350006,19.125478149000088,https://github.com/CSSEGISandData/COVID-19,290,38476269
+,,,Tunisia,16,0,0,,33.78217031200008,9.521981649000097,https://github.com/CSSEGISandData/COVID-19,291,11403800
+,,,Bosnia and Herzegovina,13,0,0,,43.91899993950011,17.668099406000096,https://github.com/CSSEGISandData/COVID-19,292,3856181
+,,,Slovenia,141,0,0,,46.14379954050001,14.940281412500084,https://github.com/CSSEGISandData/COVID-19,293,1972126
+,,,South Africa,24,0,0,,-28.469792578999943,24.690074089500087,https://github.com/CSSEGISandData/COVID-19,294,54841552
+,,,Bhutan,1,0,0,,27.518180482737833,90.40745792650009,https://github.com/CSSEGISandData/COVID-19,295,758288
+,,,Cameroon,2,0,0,,7.407972718000032,12.350860429500074,https://github.com/CSSEGISandData/COVID-19,296,24994885
+,,,Colombia,13,0,0,,4.114416812000066,-72.93652033249992,https://github.com/CSSEGISandData/COVID-19,297,47698524
+,,,Costa Rica,23,0,0,,9.615482479500045,-84.21760006449992,https://github.com/CSSEGISandData/COVID-19,298,4930258
+,,,Peru,28,0,0,,-9.190602483184005,-75.01090500599992,https://github.com/CSSEGISandData/COVID-19,299,31036656
+,,,Serbia,35,0,0,,44.20522467850007,20.9182886145001,https://github.com/CSSEGISandData/COVID-19,300,7111024
+,,,Slovakia,32,0,0,,48.67589304650005,19.692058553000123,https://github.com/CSSEGISandData/COVID-19,301,5445829
+,,,Togo,1,0,0,,8.61773549700009,0.8081207685000891,https://github.com/CSSEGISandData/COVID-19,302,7965055
+,,,French Guiana,5,0,0,,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,303,67106161
+,,,Malta,12,0,1,,35.88346995650005,14.445323113000057,https://github.com/CSSEGISandData/COVID-19,304,416338
+,,,Martinique,3,0,0,,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,303,67106161
+,,,Bulgaria,23,1,0,,42.73391529800004,25.47427473600007,https://github.com/CSSEGISandData/COVID-19,305,7101510
+,,,Maldives,9,0,0,,4.213175576792927,73.52910604309824,https://github.com/CSSEGISandData/COVID-19,306,392709
+,,,Bangladesh,3,0,0,,23.73811778050007,90.33232039450004,https://github.com/CSSEGISandData/COVID-19,307,157826578
+,,,Paraguay,6,0,0,,-23.43368479399996,-58.44782303899994,https://github.com/CSSEGISandData/COVID-19,308,6943739
+,,,Albania,33,1,0,,41.11245290150006,20.154355916000085,https://github.com/CSSEGISandData/COVID-19,309,3047987
+,,,Cyprus,14,0,0,,34.910753335500104,33.197142898000095,https://github.com/CSSEGISandData/COVID-19,310,1221549
+,,,Brunei,37,0,0,,4.510995486500057,114.66157535500005,https://github.com/CSSEGISandData/COVID-19,311,443593
+,,,Burkina Faso,2,0,0,,12.230804951500069,-1.5662045904998934,https://github.com/CSSEGISandData/COVID-19,312,20107509
+,,,Holy See,1,0,0,,41.90333333950011,12.453533325000109,https://github.com/CSSEGISandData/COVID-19,313,1000
+,,,Mongolia,1,0,0,,46.85141784700008,103.85503503500007,https://github.com/CSSEGISandData/COVID-19,314,3068243
+,,,Panama,27,1,0,,8.420921827000058,-80.07274338849989,https://github.com/CSSEGISandData/COVID-19,315,3753142
+,,Hubei,China,67786,3062,51553,,31.166405443456426,112.26392825753302,https://github.com/CSSEGISandData/COVID-19,316,59170000
+,,,Iran,11364,514,2959,,32.412651216000036,53.6631116130001,https://github.com/CSSEGISandData/COVID-19,317,82021564
+,,,"Korea, South",7979,66,510,,35.91235993050006,127.85698489700007,https://github.com/CSSEGISandData/COVID-19,318,51181299
+,,Guangdong,China,1356,8,1296,,22.876783758944043,113.41792352680932,https://github.com/CSSEGISandData/COVID-19,319,113460000
+,,Henan,China,1273,22,1249,,33.87707977965809,113.48442223524788,https://github.com/CSSEGISandData/COVID-19,320,96050000
+,,Zhejiang,China,1215,1,1197,,29.189050400871963,120.1641359794138,https://github.com/CSSEGISandData/COVID-19,321,57370000
+,,Hunan,China,1018,4,1005,,27.369414984613826,111.50909061104284,https://github.com/CSSEGISandData/COVID-19,322,68990000
+,,Anhui,China,990,6,984,,32.02378204990168,117.2581712176775,https://github.com/CSSEGISandData/COVID-19,323,63240000
+,,Jiangxi,China,935,1,934,,27.275131334293633,116.01917707751011,https://github.com/CSSEGISandData/COVID-19,324,46480000
+,,Shandong,China,760,7,739,,36.33507593620547,118.74515424940193,https://github.com/CSSEGISandData/COVID-19,325,100470000
+,,Jiangsu,China,631,0,630,,32.934811713190015,119.14963721029278,https://github.com/CSSEGISandData/COVID-19,326,80510000
+,,Chongqing,China,576,6,566,,30.198712571927643,107.73296451180275,https://github.com/CSSEGISandData/COVID-19,327,31020000
+,,Sichuan,China,539,3,503,,30.165213324835065,102.93966535826965,https://github.com/CSSEGISandData/COVID-19,328,83410000
+,,Heilongjiang,China,482,13,446,,48.501949771374576,127.97325321185173,https://github.com/CSSEGISandData/COVID-19,329,37730000
+,,Beijing,China,436,8,342,,40.236575323991985,116.42780846573805,https://github.com/CSSEGISandData/COVID-19,330,21540000
+,,Shanghai,China,346,3,324,,31.266158547445322,121.43153719907554,https://github.com/CSSEGISandData/COVID-19,331,24240000
+,,Hebei,China,318,6,310,,39.323827419599695,116.65206139450123,https://github.com/CSSEGISandData/COVID-19,332,75560000
+,,Fujian,China,296,1,295,,25.971159641604146,118.13227705193037,https://github.com/CSSEGISandData/COVID-19,333,39410000
+,,Guangxi,China,252,2,243,,23.899949245349177,108.27096784823755,https://github.com/CSSEGISandData/COVID-19,334,49260000
+,,Shaanxi,China,245,2,232,,35.63509908705319,108.36171166401203,https://github.com/CSSEGISandData/COVID-19,335,38640000
+,,Yunnan,China,174,2,170,,25.179122725058342,101.85510583221756,https://github.com/CSSEGISandData/COVID-19,336,48300000
+,,Hainan,China,168,6,160,,19.150763250500063,109.81287682400003,https://github.com/CSSEGISandData/COVID-19,337,9340000
+,,Guizhou,China,146,2,140,,26.9387435980386,106.60127648352287,https://github.com/CSSEGISandData/COVID-19,338,36000000
+,,Tianjin,China,136,3,132,,39.40813751918114,117.34508644325369,https://github.com/CSSEGISandData/COVID-19,339,15600000
+,,Shanxi,China,133,0,133,,37.66312775369286,112.3891919290642,https://github.com/CSSEGISandData/COVID-19,340,37180000
+,,Gansu,China,127,2,88,,37.69770367228662,100.73804263765757,https://github.com/CSSEGISandData/COVID-19,341,26370000
+,,,Hong Kong,134,4,77,,22.41313304250005,114.21021569100003,https://github.com/CSSEGISandData/COVID-19,342,7191503
+,,Liaoning,China,125,1,112,,41.09091390618639,122.31055016440854,https://github.com/CSSEGISandData/COVID-19,343,43590000
+,,Jilin,China,93,1,91,,43.56576924140737,126.47365482303488,https://github.com/CSSEGISandData/COVID-19,344,27040000
+,,,Czechia,141,0,0,,49.80312398300006,15.540038086000095,https://github.com/CSSEGISandData/COVID-19,345,10674723
+,,Xinjiang,China,76,3,73,,41.752899103285706,84.98429810398284,https://github.com/CSSEGISandData/COVID-19,346,24870000
+,,Inner Mongolia,China,75,1,71,,45.35383134546877,111.62347220837569,https://github.com/CSSEGISandData/COVID-19,347,25000034
+,,Ningxia,China,75,0,72,,37.31081075681095,106.00808271719359,https://github.com/CSSEGISandData/COVID-19,348,6880000
+,,,Taiwan,50,1,20,,23.598456122000044,120.98259524850005,https://github.com/CSSEGISandData/COVID-19,349,23508428
+,,,Vietnam,47,0,16,,15.941768090000089,105.79183617800007,https://github.com/CSSEGISandData/COVID-19,350,96160163
+,,,Russia,45,0,3,,61.240742495500065,4.263256414560601e-14,https://github.com/CSSEGISandData/COVID-19,351,142257519
+,,Qinghai,China,18,0,18,,35.43499502195269,96.23774885477579,https://github.com/CSSEGISandData/COVID-19,352,6030000
+,,Macau,China,10,0,10,,22.13420237850005,113.55058841250002,https://github.com/CSSEGISandData/COVID-19,353,667400
+,,,Moldova,6,0,0,,46.967069702500055,28.28525496400006,https://github.com/CSSEGISandData/COVID-19,354,3474121
+,,,Bolivia,3,0,0,,-16.286937560999938,-63.58694087799992,https://github.com/CSSEGISandData/COVID-19,355,11138234
+,,St Martin,France,2,0,0,,18.07776461717568,-63.06228647314417,https://github.com/CSSEGISandData/COVID-19,356,
+,,,Honduras,2,0,0,,14.484747626000058,-86.24603266122396,https://github.com/CSSEGISandData/COVID-19,357,9038741
 ,,Channel Islands,United Kingdom,2,0,0,,49.3723,-2.3644,https://github.com/CSSEGISandData/COVID-19,,
-,,Tibet,China,1,0,1,,31.88221486755922,88.74489831230724,https://github.com/CSSEGISandData/COVID-19,268,3440000
-,,,Congo (Kinshasa),2,0,0,,-4.029468688999948,21.726683794000053,https://github.com/CSSEGISandData/COVID-19,269,83301151
-,,,Cote d'Ivoire,1,0,0,,7.533667911000066,-5.536220662499915,https://github.com/CSSEGISandData/COVID-19,270,24184810
-,,Saint Barthelemy,France,1,0,0,,17.903509833000072,-62.82453365799992,https://github.com/CSSEGISandData/COVID-19,271,9793
-,,,Jamaica,8,0,0,,18.11774323150007,-77.30223548049992,https://github.com/CSSEGISandData/COVID-19,272,2990561
-,,,Reunion,5,0,0,,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,213,67106161
-,,,Turkey,5,0,0,,38.95576283850008,35.425474377000086,https://github.com/CSSEGISandData/COVID-19,273,80845215
-,,Gibraltar,United Kingdom,1,0,1,,36.13020456349999,-5.348580120852014,https://github.com/CSSEGISandData/COVID-19,274,32194
-,,,Cuba,4,0,0,,21.528102931500058,-79.28561357349994,https://github.com/CSSEGISandData/COVID-19,275,11147407
-,,,Guyana,1,1,0,,4.887909040000061,-58.9307134609999,https://github.com/CSSEGISandData/COVID-19,276,737718
-,,Australian Capital Territory,Australia,1,0,0,,-35.53036325446061,149.06023522322693,https://github.com/CSSEGISandData/COVID-19,277,426709
-,,,Kazakhstan,4,0,0,,47.96872690850006,66.90155419950011,https://github.com/CSSEGISandData/COVID-19,278,18556698
+,,Tibet,China,1,0,1,,31.88221486755922,88.74489831230724,https://github.com/CSSEGISandData/COVID-19,358,3440000
+,,,Congo (Kinshasa),2,0,0,,-4.029468688999948,21.726683794000053,https://github.com/CSSEGISandData/COVID-19,359,83301151
+,,,Cote d'Ivoire,1,0,0,,7.533667911000066,-5.536220662499915,https://github.com/CSSEGISandData/COVID-19,360,24184810
+,,Saint Barthelemy,France,1,0,0,,17.903509833000072,-62.82453365799992,https://github.com/CSSEGISandData/COVID-19,361,9793
+,,,Jamaica,8,0,0,,18.11774323150007,-77.30223548049992,https://github.com/CSSEGISandData/COVID-19,362,2990561
+,,,Reunion,5,0,0,,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,303,67106161
+,,,Turkey,5,0,0,,38.95576283850008,35.425474377000086,https://github.com/CSSEGISandData/COVID-19,363,80845215
+,,Gibraltar,United Kingdom,1,0,1,,36.13020456349999,-5.348580120852014,https://github.com/CSSEGISandData/COVID-19,364,32194
+,,,Cuba,4,0,0,,21.528102931500058,-79.28561357349994,https://github.com/CSSEGISandData/COVID-19,365,11147407
+,,,Guyana,1,1,0,,4.887909040000061,-58.9307134609999,https://github.com/CSSEGISandData/COVID-19,366,737718
+,,Australian Capital Territory,Australia,1,0,0,,-35.53036325446061,149.06023522322693,https://github.com/CSSEGISandData/COVID-19,367,426709
+,,,Kazakhstan,4,0,0,,47.96872690850006,66.90155419950011,https://github.com/CSSEGISandData/COVID-19,368,18556698
 ,,French Polynesia,France,3,0,0,,-17.6797,149.4068,https://github.com/CSSEGISandData/COVID-19,,
-,,,Cayman Islands,1,0,0,,19.329608600000057,-81.21929895699992,https://github.com/CSSEGISandData/COVID-19,279,58441
-,,,Guadeloupe,1,0,0,,16.196804103500057,-61.49286861849993,https://github.com/CSSEGISandData/COVID-19,280,
-,,,Ethiopia,1,0,0,,9.170952962500039,40.484484497000125,https://github.com/CSSEGISandData/COVID-19,281,105350020
-,,,Sudan,1,1,0,,15.342520469500087,30.205510901500105,https://github.com/CSSEGISandData/COVID-19,282,37345935
-,,,Guinea,1,0,0,,9.955672506000056,-11.356289228999898,https://github.com/CSSEGISandData/COVID-19,283,12413867
-,,,Aruba,2,0,0,,12.497626043500048,-69.9691462879999,https://github.com/CSSEGISandData/COVID-19,284,115120
-,,,Kenya,1,0,0,,0.1521078450765998,37.889294067000066,https://github.com/CSSEGISandData/COVID-19,285,47615739
-,,,Antigua and Barbuda,1,0,0,,17.098659572500083,-61.78465735599994,https://github.com/CSSEGISandData/COVID-19,286,94731
-,,Alabama,USA,0,,,,32.6211173120505,-86.69343876373793,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,287,4903185
-,,Alaska,USA,0,,,,61.51689280800005,0.7835596040000752,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,288,731545
+,,,Cayman Islands,1,0,0,,19.329608600000057,-81.21929895699992,https://github.com/CSSEGISandData/COVID-19,369,58441
+,,,Guadeloupe,1,0,0,,16.196804103500057,-61.49286861849993,https://github.com/CSSEGISandData/COVID-19,370,
+,,,Ethiopia,1,0,0,,9.170952962500039,40.484484497000125,https://github.com/CSSEGISandData/COVID-19,371,105350020
+,,,Sudan,1,1,0,,15.342520469500087,30.205510901500105,https://github.com/CSSEGISandData/COVID-19,372,37345935
+,,,Guinea,1,0,0,,9.955672506000056,-11.356289228999898,https://github.com/CSSEGISandData/COVID-19,373,12413867
+,,,Aruba,2,0,0,,12.497626043500048,-69.9691462879999,https://github.com/CSSEGISandData/COVID-19,374,115120
+,,,Kenya,1,0,0,,0.1521078450765998,37.889294067000066,https://github.com/CSSEGISandData/COVID-19,375,47615739
+,,,Antigua and Barbuda,1,0,0,,17.098659572500083,-61.78465735599994,https://github.com/CSSEGISandData/COVID-19,376,94731
+,,Alabama,USA,0,,,,32.6211173120505,-86.69343876373793,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,377,4903185
+,,Alaska,USA,0,,,,61.51689280800005,0.7835596040000752,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,378,731545
 ,,American Samoa,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,,
-,,Arizona,USA,9,,,,34.165156819218375,-111.93299895849756,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,289,7278717
-,,Arkansas,USA,6,,,,34.755387388617066,-92.142816204804,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,290,3017804
-,,California,USA,224,,,,37.26560485570404,-119.26717119749563,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,291,39512223
-,,Colorado,USA,49,,,,38.99982098225249,-105.54309696705135,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,292,5758736
-,,Connecticut,USA,7,,,,41.52780529315321,-72.75935673202756,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,293,3565287
-,,Delaware,USA,15,,,,39.14564123795276,-75.41630955251765,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,294,973764
-,,District of Columbia,USA,15,,,,38.899451555326564,-77.0145477695639,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,295,705749
-,,Florida,USA,31,,,,28.060753542550117,-83.82965067998012,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,296,21477737
-,,Georgia,USA,45,,,,32.68249920507424,-83.22068258120515,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,297,10617423
-,,Guam,USA,0,,,,13.443487860500056,144.79749596450006,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,298,
-,,Hawaii,USA,15,,,,20.58419053050008,-157.30113772849992,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,299,1415872
-,,Idaho,USA,0,,,,45.49602738420207,-114.12702030654191,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,300,1787065
-,,Illinois,USA,32,,,,39.74570721281759,-89.26887859227318,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,301,12671821
-,,Indiana,USA,12,,,,39.774149595877134,-86.41467899783746,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,302,6732219
-,,Iowa,USA,16,,,,41.94023846253498,-93.38911747419203,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,303,3155070
-,,Kansas,USA,15,,,,38.49995525967745,-98.33450321689992,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,304,2913314
-,,Kentucky,USA,11,,,,37.820719419565535,-85.69484257237679,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,305,4467673
-,,Louisiana,USA,14,,,,31.022399050426287,-91.53320699521313,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,306,4648794
-,,Maine,USA,15,,,,45.261826073000044,-69.03113847999994,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,307,1344212
+,,Arizona,USA,9,,,,34.165156819218375,-111.93299895849756,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,379,7278717
+,,Arkansas,USA,6,,,,34.755387388617066,-92.142816204804,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,380,3017804
+,,California,USA,224,,,,37.26560485570404,-119.26717119749563,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,381,39512223
+,,Colorado,USA,49,,,,38.99982098225249,-105.54309696705135,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,382,5758736
+,,Connecticut,USA,7,,,,41.52780529315321,-72.75935673202756,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,383,3565287
+,,Delaware,USA,15,,,,39.14564123795276,-75.41630955251765,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,384,973764
+,,District of Columbia,USA,15,,,,38.899451555326564,-77.0145477695639,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,385,705749
+,,Florida,USA,31,,,,28.060753542550117,-83.82965067998012,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,386,21477737
+,,Georgia,USA,45,,,,32.68249920507424,-83.22068258120515,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,387,10617423
+,,Guam,USA,0,,,,13.443487860500056,144.79749596450006,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,388,
+,,Hawaii,USA,15,,,,20.58419053050008,-157.30113772849992,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,389,1415872
+,,Idaho,USA,0,,,,45.49602738420207,-114.12702030654191,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,390,1787065
+,,Illinois,USA,32,,,,39.74570721281759,-89.26887859227318,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,391,12671821
+,,Indiana,USA,12,,,,39.774149595877134,-86.41467899783746,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,392,6732219
+,,Iowa,USA,16,,,,41.94023846253498,-93.38911747419203,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,393,3155070
+,,Kansas,USA,15,,,,38.49995525967745,-98.33450321689992,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,394,2913314
+,,Kentucky,USA,11,,,,37.820719419565535,-85.69484257237679,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,395,4467673
+,,Louisiana,USA,14,,,,31.022399050426287,-91.53320699521313,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,396,4648794
+,,Maine,USA,15,,,,45.261826073000044,-69.03113847999994,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,397,1344212
 ,,Marshall Islands,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,,
-,,Maryland,USA,12,,,,4.732829714012851,-7.820522355408116,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,308,6045680
-,,Massachusetts,USA,108,,,,42.12038082106261,-71.72305888370983,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,309,6892503
-,,Michigan,USA,15,,,,44.99773029893432,-86.2800539156174,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,310,9986857
+,,Maryland,USA,12,,,,4.732829714012851,-7.820522355408116,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,398,6045680
+,,Massachusetts,USA,108,,,,42.12038082106261,-71.72305888370983,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,399,6892503
+,,Michigan,USA,15,,,,44.99773029893432,-86.2800539156174,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,400,9986857
 ,,Micronesia,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,,
-,,Minnesota,USA,10,,,,46.434810139826055,-93.36252550514794,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,311,5639632
-,,Mississippi,USA,15,,,,32.59642655665229,-89.87338261081882,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,312,2976149
-,,Missouri,USA,15,,,,38.30249432230511,-92.44567264977294,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,313,6137428
-,,Montana,USA,15,,,,43.501877025549824,23.173404290210883,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,314,1068778
-,,Nebraska,USA,10,,,,41.50023602157509,-99.68549198596634,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,315,1934408
-,,Nevada,USA,11,,,,38.50182293528022,-117.02047733760901,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,316,3080156
-,,New Hampshire,USA,6,,,,44.002575579129676,-71.64192281532604,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,317,1359711
-,,New Jersey,USA,29,,,,40.14601558652788,-74.71937008349994,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,318,8882190
-,,New Mexico,USA,15,,,,34.16360001562739,-106.02383427161152,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,319,2096829
-,,New York,USA,325,,,,42.76080525150005,-75.8409706677239,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,133,19453561
-,,North Carolina,USA,15,,,,35.24607653682786,-80.02322978144363,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,320,10488084
-,,North Dakota,USA,15,,,,47.46721085597658,-100.3019580214955,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,321,762062
+,,Minnesota,USA,10,,,,46.434810139826055,-93.36252550514794,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,401,5639632
+,,Mississippi,USA,15,,,,32.59642655665229,-89.87338261081882,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,402,2976149
+,,Missouri,USA,15,,,,38.30249432230511,-92.44567264977294,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,403,6137428
+,,Montana,USA,15,,,,43.501877025549824,23.173404290210883,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,404,1068778
+,,Nebraska,USA,10,,,,41.50023602157509,-99.68549198596634,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,405,1934408
+,,Nevada,USA,11,,,,38.50182293528022,-117.02047733760901,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,406,3080156
+,,New Hampshire,USA,6,,,,44.002575579129676,-71.64192281532604,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,407,1359711
+,,New Jersey,USA,29,,,,40.14601558652788,-74.71937008349994,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,408,8882190
+,,New Mexico,USA,15,,,,34.16360001562739,-106.02383427161152,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,409,2096829
+,,New York,USA,325,,,,42.76080525150005,-75.8409706677239,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,8,19453561
+,,North Carolina,USA,15,,,,35.24607653682786,-80.02322978144363,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,410,10488084
+,,North Dakota,USA,15,,,,47.46721085597658,-100.3019580214955,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,411,762062
 ,,Northern Marianas,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,,
-,,Ohio,USA,15,,,,40.36645852284252,-82.67188114679749,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,322,11689100
-,,Oklahoma,USA,15,,,,35.32361248602737,-98.71994022800911,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,323,3956971
-,,Oregon,USA,24,,,,44.11740471870206,-120.50533834262885,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,324,4217737
+,,Ohio,USA,15,,,,40.36645852284252,-82.67188114679749,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,412,11689100
+,,Oklahoma,USA,15,,,,35.32361248602737,-98.71994022800911,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,413,3956971
+,,Oregon,USA,24,,,,44.11740471870206,-120.50533834262885,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,414,4217737
 ,,Palau,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,,
-,,Pennsylvania,USA,23,,,,41.12951166463159,-77.60961308037935,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,325,12801989
-,,Puerto Rico,USA,0,,,,18.225958563000063,-66.43130303399991,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,326,3193694
-,,Rhode Island,USA,15,,,,41.66332011094793,-71.48453225865693,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,327,1059361
-,,South Carolina,USA,12,,,,33.619274050261765,-80.96432271741013,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,328,5148714
-,,South Dakota,USA,8,,,,44.230179869105655,-100.2551086848679,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,329,884659
-,,Tennessee,USA,18,,,,35.837455259602535,-85.98153690830165,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,330,6829174
-,,Texas,USA,24,,,,31.177528238191037,-100.0884705015624,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,331,28995881
-,,Utah,USA,15,,,,39.49994305252983,-111.54443973955233,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,332,3205958
-,,Vermont,USA,15,,,,43.87150381198679,-72.47219594044931,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,333,623989
+,,Pennsylvania,USA,23,,,,41.12951166463159,-77.60961308037935,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,415,12801989
+,,Puerto Rico,USA,0,,,,18.225958563000063,-66.43130303399991,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,416,3193694
+,,Rhode Island,USA,15,,,,41.66332011094793,-71.48453225865693,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,417,1059361
+,,South Carolina,USA,12,,,,33.619274050261765,-80.96432271741013,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,418,5148714
+,,South Dakota,USA,8,,,,44.230179869105655,-100.2551086848679,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,419,884659
+,,Tennessee,USA,18,,,,35.837455259602535,-85.98153690830165,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,420,6829174
+,,Texas,USA,24,,,,31.177528238191037,-100.0884705015624,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,421,28995881
+,,Utah,USA,15,,,,39.49994305252983,-111.54443973955233,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,422,3205958
+,,Vermont,USA,15,,,,43.87150381198679,-72.47219594044931,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,423,623989
 ,,Virgin Islands,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,,
-,,Virginia,USA,29,,,,37.99530438119223,-79.76028754243612,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,334,8535519
-,,Washington,USA,457,,,,47.27941361449236,-120.80671709265283,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,335,7614893
-,,West Virginia,USA,0,,,,38.92806805344787,-80.1829407161911,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,336,1792147
-,,Wisconsin,USA,8,,,,44.89991863863423,-89.56690985655462,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,337,5822434
-,,Wyoming,USA,15,,,,42.999967466625236,-107.55199589229656,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,338,578759
+,,Virginia,USA,29,,,,37.99530438119223,-79.76028754243612,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,424,8535519
+,,Washington,USA,457,,,,47.27941361449236,-120.80671709265283,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,425,7614893
+,,West Virginia,USA,0,,,,38.92806805344787,-80.1829407161911,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,426,1792147
+,,Wisconsin,USA,8,,,,44.89991863863423,-89.56690985655462,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,427,5822434
+,,Wyoming,USA,15,,,,42.999967466625236,-107.55199589229656,https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json,428,578759
 ,Zurich,,CHE,140,0,11,0,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,
 ,Abruzzo,,ITA,89,2,4,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
 ,Basilicata,,ITA,10,0,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
@@ -372,103 +464,103 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Valle d'Aosta,,ITA,28,1,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
 ,Veneto,,ITA,1595,42,100,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
 ,,DC,USA,10,,,69,,,https://coronavirus.dc.gov/page/coronavirus-data,,
-,Elmore County,AL,USA,1,0,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,339,81887
-,Jefferson County,AL,USA,1,0,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,340,659300
-,Limestone County,AL,USA,1,0,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,341,96174
-,Montgomery County,AL,USA,1,0,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,342,225763
-,Tuscaloosa County,AL,USA,1,0,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,343,208911
-,Adams County,CO,USA,3,,,,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,344,511868
-,Arapahoe County,CO,USA,7,,,,39.6533655,-104.38034350000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,345,651215
-,Denver County,CO,USA,15,,,,39.76426,-104.855181,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,346,716492
-,Douglas County,CO,USA,4,,,,39.34788,-104.994923,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,347,342776
-,Eagle County,CO,USA,14,,,,39.6373275,-106.645068,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,348,54993
-,El Paso County,CO,USA,2,,,,38.824693999999994,-104.5619235,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,349,713856
-,Gunnison County,CO,USA,4,,,,38.702179,-106.94099,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,350,17246
-,Jefferson County,CO,USA,7,,,,39.5219745,-105.2238445,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,351,580233
-,Larimer County,CO,USA,1,,,,40.628046999999995,-105.5669625,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,352,350518
-,Pitkin County,CO,USA,1,,,,39.171949,-106.946222,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,353,17950
-,Pueblo County,CO,USA,1,,,,38.1285485,-104.5522995,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,354,167529
-,Summit County,CO,USA,2,,,,39.6416725,-106.10532549999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,355,31007
-,Weld County,CO,USA,2,,,,40.5011525,-104.315327,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,356,314305
-,Clackamas County,OR,USA,1,,,,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,357,416075
-,Deschutes County,OR,USA,1,,,,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,358,191996
-,Douglas County,OR,USA,1,,,,43.3222345,-123.0963585,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,359,110283
-,Jackson County,OR,USA,2,,,,42.4995805,-122.756742,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,360,219564
-,Klamath County,OR,USA,1,,,,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,361,67653
-,Linn County,OR,USA,8,,,,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,362,127335
-,Marion County,OR,USA,2,,,,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,363,346868
-,Multnomah County,OR,USA,1,,,,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,364,811880
-,Polk County,OR,USA,1,,,,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,365,85234
-,Umatilla County,OR,USA,2,,,,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,366,77516
-,Washington County,OR,USA,10,,,,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,367,597695
-,Caddo Parish,LA,USA,1,,,,32.6074585,-93.757198,http://ldh.la.gov/Coronavirus/,368,242922
-,Jefferson Parish,LA,USA,3,,,,29.696731,-90.114832,http://ldh.la.gov/Coronavirus/,369,434051
-,Lafourche Parish,LA,USA,1,,,,29.4895455,-90.50821049999999,http://ldh.la.gov/Coronavirus/,370,98115
-,Orleans Parish,LA,USA,26,,,,30.033868,-89.88147699999999,http://ldh.la.gov/Coronavirus/,371,391006
-,St. Bernard Parish,LA,USA,1,,,,29.8500655,-89.4145595,http://ldh.la.gov/Coronavirus/,372,46721
-,St. Charles Parish,LA,USA,1,,,,29.961458,-90.3585315,http://ldh.la.gov/Coronavirus/,373,52879
-,St. Tammany Parish,LA,USA,2,,,,30.43073,-89.891049,http://ldh.la.gov/Coronavirus/,374,258111
-,Terrebonne Parish,LA,USA,1,,,,29.406244,-90.8557755,http://ldh.la.gov/Coronavirus/,375,111021
-,Bell County,TX,USA,1,,,,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,376,355642
-,Collin County,TX,USA,6,,,,33.193628000000004,-96.569696,https://www.dshs.state.tx.us/news/updates.shtm,377,1005146
-,Dallas County,TX,USA,7,,,,32.767269,-96.7776255,https://www.dshs.state.tx.us/news/updates.shtm,378,2637772
-,Fort Bend County,TX,USA,6,,,,29.525435,-95.75651500000001,https://www.dshs.state.tx.us/news/updates.shtm,379,787858
-,Gregg County,TX,USA,1,,,,32.5138005,-94.78307699999999,https://www.dshs.state.tx.us/news/updates.shtm,380,123707
-,Harris County,TX,USA,9,,,,29.833973999999998,-95.43486150000001,https://www.dshs.state.tx.us/news/updates.shtm,381,4698619
-,Montgomery County,TX,USA,3,,,,30.3290225,-95.463474,https://www.dshs.state.tx.us/news/updates.shtm,382,590925
-,Smith County,TX,USA,3,,,,32.4112925,-95.2899065,https://www.dshs.state.tx.us/news/updates.shtm,383,230221
-,Tarrant County,TX,USA,1,,,,32.7714195,-97.29143450000001,https://www.dshs.state.tx.us/news/updates.shtm,384,2084931
-,Travis County,TX,USA,2,,,,30.326374,-97.771258,https://www.dshs.state.tx.us/news/updates.shtm,385,1248743
-,New Castle County,DE,USA,4,,,,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,386,559335
-,Kent County,DE,USA,0,,,,39.0977575,-75.5358555,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,387,178550
-,Sussex County,DE,USA,0,,,,38.706443,-75.38576900000001,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,388,229286
-,Manatee County,FL,USA,2,,,,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,389,394855
-,Hillsborough County,FL,USA,2,,,,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,390,1436888
-,Santa Rosa County,FL,USA,1,,,,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,391,179349
-,Broward County,FL,USA,11,,,,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,392,1951260
-,Lee County,FL,USA,4,,,,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,393,754610
-,Charlotte County,FL,USA,1,,,,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,394,184998
-,Okaloosa County,FL,USA,1,,,,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,395,207269
-,Volusia County,FL,USA,3,,,,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,396,547538
-,Nassau County,FL,USA,1,,,,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,397,85832
-,Collier County,FL,USA,3,,,,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,398,378488
-,Pinellas County,FL,USA,2,,,,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,399,975280
-,Pasco County,FL,USA,1,,,,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,400,539630
-,Miami-Dade County,FL,USA,2,,,,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,401,2761581
-,Seminole County,FL,USA,1,,,,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,402,467832
-,Palm Beach County,FL,USA,2,,,,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,403,1485941
-,Sarasota County,FL,USA,2,,,,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,404,426718
-,Alachua County,FL,USA,1,,,,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,405,269956
-,Duval County,FL,USA,1,,,,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,406,950181
-,Clay County,FL,USA,1,,,,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,407,216072
-,Westchester County,NY,USA,148,,,,41.122837000000004,-73.7326465,https://www.health.ny.gov/diseases/communicable/coronavirus/,408,967612
-,Nassau County,NY,USA,41,,,,40.7528025,-73.5961185,https://www.health.ny.gov/diseases/communicable/coronavirus/,409,1358343
-,Suffolk County,NY,USA,20,,,,40.9499955,-72.6766375,https://www.health.ny.gov/diseases/communicable/coronavirus/,410,1481093
-,Rockland County,NY,USA,7,,,,41.160945,-74.06082649999999,https://www.health.ny.gov/diseases/communicable/coronavirus/,411,325695
-,Saratoga County,NY,USA,3,,,,43.0867325,-73.866721,https://www.health.ny.gov/diseases/communicable/coronavirus/,412,230163
-,Ulster County,NY,USA,4,,,,41.878800999999996,-74.345684,https://www.health.ny.gov/diseases/communicable/coronavirus/,413,178599
-,Orange County,NY,USA,1,,,,41.3878105,-74.354217,https://www.health.ny.gov/diseases/communicable/coronavirus/,414,381951
-,Albany County,NY,USA,1,,,,42.613902,-73.9708125,https://www.health.ny.gov/diseases/communicable/coronavirus/,415,307117
-,Monroe County,NY,USA,1,,,,43.154810499999996,-77.684384,https://www.health.ny.gov/diseases/communicable/coronavirus/,416,742474
-,Dutchess County,NY,USA,1,,,,41.7599055,-73.74371099999999,https://www.health.ny.gov/diseases/communicable/coronavirus/,417,293718
-,Delaware County,NY,USA,1,,,,42.183063,-74.92498599999999,https://www.health.ny.gov/diseases/communicable/coronavirus/,418,44527
-,Herkimer County,NY,USA,1,,,,43.460950999999994,-74.957551,https://www.health.ny.gov/diseases/communicable/coronavirus/,419,61833
-,Broome County,NY,USA,1,,,,42.206783,-75.74488,https://www.health.ny.gov/diseases/communicable/coronavirus/,420,191659
+,Elmore County,AL,USA,1,0,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,429,81887
+,Jefferson County,AL,USA,1,0,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,430,659300
+,Limestone County,AL,USA,1,0,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,431,96174
+,Montgomery County,AL,USA,1,0,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,432,225763
+,Tuscaloosa County,AL,USA,1,0,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,433,208911
+,Adams County,CO,USA,3,,,,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,434,511868
+,Arapahoe County,CO,USA,7,,,,39.6533655,-104.38034350000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,435,651215
+,Denver County,CO,USA,15,,,,39.76426,-104.855181,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,436,716492
+,Douglas County,CO,USA,4,,,,39.34788,-104.994923,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,437,342776
+,Eagle County,CO,USA,14,,,,39.6373275,-106.645068,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,438,54993
+,El Paso County,CO,USA,2,,,,38.824693999999994,-104.5619235,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,439,713856
+,Gunnison County,CO,USA,4,,,,38.702179,-106.94099,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,440,17246
+,Jefferson County,CO,USA,7,,,,39.5219745,-105.2238445,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,441,580233
+,Larimer County,CO,USA,1,,,,40.628046999999995,-105.5669625,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,442,350518
+,Pitkin County,CO,USA,1,,,,39.171949,-106.946222,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,443,17950
+,Pueblo County,CO,USA,1,,,,38.1285485,-104.5522995,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,444,167529
+,Summit County,CO,USA,2,,,,39.6416725,-106.10532549999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,445,31007
+,Weld County,CO,USA,2,,,,40.5011525,-104.315327,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,446,314305
+,Clackamas County,OR,USA,1,,,,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,447,416075
+,Deschutes County,OR,USA,1,,,,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,448,191996
+,Douglas County,OR,USA,1,,,,43.3222345,-123.0963585,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,449,110283
+,Jackson County,OR,USA,2,,,,42.4995805,-122.756742,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,450,219564
+,Klamath County,OR,USA,1,,,,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,451,67653
+,Linn County,OR,USA,8,,,,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,452,127335
+,Marion County,OR,USA,2,,,,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,453,346868
+,Multnomah County,OR,USA,1,,,,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,454,811880
+,Polk County,OR,USA,1,,,,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,455,85234
+,Umatilla County,OR,USA,2,,,,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,456,77516
+,Washington County,OR,USA,10,,,,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,457,597695
+,Caddo Parish,LA,USA,1,,,,32.6074585,-93.757198,http://ldh.la.gov/Coronavirus/,458,242922
+,Jefferson Parish,LA,USA,3,,,,29.696731,-90.114832,http://ldh.la.gov/Coronavirus/,459,434051
+,Lafourche Parish,LA,USA,1,,,,29.4895455,-90.50821049999999,http://ldh.la.gov/Coronavirus/,460,98115
+,Orleans Parish,LA,USA,26,,,,30.033868,-89.88147699999999,http://ldh.la.gov/Coronavirus/,461,391006
+,St. Bernard Parish,LA,USA,1,,,,29.8500655,-89.4145595,http://ldh.la.gov/Coronavirus/,462,46721
+,St. Charles Parish,LA,USA,1,,,,29.961458,-90.3585315,http://ldh.la.gov/Coronavirus/,463,52879
+,St. Tammany Parish,LA,USA,2,,,,30.43073,-89.891049,http://ldh.la.gov/Coronavirus/,464,258111
+,Terrebonne Parish,LA,USA,1,,,,29.406244,-90.8557755,http://ldh.la.gov/Coronavirus/,465,111021
+,Bell County,TX,USA,1,,,,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,466,355642
+,Collin County,TX,USA,6,,,,33.193628000000004,-96.569696,https://www.dshs.state.tx.us/news/updates.shtm,467,1005146
+,Dallas County,TX,USA,7,,,,32.767269,-96.7776255,https://www.dshs.state.tx.us/news/updates.shtm,468,2637772
+,Fort Bend County,TX,USA,6,,,,29.525435,-95.75651500000001,https://www.dshs.state.tx.us/news/updates.shtm,469,787858
+,Gregg County,TX,USA,1,,,,32.5138005,-94.78307699999999,https://www.dshs.state.tx.us/news/updates.shtm,470,123707
+,Harris County,TX,USA,9,,,,29.833973999999998,-95.43486150000001,https://www.dshs.state.tx.us/news/updates.shtm,471,4698619
+,Montgomery County,TX,USA,3,,,,30.3290225,-95.463474,https://www.dshs.state.tx.us/news/updates.shtm,472,590925
+,Smith County,TX,USA,3,,,,32.4112925,-95.2899065,https://www.dshs.state.tx.us/news/updates.shtm,473,230221
+,Tarrant County,TX,USA,1,,,,32.7714195,-97.29143450000001,https://www.dshs.state.tx.us/news/updates.shtm,474,2084931
+,Travis County,TX,USA,2,,,,30.326374,-97.771258,https://www.dshs.state.tx.us/news/updates.shtm,475,1248743
+,New Castle County,DE,USA,4,,,,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,476,559335
+,Kent County,DE,USA,0,,,,39.0977575,-75.5358555,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,477,178550
+,Sussex County,DE,USA,0,,,,38.706443,-75.38576900000001,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,478,229286
+,Manatee County,FL,USA,2,,,,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,479,394855
+,Hillsborough County,FL,USA,2,,,,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,480,1436888
+,Santa Rosa County,FL,USA,1,,,,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,481,179349
+,Broward County,FL,USA,11,,,,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,482,1951260
+,Lee County,FL,USA,4,,,,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,483,754610
+,Charlotte County,FL,USA,1,,,,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,484,184998
+,Okaloosa County,FL,USA,1,,,,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,485,207269
+,Volusia County,FL,USA,3,,,,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,486,547538
+,Nassau County,FL,USA,1,,,,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,487,85832
+,Collier County,FL,USA,3,,,,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,488,378488
+,Pinellas County,FL,USA,2,,,,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,489,975280
+,Pasco County,FL,USA,1,,,,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,490,539630
+,Miami-Dade County,FL,USA,2,,,,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,491,2761581
+,Seminole County,FL,USA,1,,,,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,492,467832
+,Palm Beach County,FL,USA,2,,,,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,493,1485941
+,Sarasota County,FL,USA,2,,,,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,494,426718
+,Alachua County,FL,USA,1,,,,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,495,269956
+,Duval County,FL,USA,1,,,,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,496,950181
+,Clay County,FL,USA,1,,,,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,497,216072
+,Westchester County,NY,USA,148,,,,41.122837000000004,-73.7326465,https://www.health.ny.gov/diseases/communicable/coronavirus/,498,967612
+,Nassau County,NY,USA,41,,,,40.7528025,-73.5961185,https://www.health.ny.gov/diseases/communicable/coronavirus/,499,1358343
+,Suffolk County,NY,USA,20,,,,40.9499955,-72.6766375,https://www.health.ny.gov/diseases/communicable/coronavirus/,500,1481093
+,Rockland County,NY,USA,7,,,,41.160945,-74.06082649999999,https://www.health.ny.gov/diseases/communicable/coronavirus/,501,325695
+,Saratoga County,NY,USA,3,,,,43.0867325,-73.866721,https://www.health.ny.gov/diseases/communicable/coronavirus/,502,230163
+,Ulster County,NY,USA,4,,,,41.878800999999996,-74.345684,https://www.health.ny.gov/diseases/communicable/coronavirus/,503,178599
+,Orange County,NY,USA,1,,,,41.3878105,-74.354217,https://www.health.ny.gov/diseases/communicable/coronavirus/,504,381951
+,Albany County,NY,USA,1,,,,42.613902,-73.9708125,https://www.health.ny.gov/diseases/communicable/coronavirus/,505,307117
+,Monroe County,NY,USA,1,,,,43.154810499999996,-77.684384,https://www.health.ny.gov/diseases/communicable/coronavirus/,506,742474
+,Dutchess County,NY,USA,1,,,,41.7599055,-73.74371099999999,https://www.health.ny.gov/diseases/communicable/coronavirus/,507,293718
+,Delaware County,NY,USA,1,,,,42.183063,-74.92498599999999,https://www.health.ny.gov/diseases/communicable/coronavirus/,508,44527
+,Herkimer County,NY,USA,1,,,,43.460950999999994,-74.957551,https://www.health.ny.gov/diseases/communicable/coronavirus/,509,61833
+,Broome County,NY,USA,1,,,,42.206783,-75.74488,https://www.health.ny.gov/diseases/communicable/coronavirus/,510,191659
 ,New York City,NY,USA,95,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
-,San Francisco County,CA,USA,21,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,421,883305
-,San Mateo County,CA,USA,20,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,422,769545
-,Sonoma County,CA,USA,3,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,423,499942
-,Santa Cruz County,CA,USA,7,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,424,274255
-,Solano County,CA,USA,6,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,425,446610
-,Contra Costa County,CA,USA,25,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,426,1150215
-,Stanislaus County,CA,USA,2,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,427,549815
-,Yolo County,CA,USA,2,,,,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,428,220408
-,Sacramento County,CA,USA,17,1,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,429,1540975
-,Fresno County,CA,USA,1,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,430,994400
-,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,431,157672
-,Placer County,CA,USA,7,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,432,393149
-,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,433,180040
-,Los Angeles County,CA,USA,40,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,434,10105518
-,Orange County,CA,USA,6,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,435,3185968
-,Riverside County,CA,USA,8,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,436,2450758
-,San Diego County,CA,USA,0,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,437,3343364
+,San Francisco County,CA,USA,21,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,511,883305
+,San Mateo County,CA,USA,20,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,512,769545
+,Sonoma County,CA,USA,3,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,513,499942
+,Santa Cruz County,CA,USA,7,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,514,274255
+,Solano County,CA,USA,6,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,515,446610
+,Contra Costa County,CA,USA,25,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,516,1150215
+,Stanislaus County,CA,USA,2,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,517,549815
+,Yolo County,CA,USA,2,,,,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,518,220408
+,Sacramento County,CA,USA,17,1,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,519,1540975
+,Fresno County,CA,USA,1,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,520,994400
+,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,521,157672
+,Placer County,CA,USA,7,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,522,393149
+,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,523,180040
+,Los Angeles County,CA,USA,40,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,524,10105518
+,Orange County,CA,USA,6,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,525,3185968
+,Riverside County,CA,USA,8,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,526,2450758
+,San Diego County,CA,USA,0,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,527,3343364
