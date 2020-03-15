@@ -189,7 +189,7 @@
   },
   {
     "county": "Marion County",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -264,7 +264,7 @@
   },
   {
     "county": "LaPorte County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -834,7 +834,7 @@
   },
   {
     "county": "Wells County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1443,7 +1443,7 @@
   },
   {
     "county": "Wayne County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -1998,7 +1998,7 @@
   },
   {
     "county": "Wake County",
-    "cases": 8,
+    "cases": 11,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2313,7 +2313,7 @@
   },
   {
     "county": "Harnett County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2448,7 +2448,7 @@
   },
   {
     "county": "Craven County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2673,7 +2673,7 @@
   },
   {
     "county": "Onslow County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2763,7 +2763,7 @@
   },
   {
     "county": "Brunswick County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2882,8 +2882,8 @@
   },
   {
     "county": "Bergen County",
-    "cases": 17,
-    "tested": 24,
+    "cases": 25,
+    "tested": 32,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -2910,8 +2910,8 @@
   },
   {
     "county": "Camden County",
-    "cases": 1,
-    "tested": 4,
+    "cases": 2,
+    "tested": 5,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -2952,8 +2952,8 @@
   },
   {
     "county": "Essex County",
-    "cases": 5,
-    "tested": 9,
+    "cases": 7,
+    "tested": 11,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -2980,8 +2980,8 @@
   },
   {
     "county": "Hudson County",
-    "cases": 3,
-    "tested": 9,
+    "cases": 5,
+    "tested": 11,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -3008,8 +3008,8 @@
   },
   {
     "county": "Mercer County",
-    "cases": 0,
-    "tested": 0,
+    "cases": 1,
+    "tested": 1,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -3022,8 +3022,8 @@
   },
   {
     "county": "Monmouth County",
-    "cases": 7,
-    "tested": 12,
+    "cases": 8,
+    "tested": 13,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -3148,8 +3148,8 @@
   },
   {
     "county": "Middlesex County",
-    "cases": 3,
-    "tested": 7,
+    "cases": 10,
+    "tested": 14,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -3162,7 +3162,7 @@
   },
   {
     "state": "British Columbia",
-    "cases": 53,
+    "cases": 73,
     "country": "Canada",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "coordinates": [
@@ -3174,7 +3174,7 @@
   },
   {
     "state": "Alberta",
-    "cases": 23,
+    "cases": 39,
     "country": "Canada",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "coordinates": [
@@ -3198,7 +3198,7 @@
   },
   {
     "state": "Manitoba",
-    "cases": 1,
+    "cases": 4,
     "country": "Canada",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "coordinates": [
@@ -3210,7 +3210,7 @@
   },
   {
     "state": "Ontario",
-    "cases": 79,
+    "cases": 101,
     "country": "Canada",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "coordinates": [
@@ -3222,7 +3222,7 @@
   },
   {
     "state": "Quebec",
-    "cases": 17,
+    "cases": 21,
     "country": "Canada",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "coordinates": [
@@ -3245,6 +3245,18 @@
     "population": 747101
   },
   {
+    "state": "Prince Edward Island",
+    "cases": 1,
+    "country": "Canada",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -63.21041826049995,
+      46.49290599200006
+    ],
+    "featureId": 218,
+    "population": 142907
+  },
+  {
     "country": "Thailand",
     "cases": 75,
     "recovered": 35,
@@ -3254,7 +3266,7 @@
       13.04083302850006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 218,
+    "featureId": 219,
     "population": 68414135
   },
   {
@@ -3267,7 +3279,7 @@
       37.87307291750005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 219,
+    "featureId": 220,
     "population": 126451398
   },
   {
@@ -3280,7 +3292,7 @@
       1.3585676125000532
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 220,
+    "featureId": 221,
     "population": 5888926
   },
   {
@@ -3293,7 +3305,7 @@
       28.38379831950006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 221,
+    "featureId": 222,
     "population": 29384297
   },
   {
@@ -3306,7 +3318,7 @@
       3.9309068840000734
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 222,
+    "featureId": 223,
     "population": 31381992
   },
   {
@@ -3320,7 +3332,7 @@
       -32.82977854599065
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 223,
+    "featureId": 224,
     "population": 8089526
   },
   {
@@ -3334,7 +3346,7 @@
       -36.537788791607284
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 224,
+    "featureId": 225,
     "population": 6594804
   },
   {
@@ -3348,7 +3360,7 @@
       -19.64674041161055
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 225,
+    "featureId": 226,
     "population": 5095100
   },
   {
@@ -3361,7 +3373,7 @@
       12.56212270450002
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 226,
+    "featureId": 227,
     "population": 16204486
   },
   {
@@ -3374,7 +3386,7 @@
       7.8766543645000695
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 227,
+    "featureId": 228,
     "population": 22409381
   },
   {
@@ -3387,7 +3399,7 @@
       51.09924480150008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 228,
+    "featureId": 229,
     "population": 80594017
   },
   {
@@ -3400,7 +3412,7 @@
       64.9866635165001
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 229,
+    "featureId": 230,
     "population": 5491218
   },
   {
@@ -3413,7 +3425,7 @@
       24.340997059161296
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 230,
+    "featureId": 231,
     "population": 6072475
   },
   {
@@ -3426,7 +3438,7 @@
       12.108262437000064
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 231,
+    "featureId": 232,
     "population": 104256076
   },
   {
@@ -3439,7 +3451,7 @@
       21.151850284000083
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 232,
+    "featureId": 233,
     "population": 1281935911
   },
   {
@@ -3452,7 +3464,7 @@
       41.826061709500074
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 233,
+    "featureId": 234,
     "population": 62137802
   },
   {
@@ -3465,7 +3477,7 @@
       62.191185204500094
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 234,
+    "featureId": 235,
     "population": 9960487
   },
   {
@@ -3478,7 +3490,7 @@
       35.73847077050007
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 235,
+    "featureId": 236,
     "population": 48958159
   },
   {
@@ -3492,7 +3504,7 @@
       -32.035240980898976
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 236,
+    "featureId": 237,
     "population": 1751693
   },
   {
@@ -3505,7 +3517,7 @@
       50.49042053300006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 237,
+    "featureId": 238,
     "population": 11491346
   },
   {
@@ -3518,7 +3530,7 @@
       26.825424706000064
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 238,
+    "featureId": 239,
     "population": 97041072
   },
   {
@@ -3531,7 +3543,7 @@
       33.86861807120964
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 239,
+    "featureId": 240,
     "population": 6229794
   },
   {
@@ -3544,7 +3556,7 @@
       33.21901997950006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 240,
+    "featureId": 241,
     "population": 39192111
   },
   {
@@ -3557,7 +3569,7 @@
       21.444199937000064
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 241,
+    "featureId": 242,
     "population": 3424386
   },
   {
@@ -3570,7 +3582,7 @@
       33.930139364000084
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 242,
+    "featureId": 243,
     "population": 34124811
   },
   {
@@ -3583,7 +3595,7 @@
       26.024400132000068
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 243,
+    "featureId": 244,
     "population": 1410942
   },
   {
@@ -3596,7 +3608,7 @@
       29.315860290500055
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 244,
+    "featureId": 245,
     "population": 2875422
   },
   {
@@ -3609,7 +3621,7 @@
       28.032339379000085
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 245,
+    "featureId": 246,
     "population": 40969443
   },
   {
@@ -3622,7 +3634,7 @@
       44.48165314050009
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 246,
+    "featureId": 247,
     "population": 4292095
   },
   {
@@ -3635,7 +3647,7 @@
       46.840811259500086
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 247,
+    "featureId": 248,
     "population": 8236303
   },
   {
@@ -3648,7 +3660,7 @@
       47.71313527500007
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 248,
+    "featureId": 249,
     "population": 8754413
   },
   {
@@ -3661,7 +3673,7 @@
       31.448389692000035
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 249,
+    "featureId": 250,
     "population": 8299706
   },
   {
@@ -3674,7 +3686,7 @@
       30.377750552000087
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 250,
+    "featureId": 251,
     "population": 204924861
   },
   {
@@ -3687,7 +3699,7 @@
       -14.236725569657125
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 251,
+    "featureId": 252,
     "population": 207353391
   },
   {
@@ -3700,7 +3712,7 @@
       42.31029968300004
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 252,
+    "featureId": 253,
     "population": 4926330
   },
   {
@@ -3713,7 +3725,7 @@
       38.322331546000065
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 253,
+    "featureId": 254,
     "population": 10768477
   },
   {
@@ -3726,7 +3738,7 @@
       41.591247966000054
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 254,
+    "featureId": 255,
     "population": 2077132
   },
   {
@@ -3739,7 +3751,7 @@
       69.25525543850006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 255,
+    "featureId": 256,
     "population": 5320045
   },
   {
@@ -3752,7 +3764,7 @@
       45.95662750300005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 256,
+    "featureId": 257,
     "population": 21529967
   },
   {
@@ -3765,7 +3777,7 @@
       58.572233381000025
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 257,
+    "featureId": 258,
     "population": 1251581
   },
   {
@@ -3778,7 +3790,7 @@
       52.105282697500066
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 258,
+    "featureId": 259,
     "population": 17084719
   },
   {
@@ -3791,7 +3803,7 @@
       43.92963720000006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 259,
+    "featureId": 260,
     "population": 33537
   },
   {
@@ -3804,7 +3816,7 @@
       53.72384073950006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 260,
+    "featureId": 261,
     "population": 9549747
   },
   {
@@ -3817,7 +3829,7 @@
       64.96666087450004
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 261,
+    "featureId": 262,
     "population": 339747
   },
   {
@@ -3830,7 +3842,7 @@
       55.16278391600002
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 262,
+    "featureId": 263,
     "population": 2823859
   },
   {
@@ -3843,7 +3855,7 @@
       23.629557940500092
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 263,
+    "featureId": 264,
     "population": 124574795
   },
   {
@@ -3856,7 +3868,7 @@
       -40.878065687999936
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 264,
+    "featureId": 265,
     "population": 4510327
   },
   {
@@ -3869,7 +3881,7 @@
       9.07578074450008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 265,
+    "featureId": 266,
     "population": 190632261
   },
   {
@@ -3883,7 +3895,7 @@
       -24.407891534499925
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 266,
+    "featureId": 267,
     "population": 2621680
   },
   {
@@ -3896,7 +3908,7 @@
       53.46108633000006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 267,
+    "featureId": 268,
     "population": 5011102
   },
   {
@@ -3909,7 +3921,7 @@
       49.80347279900003
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 268,
+    "featureId": 269,
     "population": 594130
   },
   {
@@ -3922,7 +3934,7 @@
       43.743117918500026
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 269,
+    "featureId": 270,
     "population": 30645
   },
   {
@@ -3935,7 +3947,7 @@
       25.363913984500023
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 270,
+    "featureId": 271,
     "population": 2314307
   },
   {
@@ -3948,7 +3960,7 @@
       -1.7634670984999161
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 271,
+    "featureId": 272,
     "population": 16290913
   },
   {
@@ -3961,7 +3973,7 @@
       40.14320973750006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 272,
+    "featureId": 273,
     "population": 9961396
   },
   {
@@ -3974,7 +3986,7 @@
       40.077076823500036
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 273,
+    "featureId": 274,
     "population": 3045191
   },
   {
@@ -3987,7 +3999,7 @@
       18.771246649000062
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 274,
+    "featureId": 275,
     "population": 10734247
   },
   {
@@ -4000,7 +4012,7 @@
       -2.6357561174999375
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 275,
+    "featureId": 276,
     "population": 260580739
   },
   {
@@ -4013,7 +4025,7 @@
       37.400416263500055
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 276,
+    "featureId": 277,
     "population": 10839514
   },
   {
@@ -4026,7 +4038,7 @@
       42.51501586950006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 277,
+    "featureId": 278,
     "population": 85702
   },
   {
@@ -4040,7 +4052,7 @@
       -41.60023365649994
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 278,
+    "featureId": 279,
     "population": 534281
   },
   {
@@ -4053,7 +4065,7 @@
       56.862861023500045
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 279,
+    "featureId": 280,
     "population": 1944643
   },
   {
@@ -4066,7 +4078,7 @@
       28.67223747529175
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 280,
+    "featureId": 281,
     "population": 33986655
   },
   {
@@ -4079,7 +4091,7 @@
       24.244550886000077
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 281,
+    "featureId": 282,
     "population": 28571770
   },
   {
@@ -4092,7 +4104,7 @@
       14.474492289500091
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 282,
+    "featureId": 283,
     "population": 14668522
   },
   {
@@ -4105,7 +4117,7 @@
       -38.42173074799991
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 283,
+    "featureId": 284,
     "population": 44293293
   },
   {
@@ -4118,7 +4130,7 @@
       -36.567062457499944
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 284,
+    "featureId": 285,
     "population": 17789267
   },
   {
@@ -4131,7 +4143,7 @@
       31.280817871500048
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 285,
+    "featureId": 286,
     "population": 10248069
   },
   {
@@ -4144,7 +4156,7 @@
       48.79241852100008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 286,
+    "featureId": 287,
     "population": 44033874
   },
   {
@@ -4157,7 +4169,7 @@
       47.156127930000025
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 287,
+    "featureId": 288,
     "population": 9850845
   },
   {
@@ -4171,7 +4183,7 @@
       -18.516157321898987
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 288,
+    "featureId": 289,
     "population": 245869
   },
   {
@@ -4184,7 +4196,7 @@
       47.15983571400008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 289,
+    "featureId": 290,
     "population": 38244
   },
   {
@@ -4197,7 +4209,7 @@
       51.93482900350006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 290,
+    "featureId": 291,
     "population": 38476269
   },
   {
@@ -4210,7 +4222,7 @@
       33.78217031200008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 291,
+    "featureId": 292,
     "population": 11403800
   },
   {
@@ -4223,7 +4235,7 @@
       43.91899993950011
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 292,
+    "featureId": 293,
     "population": 3856181
   },
   {
@@ -4236,7 +4248,7 @@
       46.14379954050001
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 293,
+    "featureId": 294,
     "population": 1972126
   },
   {
@@ -4249,7 +4261,7 @@
       -28.469792578999943
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 294,
+    "featureId": 295,
     "population": 54841552
   },
   {
@@ -4262,7 +4274,7 @@
       27.518180482737833
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 295,
+    "featureId": 296,
     "population": 758288
   },
   {
@@ -4275,7 +4287,7 @@
       7.407972718000032
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 296,
+    "featureId": 297,
     "population": 24994885
   },
   {
@@ -4288,7 +4300,7 @@
       4.114416812000066
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 297,
+    "featureId": 298,
     "population": 47698524
   },
   {
@@ -4301,7 +4313,7 @@
       9.615482479500045
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 298,
+    "featureId": 299,
     "population": 4930258
   },
   {
@@ -4314,7 +4326,7 @@
       -9.190602483184005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 299,
+    "featureId": 300,
     "population": 31036656
   },
   {
@@ -4327,7 +4339,7 @@
       44.20522467850007
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 300,
+    "featureId": 301,
     "population": 7111024
   },
   {
@@ -4340,7 +4352,7 @@
       48.67589304650005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 301,
+    "featureId": 302,
     "population": 5445829
   },
   {
@@ -4353,7 +4365,7 @@
       8.61773549700009
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 302,
+    "featureId": 303,
     "population": 7965055
   },
   {
@@ -4366,7 +4378,7 @@
       14.862000781359463
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 303,
+    "featureId": 304,
     "population": 67106161
   },
   {
@@ -4379,7 +4391,7 @@
       35.88346995650005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 304,
+    "featureId": 305,
     "population": 416338
   },
   {
@@ -4392,7 +4404,7 @@
       14.862000781359463
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 303,
+    "featureId": 304,
     "population": 67106161
   },
   {
@@ -4405,7 +4417,7 @@
       42.73391529800004
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 305,
+    "featureId": 306,
     "population": 7101510
   },
   {
@@ -4418,7 +4430,7 @@
       4.213175576792927
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 306,
+    "featureId": 307,
     "population": 392709
   },
   {
@@ -4431,7 +4443,7 @@
       23.73811778050007
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 307,
+    "featureId": 308,
     "population": 157826578
   },
   {
@@ -4444,7 +4456,7 @@
       -23.43368479399996
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 308,
+    "featureId": 309,
     "population": 6943739
   },
   {
@@ -4457,7 +4469,7 @@
       41.11245290150006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 309,
+    "featureId": 310,
     "population": 3047987
   },
   {
@@ -4470,7 +4482,7 @@
       34.910753335500104
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 310,
+    "featureId": 311,
     "population": 1221549
   },
   {
@@ -4483,7 +4495,7 @@
       4.510995486500057
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 311,
+    "featureId": 312,
     "population": 443593
   },
   {
@@ -4496,7 +4508,7 @@
       12.230804951500069
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 312,
+    "featureId": 313,
     "population": 20107509
   },
   {
@@ -4509,7 +4521,7 @@
       41.90333333950011
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 313,
+    "featureId": 314,
     "population": 1000
   },
   {
@@ -4522,7 +4534,7 @@
       46.85141784700008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 314,
+    "featureId": 315,
     "population": 3068243
   },
   {
@@ -4535,7 +4547,7 @@
       8.420921827000058
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 315,
+    "featureId": 316,
     "population": 3753142
   },
   {
@@ -4549,7 +4561,7 @@
       31.166405443456426
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 316,
+    "featureId": 317,
     "population": 59170000
   },
   {
@@ -4562,7 +4574,7 @@
       32.412651216000036
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 317,
+    "featureId": 318,
     "population": 82021564
   },
   {
@@ -4575,7 +4587,7 @@
       35.91235993050006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 318,
+    "featureId": 319,
     "population": 51181299
   },
   {
@@ -4589,7 +4601,7 @@
       22.876783758944043
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 319,
+    "featureId": 320,
     "population": 113460000
   },
   {
@@ -4603,7 +4615,7 @@
       33.87707977965809
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 320,
+    "featureId": 321,
     "population": 96050000
   },
   {
@@ -4617,7 +4629,7 @@
       29.189050400871963
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 321,
+    "featureId": 322,
     "population": 57370000
   },
   {
@@ -4631,7 +4643,7 @@
       27.369414984613826
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 322,
+    "featureId": 323,
     "population": 68990000
   },
   {
@@ -4645,7 +4657,7 @@
       32.02378204990168
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 323,
+    "featureId": 324,
     "population": 63240000
   },
   {
@@ -4659,7 +4671,7 @@
       27.275131334293633
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 324,
+    "featureId": 325,
     "population": 46480000
   },
   {
@@ -4673,7 +4685,7 @@
       36.33507593620547
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 325,
+    "featureId": 326,
     "population": 100470000
   },
   {
@@ -4687,7 +4699,7 @@
       32.934811713190015
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 326,
+    "featureId": 327,
     "population": 80510000
   },
   {
@@ -4701,7 +4713,7 @@
       30.198712571927643
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 327,
+    "featureId": 328,
     "population": 31020000
   },
   {
@@ -4715,7 +4727,7 @@
       30.165213324835065
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 328,
+    "featureId": 329,
     "population": 83410000
   },
   {
@@ -4729,7 +4741,7 @@
       48.501949771374576
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 329,
+    "featureId": 330,
     "population": 37730000
   },
   {
@@ -4743,7 +4755,7 @@
       40.236575323991985
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 330,
+    "featureId": 331,
     "population": 21540000
   },
   {
@@ -4757,7 +4769,7 @@
       31.266158547445322
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 331,
+    "featureId": 332,
     "population": 24240000
   },
   {
@@ -4771,7 +4783,7 @@
       39.323827419599695
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 332,
+    "featureId": 333,
     "population": 75560000
   },
   {
@@ -4785,7 +4797,7 @@
       25.971159641604146
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 333,
+    "featureId": 334,
     "population": 39410000
   },
   {
@@ -4799,7 +4811,7 @@
       23.899949245349177
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 334,
+    "featureId": 335,
     "population": 49260000
   },
   {
@@ -4813,7 +4825,7 @@
       35.63509908705319
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 335,
+    "featureId": 336,
     "population": 38640000
   },
   {
@@ -4827,7 +4839,7 @@
       25.179122725058342
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 336,
+    "featureId": 337,
     "population": 48300000
   },
   {
@@ -4841,7 +4853,7 @@
       19.150763250500063
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 337,
+    "featureId": 338,
     "population": 9340000
   },
   {
@@ -4855,7 +4867,7 @@
       26.9387435980386
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 338,
+    "featureId": 339,
     "population": 36000000
   },
   {
@@ -4869,7 +4881,7 @@
       39.40813751918114
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 339,
+    "featureId": 340,
     "population": 15600000
   },
   {
@@ -4883,7 +4895,7 @@
       37.66312775369286
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 340,
+    "featureId": 341,
     "population": 37180000
   },
   {
@@ -4897,7 +4909,7 @@
       37.69770367228662
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 341,
+    "featureId": 342,
     "population": 26370000
   },
   {
@@ -4910,7 +4922,7 @@
       22.41313304250005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 342,
+    "featureId": 343,
     "population": 7191503
   },
   {
@@ -4924,7 +4936,7 @@
       41.09091390618639
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 343,
+    "featureId": 344,
     "population": 43590000
   },
   {
@@ -4938,7 +4950,7 @@
       43.56576924140737
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 344,
+    "featureId": 345,
     "population": 27040000
   },
   {
@@ -4951,7 +4963,7 @@
       49.80312398300006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 345,
+    "featureId": 346,
     "population": 10674723
   },
   {
@@ -4965,7 +4977,7 @@
       41.752899103285706
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 346,
+    "featureId": 347,
     "population": 24870000
   },
   {
@@ -4979,7 +4991,7 @@
       45.35383134546877
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 347,
+    "featureId": 348,
     "population": 25000034
   },
   {
@@ -4993,7 +5005,7 @@
       37.31081075681095
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 348,
+    "featureId": 349,
     "population": 6880000
   },
   {
@@ -5006,7 +5018,7 @@
       23.598456122000044
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 349,
+    "featureId": 350,
     "population": 23508428
   },
   {
@@ -5019,7 +5031,7 @@
       15.941768090000089
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 350,
+    "featureId": 351,
     "population": 96160163
   },
   {
@@ -5032,7 +5044,7 @@
       61.240742495500065
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 351,
+    "featureId": 352,
     "population": 142257519
   },
   {
@@ -5046,7 +5058,7 @@
       35.43499502195269
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 352,
+    "featureId": 353,
     "population": 6030000
   },
   {
@@ -5060,7 +5072,7 @@
       22.13420237850005
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 353,
+    "featureId": 354,
     "population": 667400
   },
   {
@@ -5073,7 +5085,7 @@
       46.967069702500055
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 354,
+    "featureId": 355,
     "population": 3474121
   },
   {
@@ -5086,7 +5098,7 @@
       -16.286937560999938
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 355,
+    "featureId": 356,
     "population": 11138234
   },
   {
@@ -5100,7 +5112,7 @@
       18.07776461717568
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 356
+    "featureId": 357
   },
   {
     "country": "Honduras",
@@ -5112,7 +5124,7 @@
       14.484747626000058
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 357,
+    "featureId": 358,
     "population": 9038741
   },
   {
@@ -5138,7 +5150,7 @@
       31.88221486755922
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 358,
+    "featureId": 359,
     "population": 3440000
   },
   {
@@ -5151,7 +5163,7 @@
       -4.029468688999948
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 359,
+    "featureId": 360,
     "population": 83301151
   },
   {
@@ -5164,7 +5176,7 @@
       7.533667911000066
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 360,
+    "featureId": 361,
     "population": 24184810
   },
   {
@@ -5178,7 +5190,7 @@
       17.903509833000072
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 361,
+    "featureId": 362,
     "population": 9793
   },
   {
@@ -5191,7 +5203,7 @@
       18.11774323150007
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 362,
+    "featureId": 363,
     "population": 2990561
   },
   {
@@ -5204,7 +5216,7 @@
       14.862000781359463
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 303,
+    "featureId": 304,
     "population": 67106161
   },
   {
@@ -5217,7 +5229,7 @@
       38.95576283850008
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 363,
+    "featureId": 364,
     "population": 80845215
   },
   {
@@ -5231,7 +5243,7 @@
       36.13020456349999
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 364,
+    "featureId": 365,
     "population": 32194
   },
   {
@@ -5244,7 +5256,7 @@
       21.528102931500058
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 365,
+    "featureId": 366,
     "population": 11147407
   },
   {
@@ -5257,7 +5269,7 @@
       4.887909040000061
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 366,
+    "featureId": 367,
     "population": 737718
   },
   {
@@ -5271,7 +5283,7 @@
       -35.53036325446061
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 367,
+    "featureId": 368,
     "population": 426709
   },
   {
@@ -5284,7 +5296,7 @@
       47.96872690850006
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 368,
+    "featureId": 369,
     "population": 18556698
   },
   {
@@ -5309,7 +5321,7 @@
       19.329608600000057
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 369,
+    "featureId": 370,
     "population": 58441
   },
   {
@@ -5322,7 +5334,7 @@
       16.196804103500057
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 370
+    "featureId": 371
   },
   {
     "country": "Ethiopia",
@@ -5334,7 +5346,7 @@
       9.170952962500039
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 371,
+    "featureId": 372,
     "population": 105350020
   },
   {
@@ -5347,7 +5359,7 @@
       15.342520469500087
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 372,
+    "featureId": 373,
     "population": 37345935
   },
   {
@@ -5360,7 +5372,7 @@
       9.955672506000056
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 373,
+    "featureId": 374,
     "population": 12413867
   },
   {
@@ -5373,7 +5385,7 @@
       12.497626043500048
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 374,
+    "featureId": 375,
     "population": 115120
   },
   {
@@ -5386,7 +5398,7 @@
       0.1521078450765998
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 375,
+    "featureId": 376,
     "population": 47615739
   },
   {
@@ -5399,427 +5411,427 @@
       17.098659572500083
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
-    "featureId": 376,
+    "featureId": 377,
     "population": 94731
   },
   {
     "state": "Alabama",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -86.69343876373793,
       32.6211173120505
     ],
-    "featureId": 377,
+    "featureId": 378,
     "population": 4903185
   },
   {
     "state": "Alaska",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       0.7835596040000752,
       61.51689280800005
     ],
-    "featureId": 378,
+    "featureId": 379,
     "population": 731545
   },
   {
     "state": "American Samoa",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json"
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
     "state": "Arizona",
     "cases": 9,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -111.93299895849756,
       34.165156819218375
     ],
-    "featureId": 379,
+    "featureId": 380,
     "population": 7278717
   },
   {
     "state": "Arkansas",
     "cases": 6,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -92.142816204804,
       34.755387388617066
     ],
-    "featureId": 380,
+    "featureId": 381,
     "population": 3017804
   },
   {
     "state": "California",
     "cases": 224,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -119.26717119749563,
       37.26560485570404
     ],
-    "featureId": 381,
+    "featureId": 382,
     "population": 39512223
   },
   {
     "state": "Colorado",
     "cases": 49,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -105.54309696705135,
       38.99982098225249
     ],
-    "featureId": 382,
+    "featureId": 383,
     "population": 5758736
   },
   {
     "state": "Connecticut",
     "cases": 7,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -72.75935673202756,
       41.52780529315321
     ],
-    "featureId": 383,
+    "featureId": 384,
     "population": 3565287
   },
   {
     "state": "Delaware",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -75.41630955251765,
       39.14564123795276
     ],
-    "featureId": 384,
+    "featureId": 385,
     "population": 973764
   },
   {
     "state": "District of Columbia",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -77.0145477695639,
       38.899451555326564
     ],
-    "featureId": 385,
+    "featureId": 386,
     "population": 705749
   },
   {
     "state": "Florida",
     "cases": 31,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -83.82965067998012,
       28.060753542550117
     ],
-    "featureId": 386,
+    "featureId": 387,
     "population": 21477737
   },
   {
     "state": "Georgia",
     "cases": 45,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -83.22068258120515,
       32.68249920507424
     ],
-    "featureId": 387,
+    "featureId": 388,
     "population": 10617423
   },
   {
     "state": "Guam",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       144.79749596450006,
       13.443487860500056
     ],
-    "featureId": 388
+    "featureId": 389
   },
   {
     "state": "Hawaii",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -157.30113772849992,
       20.58419053050008
     ],
-    "featureId": 389,
+    "featureId": 390,
     "population": 1415872
   },
   {
     "state": "Idaho",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -114.12702030654191,
       45.49602738420207
     ],
-    "featureId": 390,
+    "featureId": 391,
     "population": 1787065
   },
   {
     "state": "Illinois",
     "cases": 32,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -89.26887859227318,
       39.74570721281759
     ],
-    "featureId": 391,
+    "featureId": 392,
     "population": 12671821
   },
   {
     "state": "Indiana",
     "cases": 12,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -86.41467899783746,
       39.774149595877134
     ],
-    "featureId": 392,
+    "featureId": 393,
     "population": 6732219
   },
   {
     "state": "Iowa",
     "cases": 16,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -93.38911747419203,
       41.94023846253498
     ],
-    "featureId": 393,
+    "featureId": 394,
     "population": 3155070
   },
   {
     "state": "Kansas",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -98.33450321689992,
       38.49995525967745
     ],
-    "featureId": 394,
+    "featureId": 395,
     "population": 2913314
   },
   {
     "state": "Kentucky",
     "cases": 11,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -85.69484257237679,
       37.820719419565535
     ],
-    "featureId": 395,
+    "featureId": 396,
     "population": 4467673
   },
   {
     "state": "Louisiana",
     "cases": 14,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -91.53320699521313,
       31.022399050426287
     ],
-    "featureId": 396,
+    "featureId": 397,
     "population": 4648794
   },
   {
     "state": "Maine",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -69.03113847999994,
       45.261826073000044
     ],
-    "featureId": 397,
+    "featureId": 398,
     "population": 1344212
   },
   {
     "state": "Marshall Islands",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json"
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
     "state": "Maryland",
     "cases": 12,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -7.820522355408116,
       4.732829714012851
     ],
-    "featureId": 398,
+    "featureId": 399,
     "population": 6045680
   },
   {
     "state": "Massachusetts",
     "cases": 108,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -71.72305888370983,
       42.12038082106261
     ],
-    "featureId": 399,
+    "featureId": 400,
     "population": 6892503
   },
   {
     "state": "Michigan",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -86.2800539156174,
       44.99773029893432
     ],
-    "featureId": 400,
+    "featureId": 401,
     "population": 9986857
   },
   {
     "state": "Micronesia",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json"
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
     "state": "Minnesota",
     "cases": 10,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -93.36252550514794,
       46.434810139826055
     ],
-    "featureId": 401,
+    "featureId": 402,
     "population": 5639632
   },
   {
     "state": "Mississippi",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -89.87338261081882,
       32.59642655665229
     ],
-    "featureId": 402,
+    "featureId": 403,
     "population": 2976149
   },
   {
     "state": "Missouri",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -92.44567264977294,
       38.30249432230511
     ],
-    "featureId": 403,
+    "featureId": 404,
     "population": 6137428
   },
   {
     "state": "Montana",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       23.173404290210883,
       43.501877025549824
     ],
-    "featureId": 404,
+    "featureId": 405,
     "population": 1068778
   },
   {
     "state": "Nebraska",
     "cases": 10,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -99.68549198596634,
       41.50023602157509
     ],
-    "featureId": 405,
+    "featureId": 406,
     "population": 1934408
   },
   {
     "state": "Nevada",
     "cases": 11,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -117.02047733760901,
       38.50182293528022
     ],
-    "featureId": 406,
+    "featureId": 407,
     "population": 3080156
   },
   {
     "state": "New Hampshire",
     "cases": 6,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -71.64192281532604,
       44.002575579129676
     ],
-    "featureId": 407,
+    "featureId": 408,
     "population": 1359711
   },
   {
     "state": "New Jersey",
     "cases": 29,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -74.71937008349994,
       40.14601558652788
     ],
-    "featureId": 408,
+    "featureId": 409,
     "population": 8882190
   },
   {
     "state": "New Mexico",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -106.02383427161152,
       34.16360001562739
     ],
-    "featureId": 409,
+    "featureId": 410,
     "population": 2096829
   },
   {
     "state": "New York",
     "cases": 325,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -75.8409706677239,
       42.76080525150005
@@ -5831,246 +5843,246 @@
     "state": "North Carolina",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -80.02322978144363,
       35.24607653682786
     ],
-    "featureId": 410,
+    "featureId": 411,
     "population": 10488084
   },
   {
     "state": "North Dakota",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -100.3019580214955,
       47.46721085597658
     ],
-    "featureId": 411,
+    "featureId": 412,
     "population": 762062
   },
   {
     "state": "Northern Marianas",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json"
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
     "state": "Ohio",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -82.67188114679749,
       40.36645852284252
     ],
-    "featureId": 412,
+    "featureId": 413,
     "population": 11689100
   },
   {
     "state": "Oklahoma",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -98.71994022800911,
       35.32361248602737
     ],
-    "featureId": 413,
+    "featureId": 414,
     "population": 3956971
   },
   {
     "state": "Oregon",
     "cases": 24,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -120.50533834262885,
       44.11740471870206
     ],
-    "featureId": 414,
+    "featureId": 415,
     "population": 4217737
   },
   {
     "state": "Palau",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json"
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
     "state": "Pennsylvania",
     "cases": 23,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -77.60961308037935,
       41.12951166463159
     ],
-    "featureId": 415,
+    "featureId": 416,
     "population": 12801989
   },
   {
     "state": "Puerto Rico",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -66.43130303399991,
       18.225958563000063
     ],
-    "featureId": 416,
+    "featureId": 417,
     "population": 3193694
   },
   {
     "state": "Rhode Island",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -71.48453225865693,
       41.66332011094793
     ],
-    "featureId": 417,
+    "featureId": 418,
     "population": 1059361
   },
   {
     "state": "South Carolina",
     "cases": 12,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -80.96432271741013,
       33.619274050261765
     ],
-    "featureId": 418,
+    "featureId": 419,
     "population": 5148714
   },
   {
     "state": "South Dakota",
     "cases": 8,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -100.2551086848679,
       44.230179869105655
     ],
-    "featureId": 419,
+    "featureId": 420,
     "population": 884659
   },
   {
     "state": "Tennessee",
     "cases": 18,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -85.98153690830165,
       35.837455259602535
     ],
-    "featureId": 420,
+    "featureId": 421,
     "population": 6829174
   },
   {
     "state": "Texas",
     "cases": 24,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -100.0884705015624,
       31.177528238191037
     ],
-    "featureId": 421,
+    "featureId": 422,
     "population": 28995881
   },
   {
     "state": "Utah",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -111.54443973955233,
       39.49994305252983
     ],
-    "featureId": 422,
+    "featureId": 423,
     "population": 3205958
   },
   {
     "state": "Vermont",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -72.47219594044931,
       43.87150381198679
     ],
-    "featureId": 423,
+    "featureId": 424,
     "population": 623989
   },
   {
     "state": "Virgin Islands",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json"
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
     "state": "Virginia",
     "cases": 29,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -79.76028754243612,
       37.99530438119223
     ],
-    "featureId": 424,
+    "featureId": 425,
     "population": 8535519
   },
   {
     "state": "Washington",
     "cases": 457,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -120.80671709265283,
       47.27941361449236
     ],
-    "featureId": 425,
+    "featureId": 426,
     "population": 7614893
   },
   {
     "state": "West Virginia",
     "cases": 0,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -80.1829407161911,
       38.92806805344787
     ],
-    "featureId": 426,
+    "featureId": 427,
     "population": 1792147
   },
   {
     "state": "Wisconsin",
     "cases": 8,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -89.56690985655462,
       44.89991863863423
     ],
-    "featureId": 427,
+    "featureId": 428,
     "population": 5822434
   },
   {
     "state": "Wyoming",
     "cases": 15,
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-cases-us.json",
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
     "coordinates": [
       -107.55199589229656,
       42.999967466625236
     ],
-    "featureId": 428,
+    "featureId": 429,
     "population": 578759
   },
   {
@@ -6085,182 +6097,272 @@
   {
     "recovered": 4,
     "deaths": 2,
-    "cases": 89,
-    "county": "Abruzzo",
+    "cases": 112,
+    "state": "Abruzzo",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1311580
   },
   {
     "recovered": 0,
     "deaths": 0,
     "cases": 10,
-    "county": "Basilicata",
+    "state": "Basilicata",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 562869
   },
   {
     "recovered": 0,
-    "deaths": 2,
-    "cases": 125,
-    "county": "P.A. Bolzano",
+    "deaths": 3,
+    "cases": 173,
+    "state": "P.A. Bolzano",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   {
     "recovered": 1,
     "deaths": 0,
-    "cases": 38,
-    "county": "Calabria",
+    "cases": 60,
+    "state": "Calabria",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1947131
   },
   {
-    "recovered": 5,
-    "deaths": 2,
-    "cases": 220,
-    "county": "Campania",
+    "recovered": 23,
+    "deaths": 6,
+    "cases": 272,
+    "state": "Campania",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 5801692
   },
   {
-    "recovered": 51,
-    "deaths": 201,
-    "cases": 2263,
-    "county": "Emilia Romagna",
+    "recovered": 54,
+    "deaths": 241,
+    "cases": 2644,
+    "state": "Emilia Romagna",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4459477
   },
   {
-    "recovered": 11,
-    "deaths": 10,
-    "cases": 257,
-    "county": "Friuli Venezia Giulia",
+    "recovered": 17,
+    "deaths": 13,
+    "cases": 301,
+    "state": "Friuli Venezia Giulia",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
-  },
-  {
-    "recovered": 24,
-    "deaths": 11,
-    "cases": 277,
-    "county": "Lazio",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1215220
   },
   {
     "recovered": 24,
-    "deaths": 17,
-    "cases": 345,
-    "county": "Liguria",
+    "deaths": 13,
+    "cases": 357,
+    "state": "Lazio",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 5879082
   },
   {
-    "recovered": 1198,
-    "deaths": 890,
-    "cases": 9820,
-    "county": "Lombardia",
+    "recovered": 52,
+    "deaths": 27,
+    "cases": 463,
+    "state": "Liguria",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "coordinates": [
+      9.063233530652923,
+      44.448917926372275
+    ],
+    "featureId": 430,
+    "population": 1550640
+  },
+  {
+    "recovered": 1660,
+    "deaths": 966,
+    "cases": 11685,
+    "state": "Lombardia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 10060574
   },
   {
     "recovered": 0,
-    "deaths": 27,
-    "cases": 725,
-    "county": "Marche",
+    "deaths": 36,
+    "cases": 899,
+    "state": "Marche",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1525271
   },
   {
     "recovered": 0,
     "deaths": 0,
     "cases": 17,
-    "county": "Molise",
+    "state": "Molise",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 305617
   },
   {
     "recovered": 0,
-    "deaths": 46,
-    "cases": 840,
-    "county": "Piemonte",
+    "deaths": 59,
+    "cases": 873,
+    "state": "Piemonte",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4356406
+  },
+  {
+    "recovered": 2,
+    "deaths": 8,
+    "cases": 166,
+    "state": "Puglia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4029053
+  },
+  {
+    "recovered": 0,
+    "deaths": 0,
+    "cases": 47,
+    "state": "Sardegna",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1639591
+  },
+  {
+    "recovered": 4,
+    "deaths": 2,
+    "cases": 156,
+    "state": "Sicilia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4999891
+  },
+  {
+    "recovered": 10,
+    "deaths": 6,
+    "cases": 630,
+    "state": "Toscana",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 3729641
+  },
+  {
+    "recovered": 5,
+    "deaths": 2,
+    "cases": 206,
+    "state": "P.A. Trento",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   {
     "recovered": 3,
-    "deaths": 5,
-    "cases": 129,
-    "county": "Puglia",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
-  },
-  {
-    "recovered": 0,
-    "deaths": 0,
-    "cases": 43,
-    "county": "Sardegna",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
-  },
-  {
-    "recovered": 2,
-    "deaths": 2,
-    "cases": 130,
-    "county": "Sicilia",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
-  },
-  {
-    "recovered": 10,
-    "deaths": 5,
-    "cases": 470,
-    "county": "Toscana",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
-  },
-  {
-    "recovered": 4,
-    "deaths": 2,
-    "cases": 163,
-    "county": "P.A. Trento",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
-  },
-  {
-    "recovered": 2,
     "deaths": 1,
-    "cases": 76,
-    "county": "Umbria",
+    "cases": 107,
+    "state": "Umbria",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 882015
   },
   {
     "recovered": 0,
     "deaths": 1,
-    "cases": 28,
-    "county": "Valle d'Aosta",
+    "cases": 42,
+    "state": "Valle d'Aosta",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 125666
   },
   {
-    "recovered": 100,
-    "deaths": 42,
-    "cases": 1595,
-    "county": "Veneto",
+    "recovered": 107,
+    "deaths": 55,
+    "cases": 1937,
+    "state": "Veneto",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4905854
   },
   {
-    "cases": 10,
-    "tested": 69,
+    "county": "Copiah County",
+    "cases": 1,
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "coordinates": [
+      -90.42352199999999,
+      31.867576
+    ],
+    "featureId": 431,
+    "population": 28543
+  },
+  {
+    "county": "Pearl River County",
+    "cases": 1,
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "coordinates": [
+      -89.596482,
+      30.7364495
+    ],
+    "featureId": 432,
+    "population": 55387
+  },
+  {
+    "county": "Leflore County",
+    "cases": 1,
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "coordinates": [
+      -90.277601,
+      33.523355
+    ],
+    "featureId": 433,
+    "population": 28919
+  },
+  {
+    "county": "Forrest County",
+    "cases": 3,
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "coordinates": [
+      -89.2947915,
+      31.1719645
+    ],
+    "featureId": 434,
+    "population": 75036
+  },
+  {
+    "cases": 16,
+    "tested": 115,
     "state": "DC",
     "country": "USA",
     "url": "https://coronavirus.dc.gov/page/coronavirus-data"
   },
   {
+    "county": "Baldwin County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.69793150000001,
+      30.765086
+    ],
+    "featureId": 435,
+    "population": 218022
+  },
+  {
     "county": "Elmore County",
     "cases": 1,
-    "deaths": 0,
+    "deaths": 1,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -6268,13 +6370,13 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 429,
+    "featureId": 436,
     "population": 81887
   },
   {
     "county": "Jefferson County",
-    "cases": 1,
-    "deaths": 0,
+    "cases": 5,
+    "deaths": 5,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -6282,13 +6384,13 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 430,
+    "featureId": 437,
     "population": 659300
   },
   {
     "county": "Limestone County",
     "cases": 1,
-    "deaths": 0,
+    "deaths": 1,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -6296,13 +6398,13 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 431,
+    "featureId": 438,
     "population": 96174
   },
   {
     "county": "Montgomery County",
     "cases": 1,
-    "deaths": 0,
+    "deaths": 1,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -6310,13 +6412,13 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 432,
+    "featureId": 439,
     "population": 225763
   },
   {
     "county": "Tuscaloosa County",
-    "cases": 1,
-    "deaths": 0,
+    "cases": 2,
+    "deaths": 2,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -6324,12 +6426,20 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 433,
+    "featureId": 440,
     "population": 208911
   },
   {
+    "county": "Out of State County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+  },
+  {
     "county": "Adams County",
-    "cases": 3,
+    "cases": 6,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6337,12 +6447,12 @@
       -104.3794855,
       39.87063
     ],
-    "featureId": 434,
+    "featureId": 441,
     "population": 511868
   },
   {
     "county": "Arapahoe County",
-    "cases": 7,
+    "cases": 10,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6350,12 +6460,12 @@
       -104.38034350000001,
       39.6533655
     ],
-    "featureId": 435,
+    "featureId": 442,
     "population": 651215
   },
   {
     "county": "Denver County",
-    "cases": 15,
+    "cases": 20,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6363,7 +6473,7 @@
       -104.855181,
       39.76426
     ],
-    "featureId": 436,
+    "featureId": 443,
     "population": 716492
   },
   {
@@ -6376,12 +6486,12 @@
       -104.994923,
       39.34788
     ],
-    "featureId": 437,
+    "featureId": 444,
     "population": 342776
   },
   {
     "county": "Eagle County",
-    "cases": 14,
+    "cases": 18,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6389,12 +6499,12 @@
       -106.645068,
       39.6373275
     ],
-    "featureId": 438,
+    "featureId": 445,
     "population": 54993
   },
   {
     "county": "El Paso County",
-    "cases": 2,
+    "cases": 3,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6402,12 +6512,12 @@
       -104.5619235,
       38.824693999999994
     ],
-    "featureId": 439,
+    "featureId": 446,
     "population": 713856
   },
   {
     "county": "Gunnison County",
-    "cases": 4,
+    "cases": 6,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6415,12 +6525,12 @@
       -106.94099,
       38.702179
     ],
-    "featureId": 440,
+    "featureId": 447,
     "population": 17246
   },
   {
     "county": "Jefferson County",
-    "cases": 7,
+    "cases": 9,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6428,7 +6538,7 @@
       -105.2238445,
       39.5219745
     ],
-    "featureId": 441,
+    "featureId": 448,
     "population": 580233
   },
   {
@@ -6441,12 +6551,25 @@
       -105.5669625,
       40.628046999999995
     ],
-    "featureId": 442,
+    "featureId": 449,
     "population": 350518
   },
   {
-    "county": "Pitkin County",
+    "county": "Mesa County",
     "cases": 1,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -108.21971400000001,
+      38.933332
+    ],
+    "featureId": 450,
+    "population": 153207
+  },
+  {
+    "county": "Pitkin County",
+    "cases": 2,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6454,7 +6577,7 @@
       -106.946222,
       39.171949
     ],
-    "featureId": 443,
+    "featureId": 451,
     "population": 17950
   },
   {
@@ -6467,7 +6590,7 @@
       -104.5522995,
       38.1285485
     ],
-    "featureId": 444,
+    "featureId": 452,
     "population": 167529
   },
   {
@@ -6480,12 +6603,12 @@
       -106.10532549999999,
       39.6416725
     ],
-    "featureId": 445,
+    "featureId": 453,
     "population": 31007
   },
   {
     "county": "Weld County",
-    "cases": 2,
+    "cases": 3,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -6493,7 +6616,7 @@
       -104.315327,
       40.5011525
     ],
-    "featureId": 446,
+    "featureId": 454,
     "population": 314305
   },
   {
@@ -6506,12 +6629,12 @@
       -122.26009400000001,
       45.1737
     ],
-    "featureId": 447,
+    "featureId": 455,
     "population": 416075
   },
   {
     "county": "Deschutes County",
-    "cases": 1,
+    "cases": 3,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
@@ -6519,7 +6642,7 @@
       -120.94952,
       44.001645499999995
     ],
-    "featureId": 448,
+    "featureId": 456,
     "population": 191996
   },
   {
@@ -6532,7 +6655,7 @@
       -123.0963585,
       43.3222345
     ],
-    "featureId": 449,
+    "featureId": 457,
     "population": 110283
   },
   {
@@ -6545,7 +6668,7 @@
       -122.756742,
       42.4995805
     ],
-    "featureId": 450,
+    "featureId": 458,
     "population": 219564
   },
   {
@@ -6558,12 +6681,12 @@
       -121.58491599999999,
       42.804975999999996
     ],
-    "featureId": 451,
+    "featureId": 459,
     "population": 67653
   },
   {
     "county": "Linn County",
-    "cases": 8,
+    "cases": 9,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
@@ -6571,7 +6694,7 @@
       -122.5272075,
       44.496468
     ],
-    "featureId": 452,
+    "featureId": 460,
     "population": 127335
   },
   {
@@ -6584,7 +6707,7 @@
       -122.4575375,
       44.984239
     ],
-    "featureId": 453,
+    "featureId": 461,
     "population": 346868
   },
   {
@@ -6597,7 +6720,7 @@
       -122.374808,
       45.580658
     ],
-    "featureId": 454,
+    "featureId": 462,
     "population": 811880
   },
   {
@@ -6610,7 +6733,7 @@
       -123.38289850000001,
       44.8977695
     ],
-    "featureId": 455,
+    "featureId": 463,
     "population": 85234
   },
   {
@@ -6623,12 +6746,12 @@
       -118.7037805,
       45.4984405
     ],
-    "featureId": 456,
+    "featureId": 464,
     "population": 77516
   },
   {
     "county": "Washington County",
-    "cases": 10,
+    "cases": 13,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
@@ -6636,112 +6759,968 @@
       -123.114875,
       45.5483985
     ],
-    "featureId": 457,
+    "featureId": 465,
     "population": 597695
   },
   {
-    "county": "Caddo Parish",
-    "cases": 1,
+    "county": "De Soto Parish",
+    "cases": 0,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
-      -93.757198,
-      32.6074585
+      -93.699102,
+      32.0948115
     ],
-    "featureId": 458,
-    "population": 242922
+    "featureId": 466,
+    "population": 27436
   },
   {
-    "county": "Jefferson Parish",
-    "cases": 3,
+    "county": "St. John the Baptist Parish",
+    "cases": 1,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
-      -90.114832,
-      29.696731
+      -90.4833525,
+      30.0930385
     ],
-    "featureId": 459,
-    "population": 434051
+    "featureId": 467,
+    "population": 43184
   },
   {
     "county": "Lafourche Parish",
     "cases": 1,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 460,
+    "featureId": 468,
     "population": 98115
   },
   {
     "county": "Orleans Parish",
-    "cases": 26,
+    "cases": 53,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 461,
+    "featureId": 469,
     "population": 391006
   },
   {
-    "county": "St. Bernard Parish",
-    "cases": 1,
+    "county": "Sabine Parish",
+    "cases": 0,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
-      -89.4145595,
-      29.8500655
+      -93.557699,
+      31.505406999999998
     ],
-    "featureId": 462,
-    "population": 46721
+    "featureId": 470,
+    "population": 24032
   },
   {
-    "county": "St. Charles Parish",
-    "cases": 1,
+    "county": "Tangipahoa Parish",
+    "cases": 0,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
-      -90.3585315,
-      29.961458
+      -90.405269,
+      30.612403
     ],
-    "featureId": 463,
-    "population": 52879
+    "featureId": 471,
+    "population": 133777
   },
   {
     "county": "St. Tammany Parish",
     "cases": 2,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
       -89.891049,
       30.43073
     ],
-    "featureId": 464,
+    "featureId": 472,
     "population": 258111
+  },
+  {
+    "county": "Livingston Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.696248,
+      30.412879
+    ],
+    "featureId": 473,
+    "population": 139567
+  },
+  {
+    "county": "St. Charles Parish",
+    "cases": 2,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.3585315,
+      29.961458
+    ],
+    "featureId": 474,
+    "population": 52879
+  },
+  {
+    "county": "Calcasieu Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.326522,
+      30.2639165
+    ],
+    "featureId": 475,
+    "population": 203112
+  },
+  {
+    "county": "Union Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.394117,
+      32.7976865
+    ],
+    "featureId": 476,
+    "population": 22330
+  },
+  {
+    "county": "Caldwell Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.09278499999999,
+      32.102264500000004
+    ],
+    "featureId": 477,
+    "population": 9960
+  },
+  {
+    "county": "Tensas Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.3045835,
+      31.991290499999998
+    ],
+    "featureId": 478,
+    "population": 4462
+  },
+  {
+    "county": "Jackson Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.56701000000001,
+      32.3212645
+    ],
+    "featureId": 479,
+    "population": 15902
+  },
+  {
+    "county": "Grant Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.58483,
+      31.5926135
+    ],
+    "featureId": 480,
+    "population": 22482
+  },
+  {
+    "county": "Lincoln Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.64820449999999,
+      32.606269499999996
+    ],
+    "featureId": 481,
+    "population": 47196
+  },
+  {
+    "county": "Jefferson Davis Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.857122,
+      30.2628035
+    ],
+    "featureId": 482,
+    "population": 31582
+  },
+  {
+    "county": "Lafayette Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.0951095,
+      30.2075775
+    ],
+    "featureId": 483,
+    "population": 242782
+  },
+  {
+    "county": "East Carroll Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.2303025,
+      32.7714455
+    ],
+    "featureId": 484,
+    "population": 7037
+  },
+  {
+    "county": "East Feliciana Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.0732675,
+      30.824589
+    ],
+    "featureId": 485,
+    "population": 19305
+  },
+  {
+    "county": "Iberville Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.3600815,
+      30.2613845
+    ],
+    "featureId": 486,
+    "population": 32721
+  },
+  {
+    "county": "Richland Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.732693,
+      32.409445500000004
+    ],
+    "featureId": 487,
+    "population": 20192
+  },
+  {
+    "county": "St. Martin Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.53909150000001,
+      30.09857
+    ],
+    "featureId": 488,
+    "population": 53621
+  },
+  {
+    "county": "Claiborne Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.981675,
+      32.8016545
+    ],
+    "featureId": 489,
+    "population": 15944
+  },
+  {
+    "county": "St. Landry Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.08607749999999,
+      30.573712
+    ],
+    "featureId": 490,
+    "population": 82764
+  },
+  {
+    "county": "Pointe Coupee Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.5623665,
+      30.750701999999997
+    ],
+    "featureId": 491,
+    "population": 21940
+  },
+  {
+    "county": "La Salle Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.186641,
+      31.6257625
+    ],
+    "featureId": 492
+  },
+  {
+    "county": "Webster Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.3384255,
+      32.7143435
+    ],
+    "featureId": 493,
+    "population": 38798
+  },
+  {
+    "county": "St. James Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.8028455,
+      30.027838
+    ],
+    "featureId": 494,
+    "population": 21037
+  },
+  {
+    "county": "Morehouse Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.76029249999999,
+      32.7570325
+    ],
+    "featureId": 495,
+    "population": 25398
+  },
+  {
+    "county": "Rapides Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.5286315,
+      31.203797
+    ],
+    "featureId": 496,
+    "population": 130562
+  },
+  {
+    "county": "Avoyelles Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.97901999999999,
+      31.095483
+    ],
+    "featureId": 497,
+    "population": 40462
+  },
+  {
+    "county": "Winn Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.64287350000001,
+      31.928432
+    ],
+    "featureId": 498,
+    "population": 14134
+  },
+  {
+    "county": "Catahoula Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.776279,
+      31.5993165
+    ],
+    "featureId": 499,
+    "population": 9608
+  },
+  {
+    "county": "Assumption Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.0722915,
+      29.8539995
+    ],
+    "featureId": 500,
+    "population": 22300
+  },
+  {
+    "county": "Caddo Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.757198,
+      32.6074585
+    ],
+    "featureId": 501,
+    "population": 242922
+  },
+  {
+    "county": "Washington Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.03715650000001,
+      30.835068999999997
+    ],
+    "featureId": 502,
+    "population": 46582
+  },
+  {
+    "county": "East Baton Rouge Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.0821615,
+      30.516002
+    ],
+    "featureId": 503,
+    "population": 440956
+  },
+  {
+    "county": "Natchitoches Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.080363,
+      31.747528000000003
+    ],
+    "featureId": 504,
+    "population": 38659
+  },
+  {
+    "county": "Bienville Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.10068150000001,
+      32.366091999999995
+    ],
+    "featureId": 505,
+    "population": 13308
+  },
+  {
+    "county": "Bossier Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.5978795,
+      32.627677000000006
+    ],
+    "featureId": 506,
+    "population": 127185
+  },
+  {
+    "county": "Allen Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.856948,
+      30.661153
+    ],
+    "featureId": 507,
+    "population": 25605
+  },
+  {
+    "county": "Ouachita Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.159829,
+      32.4907775
+    ],
+    "featureId": 508,
+    "population": 154475
+  },
+  {
+    "county": "St. Helena Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.738279,
+      30.824559
+    ],
+    "featureId": 509,
+    "population": 10262
+  },
+  {
+    "county": "West Feliciana Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.46312950000001,
+      30.8493775
+    ],
+    "featureId": 510,
+    "population": 15460
+  },
+  {
+    "county": "West Carroll Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.45007849999999,
+      32.7940275
+    ],
+    "featureId": 511,
+    "population": 10982
+  },
+  {
+    "county": "Concordia Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.622707,
+      31.366113
+    ],
+    "featureId": 512,
+    "population": 19572
+  },
+  {
+    "county": "West Baton Rouge Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.313597,
+      30.490574000000002
+    ],
+    "featureId": 513,
+    "population": 26427
+  },
+  {
+    "county": "Madison Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.216415,
+      32.341573
+    ],
+    "featureId": 514,
+    "population": 11161
+  },
+  {
+    "county": "Ascension Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.869644,
+      30.204696499999997
+    ],
+    "featureId": 515,
+    "population": 124672
+  },
+  {
+    "county": "Acadia Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.38683499999999,
+      30.2652335
+    ],
+    "featureId": 516,
+    "population": 62190
+  },
+  {
+    "county": "Beauregard Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.35856949999999,
+      30.6430015
+    ],
+    "featureId": 517,
+    "population": 37253
+  },
+  {
+    "county": "Franklin Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.6867355,
+      32.1420035
+    ],
+    "featureId": 518,
+    "population": 20156
+  },
+  {
+    "county": "Evangeline Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.40312349999999,
+      30.7409765
+    ],
+    "featureId": 519,
+    "population": 33443
+  },
+  {
+    "county": "Vernon Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.19772900000001,
+      31.1119345
+    ],
+    "featureId": 520,
+    "population": 48860
+  },
+  {
+    "county": "Red River Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.367939,
+      32.062484
+    ],
+    "featureId": 521,
+    "population": 8477
+  },
+  {
+    "county": "Vermilion Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.351531,
+      29.8402345
+    ],
+    "featureId": 522,
+    "population": 59830
+  },
+  {
+    "county": "Plaquemines Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -89.5381785,
+      29.4150075
+    ],
+    "featureId": 523,
+    "population": 23410
+  },
+  {
+    "county": "St. Mary Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.48180049999999,
+      29.7141755
+    ],
+    "featureId": 524,
+    "population": 49774
+  },
+  {
+    "county": "Cameron Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.27240900000001,
+      29.8158395
+    ],
+    "featureId": 525,
+    "population": 6968
+  },
+  {
+    "county": "Iberia Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.632762,
+      29.7982045
+    ],
+    "featureId": 526,
+    "population": 70941
+  },
+  {
+    "county": "St. Bernard Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -89.4145595,
+      29.8500655
+    ],
+    "featureId": 527,
+    "population": 46721
   },
   {
     "county": "Terrebonne Parish",
     "cases": 1,
+    "deaths": 0,
     "state": "LA",
     "country": "USA",
-    "url": "http://ldh.la.gov/Coronavirus/",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
     "coordinates": [
       -90.8557755,
       29.406244
     ],
-    "featureId": 465,
+    "featureId": 528,
     "population": 111021
+  },
+  {
+    "county": "Jefferson Parish",
+    "cases": 11,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.114832,
+      29.696731
+    ],
+    "featureId": 529,
+    "population": 434051
+  },
+  {
+    "county": "Carroll County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "coordinates": [
+      -94.8607925,
+      42.0363995
+    ],
+    "featureId": 530,
+    "population": 20154
+  },
+  {
+    "county": "Dallas County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "coordinates": [
+      -94.03547599999999,
+      41.683413
+    ],
+    "featureId": 531,
+    "population": 90180
+  },
+  {
+    "county": "Harrison County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "coordinates": [
+      -95.8184015,
+      41.6857895
+    ],
+    "featureId": 532,
+    "population": 14134
+  },
+  {
+    "county": "Johnson County",
+    "cases": 14,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "coordinates": [
+      -91.5995785,
+      41.6426345
+    ],
+    "featureId": 533,
+    "population": 151260
+  },
+  {
+    "county": "Pottawattamie County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "coordinates": [
+      -95.5872695,
+      41.3330975
+    ],
+    "featureId": 534,
+    "population": 93533
   },
   {
     "county": "Bell County",
@@ -6753,12 +7732,38 @@
       -97.4920175,
       31.0362865
     ],
-    "featureId": 466,
+    "featureId": 535,
     "population": 355642
   },
   {
+    "county": "Bexar County",
+    "cases": 1,
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "coordinates": [
+      -98.4636305,
+      29.4374885
+    ],
+    "featureId": 536,
+    "population": 1986049
+  },
+  {
+    "county": "Brazoria County",
+    "cases": 2,
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "coordinates": [
+      -95.46632349999999,
+      29.2119295
+    ],
+    "featureId": 537,
+    "population": 370200
+  },
+  {
     "county": "Collin County",
-    "cases": 6,
+    "cases": 5,
     "state": "TX",
     "country": "USA",
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
@@ -6766,12 +7771,12 @@
       -96.569696,
       33.193628000000004
     ],
-    "featureId": 467,
+    "featureId": 538,
     "population": 1005146
   },
   {
     "county": "Dallas County",
-    "cases": 7,
+    "cases": 8,
     "state": "TX",
     "country": "USA",
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
@@ -6779,12 +7784,25 @@
       -96.7776255,
       32.767269
     ],
-    "featureId": 468,
+    "featureId": 539,
     "population": 2637772
   },
   {
+    "county": "El Paso County",
+    "cases": 1,
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "coordinates": [
+      -106.299987,
+      31.6946625
+    ],
+    "featureId": 540,
+    "population": 840758
+  },
+  {
     "county": "Fort Bend County",
-    "cases": 6,
+    "cases": 9,
     "state": "TX",
     "country": "USA",
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
@@ -6792,8 +7810,21 @@
       -95.75651500000001,
       29.525435
     ],
-    "featureId": 469,
+    "featureId": 541,
     "population": 787858
+  },
+  {
+    "county": "Galveston County",
+    "cases": 1,
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "coordinates": [
+      -94.8019735,
+      29.3376555
+    ],
+    "featureId": 542,
+    "population": 337890
   },
   {
     "county": "Gregg County",
@@ -6805,12 +7836,12 @@
       -94.78307699999999,
       32.5138005
     ],
-    "featureId": 470,
+    "featureId": 543,
     "population": 123707
   },
   {
     "county": "Harris County",
-    "cases": 9,
+    "cases": 10,
     "state": "TX",
     "country": "USA",
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
@@ -6818,8 +7849,34 @@
       -95.43486150000001,
       29.833973999999998
     ],
-    "featureId": 471,
+    "featureId": 544,
     "population": 4698619
+  },
+  {
+    "county": "Hays County",
+    "cases": 1,
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "coordinates": [
+      -98.0039075,
+      30.054378
+    ],
+    "featureId": 545,
+    "population": 222631
+  },
+  {
+    "county": "Lavaca County",
+    "cases": 1,
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "coordinates": [
+      -96.9003315,
+      29.347974999999998
+    ],
+    "featureId": 546,
+    "population": 20110
   },
   {
     "county": "Montgomery County",
@@ -6831,7 +7888,7 @@
       -95.463474,
       30.3290225
     ],
-    "featureId": 472,
+    "featureId": 547,
     "population": 590925
   },
   {
@@ -6844,12 +7901,12 @@
       -95.2899065,
       32.4112925
     ],
-    "featureId": 473,
+    "featureId": 548,
     "population": 230221
   },
   {
     "county": "Tarrant County",
-    "cases": 1,
+    "cases": 3,
     "state": "TX",
     "country": "USA",
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
@@ -6857,12 +7914,12 @@
       -97.29143450000001,
       32.7714195
     ],
-    "featureId": 474,
+    "featureId": 549,
     "population": 2084931
   },
   {
     "county": "Travis County",
-    "cases": 2,
+    "cases": 1,
     "state": "TX",
     "country": "USA",
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
@@ -6870,12 +7927,12 @@
       -97.771258,
       30.326374
     ],
-    "featureId": 475,
+    "featureId": 550,
     "population": 1248743
   },
   {
     "county": "New Castle County",
-    "cases": 4,
+    "cases": 6,
     "state": "DE",
     "country": "USA",
     "url": "https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html",
@@ -6883,7 +7940,7 @@
       -75.5969975,
       39.565300500000006
     ],
-    "featureId": 476,
+    "featureId": 551,
     "population": 559335
   },
   {
@@ -6896,7 +7953,7 @@
       -75.5358555,
       39.0977575
     ],
-    "featureId": 477,
+    "featureId": 552,
     "population": 178550
   },
   {
@@ -6909,12 +7966,12 @@
       -75.38576900000001,
       38.706443
     ],
-    "featureId": 478,
+    "featureId": 553,
     "population": 229286
   },
   {
     "county": "Manatee County",
-    "cases": 2,
+    "cases": 4,
     "state": "FL",
     "country": "USA",
     "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
@@ -6922,7 +7979,7 @@
       -82.4000485,
       27.4272245
     ],
-    "featureId": 479,
+    "featureId": 554,
     "population": 394855
   },
   {
@@ -6935,7 +7992,7 @@
       -82.3526,
       27.909229500000002
     ],
-    "featureId": 480,
+    "featureId": 555,
     "population": 1436888
   },
   {
@@ -6948,12 +8005,12 @@
       -87.047978,
       30.669196499999998
     ],
-    "featureId": 481,
+    "featureId": 556,
     "population": 179349
   },
   {
     "county": "Broward County",
-    "cases": 11,
+    "cases": 20,
     "state": "FL",
     "country": "USA",
     "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
@@ -6961,7 +8018,7 @@
       -80.478035,
       26.1561005
     ],
-    "featureId": 482,
+    "featureId": 557,
     "population": 1951260
   },
   {
@@ -6974,7 +8031,7 @@
       -81.9169395,
       26.5528805
     ],
-    "featureId": 483,
+    "featureId": 558,
     "population": 754610
   },
   {
@@ -6987,7 +8044,7 @@
       -81.9689695,
       26.902401
     ],
-    "featureId": 484,
+    "featureId": 559,
     "population": 184998
   },
   {
@@ -7000,12 +8057,12 @@
       -86.59446449999999,
       30.687763500000003
     ],
-    "featureId": 485,
+    "featureId": 560,
     "population": 207269
   },
   {
     "county": "Volusia County",
-    "cases": 3,
+    "cases": 4,
     "state": "FL",
     "country": "USA",
     "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
@@ -7013,7 +8070,7 @@
       -81.20657349999999,
       29.0200235
     ],
-    "featureId": 486,
+    "featureId": 561,
     "population": 547538
   },
   {
@@ -7026,7 +8083,7 @@
       -81.73892599999999,
       30.550462500000002
     ],
-    "featureId": 487,
+    "featureId": 562,
     "population": 85832
   },
   {
@@ -7039,7 +8096,7 @@
       -81.35938300000001,
       26.1601955
     ],
-    "featureId": 488,
+    "featureId": 563,
     "population": 378488
   },
   {
@@ -7052,7 +8109,7 @@
       -82.70897249999999,
       27.893119
     ],
-    "featureId": 489,
+    "featureId": 564,
     "population": 975280
   },
   {
@@ -7065,12 +8122,12 @@
       -82.4298955,
       28.3252435
     ],
-    "featureId": 490,
+    "featureId": 565,
     "population": 539630
   },
   {
     "county": "Miami-Dade County",
-    "cases": 2,
+    "cases": 8,
     "state": "FL",
     "country": "USA",
     "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
@@ -7078,7 +8135,7 @@
       -80.495494,
       25.5606775
     ],
-    "featureId": 491,
+    "featureId": 566,
     "population": 2761581
   },
   {
@@ -7091,12 +8148,12 @@
       -81.2234725,
       28.745247499999998
     ],
-    "featureId": 492,
+    "featureId": 567,
     "population": 467832
   },
   {
     "county": "Palm Beach County",
-    "cases": 2,
+    "cases": 5,
     "state": "FL",
     "country": "USA",
     "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
@@ -7104,12 +8161,12 @@
       -80.4587305,
       26.645985500000002
     ],
-    "featureId": 493,
+    "featureId": 568,
     "population": 1485941
   },
   {
     "county": "Sarasota County",
-    "cases": 2,
+    "cases": 1,
     "state": "FL",
     "country": "USA",
     "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
@@ -7117,7 +8174,7 @@
       -82.349667,
       27.167500500000003
     ],
-    "featureId": 494,
+    "featureId": 569,
     "population": 426718
   },
   {
@@ -7130,7 +8187,7 @@
       -82.3544225,
       29.681131999999998
     ],
-    "featureId": 495,
+    "featureId": 570,
     "population": 269956
   },
   {
@@ -7143,7 +8200,7 @@
       -81.714645,
       30.34499
     ],
-    "featureId": 496,
+    "featureId": 571,
     "population": 950181
   },
   {
@@ -7156,187 +8213,387 @@
       -81.815316,
       29.956068000000002
     ],
-    "featureId": 497,
+    "featureId": 572,
     "population": 216072
-  },
-  {
-    "county": "Westchester County",
-    "cases": 148,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -73.7326465,
-      41.122837000000004
-    ],
-    "featureId": 498,
-    "population": 967612
-  },
-  {
-    "county": "Nassau County",
-    "cases": 41,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -73.5961185,
-      40.7528025
-    ],
-    "featureId": 499,
-    "population": 1358343
-  },
-  {
-    "county": "Suffolk County",
-    "cases": 20,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -72.6766375,
-      40.9499955
-    ],
-    "featureId": 500,
-    "population": 1481093
-  },
-  {
-    "county": "Rockland County",
-    "cases": 7,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -74.06082649999999,
-      41.160945
-    ],
-    "featureId": 501,
-    "population": 325695
-  },
-  {
-    "county": "Saratoga County",
-    "cases": 3,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -73.866721,
-      43.0867325
-    ],
-    "featureId": 502,
-    "population": 230163
-  },
-  {
-    "county": "Ulster County",
-    "cases": 4,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -74.345684,
-      41.878800999999996
-    ],
-    "featureId": 503,
-    "population": 178599
   },
   {
     "county": "Orange County",
     "cases": 1,
-    "state": "NY",
+    "state": "FL",
     "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
+    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
     "coordinates": [
-      -74.354217,
-      41.3878105
+      -81.2607525,
+      28.566533999999997
     ],
-    "featureId": 504,
-    "population": 381951
+    "featureId": 573,
+    "population": 1380645
   },
   {
-    "county": "Albany County",
+    "county": "Osceola County",
     "cases": 1,
-    "state": "NY",
+    "state": "FL",
     "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
+    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
     "coordinates": [
-      -73.9708125,
-      42.613902
+      -81.2600415,
+      27.995169500000003
     ],
-    "featureId": 505,
-    "population": 307117
+    "featureId": 574,
+    "population": 367990
   },
   {
-    "county": "Monroe County",
-    "cases": 1,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -77.684384,
-      43.154810499999996
-    ],
-    "featureId": 506,
-    "population": 742474
-  },
-  {
-    "county": "Dutchess County",
-    "cases": 1,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -73.74371099999999,
-      41.7599055
-    ],
-    "featureId": 507,
-    "population": 293718
-  },
-  {
-    "county": "Delaware County",
-    "cases": 1,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -74.92498599999999,
-      42.183063
-    ],
-    "featureId": 508,
-    "population": 44527
-  },
-  {
-    "county": "Herkimer County",
-    "cases": 1,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -74.957551,
-      43.460950999999994
-    ],
-    "featureId": 509,
-    "population": 61833
-  },
-  {
-    "county": "Broome County",
-    "cases": 1,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "coordinates": [
-      -75.74488,
-      42.206783
-    ],
-    "featureId": 510,
-    "population": 191659
-  },
-  {
-    "county": "New York City",
-    "cases": 95,
+    "county": "Westchester",
+    "cases": 178,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
-    "cases": 21,
+    "county": "Nassau",
+    "cases": 79,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Suffolk",
+    "cases": 41,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Rockland",
+    "cases": 12,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Orange",
+    "cases": 6,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Albany",
+    "cases": 5,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Ulster",
+    "cases": 5,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Dutchess",
+    "cases": 4,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Erie",
+    "cases": 3,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Saratoga",
+    "cases": 3,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Monroe",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Broom",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Delaware",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Herkimer",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Schenectady",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Tioga",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Tompkins",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "New York City",
+    "cases": 269,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Clark County",
+    "cases": 3,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.5203415,
+      45.80125099999999
+    ],
+    "featureId": 575,
+    "population": 481857
+  },
+  {
+    "county": "Columbia County",
+    "cases": 1,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -117.92289099999999,
+      46.3118295
+    ],
+    "featureId": 576,
+    "population": 4059
+  },
+  {
+    "county": "Grant County",
+    "cases": 2,
+    "deaths": 1,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -119.508134,
+      47.293631
+    ],
+    "featureId": 577,
+    "population": 97331
+  },
+  {
+    "county": "Grays Harbor County",
+    "cases": 1,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -123.756045,
+      47.162482
+    ],
+    "featureId": 578,
+    "population": 73901
+  },
+  {
+    "county": "Island County",
+    "cases": 6,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.559821,
+      48.157794
+    ],
+    "featureId": 579,
+    "population": 84460
+  },
+  {
+    "county": "Jefferson County",
+    "cases": 1,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -123.61055200000001,
+      47.8304245
+    ],
+    "featureId": 580,
+    "population": 31729
+  },
+  {
+    "county": "King County",
+    "cases": 387,
+    "deaths": 35,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.7969185,
+      47.4324805
+    ],
+    "featureId": 581,
+    "population": 2233163
+  },
+  {
+    "county": "Kitsap County",
+    "cases": 3,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.7433825,
+      47.6719585
+    ],
+    "featureId": 582,
+    "population": 269805
+  },
+  {
+    "county": "Kittitas County",
+    "cases": 3,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -120.688514,
+      47.167153
+    ],
+    "featureId": 583,
+    "population": 47364
+  },
+  {
+    "county": "Pierce County",
+    "cases": 26,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.10319799999999,
+      47.066154
+    ],
+    "featureId": 584,
+    "population": 891299
+  },
+  {
+    "county": "Skagit County",
+    "cases": 4,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.712645,
+      48.476543
+    ],
+    "featureId": 585,
+    "population": 128206
+  },
+  {
+    "county": "Snohomish County",
+    "cases": 154,
+    "deaths": 4,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.65598399999999,
+      48.037258
+    ],
+    "featureId": 586,
+    "population": 814901
+  },
+  {
+    "county": "Spokane County",
+    "cases": 3,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -117.431769,
+      47.653568500000006
+    ],
+    "featureId": 587,
+    "population": 514631
+  },
+  {
+    "county": "Thurston County",
+    "cases": 3,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.7023935,
+      46.9761355
+    ],
+    "featureId": 588,
+    "population": 286419
+  },
+  {
+    "county": "Whatcom County",
+    "cases": 2,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.884438,
+      48.821715499999996
+    ],
+    "featureId": 589,
+    "population": 225685
+  },
+  {
+    "county": "Yakima County",
+    "cases": 4,
+    "deaths": 0,
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -120.69510149999999,
+      46.564808
+    ],
+    "featureId": 590,
+    "population": 251446
+  },
+  {
+    "cases": 28,
     "deaths": 0,
     "county": "San Francisco County",
     "state": "CA",
@@ -7346,11 +8603,11 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 511,
+    "featureId": 591,
     "population": 883305
   },
   {
-    "cases": 20,
+    "cases": 32,
     "deaths": 0,
     "county": "San Mateo County",
     "state": "CA",
@@ -7360,11 +8617,25 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 512,
+    "featureId": 592,
     "population": 769545
   },
   {
-    "cases": 3,
+    "deaths": 0,
+    "cases": 0,
+    "county": "Alameda County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.acphd.org/2019-ncov.aspx",
+    "coordinates": [
+      -121.9024445,
+      37.6801065
+    ],
+    "featureId": 593,
+    "population": 1666753
+  },
+  {
+    "cases": 4,
     "county": "Sonoma County",
     "state": "CA",
     "country": "USA",
@@ -7373,11 +8644,11 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 513,
+    "featureId": 594,
     "population": 499942
   },
   {
-    "cases": 7,
+    "cases": 0,
     "county": "Santa Cruz County",
     "state": "CA",
     "country": "USA",
@@ -7386,7 +8657,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 514,
+    "featureId": 595,
     "population": 274255
   },
   {
@@ -7399,11 +8670,11 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 515,
+    "featureId": 596,
     "population": 446610
   },
   {
-    "cases": 25,
+    "cases": 29,
     "deaths": 0,
     "county": "Contra Costa County",
     "state": "CA",
@@ -7413,7 +8684,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 516,
+    "featureId": 597,
     "population": 1150215
   },
   {
@@ -7426,7 +8697,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 517,
+    "featureId": 598,
     "population": 549815
   },
   {
@@ -7439,11 +8710,11 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 518,
+    "featureId": 599,
     "population": 220408
   },
   {
-    "cases": 17,
+    "cases": 29,
     "deaths": 1,
     "county": "Sacramento County",
     "state": "CA",
@@ -7453,11 +8724,11 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 519,
+    "featureId": 600,
     "population": 1540975
   },
   {
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "county": "Fresno County",
     "state": "CA",
@@ -7467,7 +8738,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 520,
+    "featureId": 601,
     "population": 994400
   },
   {
@@ -7480,11 +8751,11 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 521,
+    "featureId": 602,
     "population": 157672
   },
   {
-    "cases": 7,
+    "cases": 8,
     "deaths": 1,
     "county": "Placer County",
     "state": "CA",
@@ -7494,7 +8765,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 522,
+    "featureId": 603,
     "population": 393149
   },
   {
@@ -7507,11 +8778,11 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 523,
+    "featureId": 604,
     "population": 180040
   },
   {
-    "cases": 40,
+    "cases": 53,
     "deaths": 1,
     "county": "Los Angeles County",
     "state": "CA",
@@ -7521,11 +8792,11 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 524,
+    "featureId": 605,
     "population": 10105518
   },
   {
-    "cases": 6,
+    "cases": 14,
     "deaths": 0,
     "county": "Orange County",
     "state": "CA",
@@ -7535,11 +8806,11 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 525,
+    "featureId": 606,
     "population": 3185968
   },
   {
-    "cases": 8,
+    "cases": 1,
     "county": "Riverside County",
     "state": "CA",
     "country": "USA",
@@ -7548,11 +8819,11 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 526,
+    "featureId": 607,
     "population": 2450758
   },
   {
-    "cases": 0,
+    "cases": 11,
     "tested": 145,
     "county": "San Diego County",
     "state": "CA",
@@ -7562,7 +8833,778 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 527,
+    "featureId": 608,
     "population": 3343364
+  },
+  {
+    "cases": 0,
+    "tested": 0,
+    "county": "Ventura County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.ventura.org/covid19/",
+    "coordinates": [
+      -119.1057185,
+      34.058353
+    ],
+    "featureId": 609,
+    "population": 850967
+  },
+  {
+    "county": "Dane County",
+    "cases": 6,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -89.4235435,
+      43.069541
+    ],
+    "featureId": 610,
+    "population": 542364
+  },
+  {
+    "county": "Fond du Lac County",
+    "cases": 6,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -88.5234625,
+      43.7405715
+    ],
+    "featureId": 611,
+    "population": 103066
+  },
+  {
+    "county": "Milwaukee County",
+    "cases": 6,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -87.94847250000001,
+      43.017386
+    ],
+    "featureId": 612,
+    "population": 948201
+  },
+  {
+    "county": "Pierce County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -92.47159500000001,
+      44.7007885
+    ],
+    "featureId": 613,
+    "population": 42555
+  },
+  {
+    "county": "Racine County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -88.0365295,
+      42.72707
+    ],
+    "featureId": 614,
+    "population": 196584
+  },
+  {
+    "county": "Sheboygan County",
+    "cases": 3,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -87.9311795,
+      43.7172725
+    ],
+    "featureId": 615,
+    "population": 115456
+  },
+  {
+    "county": "Waukesha County",
+    "cases": 3,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -88.30268950000001,
+      43.018702
+    ],
+    "featureId": 616,
+    "population": 403072
+  },
+  {
+    "county": "Winnebago County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "coordinates": [
+      -88.644934,
+      44.0685395
+    ],
+    "featureId": 617,
+    "population": 171020
+  },
+  {
+    "county": "Beadle County",
+    "cases": 1,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -98.279395,
+      44.414696
+    ],
+    "featureId": 618,
+    "population": 18883
+  },
+  {
+    "county": "Bon Homme County",
+    "cases": 1,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -97.899183,
+      42.965534500000004
+    ],
+    "featureId": 619,
+    "population": 6980
+  },
+  {
+    "county": "Charles Mix County",
+    "cases": 1,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -98.6895585,
+      43.1683905
+    ],
+    "featureId": 620,
+    "population": 9338
+  },
+  {
+    "county": "Davison County",
+    "cases": 1,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -98.145127,
+      43.6746775
+    ],
+    "featureId": 621,
+    "population": 19790
+  },
+  {
+    "county": "McCook County",
+    "cases": 1,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -97.368803,
+      43.674370999999994
+    ],
+    "featureId": 622,
+    "population": 5546
+  },
+  {
+    "county": "Minnehaha County",
+    "cases": 3,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -96.7912635,
+      43.674592
+    ],
+    "featureId": 623,
+    "population": 192876
+  },
+  {
+    "county": "Pennington County",
+    "cases": 1,
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "coordinates": [
+      -103.02822599999999,
+      44.098381
+    ],
+    "featureId": 624,
+    "population": 111729
+  },
+  {
+    "county": "Bear River County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/"
+  },
+  {
+    "county": "Central Utah County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/"
+  },
+  {
+    "county": "Davis County",
+    "cases": 2,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -112.115984,
+      40.963095499999994
+    ],
+    "featureId": 625,
+    "population": 351713
+  },
+  {
+    "county": "Salt Lake County",
+    "cases": 14,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -111.9083075,
+      40.66808399999999
+    ],
+    "featureId": 626,
+    "population": 1152633
+  },
+  {
+    "county": "San Juan County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -110.226921,
+      37.748977499999995
+    ],
+    "featureId": 627,
+    "population": 15449
+  },
+  {
+    "county": "Southeast Utah County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/"
+  },
+  {
+    "county": "Southwest Utah County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/"
+  },
+  {
+    "county": "Summit County",
+    "cases": 2,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -110.82489050000001,
+      40.9000835
+    ],
+    "featureId": 628,
+    "population": 41933
+  },
+  {
+    "county": "Tooele County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -113.09571600000001,
+      40.490421
+    ],
+    "featureId": 629,
+    "population": 69907
+  },
+  {
+    "county": "Tri County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/"
+  },
+  {
+    "county": "Utah County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -111.5347685,
+      40.176925999999995
+    ],
+    "featureId": 630,
+    "population": 622213
+  },
+  {
+    "county": "Wasatch County",
+    "cases": 0,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -111.25642,
+      40.294765
+    ],
+    "featureId": 631,
+    "population": 33240
+  },
+  {
+    "county": "Weber-Morgan County",
+    "cases": 1,
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus.utah.gov/latest/"
+  },
+  {
+    "county": "Allegheny County",
+    "cases": 2,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -80.02482499999999,
+      40.434321
+    ],
+    "featureId": 632,
+    "population": 1218452
+  },
+  {
+    "county": "Bucks County",
+    "cases": 3,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.1027805,
+      40.3287395
+    ],
+    "featureId": 633,
+    "population": 628195
+  },
+  {
+    "county": "Chester County",
+    "cases": 2,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.748325,
+      39.9833405
+    ],
+    "featureId": 634,
+    "population": 522046
+  },
+  {
+    "county": "Cumberland County",
+    "cases": 3,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -77.2432875,
+      40.1362805
+    ],
+    "featureId": 635,
+    "population": 251423
+  },
+  {
+    "county": "Delaware County",
+    "cases": 6,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.404395,
+      39.9336645
+    ],
+    "featureId": 636,
+    "population": 564751
+  },
+  {
+    "county": "Monroe County",
+    "cases": 3,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.308198,
+      41.0334235
+    ],
+    "featureId": 637,
+    "population": 169507
+  },
+  {
+    "county": "Montgomery County",
+    "cases": 20,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.355924,
+      40.211977000000005
+    ],
+    "featureId": 638,
+    "population": 828604
+  },
+  {
+    "county": "Northampton County",
+    "cases": 1,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.32991200000001,
+      40.752713
+    ],
+    "featureId": 639,
+    "population": 304807
+  },
+  {
+    "county": "Philadelphia County",
+    "cases": 4,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.116323,
+      40.0018505
+    ],
+    "featureId": 640,
+    "population": 1584138
+  },
+  {
+    "county": "Pike County",
+    "cases": 1,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.02435,
+      41.340779
+    ],
+    "featureId": 641,
+    "population": 55933
+  },
+  {
+    "county": "Washington County",
+    "cases": 1,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -80.1791085,
+      40.2152165
+    ],
+    "featureId": 642,
+    "population": 207346
+  },
+  {
+    "county": "Wayne County",
+    "cases": 1,
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.2745845,
+      41.615992000000006
+    ],
+    "featureId": 643,
+    "population": 51276
+  },
+  {
+    "county": "Campbell County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -84.138375,
+      36.3848795
+    ],
+    "featureId": 644,
+    "population": 39583
+  },
+  {
+    "county": "Davidson County",
+    "cases": 14,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.7851325,
+      36.186859999999996
+    ],
+    "featureId": 645,
+    "population": 692587
+  },
+  {
+    "county": "Hamilton County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -85.20821749999999,
+      35.2208105
+    ],
+    "featureId": 646,
+    "population": 364286
+  },
+  {
+    "county": "Jefferson County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.47225449999999,
+      36.039116
+    ],
+    "featureId": 647,
+    "population": 54012
+  },
+  {
+    "county": "Knox County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.96127200000001,
+      35.9910705
+    ],
+    "featureId": 648,
+    "population": 465289
+  },
+  {
+    "county": "Rutherford County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.4205235,
+      35.8595905
+    ],
+    "featureId": 649,
+    "population": 324890
+  },
+  {
+    "county": "Shelby County",
+    "cases": 2,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -89.97153700000001,
+      35.2013885
+    ],
+    "featureId": 650,
+    "population": 935764
+  },
+  {
+    "county": "Sullivan County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -82.2645105,
+      36.5043
+    ],
+    "featureId": 651,
+    "population": 157668
+  },
+  {
+    "county": "Williamson County",
+    "cases": 10,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.90776349999999,
+      35.875785500000006
+    ],
+    "featureId": 652,
+    "population": 231729
+  },
+  {
+    "county": "Belmont County",
+    "cases": 2,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -80.970149,
+      40.011337999999995
+    ],
+    "featureId": 653,
+    "population": 67505
+  },
+  {
+    "county": "Butler County",
+    "cases": 4,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -84.5757445,
+      39.441655499999996
+    ],
+    "featureId": 654,
+    "population": 382378
+  },
+  {
+    "county": "Cuyahoga County",
+    "cases": 11,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -81.67301699999999,
+      41.453196000000005
+    ],
+    "featureId": 655,
+    "population": 1243857
+  },
+  {
+    "county": "Franklin County",
+    "cases": 1,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -83.010875,
+      39.9690415
+    ],
+    "featureId": 656,
+    "population": 1310300
+  },
+  {
+    "county": "Lorain County",
+    "cases": 1,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -82.112518,
+      41.289587999999995
+    ],
+    "featureId": 657,
+    "population": 309461
+  },
+  {
+    "county": "Stark County",
+    "cases": 3,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -81.3683635,
+      40.811817000000005
+    ],
+    "featureId": 658,
+    "population": 371574
+  },
+  {
+    "county": "Summit County",
+    "cases": 2,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -81.5400925,
+      41.1288115
+    ],
+    "featureId": 659,
+    "population": 541918
+  },
+  {
+    "county": "Trumbull County",
+    "cases": 2,
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -80.76100600000001,
+      41.3175365
+    ],
+    "featureId": 660,
+    "population": 198627
+  },
+  {
+    "county": "Fairfield County",
+    "cases": 15,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -73.397813,
+      41.3259525
+    ],
+    "featureId": 661,
+    "population": 943823
+  },
+  {
+    "county": "Hartford County",
+    "cases": 1,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -72.71937700000001,
+      41.7926935
+    ],
+    "featureId": 662,
+    "population": 892697
+  },
+  {
+    "county": "Litchfield County",
+    "cases": 3,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -73.20264900000001,
+      41.759701
+    ],
+    "featureId": 663,
+    "population": 181111
+  },
+  {
+    "county": "New Haven County",
+    "cases": 1,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -72.93228500000001,
+      41.4056375
+    ],
+    "featureId": 664,
+    "population": 857620
   }
 ]
