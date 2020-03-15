@@ -383,65 +383,65 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,,Aruba,2,0,0,,12.497626043500048,-69.9691462879999,https://github.com/CSSEGISandData/COVID-19,375,115120
 ,,,Kenya,1,0,0,,0.1521078450765998,37.889294067000066,https://github.com/CSSEGISandData/COVID-19,376,47615739
 ,,,Antigua and Barbuda,1,0,0,,17.098659572500083,-61.78465735599994,https://github.com/CSSEGISandData/COVID-19,377,94731
-,,Alabama,USA,0,,,,32.6211173120505,-86.69343876373793,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,378,4903185
-,,Alaska,USA,0,,,,61.51689280800005,0.7835596040000752,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,379,731545
-,,American Samoa,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,Arizona,USA,9,,,,34.165156819218375,-111.93299895849756,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,380,7278717
-,,Arkansas,USA,6,,,,34.755387388617066,-92.142816204804,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,381,3017804
-,,California,USA,224,,,,37.26560485570404,-119.26717119749563,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,382,39512223
-,,Colorado,USA,49,,,,38.99982098225249,-105.54309696705135,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,383,5758736
-,,Connecticut,USA,7,,,,41.52780529315321,-72.75935673202756,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,384,3565287
-,,Delaware,USA,15,,,,39.14564123795276,-75.41630955251765,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,385,973764
-,,District of Columbia,USA,15,,,,38.899451555326564,-77.0145477695639,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,386,705749
-,,Florida,USA,31,,,,28.060753542550117,-83.82965067998012,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,387,21477737
-,,Georgia,USA,45,,,,32.68249920507424,-83.22068258120515,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,388,10617423
-,,Guam,USA,0,,,,13.443487860500056,144.79749596450006,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,389,
-,,Hawaii,USA,15,,,,20.58419053050008,-157.30113772849992,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,390,1415872
-,,Idaho,USA,0,,,,45.49602738420207,-114.12702030654191,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,391,1787065
-,,Illinois,USA,32,,,,39.74570721281759,-89.26887859227318,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,392,12671821
-,,Indiana,USA,12,,,,39.774149595877134,-86.41467899783746,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,393,6732219
-,,Iowa,USA,16,,,,41.94023846253498,-93.38911747419203,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,394,3155070
-,,Kansas,USA,15,,,,38.49995525967745,-98.33450321689992,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,395,2913314
-,,Kentucky,USA,11,,,,37.820719419565535,-85.69484257237679,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,396,4467673
-,,Louisiana,USA,14,,,,31.022399050426287,-91.53320699521313,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,397,4648794
-,,Maine,USA,15,,,,45.261826073000044,-69.03113847999994,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,398,1344212
-,,Marshall Islands,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,Maryland,USA,12,,,,4.732829714012851,-7.820522355408116,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,399,6045680
-,,Massachusetts,USA,108,,,,42.12038082106261,-71.72305888370983,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,400,6892503
-,,Michigan,USA,15,,,,44.99773029893432,-86.2800539156174,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,401,9986857
+,,AL,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,AK,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,AS,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,AZ,USA,9,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,AR,USA,6,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,CA,USA,224,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,CO,USA,49,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,CT,USA,7,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,DE,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,District of Columbia,USA,15,,,,38.899451555326564,-77.0145477695639,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,378,705749
+,,FL,USA,31,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,GA,USA,45,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,GU,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,HI,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,ID,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,IL,USA,32,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,IN,USA,12,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,IA,USA,16,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,KS,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,KY,USA,11,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,LA,USA,14,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,ME,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MH,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MD,USA,12,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MA,USA,108,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MI,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,Micronesia,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,Minnesota,USA,10,,,,46.434810139826055,-93.36252550514794,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,402,5639632
-,,Mississippi,USA,15,,,,32.59642655665229,-89.87338261081882,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,403,2976149
-,,Missouri,USA,15,,,,38.30249432230511,-92.44567264977294,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,404,6137428
-,,Montana,USA,15,,,,43.501877025549824,23.173404290210883,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,405,1068778
-,,Nebraska,USA,10,,,,41.50023602157509,-99.68549198596634,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,406,1934408
-,,Nevada,USA,11,,,,38.50182293528022,-117.02047733760901,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,407,3080156
-,,New Hampshire,USA,6,,,,44.002575579129676,-71.64192281532604,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,408,1359711
-,,New Jersey,USA,29,,,,40.14601558652788,-74.71937008349994,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,409,8882190
-,,New Mexico,USA,15,,,,34.16360001562739,-106.02383427161152,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,410,2096829
-,,New York,USA,325,,,,42.76080525150005,-75.8409706677239,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,8,19453561
-,,North Carolina,USA,15,,,,35.24607653682786,-80.02322978144363,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,411,10488084
-,,North Dakota,USA,15,,,,47.46721085597658,-100.3019580214955,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,412,762062
+,,MN,USA,10,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MS,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MO,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,MT,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NE,USA,10,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NV,USA,11,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NH,USA,6,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NJ,USA,29,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NM,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NY,USA,325,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,NC,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,ND,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,Northern Marianas,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,Ohio,USA,15,,,,40.36645852284252,-82.67188114679749,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,413,11689100
-,,Oklahoma,USA,15,,,,35.32361248602737,-98.71994022800911,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,414,3956971
-,,Oregon,USA,24,,,,44.11740471870206,-120.50533834262885,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,415,4217737
-,,Palau,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,Pennsylvania,USA,23,,,,41.12951166463159,-77.60961308037935,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,416,12801989
-,,Puerto Rico,USA,0,,,,18.225958563000063,-66.43130303399991,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,417,3193694
-,,Rhode Island,USA,15,,,,41.66332011094793,-71.48453225865693,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,418,1059361
-,,South Carolina,USA,12,,,,33.619274050261765,-80.96432271741013,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,419,5148714
-,,South Dakota,USA,8,,,,44.230179869105655,-100.2551086848679,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,420,884659
-,,Tennessee,USA,18,,,,35.837455259602535,-85.98153690830165,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,421,6829174
-,,Texas,USA,24,,,,31.177528238191037,-100.0884705015624,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,422,28995881
-,,Utah,USA,15,,,,39.49994305252983,-111.54443973955233,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,423,3205958
-,,Vermont,USA,15,,,,43.87150381198679,-72.47219594044931,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,424,623989
-,,Virgin Islands,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,Virginia,USA,29,,,,37.99530438119223,-79.76028754243612,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,425,8535519
-,,Washington,USA,457,,,,47.27941361449236,-120.80671709265283,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,426,7614893
-,,West Virginia,USA,0,,,,38.92806805344787,-80.1829407161911,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,427,1792147
-,,Wisconsin,USA,8,,,,44.89991863863423,-89.56690985655462,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,428,5822434
-,,Wyoming,USA,15,,,,42.999967466625236,-107.55199589229656,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,429,578759
+,,OH,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,OK,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,OR,USA,24,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,PW,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,PA,USA,23,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,PR,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,RI,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,SC,USA,12,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,SD,USA,8,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,TN,USA,18,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,TX,USA,24,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,UT,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,VT,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,VI,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,VA,USA,29,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,WA,USA,457,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,WV,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,WI,USA,8,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
+,,WY,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,Zurich,,CHE,140,0,11,0,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,
 ,,Abruzzo,ITA,112,2,4,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
 ,,Basilicata,ITA,10,0,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
@@ -451,7 +451,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Emilia Romagna,ITA,2644,241,54,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4459477
 ,,Friuli Venezia Giulia,ITA,301,13,17,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
 ,,Lazio,ITA,357,13,24,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
-,,Liguria,ITA,463,27,52,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,430,1550640
+,,Liguria,ITA,463,27,52,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,379,1550640
 ,,Lombardia,ITA,11685,966,1660,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
 ,,Marche,ITA,899,36,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
 ,,Molise,ITA,17,0,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
@@ -464,152 +464,152 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Umbria,ITA,107,1,3,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
 ,,Valle d'Aosta,ITA,42,1,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
 ,,Veneto,ITA,1937,55,107,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
-,Copiah County,MS,USA,1,,,,31.867576,-90.42352199999999,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",431,28543
-,Pearl River County,MS,USA,1,,,,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",432,55387
-,Leflore County,MS,USA,1,,,,33.523355,-90.277601,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",433,28919
-,Forrest County,MS,USA,3,,,,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",434,75036
+,Copiah County,MS,USA,1,,,,31.867576,-90.42352199999999,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",380,28543
+,Pearl River County,MS,USA,1,,,,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",381,55387
+,Leflore County,MS,USA,1,,,,33.523355,-90.277601,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",382,28919
+,Forrest County,MS,USA,3,,,,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",383,75036
 ,,DC,USA,16,,,115,,,https://coronavirus.dc.gov/page/coronavirus-data,,
-,Baldwin County,AL,USA,1,1,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,435,218022
-,Elmore County,AL,USA,1,1,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,436,81887
-,Jefferson County,AL,USA,5,5,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,437,659300
-,Limestone County,AL,USA,1,1,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,438,96174
-,Montgomery County,AL,USA,1,1,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,439,225763
-,Tuscaloosa County,AL,USA,2,2,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,440,208911
+,Baldwin County,AL,USA,1,1,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,384,218022
+,Elmore County,AL,USA,1,1,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,385,81887
+,Jefferson County,AL,USA,5,5,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,386,659300
+,Limestone County,AL,USA,1,1,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,387,96174
+,Montgomery County,AL,USA,1,1,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,388,225763
+,Tuscaloosa County,AL,USA,2,2,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,389,208911
 ,Out of State County,AL,USA,1,1,,,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,
-,Adams County,CO,USA,6,,,,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,441,511868
-,Arapahoe County,CO,USA,10,,,,39.6533655,-104.38034350000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,442,651215
-,Denver County,CO,USA,20,,,,39.76426,-104.855181,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,443,716492
-,Douglas County,CO,USA,4,,,,39.34788,-104.994923,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,444,342776
-,Eagle County,CO,USA,18,,,,39.6373275,-106.645068,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,445,54993
-,El Paso County,CO,USA,3,,,,38.824693999999994,-104.5619235,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,446,713856
-,Gunnison County,CO,USA,6,,,,38.702179,-106.94099,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,447,17246
-,Jefferson County,CO,USA,9,,,,39.5219745,-105.2238445,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,448,580233
-,Larimer County,CO,USA,1,,,,40.628046999999995,-105.5669625,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,449,350518
-,Mesa County,CO,USA,1,,,,38.933332,-108.21971400000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,450,153207
-,Pitkin County,CO,USA,2,,,,39.171949,-106.946222,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,451,17950
-,Pueblo County,CO,USA,1,,,,38.1285485,-104.5522995,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,452,167529
-,Summit County,CO,USA,2,,,,39.6416725,-106.10532549999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,453,31007
-,Weld County,CO,USA,3,,,,40.5011525,-104.315327,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,454,314305
-,Clackamas County,OR,USA,1,,,,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,455,416075
-,Deschutes County,OR,USA,3,,,,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,456,191996
-,Douglas County,OR,USA,1,,,,43.3222345,-123.0963585,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,457,110283
-,Jackson County,OR,USA,2,,,,42.4995805,-122.756742,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,458,219564
-,Klamath County,OR,USA,1,,,,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,459,67653
-,Linn County,OR,USA,9,,,,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,460,127335
-,Marion County,OR,USA,2,,,,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,461,346868
-,Multnomah County,OR,USA,1,,,,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,462,811880
-,Polk County,OR,USA,1,,,,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,463,85234
-,Umatilla County,OR,USA,2,,,,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,464,77516
-,Washington County,OR,USA,13,,,,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,465,597695
-,De Soto Parish,LA,USA,0,0,,,32.0948115,-93.699102,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,466,27436
-,St. John the Baptist Parish,LA,USA,1,0,,,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,467,43184
-,Lafourche Parish,LA,USA,1,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,468,98115
-,Orleans Parish,LA,USA,53,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,469,391006
-,Sabine Parish,LA,USA,0,0,,,31.505406999999998,-93.557699,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,470,24032
-,Tangipahoa Parish,LA,USA,0,0,,,30.612403,-90.405269,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,471,133777
-,St. Tammany Parish,LA,USA,2,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,472,258111
-,Livingston Parish,LA,USA,0,0,,,30.412879,-90.696248,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,473,139567
-,St. Charles Parish,LA,USA,2,0,,,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,474,52879
-,Calcasieu Parish,LA,USA,0,0,,,30.2639165,-93.326522,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,475,203112
-,Union Parish,LA,USA,0,0,,,32.7976865,-92.394117,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,476,22330
-,Caldwell Parish,LA,USA,0,0,,,32.102264500000004,-92.09278499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,477,9960
-,Tensas Parish,LA,USA,0,0,,,31.991290499999998,-91.3045835,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,478,4462
-,Jackson Parish,LA,USA,0,0,,,32.3212645,-92.56701000000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,479,15902
-,Grant Parish,LA,USA,0,0,,,31.5926135,-92.58483,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,480,22482
-,Lincoln Parish,LA,USA,0,0,,,32.606269499999996,-92.64820449999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,481,47196
-,Jefferson Davis Parish,LA,USA,0,0,,,30.2628035,-92.857122,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,482,31582
-,Lafayette Parish,LA,USA,0,0,,,30.2075775,-92.0951095,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,483,242782
-,East Carroll Parish,LA,USA,0,0,,,32.7714455,-91.2303025,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,484,7037
-,East Feliciana Parish,LA,USA,0,0,,,30.824589,-91.0732675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,485,19305
-,Iberville Parish,LA,USA,0,0,,,30.2613845,-91.3600815,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,486,32721
-,Richland Parish,LA,USA,0,0,,,32.409445500000004,-91.732693,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,487,20192
-,St. Martin Parish,LA,USA,0,0,,,30.09857,-91.53909150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,488,53621
-,Claiborne Parish,LA,USA,0,0,,,32.8016545,-92.981675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,489,15944
-,St. Landry Parish,LA,USA,0,0,,,30.573712,-92.08607749999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,490,82764
-,Pointe Coupee Parish,LA,USA,0,0,,,30.750701999999997,-91.5623665,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,491,21940
-,La Salle Parish,LA,USA,0,0,,,31.6257625,-92.186641,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,492,
-,Webster Parish,LA,USA,0,0,,,32.7143435,-93.3384255,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,493,38798
-,St. James Parish,LA,USA,0,0,,,30.027838,-90.8028455,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,494,21037
-,Morehouse Parish,LA,USA,0,0,,,32.7570325,-91.76029249999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,495,25398
-,Rapides Parish,LA,USA,0,0,,,31.203797,-92.5286315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,496,130562
-,Avoyelles Parish,LA,USA,0,0,,,31.095483,-91.97901999999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,497,40462
-,Winn Parish,LA,USA,0,0,,,31.928432,-92.64287350000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,498,14134
-,Catahoula Parish,LA,USA,0,0,,,31.5993165,-91.776279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,499,9608
-,Assumption Parish,LA,USA,0,0,,,29.8539995,-91.0722915,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,500,22300
-,Caddo Parish,LA,USA,1,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,501,242922
-,Washington Parish,LA,USA,0,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,502,46582
-,East Baton Rouge Parish,LA,USA,0,0,,,30.516002,-91.0821615,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,503,440956
-,Natchitoches Parish,LA,USA,0,0,,,31.747528000000003,-93.080363,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,504,38659
-,Bienville Parish,LA,USA,0,0,,,32.366091999999995,-93.10068150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,505,13308
-,Bossier Parish,LA,USA,1,0,,,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,506,127185
-,Allen Parish,LA,USA,0,0,,,30.661153,-92.856948,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,507,25605
-,Ouachita Parish,LA,USA,0,0,,,32.4907775,-92.159829,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,508,154475
-,St. Helena Parish,LA,USA,0,0,,,30.824559,-90.738279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,509,10262
-,West Feliciana Parish,LA,USA,0,0,,,30.8493775,-91.46312950000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,510,15460
-,West Carroll Parish,LA,USA,0,0,,,32.7940275,-91.45007849999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,511,10982
-,Concordia Parish,LA,USA,0,0,,,31.366113,-91.622707,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,512,19572
-,West Baton Rouge Parish,LA,USA,0,0,,,30.490574000000002,-91.313597,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,513,26427
-,Madison Parish,LA,USA,0,0,,,32.341573,-91.216415,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,514,11161
-,Ascension Parish,LA,USA,0,0,,,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,515,124672
-,Acadia Parish,LA,USA,0,0,,,30.2652335,-92.38683499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,516,62190
-,Beauregard Parish,LA,USA,0,0,,,30.6430015,-93.35856949999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,517,37253
-,Franklin Parish,LA,USA,0,0,,,32.1420035,-91.6867355,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,518,20156
-,Evangeline Parish,LA,USA,0,0,,,30.7409765,-92.40312349999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,519,33443
-,Vernon Parish,LA,USA,0,0,,,31.1119345,-93.19772900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,520,48860
-,Red River Parish,LA,USA,0,0,,,32.062484,-93.367939,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,521,8477
-,Vermilion Parish,LA,USA,0,0,,,29.8402345,-92.351531,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,522,59830
-,Plaquemines Parish,LA,USA,0,0,,,29.4150075,-89.5381785,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,523,23410
-,St. Mary Parish,LA,USA,0,0,,,29.7141755,-91.48180049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,524,49774
-,Cameron Parish,LA,USA,0,0,,,29.8158395,-93.27240900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,525,6968
-,Iberia Parish,LA,USA,0,0,,,29.7982045,-91.632762,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,526,70941
-,St. Bernard Parish,LA,USA,0,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,527,46721
-,Terrebonne Parish,LA,USA,1,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,528,111021
-,Jefferson Parish,LA,USA,11,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,529,434051
-,Carroll County,IA,USA,1,,,,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,530,20154
-,Dallas County,IA,USA,1,,,,41.683413,-94.03547599999999,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,531,90180
-,Harrison County,IA,USA,1,,,,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,532,14134
-,Johnson County,IA,USA,14,,,,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,533,151260
-,Pottawattamie County,IA,USA,1,,,,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,534,93533
-,Bell County,TX,USA,1,,,,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,535,355642
-,Bexar County,TX,USA,1,,,,29.4374885,-98.4636305,https://www.dshs.state.tx.us/news/updates.shtm,536,1986049
-,Brazoria County,TX,USA,2,,,,29.2119295,-95.46632349999999,https://www.dshs.state.tx.us/news/updates.shtm,537,370200
-,Collin County,TX,USA,5,,,,33.193628000000004,-96.569696,https://www.dshs.state.tx.us/news/updates.shtm,538,1005146
-,Dallas County,TX,USA,8,,,,32.767269,-96.7776255,https://www.dshs.state.tx.us/news/updates.shtm,539,2637772
-,El Paso County,TX,USA,1,,,,31.6946625,-106.299987,https://www.dshs.state.tx.us/news/updates.shtm,540,840758
-,Fort Bend County,TX,USA,9,,,,29.525435,-95.75651500000001,https://www.dshs.state.tx.us/news/updates.shtm,541,787858
-,Galveston County,TX,USA,1,,,,29.3376555,-94.8019735,https://www.dshs.state.tx.us/news/updates.shtm,542,337890
-,Gregg County,TX,USA,1,,,,32.5138005,-94.78307699999999,https://www.dshs.state.tx.us/news/updates.shtm,543,123707
-,Harris County,TX,USA,10,,,,29.833973999999998,-95.43486150000001,https://www.dshs.state.tx.us/news/updates.shtm,544,4698619
-,Hays County,TX,USA,1,,,,30.054378,-98.0039075,https://www.dshs.state.tx.us/news/updates.shtm,545,222631
-,Lavaca County,TX,USA,1,,,,29.347974999999998,-96.9003315,https://www.dshs.state.tx.us/news/updates.shtm,546,20110
-,Montgomery County,TX,USA,3,,,,30.3290225,-95.463474,https://www.dshs.state.tx.us/news/updates.shtm,547,590925
-,Smith County,TX,USA,3,,,,32.4112925,-95.2899065,https://www.dshs.state.tx.us/news/updates.shtm,548,230221
-,Tarrant County,TX,USA,3,,,,32.7714195,-97.29143450000001,https://www.dshs.state.tx.us/news/updates.shtm,549,2084931
-,Travis County,TX,USA,1,,,,30.326374,-97.771258,https://www.dshs.state.tx.us/news/updates.shtm,550,1248743
-,New Castle County,DE,USA,6,,,,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,551,559335
-,Kent County,DE,USA,0,,,,39.0977575,-75.5358555,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,552,178550
-,Sussex County,DE,USA,0,,,,38.706443,-75.38576900000001,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,553,229286
-,Manatee County,FL,USA,4,,,,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,554,394855
-,Hillsborough County,FL,USA,2,,,,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,555,1436888
-,Santa Rosa County,FL,USA,1,,,,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,556,179349
-,Broward County,FL,USA,20,,,,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,557,1951260
-,Lee County,FL,USA,4,,,,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,558,754610
-,Charlotte County,FL,USA,1,,,,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,559,184998
-,Okaloosa County,FL,USA,1,,,,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,560,207269
-,Volusia County,FL,USA,4,,,,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,561,547538
-,Nassau County,FL,USA,1,,,,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,562,85832
-,Collier County,FL,USA,3,,,,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,563,378488
-,Pinellas County,FL,USA,2,,,,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,564,975280
-,Pasco County,FL,USA,1,,,,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,565,539630
-,Miami-Dade County,FL,USA,8,,,,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,566,2761581
-,Seminole County,FL,USA,1,,,,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,567,467832
-,Palm Beach County,FL,USA,5,,,,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,568,1485941
-,Sarasota County,FL,USA,1,,,,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,569,426718
-,Alachua County,FL,USA,1,,,,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,570,269956
-,Duval County,FL,USA,1,,,,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,571,950181
-,Clay County,FL,USA,1,,,,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,572,216072
-,Orange County,FL,USA,1,,,,28.566533999999997,-81.2607525,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,573,1380645
-,Osceola County,FL,USA,1,,,,27.995169500000003,-81.2600415,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,574,367990
+,Adams County,CO,USA,6,,,,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,390,511868
+,Arapahoe County,CO,USA,10,,,,39.6533655,-104.38034350000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,391,651215
+,Denver County,CO,USA,20,,,,39.76426,-104.855181,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,392,716492
+,Douglas County,CO,USA,4,,,,39.34788,-104.994923,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,393,342776
+,Eagle County,CO,USA,18,,,,39.6373275,-106.645068,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,394,54993
+,El Paso County,CO,USA,3,,,,38.824693999999994,-104.5619235,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,395,713856
+,Gunnison County,CO,USA,6,,,,38.702179,-106.94099,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,396,17246
+,Jefferson County,CO,USA,9,,,,39.5219745,-105.2238445,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,397,580233
+,Larimer County,CO,USA,1,,,,40.628046999999995,-105.5669625,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,398,350518
+,Mesa County,CO,USA,1,,,,38.933332,-108.21971400000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,399,153207
+,Pitkin County,CO,USA,2,,,,39.171949,-106.946222,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,400,17950
+,Pueblo County,CO,USA,1,,,,38.1285485,-104.5522995,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,401,167529
+,Summit County,CO,USA,2,,,,39.6416725,-106.10532549999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,402,31007
+,Weld County,CO,USA,3,,,,40.5011525,-104.315327,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,403,314305
+,Clackamas County,OR,USA,1,,,,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,404,416075
+,Deschutes County,OR,USA,3,,,,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,405,191996
+,Douglas County,OR,USA,1,,,,43.3222345,-123.0963585,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,406,110283
+,Jackson County,OR,USA,2,,,,42.4995805,-122.756742,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,407,219564
+,Klamath County,OR,USA,1,,,,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,408,67653
+,Linn County,OR,USA,9,,,,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,409,127335
+,Marion County,OR,USA,2,,,,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,410,346868
+,Multnomah County,OR,USA,1,,,,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,411,811880
+,Polk County,OR,USA,1,,,,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,412,85234
+,Umatilla County,OR,USA,2,,,,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,413,77516
+,Washington County,OR,USA,13,,,,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,414,597695
+,De Soto Parish,LA,USA,0,0,,,32.0948115,-93.699102,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,415,27436
+,St. John the Baptist Parish,LA,USA,1,0,,,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,416,43184
+,Lafourche Parish,LA,USA,1,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,417,98115
+,Orleans Parish,LA,USA,53,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,418,391006
+,Sabine Parish,LA,USA,0,0,,,31.505406999999998,-93.557699,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,419,24032
+,Tangipahoa Parish,LA,USA,0,0,,,30.612403,-90.405269,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,420,133777
+,St. Tammany Parish,LA,USA,2,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,421,258111
+,Livingston Parish,LA,USA,0,0,,,30.412879,-90.696248,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,422,139567
+,St. Charles Parish,LA,USA,2,0,,,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,423,52879
+,Calcasieu Parish,LA,USA,0,0,,,30.2639165,-93.326522,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,424,203112
+,Union Parish,LA,USA,0,0,,,32.7976865,-92.394117,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,425,22330
+,Caldwell Parish,LA,USA,0,0,,,32.102264500000004,-92.09278499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,426,9960
+,Tensas Parish,LA,USA,0,0,,,31.991290499999998,-91.3045835,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,427,4462
+,Jackson Parish,LA,USA,0,0,,,32.3212645,-92.56701000000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,428,15902
+,Grant Parish,LA,USA,0,0,,,31.5926135,-92.58483,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,429,22482
+,Lincoln Parish,LA,USA,0,0,,,32.606269499999996,-92.64820449999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,430,47196
+,Jefferson Davis Parish,LA,USA,0,0,,,30.2628035,-92.857122,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,431,31582
+,Lafayette Parish,LA,USA,0,0,,,30.2075775,-92.0951095,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,432,242782
+,East Carroll Parish,LA,USA,0,0,,,32.7714455,-91.2303025,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,433,7037
+,East Feliciana Parish,LA,USA,0,0,,,30.824589,-91.0732675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,434,19305
+,Iberville Parish,LA,USA,0,0,,,30.2613845,-91.3600815,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,435,32721
+,Richland Parish,LA,USA,0,0,,,32.409445500000004,-91.732693,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,436,20192
+,St. Martin Parish,LA,USA,0,0,,,30.09857,-91.53909150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,437,53621
+,Claiborne Parish,LA,USA,0,0,,,32.8016545,-92.981675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,438,15944
+,St. Landry Parish,LA,USA,0,0,,,30.573712,-92.08607749999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,439,82764
+,Pointe Coupee Parish,LA,USA,0,0,,,30.750701999999997,-91.5623665,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,440,21940
+,La Salle Parish,LA,USA,0,0,,,31.6257625,-92.186641,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,441,
+,Webster Parish,LA,USA,0,0,,,32.7143435,-93.3384255,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,442,38798
+,St. James Parish,LA,USA,0,0,,,30.027838,-90.8028455,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,443,21037
+,Morehouse Parish,LA,USA,0,0,,,32.7570325,-91.76029249999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,444,25398
+,Rapides Parish,LA,USA,0,0,,,31.203797,-92.5286315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,445,130562
+,Avoyelles Parish,LA,USA,0,0,,,31.095483,-91.97901999999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,446,40462
+,Winn Parish,LA,USA,0,0,,,31.928432,-92.64287350000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,447,14134
+,Catahoula Parish,LA,USA,0,0,,,31.5993165,-91.776279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,448,9608
+,Assumption Parish,LA,USA,0,0,,,29.8539995,-91.0722915,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,449,22300
+,Caddo Parish,LA,USA,1,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,450,242922
+,Washington Parish,LA,USA,0,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,451,46582
+,East Baton Rouge Parish,LA,USA,0,0,,,30.516002,-91.0821615,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,452,440956
+,Natchitoches Parish,LA,USA,0,0,,,31.747528000000003,-93.080363,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,453,38659
+,Bienville Parish,LA,USA,0,0,,,32.366091999999995,-93.10068150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,454,13308
+,Bossier Parish,LA,USA,1,0,,,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,455,127185
+,Allen Parish,LA,USA,0,0,,,30.661153,-92.856948,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,456,25605
+,Ouachita Parish,LA,USA,0,0,,,32.4907775,-92.159829,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,457,154475
+,St. Helena Parish,LA,USA,0,0,,,30.824559,-90.738279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,458,10262
+,West Feliciana Parish,LA,USA,0,0,,,30.8493775,-91.46312950000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,459,15460
+,West Carroll Parish,LA,USA,0,0,,,32.7940275,-91.45007849999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,460,10982
+,Concordia Parish,LA,USA,0,0,,,31.366113,-91.622707,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,461,19572
+,West Baton Rouge Parish,LA,USA,0,0,,,30.490574000000002,-91.313597,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,462,26427
+,Madison Parish,LA,USA,0,0,,,32.341573,-91.216415,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,463,11161
+,Ascension Parish,LA,USA,0,0,,,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,464,124672
+,Acadia Parish,LA,USA,0,0,,,30.2652335,-92.38683499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,465,62190
+,Beauregard Parish,LA,USA,0,0,,,30.6430015,-93.35856949999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,466,37253
+,Franklin Parish,LA,USA,0,0,,,32.1420035,-91.6867355,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,467,20156
+,Evangeline Parish,LA,USA,0,0,,,30.7409765,-92.40312349999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,468,33443
+,Vernon Parish,LA,USA,0,0,,,31.1119345,-93.19772900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,469,48860
+,Red River Parish,LA,USA,0,0,,,32.062484,-93.367939,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,470,8477
+,Vermilion Parish,LA,USA,0,0,,,29.8402345,-92.351531,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,471,59830
+,Plaquemines Parish,LA,USA,0,0,,,29.4150075,-89.5381785,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,472,23410
+,St. Mary Parish,LA,USA,0,0,,,29.7141755,-91.48180049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,473,49774
+,Cameron Parish,LA,USA,0,0,,,29.8158395,-93.27240900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,474,6968
+,Iberia Parish,LA,USA,0,0,,,29.7982045,-91.632762,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,475,70941
+,St. Bernard Parish,LA,USA,0,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,476,46721
+,Terrebonne Parish,LA,USA,1,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,477,111021
+,Jefferson Parish,LA,USA,11,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,478,434051
+,Carroll County,IA,USA,1,,,,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,479,20154
+,Dallas County,IA,USA,1,,,,41.683413,-94.03547599999999,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,480,90180
+,Harrison County,IA,USA,1,,,,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,481,14134
+,Johnson County,IA,USA,14,,,,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,482,151260
+,Pottawattamie County,IA,USA,1,,,,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,483,93533
+,Bell County,TX,USA,1,,,,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,484,355642
+,Bexar County,TX,USA,1,,,,29.4374885,-98.4636305,https://www.dshs.state.tx.us/news/updates.shtm,485,1986049
+,Brazoria County,TX,USA,2,,,,29.2119295,-95.46632349999999,https://www.dshs.state.tx.us/news/updates.shtm,486,370200
+,Collin County,TX,USA,5,,,,33.193628000000004,-96.569696,https://www.dshs.state.tx.us/news/updates.shtm,487,1005146
+,Dallas County,TX,USA,8,,,,32.767269,-96.7776255,https://www.dshs.state.tx.us/news/updates.shtm,488,2637772
+,El Paso County,TX,USA,1,,,,31.6946625,-106.299987,https://www.dshs.state.tx.us/news/updates.shtm,489,840758
+,Fort Bend County,TX,USA,9,,,,29.525435,-95.75651500000001,https://www.dshs.state.tx.us/news/updates.shtm,490,787858
+,Galveston County,TX,USA,1,,,,29.3376555,-94.8019735,https://www.dshs.state.tx.us/news/updates.shtm,491,337890
+,Gregg County,TX,USA,1,,,,32.5138005,-94.78307699999999,https://www.dshs.state.tx.us/news/updates.shtm,492,123707
+,Harris County,TX,USA,10,,,,29.833973999999998,-95.43486150000001,https://www.dshs.state.tx.us/news/updates.shtm,493,4698619
+,Hays County,TX,USA,1,,,,30.054378,-98.0039075,https://www.dshs.state.tx.us/news/updates.shtm,494,222631
+,Lavaca County,TX,USA,1,,,,29.347974999999998,-96.9003315,https://www.dshs.state.tx.us/news/updates.shtm,495,20110
+,Montgomery County,TX,USA,3,,,,30.3290225,-95.463474,https://www.dshs.state.tx.us/news/updates.shtm,496,590925
+,Smith County,TX,USA,3,,,,32.4112925,-95.2899065,https://www.dshs.state.tx.us/news/updates.shtm,497,230221
+,Tarrant County,TX,USA,3,,,,32.7714195,-97.29143450000001,https://www.dshs.state.tx.us/news/updates.shtm,498,2084931
+,Travis County,TX,USA,1,,,,30.326374,-97.771258,https://www.dshs.state.tx.us/news/updates.shtm,499,1248743
+,New Castle County,DE,USA,6,,,,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,500,559335
+,Kent County,DE,USA,0,,,,39.0977575,-75.5358555,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,501,178550
+,Sussex County,DE,USA,0,,,,38.706443,-75.38576900000001,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,502,229286
+,Manatee County,FL,USA,4,,,,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,503,394855
+,Hillsborough County,FL,USA,2,,,,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,504,1436888
+,Santa Rosa County,FL,USA,1,,,,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,505,179349
+,Broward County,FL,USA,20,,,,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,506,1951260
+,Lee County,FL,USA,4,,,,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,507,754610
+,Charlotte County,FL,USA,1,,,,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,508,184998
+,Okaloosa County,FL,USA,1,,,,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,509,207269
+,Volusia County,FL,USA,4,,,,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,510,547538
+,Nassau County,FL,USA,1,,,,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,511,85832
+,Collier County,FL,USA,3,,,,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,512,378488
+,Pinellas County,FL,USA,2,,,,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,513,975280
+,Pasco County,FL,USA,1,,,,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,514,539630
+,Miami-Dade County,FL,USA,8,,,,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,515,2761581
+,Seminole County,FL,USA,1,,,,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,516,467832
+,Palm Beach County,FL,USA,5,,,,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,517,1485941
+,Sarasota County,FL,USA,1,,,,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,518,426718
+,Alachua County,FL,USA,1,,,,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,519,269956
+,Duval County,FL,USA,1,,,,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,520,950181
+,Clay County,FL,USA,1,,,,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,521,216072
+,Orange County,FL,USA,1,,,,28.566533999999997,-81.2607525,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,522,1380645
+,Osceola County,FL,USA,1,,,,27.995169500000003,-81.2600415,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,523,367990
 ,Westchester,NY,USA,178,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Nassau,NY,USA,79,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Suffolk,NY,USA,41,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
@@ -628,99 +628,99 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Tioga,NY,USA,1,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Tompkins,NY,USA,1,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,New York City,NY,USA,269,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
-,Clark County,WA,USA,3,0,,,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,575,481857
-,Columbia County,WA,USA,1,0,,,46.3118295,-117.92289099999999,https://www.doh.wa.gov/Emergencies/Coronavirus,576,4059
-,Grant County,WA,USA,2,1,,,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,577,97331
-,Grays Harbor County,WA,USA,1,0,,,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,578,73901
-,Island County,WA,USA,6,0,,,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,579,84460
-,Jefferson County,WA,USA,1,0,,,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,580,31729
-,King County,WA,USA,387,35,,,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,581,2233163
-,Kitsap County,WA,USA,3,0,,,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,582,269805
-,Kittitas County,WA,USA,3,0,,,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,583,47364
-,Pierce County,WA,USA,26,0,,,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,584,891299
-,Skagit County,WA,USA,4,0,,,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,585,128206
-,Snohomish County,WA,USA,154,4,,,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,586,814901
-,Spokane County,WA,USA,3,0,,,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,587,514631
-,Thurston County,WA,USA,3,0,,,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,588,286419
-,Whatcom County,WA,USA,2,0,,,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,589,225685
-,Yakima County,WA,USA,4,0,,,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,590,251446
-,San Francisco County,CA,USA,28,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,591,883305
-,San Mateo County,CA,USA,32,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,592,769545
-,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,593,1666753
-,Sonoma County,CA,USA,4,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,594,499942
-,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,595,274255
-,Solano County,CA,USA,6,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,596,446610
-,Contra Costa County,CA,USA,29,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,597,1150215
-,Stanislaus County,CA,USA,2,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,598,549815
-,Yolo County,CA,USA,2,,,,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,599,220408
-,Sacramento County,CA,USA,29,1,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,600,1540975
-,Fresno County,CA,USA,2,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,601,994400
-,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,602,157672
-,Placer County,CA,USA,8,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,603,393149
-,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,604,180040
-,Los Angeles County,CA,USA,53,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,605,10105518
-,Orange County,CA,USA,14,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,606,3185968
-,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,607,2450758
-,San Diego County,CA,USA,11,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,608,3343364
-,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,609,850967
-,Dane County,WI,USA,6,,,,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,610,542364
-,Fond du Lac County,WI,USA,6,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,611,103066
-,Milwaukee County,WI,USA,6,,,,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,612,948201
-,Pierce County,WI,USA,1,,,,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,613,42555
-,Racine County,WI,USA,1,,,,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,614,196584
-,Sheboygan County,WI,USA,3,,,,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,615,115456
-,Waukesha County,WI,USA,3,,,,43.018702,-88.30268950000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,616,403072
-,Winnebago County,WI,USA,1,,,,44.0685395,-88.644934,https://www.dhs.wisconsin.gov/outbreaks/index.htm,617,171020
-,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,618,18883
-,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,619,6980
-,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,620,9338
-,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,621,19790
-,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,622,5546
-,Minnehaha County,SD,USA,3,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,623,192876
-,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,624,111729
+,Clark County,WA,USA,3,0,,,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,524,481857
+,Columbia County,WA,USA,1,0,,,46.3118295,-117.92289099999999,https://www.doh.wa.gov/Emergencies/Coronavirus,525,4059
+,Grant County,WA,USA,2,1,,,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,526,97331
+,Grays Harbor County,WA,USA,1,0,,,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,527,73901
+,Island County,WA,USA,6,0,,,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,528,84460
+,Jefferson County,WA,USA,1,0,,,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,529,31729
+,King County,WA,USA,387,35,,,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,530,2233163
+,Kitsap County,WA,USA,3,0,,,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,531,269805
+,Kittitas County,WA,USA,3,0,,,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,532,47364
+,Pierce County,WA,USA,26,0,,,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,533,891299
+,Skagit County,WA,USA,4,0,,,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,534,128206
+,Snohomish County,WA,USA,154,4,,,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,535,814901
+,Spokane County,WA,USA,3,0,,,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,536,514631
+,Thurston County,WA,USA,3,0,,,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,537,286419
+,Whatcom County,WA,USA,2,0,,,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,538,225685
+,Yakima County,WA,USA,4,0,,,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,539,251446
+,San Francisco County,CA,USA,28,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,540,883305
+,San Mateo County,CA,USA,32,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,541,769545
+,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,542,1666753
+,Sonoma County,CA,USA,4,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,543,499942
+,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,544,274255
+,Solano County,CA,USA,6,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,545,446610
+,Contra Costa County,CA,USA,29,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,546,1150215
+,Stanislaus County,CA,USA,2,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,547,549815
+,Yolo County,CA,USA,2,,,,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,548,220408
+,Sacramento County,CA,USA,29,1,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,549,1540975
+,Fresno County,CA,USA,2,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,550,994400
+,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,551,157672
+,Placer County,CA,USA,8,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,552,393149
+,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,553,180040
+,Los Angeles County,CA,USA,53,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,554,10105518
+,Orange County,CA,USA,14,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,555,3185968
+,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,556,2450758
+,San Diego County,CA,USA,11,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,557,3343364
+,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,558,850967
+,Dane County,WI,USA,6,,,,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,559,542364
+,Fond du Lac County,WI,USA,6,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,560,103066
+,Milwaukee County,WI,USA,6,,,,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,561,948201
+,Pierce County,WI,USA,1,,,,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,562,42555
+,Racine County,WI,USA,1,,,,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,563,196584
+,Sheboygan County,WI,USA,3,,,,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,564,115456
+,Waukesha County,WI,USA,3,,,,43.018702,-88.30268950000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,565,403072
+,Winnebago County,WI,USA,1,,,,44.0685395,-88.644934,https://www.dhs.wisconsin.gov/outbreaks/index.htm,566,171020
+,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,567,18883
+,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,568,6980
+,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,569,9338
+,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,570,19790
+,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,571,5546
+,Minnehaha County,SD,USA,3,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,572,192876
+,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,573,111729
 ,Bear River County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Central Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Davis County,UT,USA,2,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,625,351713
-,Salt Lake County,UT,USA,14,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,626,1152633
-,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,627,15449
+,Davis County,UT,USA,2,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,574,351713
+,Salt Lake County,UT,USA,14,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,575,1152633
+,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,576,15449
 ,Southeast Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Southwest Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Summit County,UT,USA,2,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,628,41933
-,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,629,69907
+,Summit County,UT,USA,2,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,577,41933
+,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,578,69907
 ,Tri County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Utah County,UT,USA,0,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,630,622213
-,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,631,33240
+,Utah County,UT,USA,0,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,579,622213
+,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,580,33240
 ,Weber-Morgan County,UT,USA,1,,,,,,https://coronavirus.utah.gov/latest/,,
-,Allegheny County,PA,USA,2,,,,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,632,1218452
-,Bucks County,PA,USA,3,,,,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,633,628195
-,Chester County,PA,USA,2,,,,39.9833405,-75.748325,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,634,522046
-,Cumberland County,PA,USA,3,,,,40.1362805,-77.2432875,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,635,251423
-,Delaware County,PA,USA,6,,,,39.9336645,-75.404395,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,636,564751
-,Monroe County,PA,USA,3,,,,41.0334235,-75.308198,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,637,169507
-,Montgomery County,PA,USA,20,,,,40.211977000000005,-75.355924,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,638,828604
-,Northampton County,PA,USA,1,,,,40.752713,-75.32991200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,639,304807
-,Philadelphia County,PA,USA,4,,,,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,640,1584138
-,Pike County,PA,USA,1,,,,41.340779,-75.02435,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,641,55933
-,Washington County,PA,USA,1,,,,40.2152165,-80.1791085,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,642,207346
-,Wayne County,PA,USA,1,,,,41.615992000000006,-75.2745845,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,643,51276
-,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,644,39583
-,Davidson County,TN,USA,14,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,645,692587
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,646,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,647,54012
-,Knox County,TN,USA,1,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,648,465289
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,649,324890
-,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,650,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,651,157668
-,Williamson County,TN,USA,10,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,652,231729
-,Belmont County,OH,USA,2,,,,40.011337999999995,-80.970149,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,653,67505
-,Butler County,OH,USA,4,,,,39.441655499999996,-84.5757445,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,654,382378
-,Cuyahoga County,OH,USA,11,,,,41.453196000000005,-81.67301699999999,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,655,1243857
-,Franklin County,OH,USA,1,,,,39.9690415,-83.010875,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,656,1310300
-,Lorain County,OH,USA,1,,,,41.289587999999995,-82.112518,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,657,309461
-,Stark County,OH,USA,3,,,,40.811817000000005,-81.3683635,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,658,371574
-,Summit County,OH,USA,2,,,,41.1288115,-81.5400925,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,659,541918
-,Trumbull County,OH,USA,2,,,,41.3175365,-80.76100600000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,660,198627
-,Fairfield County,CT,USA,15,,,,41.3259525,-73.397813,https://portal.ct.gov/Coronavirus,661,943823
-,Hartford County,CT,USA,1,,,,41.7926935,-72.71937700000001,https://portal.ct.gov/Coronavirus,662,892697
-,Litchfield County,CT,USA,3,,,,41.759701,-73.20264900000001,https://portal.ct.gov/Coronavirus,663,181111
-,New Haven County,CT,USA,1,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,664,857620
+,Allegheny County,PA,USA,2,,,,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,581,1218452
+,Bucks County,PA,USA,3,,,,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,582,628195
+,Chester County,PA,USA,2,,,,39.9833405,-75.748325,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,583,522046
+,Cumberland County,PA,USA,3,,,,40.1362805,-77.2432875,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,584,251423
+,Delaware County,PA,USA,6,,,,39.9336645,-75.404395,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,585,564751
+,Monroe County,PA,USA,3,,,,41.0334235,-75.308198,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,586,169507
+,Montgomery County,PA,USA,20,,,,40.211977000000005,-75.355924,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,587,828604
+,Northampton County,PA,USA,1,,,,40.752713,-75.32991200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,588,304807
+,Philadelphia County,PA,USA,4,,,,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,589,1584138
+,Pike County,PA,USA,1,,,,41.340779,-75.02435,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,590,55933
+,Washington County,PA,USA,1,,,,40.2152165,-80.1791085,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,591,207346
+,Wayne County,PA,USA,1,,,,41.615992000000006,-75.2745845,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,592,51276
+,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,593,39583
+,Davidson County,TN,USA,14,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,594,692587
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,595,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,596,54012
+,Knox County,TN,USA,1,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,597,465289
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,598,324890
+,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,599,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,600,157668
+,Williamson County,TN,USA,10,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,601,231729
+,Belmont County,OH,USA,2,,,,40.011337999999995,-80.970149,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,602,67505
+,Butler County,OH,USA,4,,,,39.441655499999996,-84.5757445,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,603,382378
+,Cuyahoga County,OH,USA,11,,,,41.453196000000005,-81.67301699999999,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,604,1243857
+,Franklin County,OH,USA,1,,,,39.9690415,-83.010875,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,605,1310300
+,Lorain County,OH,USA,1,,,,41.289587999999995,-82.112518,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,606,309461
+,Stark County,OH,USA,3,,,,40.811817000000005,-81.3683635,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,607,371574
+,Summit County,OH,USA,2,,,,41.1288115,-81.5400925,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,608,541918
+,Trumbull County,OH,USA,2,,,,41.3175365,-80.76100600000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,609,198627
+,Fairfield County,CT,USA,15,,,,41.3259525,-73.397813,https://portal.ct.gov/Coronavirus,610,943823
+,Hartford County,CT,USA,1,,,,41.7926935,-72.71937700000001,https://portal.ct.gov/Coronavirus,611,892697
+,Litchfield County,CT,USA,3,,,,41.759701,-73.20264900000001,https://portal.ct.gov/Coronavirus,612,181111
+,New Haven County,CT,USA,1,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,613,857620
