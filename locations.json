@@ -1,2918 +1,5 @@
 [
   {
-    "county": "DeKalb County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -84.998833,
-      41.397172
-    ],
-    "featureId": 0,
-    "population": 43226,
-    "name": "DeKalb County, IN, USA"
-  },
-  {
-    "county": "Boone County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.4677715,
-      40.051773999999995
-    ],
-    "featureId": 1,
-    "population": 66999,
-    "name": "Boone County, IN, USA"
-  },
-  {
-    "county": "Tippecanoe County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.89501100000001,
-      40.388631000000004
-    ],
-    "featureId": 2,
-    "population": 193048,
-    "name": "Tippecanoe County, IN, USA"
-  },
-  {
-    "county": "Johnson County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.101242,
-      39.4900085
-    ],
-    "featureId": 3,
-    "population": 156225,
-    "name": "Johnson County, IN, USA"
-  },
-  {
-    "county": "Elkhart County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.858041,
-      41.598169999999996
-    ],
-    "featureId": 4,
-    "population": 205560,
-    "name": "Elkhart County, IN, USA"
-  },
-  {
-    "county": "Adams County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -84.93797749999999,
-      40.745404
-    ],
-    "featureId": 5,
-    "population": 35636,
-    "name": "Adams County, IN, USA"
-  },
-  {
-    "county": "Noble County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.42342049999999,
-      41.3952975
-    ],
-    "featureId": 6,
-    "population": 47532,
-    "name": "Noble County, IN, USA"
-  },
-  {
-    "county": "Madison County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.7193405,
-      40.1616875
-    ],
-    "featureId": 7,
-    "population": 129641,
-    "name": "Madison County, IN, USA"
-  },
-  {
-    "county": "St. Joseph County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.2930665,
-      41.596739
-    ],
-    "featureId": 8,
-    "population": 270771,
-    "name": "St. Joseph County, IN, USA"
-  },
-  {
-    "county": "Jackson County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.056745,
-      38.898375
-    ],
-    "featureId": 9,
-    "population": 44111,
-    "name": "Jackson County, IN, USA"
-  },
-  {
-    "county": "Vanderburgh County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.575276,
-      37.997158999999996
-    ],
-    "featureId": 10,
-    "population": 180974,
-    "name": "Vanderburgh County, IN, USA"
-  },
-  {
-    "county": "Grant County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.6545605,
-      40.515986999999996
-    ],
-    "featureId": 11,
-    "population": 65936,
-    "name": "Grant County, IN, USA"
-  },
-  {
-    "county": "Porter County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.07600400000001,
-      41.465349
-    ],
-    "featureId": 12,
-    "population": 169594,
-    "name": "Porter County, IN, USA"
-  },
-  {
-    "county": "Marion County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.13272599999999,
-      39.779657
-    ],
-    "featureId": 13,
-    "population": 954670,
-    "name": "Marion County, IN, USA"
-  },
-  {
-    "county": "Hamilton County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.052323,
-      40.0724955
-    ],
-    "featureId": 14,
-    "population": 330086,
-    "name": "Hamilton County, IN, USA"
-  },
-  {
-    "county": "Lake County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.372815,
-      41.4360915
-    ],
-    "featureId": 15,
-    "population": 484411,
-    "name": "Lake County, IN, USA"
-  },
-  {
-    "county": "Morgan County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.46872300000001,
-      39.486663
-    ],
-    "featureId": 16,
-    "population": 70116,
-    "name": "Morgan County, IN, USA"
-  },
-  {
-    "county": "Hendricks County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.510613,
-      39.762399
-    ],
-    "featureId": 17,
-    "population": 167009,
-    "name": "Hendricks County, IN, USA"
-  },
-  {
-    "county": "LaPorte County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.70959,
-      41.4985245
-    ],
-    "featureId": 18,
-    "population": 110007,
-    "name": "LaPorte County, IN, USA"
-  },
-  {
-    "county": "Floyd County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.8968305,
-      38.299344000000005
-    ],
-    "featureId": 19,
-    "population": 77781,
-    "name": "Floyd County, IN, USA"
-  },
-  {
-    "county": "Shelby County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.7912735,
-      39.5229175
-    ],
-    "featureId": 20,
-    "population": 44593,
-    "name": "Shelby County, IN, USA"
-  },
-  {
-    "county": "Allen County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.070744,
-      41.093929
-    ],
-    "featureId": 21,
-    "population": 375351,
-    "name": "Allen County, IN, USA"
-  },
-  {
-    "county": "Tipton County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.052076,
-      40.311361500000004
-    ],
-    "featureId": 22,
-    "population": 15128,
-    "name": "Tipton County, IN, USA"
-  },
-  {
-    "county": "Rush County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.465533,
-      39.6201645
-    ],
-    "featureId": 23,
-    "population": 16663,
-    "name": "Rush County, IN, USA"
-  },
-  {
-    "county": "Orange County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.49588800000001,
-      38.541362
-    ],
-    "featureId": 24,
-    "population": 19489,
-    "name": "Orange County, IN, USA"
-  },
-  {
-    "county": "Crawford County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.4664205,
-      38.264135499999995
-    ],
-    "featureId": 25,
-    "population": 10558,
-    "name": "Crawford County, IN, USA"
-  },
-  {
-    "county": "Owen County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.84269800000001,
-      39.319545500000004
-    ],
-    "featureId": 26,
-    "population": 20845,
-    "name": "Owen County, IN, USA"
-  },
-  {
-    "county": "Fountain County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.2651005,
-      40.159532
-    ],
-    "featureId": 27,
-    "population": 16351,
-    "name": "Fountain County, IN, USA"
-  },
-  {
-    "county": "Decatur County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.4919175,
-      39.292067
-    ],
-    "featureId": 28,
-    "population": 26794,
-    "name": "Decatur County, IN, USA"
-  },
-  {
-    "county": "Fulton County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.2069545,
-      41.0412495
-    ],
-    "featureId": 29,
-    "population": 20092,
-    "name": "Fulton County, IN, USA"
-  },
-  {
-    "county": "LaGrange County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.426917,
-      41.641722
-    ],
-    "featureId": 30,
-    "population": 39330,
-    "name": "LaGrange County, IN, USA"
-  },
-  {
-    "county": "Knox County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.4215765,
-      38.6611855
-    ],
-    "featureId": 31,
-    "population": 36895,
-    "name": "Knox County, IN, USA"
-  },
-  {
-    "county": "Monroe County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.50153900000001,
-      39.173286000000004
-    ],
-    "featureId": 32,
-    "population": 146917,
-    "name": "Monroe County, IN, USA"
-  },
-  {
-    "county": "Cass County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.3733815,
-      40.736143
-    ],
-    "featureId": 33,
-    "population": 37955,
-    "name": "Cass County, IN, USA"
-  },
-  {
-    "county": "Randolph County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.011338,
-      40.157236999999995
-    ],
-    "featureId": 34,
-    "population": 24851,
-    "name": "Randolph County, IN, USA"
-  },
-  {
-    "county": "Martin County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.8032725,
-      38.700171999999995
-    ],
-    "featureId": 35,
-    "population": 10217,
-    "name": "Martin County, IN, USA"
-  },
-  {
-    "county": "Washington County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.078819,
-      38.5984585
-    ],
-    "featureId": 36,
-    "population": 27943,
-    "name": "Washington County, IN, USA"
-  },
-  {
-    "county": "Parke County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.2218005,
-      39.779033
-    ],
-    "featureId": 37,
-    "population": 16927,
-    "name": "Parke County, IN, USA"
-  },
-  {
-    "county": "Kosciusko County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.8647395,
-      41.239367
-    ],
-    "featureId": 38,
-    "population": 79344,
-    "name": "Kosciusko County, IN, USA"
-  },
-  {
-    "county": "Wayne County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.01602550000001,
-      39.8599215
-    ],
-    "featureId": 39,
-    "population": 65936,
-    "name": "Wayne County, IN, USA"
-  },
-  {
-    "county": "Montgomery County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.893817,
-      40.039825500000006
-    ],
-    "featureId": 40,
-    "population": 38346,
-    "name": "Montgomery County, IN, USA"
-  },
-  {
-    "county": "Hancock County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.76510250000001,
-      39.821446
-    ],
-    "featureId": 41,
-    "population": 76351,
-    "name": "Hancock County, IN, USA"
-  },
-  {
-    "county": "Vigo County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.40453099999999,
-      39.4335005
-    ],
-    "featureId": 42,
-    "population": 107386,
-    "name": "Vigo County, IN, USA"
-  },
-  {
-    "county": "Jefferson County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.4428255,
-      38.749990499999996
-    ],
-    "featureId": 43,
-    "population": 32208,
-    "name": "Jefferson County, IN, USA"
-  },
-  {
-    "county": "Huntington County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.48925399999999,
-      40.8291895
-    ],
-    "featureId": 44,
-    "population": 36240,
-    "name": "Huntington County, IN, USA"
-  },
-  {
-    "county": "Harrison County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.114784,
-      38.190351500000006
-    ],
-    "featureId": 45,
-    "population": 40350,
-    "name": "Harrison County, IN, USA"
-  },
-  {
-    "county": "Wabash County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.7925115,
-      40.848853500000004
-    ],
-    "featureId": 46,
-    "population": 31280,
-    "name": "Wabash County, IN, USA"
-  },
-  {
-    "county": "Delaware County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.3964875,
-      40.2282065
-    ],
-    "featureId": 47,
-    "population": 114772,
-    "name": "Delaware County, IN, USA"
-  },
-  {
-    "county": "Posey County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.87335350000001,
-      38.001000000000005
-    ],
-    "featureId": 48,
-    "population": 25540,
-    "name": "Posey County, IN, USA"
-  },
-  {
-    "county": "Spencer County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.0179535,
-      37.993821
-    ],
-    "featureId": 49,
-    "population": 20327,
-    "name": "Spencer County, IN, USA"
-  },
-  {
-    "county": "Ohio County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -84.9850845,
-      38.9659135
-    ],
-    "featureId": 50,
-    "population": 5844,
-    "name": "Ohio County, IN, USA"
-  },
-  {
-    "county": "Carroll County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.5738755,
-      40.5844765
-    ],
-    "featureId": 51,
-    "population": 20127,
-    "name": "Carroll County, IN, USA"
-  },
-  {
-    "county": "Warren County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.311793,
-      40.3021425
-    ],
-    "featureId": 52,
-    "population": 8263,
-    "name": "Warren County, IN, USA"
-  },
-  {
-    "county": "Franklin County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.056989,
-      39.397251999999995
-    ],
-    "featureId": 53,
-    "population": 22736,
-    "name": "Franklin County, IN, USA"
-  },
-  {
-    "county": "Pulaski County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.6989025,
-      41.0411035
-    ],
-    "featureId": 54,
-    "population": 12469,
-    "name": "Pulaski County, IN, USA"
-  },
-  {
-    "county": "Jay County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.0111465,
-      40.439459
-    ],
-    "featureId": 55,
-    "population": 20764,
-    "name": "Jay County, IN, USA"
-  },
-  {
-    "county": "Wells County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.258652,
-      40.742376
-    ],
-    "featureId": 56,
-    "population": 28206,
-    "name": "Wells County, IN, USA"
-  },
-  {
-    "county": "Marshall County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.2605775,
-      41.325298000000004
-    ],
-    "featureId": 57,
-    "population": 46248,
-    "name": "Marshall County, IN, USA"
-  },
-  {
-    "county": "Sullivan County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.4431845,
-      39.080525
-    ],
-    "featureId": 58,
-    "population": 20690,
-    "name": "Sullivan County, IN, USA"
-  },
-  {
-    "county": "Brown County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.23083349999999,
-      39.196282
-    ],
-    "featureId": 59,
-    "population": 15234,
-    "name": "Brown County, IN, USA"
-  },
-  {
-    "county": "Ripley County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.2549985,
-      39.1115335
-    ],
-    "featureId": 60,
-    "population": 28523,
-    "name": "Ripley County, IN, USA"
-  },
-  {
-    "county": "Henry County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.3989305,
-      39.931831
-    ],
-    "featureId": 61,
-    "population": 48271,
-    "name": "Henry County, IN, USA"
-  },
-  {
-    "county": "Howard County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.1189395,
-      40.469593
-    ],
-    "featureId": 62,
-    "population": 82366,
-    "name": "Howard County, IN, USA"
-  },
-  {
-    "county": "Whitley County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.49717749999999,
-      41.148574999999994
-    ],
-    "featureId": 63,
-    "population": 34074,
-    "name": "Whitley County, IN, USA"
-  },
-  {
-    "county": "Dearborn County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -84.9759795,
-      39.1234195
-    ],
-    "featureId": 64,
-    "population": 49568,
-    "name": "Dearborn County, IN, USA"
-  },
-  {
-    "county": "Blackford County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.32408,
-      40.473138
-    ],
-    "featureId": 65,
-    "population": 11930,
-    "name": "Blackford County, IN, USA"
-  },
-  {
-    "county": "Scott County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.729157,
-      38.6948615
-    ],
-    "featureId": 66,
-    "population": 23878,
-    "name": "Scott County, IN, USA"
-  },
-  {
-    "county": "Bartholomew County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.885058,
-      39.192976
-    ],
-    "featureId": 67,
-    "population": 82753,
-    "name": "Bartholomew County, IN, USA"
-  },
-  {
-    "county": "Jasper County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.1030475,
-      41.011453
-    ],
-    "featureId": 68,
-    "population": 33370,
-    "name": "Jasper County, IN, USA"
-  },
-  {
-    "county": "Union County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -84.925108,
-      39.6256065
-    ],
-    "featureId": 69,
-    "population": 7037,
-    "name": "Union County, IN, USA"
-  },
-  {
-    "county": "Vermillion County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.443545,
-      39.877864
-    ],
-    "featureId": 70,
-    "population": 15479,
-    "name": "Vermillion County, IN, USA"
-  },
-  {
-    "county": "Benton County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.3100935,
-      40.606315
-    ],
-    "featureId": 71,
-    "population": 8653,
-    "name": "Benton County, IN, USA"
-  },
-  {
-    "county": "Clay County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.090359,
-      39.387551
-    ],
-    "featureId": 72,
-    "population": 26170,
-    "name": "Clay County, IN, USA"
-  },
-  {
-    "county": "Lawrence County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.47919150000001,
-      38.8394825
-    ],
-    "featureId": 73,
-    "population": 45668,
-    "name": "Lawrence County, IN, USA"
-  },
-  {
-    "county": "Clark County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.704951,
-      38.436953
-    ],
-    "featureId": 74,
-    "population": 117360,
-    "name": "Clark County, IN, USA"
-  },
-  {
-    "county": "Miami County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.01632649999999,
-      40.780922000000004
-    ],
-    "featureId": 75,
-    "population": 35567,
-    "name": "Miami County, IN, USA"
-  },
-  {
-    "county": "Fayette County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.1680795,
-      39.6569625
-    ],
-    "featureId": 76,
-    "population": 23047,
-    "name": "Fayette County, IN, USA"
-  },
-  {
-    "county": "Newton County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.3970095,
-      40.977588499999996
-    ],
-    "featureId": 77,
-    "population": 14011,
-    "name": "Newton County, IN, USA"
-  },
-  {
-    "county": "Perry County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.6224235,
-      38.0538765
-    ],
-    "featureId": 78,
-    "population": 19102,
-    "name": "Perry County, IN, USA"
-  },
-  {
-    "county": "Putnam County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.8280865,
-      39.668384
-    ],
-    "featureId": 79,
-    "population": 37779,
-    "name": "Putnam County, IN, USA"
-  },
-  {
-    "county": "Starke County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.6983865,
-      41.302205
-    ],
-    "featureId": 80,
-    "population": 22935,
-    "name": "Starke County, IN, USA"
-  },
-  {
-    "county": "Greene County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.961652,
-      39.0371445
-    ],
-    "featureId": 81,
-    "population": 32006,
-    "name": "Greene County, IN, USA"
-  },
-  {
-    "county": "Pike County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.2676305,
-      38.390486499999994
-    ],
-    "featureId": 82,
-    "population": 12410,
-    "name": "Pike County, IN, USA"
-  },
-  {
-    "county": "Warrick County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.245218,
-      38.062363000000005
-    ],
-    "featureId": 83,
-    "population": 62567,
-    "name": "Warrick County, IN, USA"
-  },
-  {
-    "county": "Daviess County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.0858515,
-      38.6973285
-    ],
-    "featureId": 84,
-    "population": 33147,
-    "name": "Daviess County, IN, USA"
-  },
-  {
-    "county": "Dubois County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.87606650000001,
-      38.365024000000005
-    ],
-    "featureId": 85,
-    "population": 42565,
-    "name": "Dubois County, IN, USA"
-  },
-  {
-    "county": "Clinton County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.46908450000001,
-      40.304673
-    ],
-    "featureId": 86,
-    "population": 32250,
-    "name": "Clinton County, IN, USA"
-  },
-  {
-    "county": "White County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -86.8406485,
-      40.737271
-    ],
-    "featureId": 87,
-    "population": 24133,
-    "name": "White County, IN, USA"
-  },
-  {
-    "county": "Switzerland County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -84.9938725,
-      38.8085935
-    ],
-    "featureId": 88,
-    "population": 10717,
-    "name": "Switzerland County, IN, USA"
-  },
-  {
-    "county": "Steuben County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.0007515,
-      41.6433265
-    ],
-    "featureId": 89,
-    "population": 34586,
-    "name": "Steuben County, IN, USA"
-  },
-  {
-    "county": "Gibson County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -87.64698250000001,
-      38.349461
-    ],
-    "featureId": 90,
-    "population": 33452,
-    "name": "Gibson County, IN, USA"
-  },
-  {
-    "county": "Jennings County",
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "country": "USA",
-    "state": "IN",
-    "coordinates": [
-      -85.619944,
-      39.0015625
-    ],
-    "featureId": 91,
-    "population": 27611,
-    "name": "Jennings County, IN, USA"
-  },
-  {
-    "county": "Rockingham County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.77325049999999,
-      36.39209
-    ],
-    "featureId": 92,
-    "population": 90690,
-    "name": "Rockingham County, NC, USA"
-  },
-  {
-    "county": "Guilford County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.789537,
-      36.078567
-    ],
-    "featureId": 93,
-    "population": 533670,
-    "name": "Guilford County, NC, USA"
-  },
-  {
-    "county": "Alamance County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.389903,
-      36.046625
-    ],
-    "featureId": 94,
-    "population": 166436,
-    "name": "Alamance County, NC, USA"
-  },
-  {
-    "county": "Alexander County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.173576,
-      35.9112
-    ],
-    "featureId": 95,
-    "population": 37353,
-    "name": "Alexander County, NC, USA"
-  },
-  {
-    "county": "Randolph County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.80440999999999,
-      35.713162
-    ],
-    "featureId": 96,
-    "population": 143351,
-    "name": "Randolph County, NC, USA"
-  },
-  {
-    "county": "Wayne County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.0523115,
-      35.372187
-    ],
-    "featureId": 97,
-    "population": 123248,
-    "name": "Wayne County, NC, USA"
-  },
-  {
-    "county": "Ashe County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.4925705,
-      36.414194499999994
-    ],
-    "featureId": 98,
-    "population": 27109,
-    "name": "Ashe County, NC, USA"
-  },
-  {
-    "county": "Alleghany County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.128388,
-      36.470187499999994
-    ],
-    "featureId": 99,
-    "population": 11161,
-    "name": "Alleghany County, NC, USA"
-  },
-  {
-    "county": "Currituck County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.0432625,
-      36.311232000000004
-    ],
-    "featureId": 100,
-    "population": 27072,
-    "name": "Currituck County, NC, USA"
-  },
-  {
-    "county": "Camden County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.2231965,
-      36.357271
-    ],
-    "featureId": 101,
-    "population": 10710,
-    "name": "Camden County, NC, USA"
-  },
-  {
-    "county": "Surry County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.7073595,
-      36.399366
-    ],
-    "featureId": 102,
-    "population": 71948,
-    "name": "Surry County, NC, USA"
-  },
-  {
-    "county": "Gates County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.70138,
-      36.424152
-    ],
-    "featureId": 103,
-    "population": 11573,
-    "name": "Gates County, NC, USA"
-  },
-  {
-    "county": "Hertford County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.94985,
-      36.392281999999994
-    ],
-    "featureId": 104,
-    "population": 23659,
-    "name": "Hertford County, NC, USA"
-  },
-  {
-    "county": "Northampton County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.48302000000001,
-      36.356129499999994
-    ],
-    "featureId": 105,
-    "population": 19676,
-    "name": "Northampton County, NC, USA"
-  },
-  {
-    "county": "Stokes County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2396115,
-      36.4039905
-    ],
-    "featureId": 106,
-    "population": 45467,
-    "name": "Stokes County, NC, USA"
-  },
-  {
-    "county": "Warren County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.110931,
-      36.373663
-    ],
-    "featureId": 107,
-    "population": 19807,
-    "name": "Warren County, NC, USA"
-  },
-  {
-    "county": "Vance County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.394374,
-      36.3539845
-    ],
-    "featureId": 108,
-    "population": 44582,
-    "name": "Vance County, NC, USA"
-  },
-  {
-    "county": "Granville County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6309765,
-      36.282139
-    ],
-    "featureId": 109,
-    "population": 60115,
-    "name": "Granville County, NC, USA"
-  },
-  {
-    "county": "Caswell County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.335016,
-      36.391928
-    ],
-    "featureId": 110,
-    "population": 22698,
-    "name": "Caswell County, NC, USA"
-  },
-  {
-    "county": "Person County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.974278,
-      36.389045499999995
-    ],
-    "featureId": 111,
-    "population": 39507,
-    "name": "Person County, NC, USA"
-  },
-  {
-    "county": "Pasquotank County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.2753735,
-      36.31698
-    ],
-    "featureId": 112,
-    "population": 39639,
-    "name": "Pasquotank County, NC, USA"
-  },
-  {
-    "county": "Halifax County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.618624,
-      36.255891000000005
-    ],
-    "featureId": 113,
-    "population": 50574,
-    "name": "Halifax County, NC, USA"
-  },
-  {
-    "county": "Wilkes County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.20716300000001,
-      36.217608
-    ],
-    "featureId": 114,
-    "population": 68557,
-    "name": "Wilkes County, NC, USA"
-  },
-  {
-    "county": "Watauga County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.686846,
-      36.2509755
-    ],
-    "featureId": 115,
-    "population": 55945,
-    "name": "Watauga County, NC, USA"
-  },
-  {
-    "county": "Perquimans County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.390806,
-      36.226709
-    ],
-    "featureId": 116,
-    "population": 13422,
-    "name": "Perquimans County, NC, USA"
-  },
-  {
-    "county": "Chowan County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.5666445,
-      36.178765999999996
-    ],
-    "featureId": 117,
-    "population": 14029,
-    "name": "Chowan County, NC, USA"
-  },
-  {
-    "county": "Avery County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.9081385,
-      36.099315000000004
-    ],
-    "featureId": 118,
-    "population": 17505,
-    "name": "Avery County, NC, USA"
-  },
-  {
-    "county": "Yadkin County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.657182,
-      36.165891
-    ],
-    "featureId": 119,
-    "population": 37543,
-    "name": "Yadkin County, NC, USA"
-  },
-  {
-    "county": "Dare County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -75.7362335,
-      35.708368
-    ],
-    "featureId": 120,
-    "population": 36501,
-    "name": "Dare County, NC, USA"
-  },
-  {
-    "county": "Forsyth County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2759705,
-      36.1174225
-    ],
-    "featureId": 121,
-    "population": 379099,
-    "name": "Forsyth County, NC, USA"
-  },
-  {
-    "county": "Franklin County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.27652549999999,
-      36.0419445
-    ],
-    "featureId": 122,
-    "population": 67560,
-    "name": "Franklin County, NC, USA"
-  },
-  {
-    "county": "Bertie County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.0036715,
-      36.0338355
-    ],
-    "featureId": 123,
-    "population": 19026,
-    "name": "Bertie County, NC, USA"
-  },
-  {
-    "county": "Orange County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.107692,
-      36.052271
-    ],
-    "featureId": 124,
-    "population": 146027,
-    "name": "Orange County, NC, USA"
-  },
-  {
-    "county": "Durham County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.8573145,
-      36.051317999999995
-    ],
-    "featureId": 125,
-    "population": 316739,
-    "name": "Durham County, NC, USA"
-  },
-  {
-    "county": "Nash County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.976391,
-      35.966553000000005
-    ],
-    "featureId": 126,
-    "population": 94016,
-    "name": "Nash County, NC, USA"
-  },
-  {
-    "county": "Mitchell County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.198442,
-      35.991779
-    ],
-    "featureId": 127,
-    "population": 15000,
-    "name": "Mitchell County, NC, USA"
-  },
-  {
-    "county": "Edgecombe County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.585453,
-      35.915150999999994
-    ],
-    "featureId": 128,
-    "population": 52005,
-    "name": "Edgecombe County, NC, USA"
-  },
-  {
-    "county": "Caldwell County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.5699525,
-      35.939887
-    ],
-    "featureId": 129,
-    "population": 82029,
-    "name": "Caldwell County, NC, USA"
-  },
-  {
-    "county": "Tyrrell County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.210059,
-      35.7957445
-    ],
-    "featureId": 130,
-    "population": 4131,
-    "name": "Tyrrell County, NC, USA"
-  },
-  {
-    "county": "Yancey County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.31928300000001,
-      35.888507000000004
-    ],
-    "featureId": 131,
-    "population": 17903,
-    "name": "Yancey County, NC, USA"
-  },
-  {
-    "county": "Madison County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.685785,
-      35.8719975
-    ],
-    "featureId": 132,
-    "population": 21763,
-    "name": "Madison County, NC, USA"
-  },
-  {
-    "county": "Martin County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.084982,
-      35.8664985
-    ],
-    "featureId": 133,
-    "population": 22671,
-    "name": "Martin County, NC, USA"
-  },
-  {
-    "county": "Wake County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6249785,
-      35.796786499999996
-    ],
-    "featureId": 134,
-    "population": 1092305,
-    "name": "Wake County, NC, USA"
-  },
-  {
-    "county": "Davie County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.5364645,
-      35.9026525
-    ],
-    "featureId": 135,
-    "population": 42733,
-    "name": "Davie County, NC, USA"
-  },
-  {
-    "county": "Washington County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.6003345,
-      35.840892999999994
-    ],
-    "featureId": 136,
-    "population": 11859,
-    "name": "Washington County, NC, USA"
-  },
-  {
-    "county": "Burke County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.675545,
-      35.7791955
-    ],
-    "featureId": 137,
-    "population": 90382,
-    "name": "Burke County, NC, USA"
-  },
-  {
-    "county": "Davidson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2652875,
-      35.765553499999996
-    ],
-    "featureId": 138,
-    "population": 166614,
-    "name": "Davidson County, NC, USA"
-  },
-  {
-    "county": "McDowell County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.0594425,
-      35.738724500000004
-    ],
-    "featureId": 139,
-    "population": 45507,
-    "name": "McDowell County, NC, USA"
-  },
-  {
-    "county": "Chatham County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.231033,
-      35.6959365
-    ],
-    "featureId": 140,
-    "population": 73139,
-    "name": "Chatham County, NC, USA"
-  },
-  {
-    "county": "Wilson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.926691,
-      35.7253325
-    ],
-    "featureId": 141,
-    "population": 81455,
-    "name": "Wilson County, NC, USA"
-  },
-  {
-    "county": "Buncombe County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.5263415,
-      35.620303
-    ],
-    "featureId": 142,
-    "population": 259103,
-    "name": "Buncombe County, NC, USA"
-  },
-  {
-    "county": "Haywood County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.000247,
-      35.5418605
-    ],
-    "featureId": 143,
-    "population": 61971,
-    "name": "Haywood County, NC, USA"
-  },
-  {
-    "county": "Catawba County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.22916649999999,
-      35.6878485
-    ],
-    "featureId": 144,
-    "population": 158652,
-    "name": "Catawba County, NC, USA"
-  },
-  {
-    "county": "Pitt County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.392609,
-      35.580454
-    ],
-    "featureId": 145,
-    "population": 179914,
-    "name": "Pitt County, NC, USA"
-  },
-  {
-    "county": "Johnston County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.386616,
-      35.537085
-    ],
-    "featureId": 146,
-    "population": 202675,
-    "name": "Johnston County, NC, USA"
-  },
-  {
-    "county": "Swain County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.554631,
-      35.4877375
-    ],
-    "featureId": 147,
-    "population": 14245,
-    "name": "Swain County, NC, USA"
-  },
-  {
-    "county": "Beaufort County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.83147650000001,
-      35.477776000000006
-    ],
-    "featureId": 148,
-    "population": 47079,
-    "name": "Beaufort County, NC, USA"
-  },
-  {
-    "county": "Hyde County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.19371849999999,
-      35.383544
-    ],
-    "featureId": 149,
-    "population": 5230,
-    "name": "Hyde County, NC, USA"
-  },
-  {
-    "county": "Greene County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.6507765,
-      35.500008
-    ],
-    "featureId": 150,
-    "population": 21012,
-    "name": "Greene County, NC, USA"
-  },
-  {
-    "county": "Rutherford County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.985972,
-      35.395423
-    ],
-    "featureId": 151,
-    "population": 66826,
-    "name": "Rutherford County, NC, USA"
-  },
-  {
-    "county": "Lee County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.16466,
-      35.467607
-    ],
-    "featureId": 152,
-    "population": 61452,
-    "name": "Lee County, NC, USA"
-  },
-  {
-    "county": "Cleveland County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.54468800000001,
-      35.371596499999995
-    ],
-    "featureId": 153,
-    "population": 97645,
-    "name": "Cleveland County, NC, USA"
-  },
-  {
-    "county": "Jackson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.1417865,
-      35.26292
-    ],
-    "featureId": 154,
-    "population": 43327,
-    "name": "Jackson County, NC, USA"
-  },
-  {
-    "county": "Harnett County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.87648899999999,
-      35.3876225
-    ],
-    "featureId": 155,
-    "population": 134214,
-    "name": "Harnett County, NC, USA"
-  },
-  {
-    "county": "Graham County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.810297,
-      35.342066
-    ],
-    "featureId": 156,
-    "population": 8484,
-    "name": "Graham County, NC, USA"
-  },
-  {
-    "county": "Henderson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.5033325,
-      35.322029
-    ],
-    "featureId": 157,
-    "population": 116748,
-    "name": "Henderson County, NC, USA"
-  },
-  {
-    "county": "Moore County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.43270749999999,
-      35.2805435
-    ],
-    "featureId": 158,
-    "population": 98682,
-    "name": "Moore County, NC, USA"
-  },
-  {
-    "county": "Montgomery County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.898494,
-      35.324289
-    ],
-    "featureId": 159,
-    "population": 27271,
-    "name": "Montgomery County, NC, USA"
-  },
-  {
-    "county": "Stanly County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.278733,
-      35.323707999999996
-    ],
-    "featureId": 160,
-    "population": 62075,
-    "name": "Stanly County, NC, USA"
-  },
-  {
-    "county": "Transylvania County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.815485,
-      35.2252595
-    ],
-    "featureId": 161,
-    "population": 34215,
-    "name": "Transylvania County, NC, USA"
-  },
-  {
-    "county": "Polk County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.1603345,
-      35.296185
-    ],
-    "featureId": 162,
-    "population": 20611,
-    "name": "Polk County, NC, USA"
-  },
-  {
-    "county": "Lenoir County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.6126075,
-      35.2174715
-    ],
-    "featureId": 163,
-    "population": 55976,
-    "name": "Lenoir County, NC, USA"
-  },
-  {
-    "county": "Craven County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.063318,
-      35.110855
-    ],
-    "featureId": 164,
-    "population": 102912,
-    "name": "Craven County, NC, USA"
-  },
-  {
-    "county": "Macon County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.42341,
-      35.162244
-    ],
-    "featureId": 165,
-    "population": 35285,
-    "name": "Macon County, NC, USA"
-  },
-  {
-    "county": "Cherokee County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -84.0097475,
-      35.139748499999996
-    ],
-    "featureId": 166,
-    "population": 28383,
-    "name": "Cherokee County, NC, USA"
-  },
-  {
-    "county": "Pamlico County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.72772499999999,
-      35.1507535
-    ],
-    "featureId": 167,
-    "population": 12670,
-    "name": "Pamlico County, NC, USA"
-  },
-  {
-    "county": "Sampson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.3926405,
-      34.9345395
-    ],
-    "featureId": 168,
-    "population": 63626,
-    "name": "Sampson County, NC, USA"
-  },
-  {
-    "county": "Cumberland County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.8038205,
-      35.0502155
-    ],
-    "featureId": 169,
-    "population": 332330,
-    "name": "Cumberland County, NC, USA"
-  },
-  {
-    "county": "Clay County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.7441825,
-      35.0712515
-    ],
-    "featureId": 170,
-    "population": 11139,
-    "name": "Clay County, NC, USA"
-  },
-  {
-    "county": "Jones County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.39021650000001,
-      35.014189
-    ],
-    "featureId": 171,
-    "population": 9637,
-    "name": "Jones County, NC, USA"
-  },
-  {
-    "county": "Carteret County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.60086799999999,
-      34.832848999999996
-    ],
-    "featureId": 172,
-    "population": 69524,
-    "name": "Carteret County, NC, USA"
-  },
-  {
-    "county": "Union County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.5587175,
-      35.0112285
-    ],
-    "featureId": 173,
-    "population": 235908,
-    "name": "Union County, NC, USA"
-  },
-  {
-    "county": "Anson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.0844735,
-      35.008912
-    ],
-    "featureId": 174,
-    "population": 24877,
-    "name": "Anson County, NC, USA"
-  },
-  {
-    "county": "Hoke County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.24694550000001,
-      35.02319
-    ],
-    "featureId": 175,
-    "population": 54764,
-    "name": "Hoke County, NC, USA"
-  },
-  {
-    "county": "Duplin County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.9257305,
-      34.9501105
-    ],
-    "featureId": 176,
-    "population": 58856,
-    "name": "Duplin County, NC, USA"
-  },
-  {
-    "county": "Richmond County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.76728299999999,
-      34.99408
-    ],
-    "featureId": 177,
-    "population": 44887,
-    "name": "Richmond County, NC, USA"
-  },
-  {
-    "county": "Scotland County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.5119535,
-      34.836764
-    ],
-    "featureId": 178,
-    "population": 34810,
-    "name": "Scotland County, NC, USA"
-  },
-  {
-    "county": "Onslow County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.3899735,
-      34.712451
-    ],
-    "featureId": 179,
-    "population": 197683,
-    "name": "Onslow County, NC, USA"
-  },
-  {
-    "county": "Robeson County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.133749,
-      34.626412
-    ],
-    "featureId": 180,
-    "population": 131831,
-    "name": "Robeson County, NC, USA"
-  },
-  {
-    "county": "Bladen County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.5427315,
-      34.611776500000005
-    ],
-    "featureId": 181,
-    "population": 33190,
-    "name": "Bladen County, NC, USA"
-  },
-  {
-    "county": "Pender County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.894035,
-      34.512526
-    ],
-    "featureId": 182,
-    "population": 62162,
-    "name": "Pender County, NC, USA"
-  },
-  {
-    "county": "Columbus County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6167595,
-      34.2134885
-    ],
-    "featureId": 183,
-    "population": 55655,
-    "name": "Columbus County, NC, USA"
-  },
-  {
-    "county": "New Hanover County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.872919,
-      34.15828500000001
-    ],
-    "featureId": 184,
-    "population": 232274,
-    "name": "New Hanover County, NC, USA"
-  },
-  {
-    "county": "Brunswick County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.292874,
-      34.1056615
-    ],
-    "featureId": 185,
-    "population": 136744,
-    "name": "Brunswick County, NC, USA"
-  },
-  {
-    "county": "Iredell County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.901307,
-      35.7732565
-    ],
-    "featureId": 186,
-    "population": 178435,
-    "name": "Iredell County, NC, USA"
-  },
-  {
-    "county": "Rowan County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.47710000000001,
-      35.6830585
-    ],
-    "featureId": 187,
-    "population": 141262,
-    "name": "Rowan County, NC, USA"
-  },
-  {
-    "county": "Lincoln County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.24025,
-      35.484821999999994
-    ],
-    "featureId": 188,
-    "population": 83770,
-    "name": "Lincoln County, NC, USA"
-  },
-  {
-    "county": "Mecklenburg County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.804163,
-      35.2583695
-    ],
-    "featureId": 189,
-    "population": 1093901,
-    "name": "Mecklenburg County, NC, USA"
-  },
-  {
-    "county": "Cabarrus County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.541589,
-      35.3456055
-    ],
-    "featureId": 190,
-    "population": 211342,
-    "name": "Cabarrus County, NC, USA"
-  },
-  {
-    "county": "Gaston County",
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.1896935,
-      35.284431999999995
-    ],
-    "featureId": 191,
-    "population": 222846,
-    "name": "Gaston County, NC, USA"
-  },
-  {
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      20.996920403668724,
-      -28.844672746443443
-    ],
-    "featureId": 192,
-    "population": 10488084,
-    "name": "NC, USA"
-  },
-  {
-    "county": "Atlantic County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.6437035,
-      39.509258
-    ],
-    "featureId": 193,
-    "population": 265429,
-    "name": "Atlantic County, NJ, USA"
-  },
-  {
-    "county": "Bergen County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.08225,
-      40.952146
-    ],
-    "featureId": 194,
-    "population": 936692,
-    "name": "Bergen County, NJ, USA"
-  },
-  {
-    "county": "Burlington County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.72494950000001,
-      39.8658955
-    ],
-    "featureId": 195,
-    "population": 445384,
-    "name": "Burlington County, NJ, USA"
-  },
-  {
-    "county": "Camden County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.9381575,
-      39.800549000000004
-    ],
-    "featureId": 196,
-    "population": 507078,
-    "name": "Camden County, NJ, USA"
-  },
-  {
-    "county": "Cape May County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.756719,
-      39.1261435
-    ],
-    "featureId": 197,
-    "population": 92560,
-    "name": "Cape May County, NJ, USA"
-  },
-  {
-    "county": "Cumberland County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -75.135421,
-      39.373098
-    ],
-    "featureId": 198,
-    "population": 150972,
-    "name": "Cumberland County, NJ, USA"
-  },
-  {
-    "county": "Essex County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.24515199999999,
-      40.7914715
-    ],
-    "featureId": 199,
-    "population": 799767,
-    "name": "Essex County, NJ, USA"
-  },
-  {
-    "county": "Gloucester County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -75.15904900000001,
-      39.7016335
-    ],
-    "featureId": 200,
-    "population": 291408,
-    "name": "Gloucester County, NJ, USA"
-  },
-  {
-    "county": "Hudson County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.07540449999999,
-      40.732721999999995
-    ],
-    "featureId": 201,
-    "population": 676061,
-    "name": "Hudson County, NJ, USA"
-  },
-  {
-    "county": "Hunterdon County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.9494015,
-      40.5647375
-    ],
-    "featureId": 202,
-    "population": 124714,
-    "name": "Hunterdon County, NJ, USA"
-  },
-  {
-    "county": "Mercer County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.7122715,
-      40.280848500000005
-    ],
-    "featureId": 203,
-    "population": 369811,
-    "name": "Mercer County, NJ, USA"
-  },
-  {
-    "county": "Monmouth County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.2928135,
-      40.2778005
-    ],
-    "featureId": 204,
-    "population": 621354,
-    "name": "Monmouth County, NJ, USA"
-  },
-  {
-    "county": "Ocean County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.29221150000001,
-      39.835446000000005
-    ],
-    "featureId": 205,
-    "population": 601651,
-    "name": "Ocean County, NJ, USA"
-  },
-  {
-    "county": "Passaic County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.304839,
-      41.0114805
-    ],
-    "featureId": 206,
-    "population": 503310,
-    "name": "Passaic County, NJ, USA"
-  },
-  {
-    "county": "Salem County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -75.31079349999999,
-      39.5848515
-    ],
-    "featureId": 207,
-    "population": 62607,
-    "name": "Salem County, NJ, USA"
-  },
-  {
-    "county": "Somerset County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.5998835,
-      40.566201
-    ],
-    "featureId": 208,
-    "population": 331164,
-    "name": "Somerset County, NJ, USA"
-  },
-  {
-    "county": "Sussex County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.678832,
-      41.128282
-    ],
-    "featureId": 209,
-    "population": 140799,
-    "name": "Sussex County, NJ, USA"
-  },
-  {
-    "county": "Union County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.300027,
-      40.665566
-    ],
-    "featureId": 210,
-    "population": 558067,
-    "name": "Union County, NJ, USA"
-  },
-  {
-    "county": "Warren County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.985897,
-      40.8430415
-    ],
-    "featureId": 211,
-    "population": 105779,
-    "name": "Warren County, NJ, USA"
-  },
-  {
-    "county": "Morris County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.5802275,
-      40.867802999999995
-    ],
-    "featureId": 212,
-    "population": 494228,
-    "name": "Morris County, NJ, USA"
-  },
-  {
-    "county": "Middlesex County",
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      -74.41841600000001,
-      40.430130500000004
-    ],
-    "featureId": 213,
-    "population": 829685,
-    "name": "Middlesex County, NJ, USA"
-  },
-  {
-    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
-    "country": "USA",
-    "state": "NJ",
-    "coordinates": [
-      15.06717673331957,
-      12.104873978005386
-    ],
-    "featureId": 214,
-    "population": 8882190,
-    "name": "NJ, USA"
-  },
-  {
-    "state": "British Columbia",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -126.56202337499991,
-      54.15716767014678
-    ],
-    "featureId": 215,
-    "population": 5071000,
-    "name": "British Columbia, CAN"
-  },
-  {
-    "state": "Alberta",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -115.00016854279502,
-      54.49628672664678
-    ],
-    "featureId": 216,
-    "population": 4067175,
-    "name": "Alberta, CAN"
-  },
-  {
-    "state": "Saskatchewan",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -105.6821561755884,
-      54.496338403094796
-    ],
-    "featureId": 217,
-    "population": 1098352,
-    "name": "Saskatchewan, CAN"
-  },
-  {
-    "state": "Manitoba",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -95.4742987434922,
-      54.496368513369816
-    ],
-    "featureId": 218,
-    "population": 1278365,
-    "name": "Manitoba, CAN"
-  },
-  {
-    "state": "Ontario",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -84.7533750036988,
-      49.26501413726137
-    ],
-    "featureId": 219,
-    "population": 13448494,
-    "name": "Ontario, CAN"
-  },
-  {
-    "state": "Quebec",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -68.38833574149993,
-      53.79378896700006
-    ],
-    "featureId": 220,
-    "population": 8164361,
-    "name": "Quebec, CAN"
-  },
-  {
-    "state": "Newfoundland and Labrador",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -60.21844100481229,
-      53.46112743006114
-    ],
-    "featureId": 221,
-    "population": 519716,
-    "name": "Newfoundland and Labrador, CAN"
-  },
-  {
-    "state": "New Brunswick",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -66.43830941249992,
-      46.36274594300005
-    ],
-    "featureId": 222,
-    "population": 747101,
-    "name": "New Brunswick, CAN"
-  },
-  {
-    "state": "Nova Scotia",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.021209276499945,
-      45.266872463000055
-    ],
-    "featureId": 223,
-    "population": 923598,
-    "name": "Nova Scotia, CAN"
-  },
-  {
-    "state": "Prince Edward Island",
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.21041826049995,
-      46.49290599200006
-    ],
-    "featureId": 224,
-    "population": 142907,
-    "name": "Prince Edward Island, CAN"
-  },
-  {
     "country": "THA",
     "coordinates": [
       101.54455590850003,
@@ -4013,6 +1100,18 @@
   },
   {
     "country": "USA",
+    "state": "CO",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      9.174864674246866,
+      45.94117645058273
+    ],
+    "featureId": 488,
+    "population": 5758736,
+    "name": "CO, USA"
+  },
+  {
+    "country": "USA",
     "state": "FL",
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "coordinates": [
@@ -4022,6 +1121,18 @@
     "featureId": 317,
     "population": 21477737,
     "name": "FL, USA"
+  },
+  {
+    "country": "USA",
+    "state": "NJ",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "coordinates": [
+      15.06717673331957,
+      12.104873978005386
+    ],
+    "featureId": 214,
+    "population": 8882190,
+    "name": "NJ, USA"
   },
   {
     "country": "USA",
@@ -4097,6 +1208,18 @@
   },
   {
     "country": "USA",
+    "state": "NC",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "coordinates": [
+      20.996920403668724,
+      -28.844672746443443
+    ],
+    "featureId": 192,
+    "population": 10488084,
+    "name": "NC, USA"
+  },
+  {
+    "country": "USA",
     "state": "SC",
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "coordinates": [
@@ -4166,6 +1289,18 @@
     "featureId": 325,
     "population": 4467673,
     "name": "KY, USA"
+  },
+  {
+    "country": "USA",
+    "state": "DC",
+    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+    "coordinates": [
+      -77.0145477695639,
+      38.899451555326564
+    ],
+    "featureId": 461,
+    "population": 705749,
+    "name": "DC, USA"
   },
   {
     "country": "USA",
@@ -5269,6 +2404,123 @@
     "name": "Gregg County, TX, USA"
   },
   {
+    "county": "Monmouth County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.2928135,
+      40.2778005
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 204,
+    "population": 621354,
+    "name": "Monmouth County, NJ, USA"
+  },
+  {
+    "county": "Burlington County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.72494950000001,
+      39.8658955
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 195,
+    "population": 445384,
+    "name": "Burlington County, NJ, USA"
+  },
+  {
+    "county": "Camden County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.9381575,
+      39.800549000000004
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 196,
+    "population": 507078,
+    "name": "Camden County, NJ, USA"
+  },
+  {
+    "county": "Passaic County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.304839,
+      41.0114805
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 206,
+    "population": 503310,
+    "name": "Passaic County, NJ, USA"
+  },
+  {
+    "county": "Union County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.300027,
+      40.665566
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 210,
+    "population": 558067,
+    "name": "Union County, NJ, USA"
+  },
+  {
+    "county": "Eagle County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -106.645068,
+      39.6373275
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 477,
+    "population": 54993,
+    "name": "Eagle County, CO, USA"
+  },
+  {
+    "county": "Larimer County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -105.5669625,
+      40.628046999999995
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 482,
+    "population": 350518,
+    "name": "Larimer County, CO, USA"
+  },
+  {
+    "county": "Arapahoe County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -104.38034350000001,
+      39.6533655
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 472,
+    "population": 651215,
+    "name": "Arapahoe County, CO, USA"
+  },
+  {
+    "county": "Gunnison County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -106.94099,
+      38.702179
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 480,
+    "population": 17246,
+    "name": "Gunnison County, CO, USA"
+  },
+  {
     "county": "Kane County",
     "state": "IL",
     "country": "USA",
@@ -5398,6 +2650,19 @@
     "name": "Pima County, AZ, USA"
   },
   {
+    "county": "Noble County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -85.42342049999999,
+      41.3952975
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 6,
+    "population": 47532,
+    "name": "Noble County, IN, USA"
+  },
+  {
     "county": "Adams County",
     "state": "PA",
     "country": "USA",
@@ -5407,6 +2672,19 @@
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "name": "Adams County, PA, USA"
+  },
+  {
+    "county": "Boone County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -86.4677715,
+      40.051773999999995
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 1,
+    "population": 66999,
+    "name": "Boone County, IN, USA"
   },
   {
     "county": "Dane County",
@@ -5612,6 +2890,19 @@
     "name": "Davidson County, TN, USA"
   },
   {
+    "county": "Douglas County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -123.0963585,
+      43.3222345
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 491,
+    "population": 110283,
+    "name": "Douglas County, OR, USA"
+  },
+  {
     "county": "Fresno County",
     "state": "CA",
     "country": "USA",
@@ -5636,6 +2927,32 @@
     "featureId": 755,
     "population": 253956,
     "name": "Harford County, MD, USA"
+  },
+  {
+    "county": "Hendricks County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -86.510613,
+      39.762399
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 17,
+    "population": 167009,
+    "name": "Hendricks County, IN, USA"
+  },
+  {
+    "county": "Hudson County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.07540449999999,
+      40.732721999999995
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 201,
+    "population": 676061,
+    "name": "Hudson County, NJ, USA"
   },
   {
     "county": "Johnson County",
@@ -5673,6 +2990,19 @@
     "featureId": 593,
     "population": 394855,
     "name": "Manatee County, FL, USA"
+  },
+  {
+    "county": "Marion County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -122.4575375,
+      44.984239
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 495,
+    "population": 346868,
+    "name": "Marion County, OR, USA"
   },
   {
     "county": "Okaloosa County",
@@ -5944,6 +3274,19 @@
     "name": "Davis County, UT, USA"
   },
   {
+    "county": "El Paso County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -104.5619235,
+      38.824693999999994
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 478,
+    "population": 713856,
+    "name": "El Paso County, CO, USA"
+  },
+  {
     "county": "Honolulu County",
     "state": "HI",
     "country": "USA",
@@ -5953,6 +3296,19 @@
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "name": "Honolulu County, HI, USA"
+  },
+  {
+    "county": "Jackson County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -122.756742,
+      42.4995805
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 492,
+    "population": 219564,
+    "name": "Jackson County, OR, USA"
   },
   {
     "county": "Jefferson County",
@@ -5966,6 +3322,19 @@
     "featureId": 643,
     "population": 31729,
     "name": "Jefferson County, WA, USA"
+  },
+  {
+    "county": "Klamath County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -121.58491599999999,
+      42.804975999999996
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 493,
+    "population": 67653,
+    "name": "Klamath County, OR, USA"
   },
   {
     "county": "Madera County",
@@ -6005,6 +3374,19 @@
     "name": "Tulsa County, OK, USA"
   },
   {
+    "county": "Douglas County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -104.994923,
+      39.34788
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 476,
+    "population": 342776,
+    "name": "Douglas County, CO, USA"
+  },
+  {
     "county": "Providence County",
     "state": "RI",
     "country": "USA",
@@ -6014,6 +3396,19 @@
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "name": "Providence County, RI, USA"
+  },
+  {
+    "county": "Chatham County",
+    "state": "NC",
+    "country": "USA",
+    "coordinates": [
+      -79.231033,
+      35.6959365
+    ],
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "featureId": 140,
+    "population": 73139,
+    "name": "Chatham County, NC, USA"
   },
   {
     "county": "Delaware County",
@@ -6049,6 +3444,19 @@
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "name": "Fayette County, KY, USA"
+  },
+  {
+    "county": "Marion County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -86.13272599999999,
+      39.779657
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 13,
+    "population": 954670,
+    "name": "Marion County, IN, USA"
   },
   {
     "county": "Middlesex County",
@@ -6236,6 +3644,45 @@
     "name": "Suffolk County, MA, USA"
   },
   {
+    "county": "Denver County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -104.855181,
+      39.76426
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 475,
+    "population": 716492,
+    "name": "Denver County, CO, USA"
+  },
+  {
+    "county": "Summit County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -106.10532549999999,
+      39.6416725
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 486,
+    "population": 31007,
+    "name": "Summit County, CO, USA"
+  },
+  {
+    "county": "Bergen County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.08225,
+      40.952146
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 194,
+    "population": 936692,
+    "name": "Bergen County, NJ, USA"
+  },
+  {
     "county": "Harris County",
     "state": "TX",
     "country": "USA",
@@ -6308,6 +3755,19 @@
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "name": "Maricopa County, AZ, USA"
+  },
+  {
+    "county": "Wake County",
+    "state": "NC",
+    "country": "USA",
+    "coordinates": [
+      -78.6249785,
+      35.796786499999996
+    ],
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "featureId": 134,
+    "population": 1092305,
+    "name": "Wake County, NC, USA"
   },
   {
     "county": "Westchester County",
@@ -6386,6 +3846,19 @@
     "name": "Sonoma County, CA, USA"
   },
   {
+    "county": "Umatilla County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -118.7037805,
+      45.4984405
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 498,
+    "population": 77516,
+    "name": "Umatilla County, OR, USA"
+  },
+  {
     "county": "Fulton County",
     "state": "GA",
     "country": "USA",
@@ -6395,6 +3868,19 @@
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "name": "Fulton County, GA, USA"
+  },
+  {
+    "county": "Washington County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -123.114875,
+      45.5483985
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 499,
+    "population": 597695,
+    "name": "Washington County, OR, USA"
   },
   {
     "county": "Snohomish County",
@@ -6699,6 +4185,71 @@
     "name": "Montgomery County, TX, USA"
   },
   {
+    "county": "Middlesex County",
+    "state": "NJ",
+    "country": "USA",
+    "coordinates": [
+      -74.41841600000001,
+      40.430130500000004
+    ],
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "featureId": 213,
+    "population": 829685,
+    "name": "Middlesex County, NJ, USA"
+  },
+  {
+    "county": "Jefferson County",
+    "state": "CO",
+    "country": "USA",
+    "coordinates": [
+      -105.2238445,
+      39.5219745
+    ],
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "featureId": 481,
+    "population": 580233,
+    "name": "Jefferson County, CO, USA"
+  },
+  {
+    "county": "Multnomah County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -122.374808,
+      45.580658
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 496,
+    "population": 811880,
+    "name": "Multnomah County, OR, USA"
+  },
+  {
+    "county": "Polk County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -123.38289850000001,
+      44.8977695
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 497,
+    "population": 85234,
+    "name": "Polk County, OR, USA"
+  },
+  {
+    "county": "Deschutes County",
+    "state": "OR",
+    "country": "USA",
+    "coordinates": [
+      -120.94952,
+      44.001645499999995
+    ],
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "featureId": 490,
+    "population": 191996,
+    "name": "Deschutes County, OR, USA"
+  },
+  {
     "county": "McHenry County",
     "state": "IL",
     "country": "USA",
@@ -6767,6 +4318,45 @@
     "featureId": 726,
     "population": 157668,
     "name": "Sullivan County, TN, USA"
+  },
+  {
+    "county": "Johnson County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -86.101242,
+      39.4900085
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 3,
+    "population": 156225,
+    "name": "Johnson County, IN, USA"
+  },
+  {
+    "county": "Howard County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -86.1189395,
+      40.469593
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 62,
+    "population": 82366,
+    "name": "Howard County, IN, USA"
+  },
+  {
+    "county": "St. Joseph County",
+    "state": "IN",
+    "country": "USA",
+    "coordinates": [
+      -86.2930665,
+      41.596739
+    ],
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "featureId": 8,
+    "population": 270771,
+    "name": "St. Joseph County, IN, USA"
   },
   {
     "county": "Knox County",
@@ -6998,530 +4588,6 @@
     "featureId": 590,
     "population": 559335,
     "name": "New Castle County, DE, USA"
-  },
-  {
-    "state": "DC",
-    "country": "USA",
-    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
-    "coordinates": [
-      -77.0145477695639,
-      38.899451555326564
-    ],
-    "featureId": 461,
-    "population": 705749,
-    "name": "DC, USA"
-  },
-  {
-    "county": "Baldwin County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.69793150000001,
-      30.765086
-    ],
-    "featureId": 462,
-    "population": 218022,
-    "name": "Baldwin County, AL, USA"
-  },
-  {
-    "county": "Elmore County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.13298,
-      32.5876855
-    ],
-    "featureId": 463,
-    "population": 81887,
-    "name": "Elmore County, AL, USA"
-  },
-  {
-    "county": "Lee County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.348772,
-      32.578877500000004
-    ],
-    "featureId": 464,
-    "population": 163941,
-    "name": "Lee County, AL, USA"
-  },
-  {
-    "county": "Jefferson County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.92924049999999,
-      33.544622000000004
-    ],
-    "featureId": 465,
-    "population": 659300,
-    "name": "Jefferson County, AL, USA"
-  },
-  {
-    "county": "Limestone County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.030965,
-      34.774907
-    ],
-    "featureId": 466,
-    "population": 96174,
-    "name": "Limestone County, AL, USA"
-  },
-  {
-    "county": "Montgomery County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.2080335,
-      32.2330785
-    ],
-    "featureId": 467,
-    "population": 225763,
-    "name": "Montgomery County, AL, USA"
-  },
-  {
-    "county": "Shelby County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.6839795,
-      33.2828065
-    ],
-    "featureId": 468,
-    "population": 215707,
-    "name": "Shelby County, AL, USA"
-  },
-  {
-    "county": "Tuscaloosa County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.4532105,
-      33.306606
-    ],
-    "featureId": 469,
-    "population": 208911,
-    "name": "Tuscaloosa County, AL, USA"
-  },
-  {
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -84.7976370213814,
-      10.447463789112518
-    ],
-    "featureId": 470,
-    "population": 4903185,
-    "name": "AL, USA"
-  },
-  {
-    "county": "Adams County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.3794855,
-      39.87063
-    ],
-    "featureId": 471,
-    "population": 511868,
-    "name": "Adams County, CO, USA"
-  },
-  {
-    "county": "Arapahoe County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.38034350000001,
-      39.6533655
-    ],
-    "featureId": 472,
-    "population": 651215,
-    "name": "Arapahoe County, CO, USA"
-  },
-  {
-    "county": "Boulder County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -105.37153699999999,
-      40.0878355
-    ],
-    "featureId": 473,
-    "population": 326078,
-    "name": "Boulder County, CO, USA"
-  },
-  {
-    "county": "Clear Creek County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -105.66211949999999,
-      39.7084305
-    ],
-    "featureId": 474,
-    "population": 9605,
-    "name": "Clear Creek County, CO, USA"
-  },
-  {
-    "county": "Denver County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.855181,
-      39.76426
-    ],
-    "featureId": 475,
-    "population": 716492,
-    "name": "Denver County, CO, USA"
-  },
-  {
-    "county": "Douglas County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.994923,
-      39.34788
-    ],
-    "featureId": 476,
-    "population": 342776,
-    "name": "Douglas County, CO, USA"
-  },
-  {
-    "county": "Eagle County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -106.645068,
-      39.6373275
-    ],
-    "featureId": 477,
-    "population": 54993,
-    "name": "Eagle County, CO, USA"
-  },
-  {
-    "county": "El Paso County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.5619235,
-      38.824693999999994
-    ],
-    "featureId": 478,
-    "population": 713856,
-    "name": "El Paso County, CO, USA"
-  },
-  {
-    "county": "Garfield County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -108.0417065,
-      39.728802
-    ],
-    "featureId": 479,
-    "population": 59770,
-    "name": "Garfield County, CO, USA"
-  },
-  {
-    "county": "Gunnison County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -106.94099,
-      38.702179
-    ],
-    "featureId": 480,
-    "population": 17246,
-    "name": "Gunnison County, CO, USA"
-  },
-  {
-    "county": "Jefferson County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -105.2238445,
-      39.5219745
-    ],
-    "featureId": 481,
-    "population": 580233,
-    "name": "Jefferson County, CO, USA"
-  },
-  {
-    "county": "Larimer County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -105.5669625,
-      40.628046999999995
-    ],
-    "featureId": 482,
-    "population": 350518,
-    "name": "Larimer County, CO, USA"
-  },
-  {
-    "county": "Mesa County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -108.21971400000001,
-      38.933332
-    ],
-    "featureId": 483,
-    "population": 153207,
-    "name": "Mesa County, CO, USA"
-  },
-  {
-    "county": "Pitkin County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -106.946222,
-      39.171949
-    ],
-    "featureId": 484,
-    "population": 17950,
-    "name": "Pitkin County, CO, USA"
-  },
-  {
-    "county": "Pueblo County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.5522995,
-      38.1285485
-    ],
-    "featureId": 485,
-    "population": 167529,
-    "name": "Pueblo County, CO, USA"
-  },
-  {
-    "county": "Summit County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -106.10532549999999,
-      39.6416725
-    ],
-    "featureId": 486,
-    "population": 31007,
-    "name": "Summit County, CO, USA"
-  },
-  {
-    "county": "Weld County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      -104.315327,
-      40.5011525
-    ],
-    "featureId": 487,
-    "population": 314305,
-    "name": "Weld County, CO, USA"
-  },
-  {
-    "county": "Unknown county County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "name": "Unknown county County, CO, USA"
-  },
-  {
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "coordinates": [
-      9.174864674246866,
-      45.94117645058273
-    ],
-    "featureId": 488,
-    "population": 5758736,
-    "name": "CO, USA"
-  },
-  {
-    "county": "Clackamas County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.26009400000001,
-      45.1737
-    ],
-    "featureId": 489,
-    "population": 416075,
-    "name": "Clackamas County, OR, USA"
-  },
-  {
-    "county": "Deschutes County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -120.94952,
-      44.001645499999995
-    ],
-    "featureId": 490,
-    "population": 191996,
-    "name": "Deschutes County, OR, USA"
-  },
-  {
-    "county": "Douglas County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.0963585,
-      43.3222345
-    ],
-    "featureId": 491,
-    "population": 110283,
-    "name": "Douglas County, OR, USA"
-  },
-  {
-    "county": "Jackson County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.756742,
-      42.4995805
-    ],
-    "featureId": 492,
-    "population": 219564,
-    "name": "Jackson County, OR, USA"
-  },
-  {
-    "county": "Klamath County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -121.58491599999999,
-      42.804975999999996
-    ],
-    "featureId": 493,
-    "population": 67653,
-    "name": "Klamath County, OR, USA"
-  },
-  {
-    "county": "Linn County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.5272075,
-      44.496468
-    ],
-    "featureId": 494,
-    "population": 127335,
-    "name": "Linn County, OR, USA"
-  },
-  {
-    "county": "Marion County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.4575375,
-      44.984239
-    ],
-    "featureId": 495,
-    "population": 346868,
-    "name": "Marion County, OR, USA"
-  },
-  {
-    "county": "Multnomah County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.374808,
-      45.580658
-    ],
-    "featureId": 496,
-    "population": 811880,
-    "name": "Multnomah County, OR, USA"
-  },
-  {
-    "county": "Polk County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.38289850000001,
-      44.8977695
-    ],
-    "featureId": 497,
-    "population": 85234,
-    "name": "Polk County, OR, USA"
-  },
-  {
-    "county": "Umatilla County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -118.7037805,
-      45.4984405
-    ],
-    "featureId": 498,
-    "population": 77516,
-    "name": "Umatilla County, OR, USA"
-  },
-  {
-    "county": "Washington County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.114875,
-      45.5483985
-    ],
-    "featureId": 499,
-    "population": 597695,
-    "name": "Washington County, OR, USA"
-  },
-  {
-    "county": "Yamhill County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.31725850000001,
-      45.254474
-    ],
-    "featureId": 500,
-    "population": 107002,
-    "name": "Yamhill County, OR, USA"
   },
   {
     "state": "Abruzzo",
@@ -7906,6 +4972,18 @@
     "name": "ATG"
   },
   {
+    "country": "USA",
+    "state": "AL",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -84.7976370213814,
+      10.447463789112518
+    ],
+    "featureId": 470,
+    "population": 4903185,
+    "name": "AL, USA"
+  },
+  {
     "country": "URY",
     "coordinates": [
       -55.78074845749991,
@@ -8219,6 +5297,2638 @@
     "name": "Orleans Parish, LA, USA"
   },
   {
+    "county": "DeKalb County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -84.998833,
+      41.397172
+    ],
+    "featureId": 0,
+    "population": 43226,
+    "name": "DeKalb County, IN, USA"
+  },
+  {
+    "county": "Tippecanoe County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.89501100000001,
+      40.388631000000004
+    ],
+    "featureId": 2,
+    "population": 193048,
+    "name": "Tippecanoe County, IN, USA"
+  },
+  {
+    "county": "Elkhart County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.858041,
+      41.598169999999996
+    ],
+    "featureId": 4,
+    "population": 205560,
+    "name": "Elkhart County, IN, USA"
+  },
+  {
+    "county": "Adams County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -84.93797749999999,
+      40.745404
+    ],
+    "featureId": 5,
+    "population": 35636,
+    "name": "Adams County, IN, USA"
+  },
+  {
+    "county": "Madison County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.7193405,
+      40.1616875
+    ],
+    "featureId": 7,
+    "population": 129641,
+    "name": "Madison County, IN, USA"
+  },
+  {
+    "county": "Jackson County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.056745,
+      38.898375
+    ],
+    "featureId": 9,
+    "population": 44111,
+    "name": "Jackson County, IN, USA"
+  },
+  {
+    "county": "Vanderburgh County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.575276,
+      37.997158999999996
+    ],
+    "featureId": 10,
+    "population": 180974,
+    "name": "Vanderburgh County, IN, USA"
+  },
+  {
+    "county": "Grant County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.6545605,
+      40.515986999999996
+    ],
+    "featureId": 11,
+    "population": 65936,
+    "name": "Grant County, IN, USA"
+  },
+  {
+    "county": "Porter County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.07600400000001,
+      41.465349
+    ],
+    "featureId": 12,
+    "population": 169594,
+    "name": "Porter County, IN, USA"
+  },
+  {
+    "county": "Hamilton County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.052323,
+      40.0724955
+    ],
+    "featureId": 14,
+    "population": 330086,
+    "name": "Hamilton County, IN, USA"
+  },
+  {
+    "county": "Lake County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.372815,
+      41.4360915
+    ],
+    "featureId": 15,
+    "population": 484411,
+    "name": "Lake County, IN, USA"
+  },
+  {
+    "county": "Morgan County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.46872300000001,
+      39.486663
+    ],
+    "featureId": 16,
+    "population": 70116,
+    "name": "Morgan County, IN, USA"
+  },
+  {
+    "county": "LaPorte County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.70959,
+      41.4985245
+    ],
+    "featureId": 18,
+    "population": 110007,
+    "name": "LaPorte County, IN, USA"
+  },
+  {
+    "county": "Floyd County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.8968305,
+      38.299344000000005
+    ],
+    "featureId": 19,
+    "population": 77781,
+    "name": "Floyd County, IN, USA"
+  },
+  {
+    "county": "Shelby County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.7912735,
+      39.5229175
+    ],
+    "featureId": 20,
+    "population": 44593,
+    "name": "Shelby County, IN, USA"
+  },
+  {
+    "county": "Allen County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.070744,
+      41.093929
+    ],
+    "featureId": 21,
+    "population": 375351,
+    "name": "Allen County, IN, USA"
+  },
+  {
+    "county": "Tipton County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.052076,
+      40.311361500000004
+    ],
+    "featureId": 22,
+    "population": 15128,
+    "name": "Tipton County, IN, USA"
+  },
+  {
+    "county": "Rush County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.465533,
+      39.6201645
+    ],
+    "featureId": 23,
+    "population": 16663,
+    "name": "Rush County, IN, USA"
+  },
+  {
+    "county": "Orange County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.49588800000001,
+      38.541362
+    ],
+    "featureId": 24,
+    "population": 19489,
+    "name": "Orange County, IN, USA"
+  },
+  {
+    "county": "Crawford County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.4664205,
+      38.264135499999995
+    ],
+    "featureId": 25,
+    "population": 10558,
+    "name": "Crawford County, IN, USA"
+  },
+  {
+    "county": "Owen County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.84269800000001,
+      39.319545500000004
+    ],
+    "featureId": 26,
+    "population": 20845,
+    "name": "Owen County, IN, USA"
+  },
+  {
+    "county": "Fountain County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.2651005,
+      40.159532
+    ],
+    "featureId": 27,
+    "population": 16351,
+    "name": "Fountain County, IN, USA"
+  },
+  {
+    "county": "Decatur County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.4919175,
+      39.292067
+    ],
+    "featureId": 28,
+    "population": 26794,
+    "name": "Decatur County, IN, USA"
+  },
+  {
+    "county": "Fulton County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.2069545,
+      41.0412495
+    ],
+    "featureId": 29,
+    "population": 20092,
+    "name": "Fulton County, IN, USA"
+  },
+  {
+    "county": "LaGrange County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.426917,
+      41.641722
+    ],
+    "featureId": 30,
+    "population": 39330,
+    "name": "LaGrange County, IN, USA"
+  },
+  {
+    "county": "Knox County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.4215765,
+      38.6611855
+    ],
+    "featureId": 31,
+    "population": 36895,
+    "name": "Knox County, IN, USA"
+  },
+  {
+    "county": "Monroe County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.50153900000001,
+      39.173286000000004
+    ],
+    "featureId": 32,
+    "population": 146917,
+    "name": "Monroe County, IN, USA"
+  },
+  {
+    "county": "Cass County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.3733815,
+      40.736143
+    ],
+    "featureId": 33,
+    "population": 37955,
+    "name": "Cass County, IN, USA"
+  },
+  {
+    "county": "Randolph County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.011338,
+      40.157236999999995
+    ],
+    "featureId": 34,
+    "population": 24851,
+    "name": "Randolph County, IN, USA"
+  },
+  {
+    "county": "Martin County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.8032725,
+      38.700171999999995
+    ],
+    "featureId": 35,
+    "population": 10217,
+    "name": "Martin County, IN, USA"
+  },
+  {
+    "county": "Washington County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.078819,
+      38.5984585
+    ],
+    "featureId": 36,
+    "population": 27943,
+    "name": "Washington County, IN, USA"
+  },
+  {
+    "county": "Parke County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.2218005,
+      39.779033
+    ],
+    "featureId": 37,
+    "population": 16927,
+    "name": "Parke County, IN, USA"
+  },
+  {
+    "county": "Kosciusko County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.8647395,
+      41.239367
+    ],
+    "featureId": 38,
+    "population": 79344,
+    "name": "Kosciusko County, IN, USA"
+  },
+  {
+    "county": "Wayne County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.01602550000001,
+      39.8599215
+    ],
+    "featureId": 39,
+    "population": 65936,
+    "name": "Wayne County, IN, USA"
+  },
+  {
+    "county": "Montgomery County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.893817,
+      40.039825500000006
+    ],
+    "featureId": 40,
+    "population": 38346,
+    "name": "Montgomery County, IN, USA"
+  },
+  {
+    "county": "Hancock County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.76510250000001,
+      39.821446
+    ],
+    "featureId": 41,
+    "population": 76351,
+    "name": "Hancock County, IN, USA"
+  },
+  {
+    "county": "Vigo County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.40453099999999,
+      39.4335005
+    ],
+    "featureId": 42,
+    "population": 107386,
+    "name": "Vigo County, IN, USA"
+  },
+  {
+    "county": "Jefferson County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.4428255,
+      38.749990499999996
+    ],
+    "featureId": 43,
+    "population": 32208,
+    "name": "Jefferson County, IN, USA"
+  },
+  {
+    "county": "Huntington County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.48925399999999,
+      40.8291895
+    ],
+    "featureId": 44,
+    "population": 36240,
+    "name": "Huntington County, IN, USA"
+  },
+  {
+    "county": "Harrison County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.114784,
+      38.190351500000006
+    ],
+    "featureId": 45,
+    "population": 40350,
+    "name": "Harrison County, IN, USA"
+  },
+  {
+    "county": "Wabash County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.7925115,
+      40.848853500000004
+    ],
+    "featureId": 46,
+    "population": 31280,
+    "name": "Wabash County, IN, USA"
+  },
+  {
+    "county": "Delaware County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.3964875,
+      40.2282065
+    ],
+    "featureId": 47,
+    "population": 114772,
+    "name": "Delaware County, IN, USA"
+  },
+  {
+    "county": "Posey County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.87335350000001,
+      38.001000000000005
+    ],
+    "featureId": 48,
+    "population": 25540,
+    "name": "Posey County, IN, USA"
+  },
+  {
+    "county": "Spencer County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.0179535,
+      37.993821
+    ],
+    "featureId": 49,
+    "population": 20327,
+    "name": "Spencer County, IN, USA"
+  },
+  {
+    "county": "Ohio County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -84.9850845,
+      38.9659135
+    ],
+    "featureId": 50,
+    "population": 5844,
+    "name": "Ohio County, IN, USA"
+  },
+  {
+    "county": "Carroll County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.5738755,
+      40.5844765
+    ],
+    "featureId": 51,
+    "population": 20127,
+    "name": "Carroll County, IN, USA"
+  },
+  {
+    "county": "Warren County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.311793,
+      40.3021425
+    ],
+    "featureId": 52,
+    "population": 8263,
+    "name": "Warren County, IN, USA"
+  },
+  {
+    "county": "Franklin County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.056989,
+      39.397251999999995
+    ],
+    "featureId": 53,
+    "population": 22736,
+    "name": "Franklin County, IN, USA"
+  },
+  {
+    "county": "Pulaski County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.6989025,
+      41.0411035
+    ],
+    "featureId": 54,
+    "population": 12469,
+    "name": "Pulaski County, IN, USA"
+  },
+  {
+    "county": "Jay County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.0111465,
+      40.439459
+    ],
+    "featureId": 55,
+    "population": 20764,
+    "name": "Jay County, IN, USA"
+  },
+  {
+    "county": "Wells County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.258652,
+      40.742376
+    ],
+    "featureId": 56,
+    "population": 28206,
+    "name": "Wells County, IN, USA"
+  },
+  {
+    "county": "Marshall County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.2605775,
+      41.325298000000004
+    ],
+    "featureId": 57,
+    "population": 46248,
+    "name": "Marshall County, IN, USA"
+  },
+  {
+    "county": "Sullivan County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.4431845,
+      39.080525
+    ],
+    "featureId": 58,
+    "population": 20690,
+    "name": "Sullivan County, IN, USA"
+  },
+  {
+    "county": "Brown County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.23083349999999,
+      39.196282
+    ],
+    "featureId": 59,
+    "population": 15234,
+    "name": "Brown County, IN, USA"
+  },
+  {
+    "county": "Ripley County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.2549985,
+      39.1115335
+    ],
+    "featureId": 60,
+    "population": 28523,
+    "name": "Ripley County, IN, USA"
+  },
+  {
+    "county": "Henry County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.3989305,
+      39.931831
+    ],
+    "featureId": 61,
+    "population": 48271,
+    "name": "Henry County, IN, USA"
+  },
+  {
+    "county": "Whitley County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.49717749999999,
+      41.148574999999994
+    ],
+    "featureId": 63,
+    "population": 34074,
+    "name": "Whitley County, IN, USA"
+  },
+  {
+    "county": "Dearborn County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -84.9759795,
+      39.1234195
+    ],
+    "featureId": 64,
+    "population": 49568,
+    "name": "Dearborn County, IN, USA"
+  },
+  {
+    "county": "Blackford County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.32408,
+      40.473138
+    ],
+    "featureId": 65,
+    "population": 11930,
+    "name": "Blackford County, IN, USA"
+  },
+  {
+    "county": "Scott County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.729157,
+      38.6948615
+    ],
+    "featureId": 66,
+    "population": 23878,
+    "name": "Scott County, IN, USA"
+  },
+  {
+    "county": "Bartholomew County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.885058,
+      39.192976
+    ],
+    "featureId": 67,
+    "population": 82753,
+    "name": "Bartholomew County, IN, USA"
+  },
+  {
+    "county": "Jasper County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.1030475,
+      41.011453
+    ],
+    "featureId": 68,
+    "population": 33370,
+    "name": "Jasper County, IN, USA"
+  },
+  {
+    "county": "Union County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -84.925108,
+      39.6256065
+    ],
+    "featureId": 69,
+    "population": 7037,
+    "name": "Union County, IN, USA"
+  },
+  {
+    "county": "Vermillion County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.443545,
+      39.877864
+    ],
+    "featureId": 70,
+    "population": 15479,
+    "name": "Vermillion County, IN, USA"
+  },
+  {
+    "county": "Benton County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.3100935,
+      40.606315
+    ],
+    "featureId": 71,
+    "population": 8653,
+    "name": "Benton County, IN, USA"
+  },
+  {
+    "county": "Clay County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.090359,
+      39.387551
+    ],
+    "featureId": 72,
+    "population": 26170,
+    "name": "Clay County, IN, USA"
+  },
+  {
+    "county": "Lawrence County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.47919150000001,
+      38.8394825
+    ],
+    "featureId": 73,
+    "population": 45668,
+    "name": "Lawrence County, IN, USA"
+  },
+  {
+    "county": "Clark County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.704951,
+      38.436953
+    ],
+    "featureId": 74,
+    "population": 117360,
+    "name": "Clark County, IN, USA"
+  },
+  {
+    "county": "Miami County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.01632649999999,
+      40.780922000000004
+    ],
+    "featureId": 75,
+    "population": 35567,
+    "name": "Miami County, IN, USA"
+  },
+  {
+    "county": "Fayette County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.1680795,
+      39.6569625
+    ],
+    "featureId": 76,
+    "population": 23047,
+    "name": "Fayette County, IN, USA"
+  },
+  {
+    "county": "Newton County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.3970095,
+      40.977588499999996
+    ],
+    "featureId": 77,
+    "population": 14011,
+    "name": "Newton County, IN, USA"
+  },
+  {
+    "county": "Perry County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.6224235,
+      38.0538765
+    ],
+    "featureId": 78,
+    "population": 19102,
+    "name": "Perry County, IN, USA"
+  },
+  {
+    "county": "Putnam County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.8280865,
+      39.668384
+    ],
+    "featureId": 79,
+    "population": 37779,
+    "name": "Putnam County, IN, USA"
+  },
+  {
+    "county": "Starke County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.6983865,
+      41.302205
+    ],
+    "featureId": 80,
+    "population": 22935,
+    "name": "Starke County, IN, USA"
+  },
+  {
+    "county": "Greene County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.961652,
+      39.0371445
+    ],
+    "featureId": 81,
+    "population": 32006,
+    "name": "Greene County, IN, USA"
+  },
+  {
+    "county": "Pike County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.2676305,
+      38.390486499999994
+    ],
+    "featureId": 82,
+    "population": 12410,
+    "name": "Pike County, IN, USA"
+  },
+  {
+    "county": "Warrick County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.245218,
+      38.062363000000005
+    ],
+    "featureId": 83,
+    "population": 62567,
+    "name": "Warrick County, IN, USA"
+  },
+  {
+    "county": "Daviess County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.0858515,
+      38.6973285
+    ],
+    "featureId": 84,
+    "population": 33147,
+    "name": "Daviess County, IN, USA"
+  },
+  {
+    "county": "Dubois County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.87606650000001,
+      38.365024000000005
+    ],
+    "featureId": 85,
+    "population": 42565,
+    "name": "Dubois County, IN, USA"
+  },
+  {
+    "county": "Clinton County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.46908450000001,
+      40.304673
+    ],
+    "featureId": 86,
+    "population": 32250,
+    "name": "Clinton County, IN, USA"
+  },
+  {
+    "county": "White County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -86.8406485,
+      40.737271
+    ],
+    "featureId": 87,
+    "population": 24133,
+    "name": "White County, IN, USA"
+  },
+  {
+    "county": "Switzerland County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -84.9938725,
+      38.8085935
+    ],
+    "featureId": 88,
+    "population": 10717,
+    "name": "Switzerland County, IN, USA"
+  },
+  {
+    "county": "Steuben County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.0007515,
+      41.6433265
+    ],
+    "featureId": 89,
+    "population": 34586,
+    "name": "Steuben County, IN, USA"
+  },
+  {
+    "county": "Gibson County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -87.64698250000001,
+      38.349461
+    ],
+    "featureId": 90,
+    "population": 33452,
+    "name": "Gibson County, IN, USA"
+  },
+  {
+    "county": "Jennings County",
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "country": "USA",
+    "state": "IN",
+    "coordinates": [
+      -85.619944,
+      39.0015625
+    ],
+    "featureId": 91,
+    "population": 27611,
+    "name": "Jennings County, IN, USA"
+  },
+  {
+    "county": "Rockingham County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.77325049999999,
+      36.39209
+    ],
+    "featureId": 92,
+    "population": 90690,
+    "name": "Rockingham County, NC, USA"
+  },
+  {
+    "county": "Guilford County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.789537,
+      36.078567
+    ],
+    "featureId": 93,
+    "population": 533670,
+    "name": "Guilford County, NC, USA"
+  },
+  {
+    "county": "Alamance County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.389903,
+      36.046625
+    ],
+    "featureId": 94,
+    "population": 166436,
+    "name": "Alamance County, NC, USA"
+  },
+  {
+    "county": "Alexander County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.173576,
+      35.9112
+    ],
+    "featureId": 95,
+    "population": 37353,
+    "name": "Alexander County, NC, USA"
+  },
+  {
+    "county": "Randolph County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.80440999999999,
+      35.713162
+    ],
+    "featureId": 96,
+    "population": 143351,
+    "name": "Randolph County, NC, USA"
+  },
+  {
+    "county": "Wayne County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.0523115,
+      35.372187
+    ],
+    "featureId": 97,
+    "population": 123248,
+    "name": "Wayne County, NC, USA"
+  },
+  {
+    "county": "Ashe County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.4925705,
+      36.414194499999994
+    ],
+    "featureId": 98,
+    "population": 27109,
+    "name": "Ashe County, NC, USA"
+  },
+  {
+    "county": "Alleghany County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.128388,
+      36.470187499999994
+    ],
+    "featureId": 99,
+    "population": 11161,
+    "name": "Alleghany County, NC, USA"
+  },
+  {
+    "county": "Currituck County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.0432625,
+      36.311232000000004
+    ],
+    "featureId": 100,
+    "population": 27072,
+    "name": "Currituck County, NC, USA"
+  },
+  {
+    "county": "Camden County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.2231965,
+      36.357271
+    ],
+    "featureId": 101,
+    "population": 10710,
+    "name": "Camden County, NC, USA"
+  },
+  {
+    "county": "Surry County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.7073595,
+      36.399366
+    ],
+    "featureId": 102,
+    "population": 71948,
+    "name": "Surry County, NC, USA"
+  },
+  {
+    "county": "Gates County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.70138,
+      36.424152
+    ],
+    "featureId": 103,
+    "population": 11573,
+    "name": "Gates County, NC, USA"
+  },
+  {
+    "county": "Hertford County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.94985,
+      36.392281999999994
+    ],
+    "featureId": 104,
+    "population": 23659,
+    "name": "Hertford County, NC, USA"
+  },
+  {
+    "county": "Northampton County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.48302000000001,
+      36.356129499999994
+    ],
+    "featureId": 105,
+    "population": 19676,
+    "name": "Northampton County, NC, USA"
+  },
+  {
+    "county": "Stokes County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.2396115,
+      36.4039905
+    ],
+    "featureId": 106,
+    "population": 45467,
+    "name": "Stokes County, NC, USA"
+  },
+  {
+    "county": "Warren County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.110931,
+      36.373663
+    ],
+    "featureId": 107,
+    "population": 19807,
+    "name": "Warren County, NC, USA"
+  },
+  {
+    "county": "Vance County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.394374,
+      36.3539845
+    ],
+    "featureId": 108,
+    "population": 44582,
+    "name": "Vance County, NC, USA"
+  },
+  {
+    "county": "Granville County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.6309765,
+      36.282139
+    ],
+    "featureId": 109,
+    "population": 60115,
+    "name": "Granville County, NC, USA"
+  },
+  {
+    "county": "Caswell County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.335016,
+      36.391928
+    ],
+    "featureId": 110,
+    "population": 22698,
+    "name": "Caswell County, NC, USA"
+  },
+  {
+    "county": "Person County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.974278,
+      36.389045499999995
+    ],
+    "featureId": 111,
+    "population": 39507,
+    "name": "Person County, NC, USA"
+  },
+  {
+    "county": "Pasquotank County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.2753735,
+      36.31698
+    ],
+    "featureId": 112,
+    "population": 39639,
+    "name": "Pasquotank County, NC, USA"
+  },
+  {
+    "county": "Halifax County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.618624,
+      36.255891000000005
+    ],
+    "featureId": 113,
+    "population": 50574,
+    "name": "Halifax County, NC, USA"
+  },
+  {
+    "county": "Wilkes County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.20716300000001,
+      36.217608
+    ],
+    "featureId": 114,
+    "population": 68557,
+    "name": "Wilkes County, NC, USA"
+  },
+  {
+    "county": "Watauga County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.686846,
+      36.2509755
+    ],
+    "featureId": 115,
+    "population": 55945,
+    "name": "Watauga County, NC, USA"
+  },
+  {
+    "county": "Perquimans County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.390806,
+      36.226709
+    ],
+    "featureId": 116,
+    "population": 13422,
+    "name": "Perquimans County, NC, USA"
+  },
+  {
+    "county": "Chowan County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.5666445,
+      36.178765999999996
+    ],
+    "featureId": 117,
+    "population": 14029,
+    "name": "Chowan County, NC, USA"
+  },
+  {
+    "county": "Avery County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.9081385,
+      36.099315000000004
+    ],
+    "featureId": 118,
+    "population": 17505,
+    "name": "Avery County, NC, USA"
+  },
+  {
+    "county": "Yadkin County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.657182,
+      36.165891
+    ],
+    "featureId": 119,
+    "population": 37543,
+    "name": "Yadkin County, NC, USA"
+  },
+  {
+    "county": "Dare County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -75.7362335,
+      35.708368
+    ],
+    "featureId": 120,
+    "population": 36501,
+    "name": "Dare County, NC, USA"
+  },
+  {
+    "county": "Forsyth County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.2759705,
+      36.1174225
+    ],
+    "featureId": 121,
+    "population": 379099,
+    "name": "Forsyth County, NC, USA"
+  },
+  {
+    "county": "Franklin County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.27652549999999,
+      36.0419445
+    ],
+    "featureId": 122,
+    "population": 67560,
+    "name": "Franklin County, NC, USA"
+  },
+  {
+    "county": "Bertie County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.0036715,
+      36.0338355
+    ],
+    "featureId": 123,
+    "population": 19026,
+    "name": "Bertie County, NC, USA"
+  },
+  {
+    "county": "Orange County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.107692,
+      36.052271
+    ],
+    "featureId": 124,
+    "population": 146027,
+    "name": "Orange County, NC, USA"
+  },
+  {
+    "county": "Durham County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.8573145,
+      36.051317999999995
+    ],
+    "featureId": 125,
+    "population": 316739,
+    "name": "Durham County, NC, USA"
+  },
+  {
+    "county": "Nash County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.976391,
+      35.966553000000005
+    ],
+    "featureId": 126,
+    "population": 94016,
+    "name": "Nash County, NC, USA"
+  },
+  {
+    "county": "Mitchell County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.198442,
+      35.991779
+    ],
+    "featureId": 127,
+    "population": 15000,
+    "name": "Mitchell County, NC, USA"
+  },
+  {
+    "county": "Edgecombe County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.585453,
+      35.915150999999994
+    ],
+    "featureId": 128,
+    "population": 52005,
+    "name": "Edgecombe County, NC, USA"
+  },
+  {
+    "county": "Caldwell County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.5699525,
+      35.939887
+    ],
+    "featureId": 129,
+    "population": 82029,
+    "name": "Caldwell County, NC, USA"
+  },
+  {
+    "county": "Tyrrell County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.210059,
+      35.7957445
+    ],
+    "featureId": 130,
+    "population": 4131,
+    "name": "Tyrrell County, NC, USA"
+  },
+  {
+    "county": "Yancey County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.31928300000001,
+      35.888507000000004
+    ],
+    "featureId": 131,
+    "population": 17903,
+    "name": "Yancey County, NC, USA"
+  },
+  {
+    "county": "Madison County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.685785,
+      35.8719975
+    ],
+    "featureId": 132,
+    "population": 21763,
+    "name": "Madison County, NC, USA"
+  },
+  {
+    "county": "Martin County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.084982,
+      35.8664985
+    ],
+    "featureId": 133,
+    "population": 22671,
+    "name": "Martin County, NC, USA"
+  },
+  {
+    "county": "Davie County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.5364645,
+      35.9026525
+    ],
+    "featureId": 135,
+    "population": 42733,
+    "name": "Davie County, NC, USA"
+  },
+  {
+    "county": "Washington County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.6003345,
+      35.840892999999994
+    ],
+    "featureId": 136,
+    "population": 11859,
+    "name": "Washington County, NC, USA"
+  },
+  {
+    "county": "Burke County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.675545,
+      35.7791955
+    ],
+    "featureId": 137,
+    "population": 90382,
+    "name": "Burke County, NC, USA"
+  },
+  {
+    "county": "Davidson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.2652875,
+      35.765553499999996
+    ],
+    "featureId": 138,
+    "population": 166614,
+    "name": "Davidson County, NC, USA"
+  },
+  {
+    "county": "McDowell County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.0594425,
+      35.738724500000004
+    ],
+    "featureId": 139,
+    "population": 45507,
+    "name": "McDowell County, NC, USA"
+  },
+  {
+    "county": "Wilson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.926691,
+      35.7253325
+    ],
+    "featureId": 141,
+    "population": 81455,
+    "name": "Wilson County, NC, USA"
+  },
+  {
+    "county": "Buncombe County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.5263415,
+      35.620303
+    ],
+    "featureId": 142,
+    "population": 259103,
+    "name": "Buncombe County, NC, USA"
+  },
+  {
+    "county": "Haywood County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -83.000247,
+      35.5418605
+    ],
+    "featureId": 143,
+    "population": 61971,
+    "name": "Haywood County, NC, USA"
+  },
+  {
+    "county": "Catawba County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.22916649999999,
+      35.6878485
+    ],
+    "featureId": 144,
+    "population": 158652,
+    "name": "Catawba County, NC, USA"
+  },
+  {
+    "county": "Pitt County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.392609,
+      35.580454
+    ],
+    "featureId": 145,
+    "population": 179914,
+    "name": "Pitt County, NC, USA"
+  },
+  {
+    "county": "Johnston County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.386616,
+      35.537085
+    ],
+    "featureId": 146,
+    "population": 202675,
+    "name": "Johnston County, NC, USA"
+  },
+  {
+    "county": "Swain County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -83.554631,
+      35.4877375
+    ],
+    "featureId": 147,
+    "population": 14245,
+    "name": "Swain County, NC, USA"
+  },
+  {
+    "county": "Beaufort County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.83147650000001,
+      35.477776000000006
+    ],
+    "featureId": 148,
+    "population": 47079,
+    "name": "Beaufort County, NC, USA"
+  },
+  {
+    "county": "Hyde County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.19371849999999,
+      35.383544
+    ],
+    "featureId": 149,
+    "population": 5230,
+    "name": "Hyde County, NC, USA"
+  },
+  {
+    "county": "Greene County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.6507765,
+      35.500008
+    ],
+    "featureId": 150,
+    "population": 21012,
+    "name": "Greene County, NC, USA"
+  },
+  {
+    "county": "Rutherford County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.985972,
+      35.395423
+    ],
+    "featureId": 151,
+    "population": 66826,
+    "name": "Rutherford County, NC, USA"
+  },
+  {
+    "county": "Lee County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.16466,
+      35.467607
+    ],
+    "featureId": 152,
+    "population": 61452,
+    "name": "Lee County, NC, USA"
+  },
+  {
+    "county": "Cleveland County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.54468800000001,
+      35.371596499999995
+    ],
+    "featureId": 153,
+    "population": 97645,
+    "name": "Cleveland County, NC, USA"
+  },
+  {
+    "county": "Jackson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -83.1417865,
+      35.26292
+    ],
+    "featureId": 154,
+    "population": 43327,
+    "name": "Jackson County, NC, USA"
+  },
+  {
+    "county": "Harnett County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.87648899999999,
+      35.3876225
+    ],
+    "featureId": 155,
+    "population": 134214,
+    "name": "Harnett County, NC, USA"
+  },
+  {
+    "county": "Graham County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -83.810297,
+      35.342066
+    ],
+    "featureId": 156,
+    "population": 8484,
+    "name": "Graham County, NC, USA"
+  },
+  {
+    "county": "Henderson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.5033325,
+      35.322029
+    ],
+    "featureId": 157,
+    "population": 116748,
+    "name": "Henderson County, NC, USA"
+  },
+  {
+    "county": "Moore County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.43270749999999,
+      35.2805435
+    ],
+    "featureId": 158,
+    "population": 98682,
+    "name": "Moore County, NC, USA"
+  },
+  {
+    "county": "Montgomery County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.898494,
+      35.324289
+    ],
+    "featureId": 159,
+    "population": 27271,
+    "name": "Montgomery County, NC, USA"
+  },
+  {
+    "county": "Stanly County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.278733,
+      35.323707999999996
+    ],
+    "featureId": 160,
+    "population": 62075,
+    "name": "Stanly County, NC, USA"
+  },
+  {
+    "county": "Transylvania County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.815485,
+      35.2252595
+    ],
+    "featureId": 161,
+    "population": 34215,
+    "name": "Transylvania County, NC, USA"
+  },
+  {
+    "county": "Polk County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -82.1603345,
+      35.296185
+    ],
+    "featureId": 162,
+    "population": 20611,
+    "name": "Polk County, NC, USA"
+  },
+  {
+    "county": "Lenoir County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.6126075,
+      35.2174715
+    ],
+    "featureId": 163,
+    "population": 55976,
+    "name": "Lenoir County, NC, USA"
+  },
+  {
+    "county": "Craven County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.063318,
+      35.110855
+    ],
+    "featureId": 164,
+    "population": 102912,
+    "name": "Craven County, NC, USA"
+  },
+  {
+    "county": "Macon County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -83.42341,
+      35.162244
+    ],
+    "featureId": 165,
+    "population": 35285,
+    "name": "Macon County, NC, USA"
+  },
+  {
+    "county": "Cherokee County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -84.0097475,
+      35.139748499999996
+    ],
+    "featureId": 166,
+    "population": 28383,
+    "name": "Cherokee County, NC, USA"
+  },
+  {
+    "county": "Pamlico County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.72772499999999,
+      35.1507535
+    ],
+    "featureId": 167,
+    "population": 12670,
+    "name": "Pamlico County, NC, USA"
+  },
+  {
+    "county": "Sampson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.3926405,
+      34.9345395
+    ],
+    "featureId": 168,
+    "population": 63626,
+    "name": "Sampson County, NC, USA"
+  },
+  {
+    "county": "Cumberland County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.8038205,
+      35.0502155
+    ],
+    "featureId": 169,
+    "population": 332330,
+    "name": "Cumberland County, NC, USA"
+  },
+  {
+    "county": "Clay County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -83.7441825,
+      35.0712515
+    ],
+    "featureId": 170,
+    "population": 11139,
+    "name": "Clay County, NC, USA"
+  },
+  {
+    "county": "Jones County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.39021650000001,
+      35.014189
+    ],
+    "featureId": 171,
+    "population": 9637,
+    "name": "Jones County, NC, USA"
+  },
+  {
+    "county": "Carteret County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -76.60086799999999,
+      34.832848999999996
+    ],
+    "featureId": 172,
+    "population": 69524,
+    "name": "Carteret County, NC, USA"
+  },
+  {
+    "county": "Union County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.5587175,
+      35.0112285
+    ],
+    "featureId": 173,
+    "population": 235908,
+    "name": "Union County, NC, USA"
+  },
+  {
+    "county": "Anson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.0844735,
+      35.008912
+    ],
+    "featureId": 174,
+    "population": 24877,
+    "name": "Anson County, NC, USA"
+  },
+  {
+    "county": "Hoke County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.24694550000001,
+      35.02319
+    ],
+    "featureId": 175,
+    "population": 54764,
+    "name": "Hoke County, NC, USA"
+  },
+  {
+    "county": "Duplin County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.9257305,
+      34.9501105
+    ],
+    "featureId": 176,
+    "population": 58856,
+    "name": "Duplin County, NC, USA"
+  },
+  {
+    "county": "Richmond County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.76728299999999,
+      34.99408
+    ],
+    "featureId": 177,
+    "population": 44887,
+    "name": "Richmond County, NC, USA"
+  },
+  {
+    "county": "Scotland County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.5119535,
+      34.836764
+    ],
+    "featureId": 178,
+    "population": 34810,
+    "name": "Scotland County, NC, USA"
+  },
+  {
+    "county": "Onslow County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.3899735,
+      34.712451
+    ],
+    "featureId": 179,
+    "population": 197683,
+    "name": "Onslow County, NC, USA"
+  },
+  {
+    "county": "Robeson County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -79.133749,
+      34.626412
+    ],
+    "featureId": 180,
+    "population": 131831,
+    "name": "Robeson County, NC, USA"
+  },
+  {
+    "county": "Bladen County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.5427315,
+      34.611776500000005
+    ],
+    "featureId": 181,
+    "population": 33190,
+    "name": "Bladen County, NC, USA"
+  },
+  {
+    "county": "Pender County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.894035,
+      34.512526
+    ],
+    "featureId": 182,
+    "population": 62162,
+    "name": "Pender County, NC, USA"
+  },
+  {
+    "county": "Columbus County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.6167595,
+      34.2134885
+    ],
+    "featureId": 183,
+    "population": 55655,
+    "name": "Columbus County, NC, USA"
+  },
+  {
+    "county": "New Hanover County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -77.872919,
+      34.15828500000001
+    ],
+    "featureId": 184,
+    "population": 232274,
+    "name": "New Hanover County, NC, USA"
+  },
+  {
+    "county": "Brunswick County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -78.292874,
+      34.1056615
+    ],
+    "featureId": 185,
+    "population": 136744,
+    "name": "Brunswick County, NC, USA"
+  },
+  {
+    "county": "Iredell County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.901307,
+      35.7732565
+    ],
+    "featureId": 186,
+    "population": 178435,
+    "name": "Iredell County, NC, USA"
+  },
+  {
+    "county": "Rowan County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.47710000000001,
+      35.6830585
+    ],
+    "featureId": 187,
+    "population": 141262,
+    "name": "Rowan County, NC, USA"
+  },
+  {
+    "county": "Lincoln County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.24025,
+      35.484821999999994
+    ],
+    "featureId": 188,
+    "population": 83770,
+    "name": "Lincoln County, NC, USA"
+  },
+  {
+    "county": "Mecklenburg County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.804163,
+      35.2583695
+    ],
+    "featureId": 189,
+    "population": 1093901,
+    "name": "Mecklenburg County, NC, USA"
+  },
+  {
+    "county": "Cabarrus County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -80.541589,
+      35.3456055
+    ],
+    "featureId": 190,
+    "population": 211342,
+    "name": "Cabarrus County, NC, USA"
+  },
+  {
+    "county": "Gaston County",
+    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+    "country": "USA",
+    "state": "NC",
+    "coordinates": [
+      -81.1896935,
+      35.284431999999995
+    ],
+    "featureId": 191,
+    "population": 222846,
+    "name": "Gaston County, NC, USA"
+  },
+  {
+    "county": "Atlantic County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.6437035,
+      39.509258
+    ],
+    "featureId": 193,
+    "population": 265429,
+    "name": "Atlantic County, NJ, USA"
+  },
+  {
+    "county": "Cape May County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.756719,
+      39.1261435
+    ],
+    "featureId": 197,
+    "population": 92560,
+    "name": "Cape May County, NJ, USA"
+  },
+  {
+    "county": "Cumberland County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -75.135421,
+      39.373098
+    ],
+    "featureId": 198,
+    "population": 150972,
+    "name": "Cumberland County, NJ, USA"
+  },
+  {
+    "county": "Essex County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.24515199999999,
+      40.7914715
+    ],
+    "featureId": 199,
+    "population": 799767,
+    "name": "Essex County, NJ, USA"
+  },
+  {
+    "county": "Gloucester County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -75.15904900000001,
+      39.7016335
+    ],
+    "featureId": 200,
+    "population": 291408,
+    "name": "Gloucester County, NJ, USA"
+  },
+  {
+    "county": "Hunterdon County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.9494015,
+      40.5647375
+    ],
+    "featureId": 202,
+    "population": 124714,
+    "name": "Hunterdon County, NJ, USA"
+  },
+  {
+    "county": "Mercer County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.7122715,
+      40.280848500000005
+    ],
+    "featureId": 203,
+    "population": 369811,
+    "name": "Mercer County, NJ, USA"
+  },
+  {
+    "county": "Ocean County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.29221150000001,
+      39.835446000000005
+    ],
+    "featureId": 205,
+    "population": 601651,
+    "name": "Ocean County, NJ, USA"
+  },
+  {
+    "county": "Salem County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -75.31079349999999,
+      39.5848515
+    ],
+    "featureId": 207,
+    "population": 62607,
+    "name": "Salem County, NJ, USA"
+  },
+  {
+    "county": "Somerset County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.5998835,
+      40.566201
+    ],
+    "featureId": 208,
+    "population": 331164,
+    "name": "Somerset County, NJ, USA"
+  },
+  {
+    "county": "Sussex County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.678832,
+      41.128282
+    ],
+    "featureId": 209,
+    "population": 140799,
+    "name": "Sussex County, NJ, USA"
+  },
+  {
+    "county": "Warren County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.985897,
+      40.8430415
+    ],
+    "featureId": 211,
+    "population": 105779,
+    "name": "Warren County, NJ, USA"
+  },
+  {
+    "county": "Morris County",
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.5802275,
+      40.867802999999995
+    ],
+    "featureId": 212,
+    "population": 494228,
+    "name": "Morris County, NJ, USA"
+  },
+  {
+    "state": "British Columbia",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -126.56202337499991,
+      54.15716767014678
+    ],
+    "featureId": 215,
+    "population": 5071000,
+    "name": "British Columbia, CAN"
+  },
+  {
+    "state": "Alberta",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -115.00016854279502,
+      54.49628672664678
+    ],
+    "featureId": 216,
+    "population": 4067175,
+    "name": "Alberta, CAN"
+  },
+  {
+    "state": "Saskatchewan",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -105.6821561755884,
+      54.496338403094796
+    ],
+    "featureId": 217,
+    "population": 1098352,
+    "name": "Saskatchewan, CAN"
+  },
+  {
+    "state": "Manitoba",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -95.4742987434922,
+      54.496368513369816
+    ],
+    "featureId": 218,
+    "population": 1278365,
+    "name": "Manitoba, CAN"
+  },
+  {
+    "state": "Ontario",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -84.7533750036988,
+      49.26501413726137
+    ],
+    "featureId": 219,
+    "population": 13448494,
+    "name": "Ontario, CAN"
+  },
+  {
+    "state": "Quebec",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -68.38833574149993,
+      53.79378896700006
+    ],
+    "featureId": 220,
+    "population": 8164361,
+    "name": "Quebec, CAN"
+  },
+  {
+    "state": "New Brunswick",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -66.43830941249992,
+      46.36274594300005
+    ],
+    "featureId": 222,
+    "population": 747101,
+    "name": "New Brunswick, CAN"
+  },
+  {
     "county": "Copiah County",
     "state": "MS",
     "country": "USA",
@@ -8269,6 +7979,97 @@
     "featureId": 457,
     "population": 75036,
     "name": "Forrest County, MS, USA"
+  },
+  {
+    "county": "Elmore County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.13298,
+      32.5876855
+    ],
+    "featureId": 463,
+    "population": 81887,
+    "name": "Elmore County, AL, USA"
+  },
+  {
+    "county": "Jefferson County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.92924049999999,
+      33.544622000000004
+    ],
+    "featureId": 465,
+    "population": 659300,
+    "name": "Jefferson County, AL, USA"
+  },
+  {
+    "county": "Limestone County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.030965,
+      34.774907
+    ],
+    "featureId": 466,
+    "population": 96174,
+    "name": "Limestone County, AL, USA"
+  },
+  {
+    "county": "Montgomery County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.2080335,
+      32.2330785
+    ],
+    "featureId": 467,
+    "population": 225763,
+    "name": "Montgomery County, AL, USA"
+  },
+  {
+    "county": "Tuscaloosa County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.4532105,
+      33.306606
+    ],
+    "featureId": 469,
+    "population": 208911,
+    "name": "Tuscaloosa County, AL, USA"
+  },
+  {
+    "county": "Clackamas County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.26009400000001,
+      45.1737
+    ],
+    "featureId": 489,
+    "population": 416075,
+    "name": "Clackamas County, OR, USA"
+  },
+  {
+    "county": "Linn County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.5272075,
+      44.496468
+    ],
+    "featureId": 494,
+    "population": 127335,
+    "name": "Linn County, OR, USA"
   },
   {
     "county": "St. Bernard Parish",
@@ -8633,6 +8434,96 @@
     "featureId": 654,
     "population": 251446,
     "name": "Yakima County, WA, USA"
+  },
+  {
+    "state": "Prince Edward Island",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -63.21041826049995,
+      46.49290599200006
+    ],
+    "featureId": 224,
+    "population": 142907,
+    "name": "Prince Edward Island, CAN"
+  },
+  {
+    "county": "Baldwin County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.69793150000001,
+      30.765086
+    ],
+    "featureId": 462,
+    "population": 218022,
+    "name": "Baldwin County, AL, USA"
+  },
+  {
+    "county": "Adams County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -104.3794855,
+      39.87063
+    ],
+    "featureId": 471,
+    "population": 511868,
+    "name": "Adams County, CO, USA"
+  },
+  {
+    "county": "Mesa County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -108.21971400000001,
+      38.933332
+    ],
+    "featureId": 483,
+    "population": 153207,
+    "name": "Mesa County, CO, USA"
+  },
+  {
+    "county": "Pitkin County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -106.946222,
+      39.171949
+    ],
+    "featureId": 484,
+    "population": 17950,
+    "name": "Pitkin County, CO, USA"
+  },
+  {
+    "county": "Pueblo County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -104.5522995,
+      38.1285485
+    ],
+    "featureId": 485,
+    "population": 167529,
+    "name": "Pueblo County, CO, USA"
+  },
+  {
+    "county": "Weld County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -104.315327,
+      40.5011525
+    ],
+    "featureId": 487,
+    "population": 314305,
+    "name": "Weld County, CO, USA"
   },
   {
     "county": "De Soto Parish",
@@ -9998,6 +9889,30 @@
     "name": "New Haven County, CT, USA"
   },
   {
+    "state": "Newfoundland and Labrador",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -60.21844100481229,
+      53.46112743006114
+    ],
+    "featureId": 221,
+    "population": 519716,
+    "name": "Newfoundland and Labrador, CAN"
+  },
+  {
+    "state": "Nova Scotia",
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "coordinates": [
+      -63.021209276499945,
+      45.266872463000055
+    ],
+    "featureId": 223,
+    "population": 923598,
+    "name": "Nova Scotia, CAN"
+  },
+  {
     "country": "Hong Kong",
     "coordinates": [
       114.21021569100003,
@@ -10020,6 +9935,91 @@
     "featureId": 456,
     "population": 237085,
     "name": "Hinds County, MS, USA"
+  },
+  {
+    "county": "Lee County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -85.348772,
+      32.578877500000004
+    ],
+    "featureId": 464,
+    "population": 163941,
+    "name": "Lee County, AL, USA"
+  },
+  {
+    "county": "Shelby County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.6839795,
+      33.2828065
+    ],
+    "featureId": 468,
+    "population": 215707,
+    "name": "Shelby County, AL, USA"
+  },
+  {
+    "county": "Boulder County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -105.37153699999999,
+      40.0878355
+    ],
+    "featureId": 473,
+    "population": 326078,
+    "name": "Boulder County, CO, USA"
+  },
+  {
+    "county": "Clear Creek County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -105.66211949999999,
+      39.7084305
+    ],
+    "featureId": 474,
+    "population": 9605,
+    "name": "Clear Creek County, CO, USA"
+  },
+  {
+    "county": "Garfield County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -108.0417065,
+      39.728802
+    ],
+    "featureId": 479,
+    "population": 59770,
+    "name": "Garfield County, CO, USA"
+  },
+  {
+    "county": "Unknown county County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "name": "Unknown county County, CO, USA"
+  },
+  {
+    "county": "Yamhill County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -123.31725850000001,
+      45.254474
+    ],
+    "featureId": 500,
+    "population": 107002,
+    "name": "Yamhill County, OR, USA"
   },
   {
     "county": "Matagorda County",
