@@ -1,0 +1,65 @@
+{
+  "scrape": {
+    "numCountries": 139,
+    "numStates": 131,
+    "numCounties": 524,
+    "numDuplicates": 13,
+    "numErrors": 0,
+    "errors": []
+  },
+  "findFeatures": {
+    "numFeaturesFound": 771,
+    "missingFeatures": [
+      "PHL",
+      "NZL",
+      "MCO",
+      "MDV",
+      "Macau, CHN",
+      "Channel Islands, GBR",
+      "French Polynesia, FRA",
+      "GLP",
+      "VCT",
+      "Zurich, CHE",
+      "Friuli Venezia Giulia, ITA",
+      "Puglia, ITA",
+      "Sicilia, ITA",
+      "Unknown county County, CO, USA",
+      "LaSalle Parish, LA, USA",
+      "Bear River County, UT, USA",
+      "Central Utah County, UT, USA",
+      "Southeast Utah County, UT, USA",
+      "Southwest Utah County, UT, USA",
+      "Tri County, UT, USA",
+      "Weber-Morgan County, UT, USA"
+    ]
+  },
+  "findPopulation": {
+    "numLocationsWithPopulation": 770,
+    "missingPopulations": [
+      "PHL",
+      "NZL",
+      "MCO",
+      "MLT",
+      "MTQ",
+      "MDV",
+      "St Martin, FRA",
+      "Channel Islands, GBR",
+      "REU",
+      "French Polynesia, FRA",
+      "GLP",
+      "VCT",
+      "GU, USA",
+      "Zurich, CHE",
+      "Trentino-South Tyrol, ITA",
+      "Emilia-Romagna, ITA",
+      "Unknown county County, CO, USA",
+      "Bear River County, UT, USA",
+      "Central Utah County, UT, USA",
+      "Southeast Utah County, UT, USA",
+      "Southwest Utah County, UT, USA",
+      "Tri County, UT, USA",
+      "Weber-Morgan County, UT, USA",
+      "Baltimore City, MD, USA"
+    ]
+  }
+}
