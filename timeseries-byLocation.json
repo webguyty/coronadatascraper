@@ -151622,14 +151622,12 @@
       },
       "2020-3-14": {
         "cases": 11,
-        "deaths": 11,
-        "active": 0,
+        "active": 11,
         "growthFactor": 2.2
       },
       "2020-3-15": {
         "cases": 22,
-        "deaths": 22,
-        "active": 0,
+        "active": 22,
         "growthFactor": 2
       }
     },
@@ -159652,19 +159650,16 @@
     "dates": {
       "2020-3-13": {
         "cases": 0,
-        "deaths": 0,
         "active": 0
       },
       "2020-3-14": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": null
       },
       "2020-3-15": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": 1
       }
     },
@@ -159683,19 +159678,16 @@
     "dates": {
       "2020-3-13": {
         "cases": 0,
-        "deaths": 0,
         "active": 0
       },
       "2020-3-14": {
         "cases": 5,
-        "deaths": 5,
-        "active": 0,
+        "active": 5,
         "growthFactor": null
       },
       "2020-3-15": {
         "cases": 12,
-        "deaths": 12,
-        "active": 0,
+        "active": 12,
         "growthFactor": 2.4
       }
     },
@@ -159714,19 +159706,16 @@
     "dates": {
       "2020-3-13": {
         "cases": 0,
-        "deaths": 0,
         "active": 0
       },
       "2020-3-14": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": null
       },
       "2020-3-15": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": 1
       }
     },
@@ -159745,19 +159734,16 @@
     "dates": {
       "2020-3-13": {
         "cases": 0,
-        "deaths": 0,
         "active": 0
       },
       "2020-3-14": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": null
       },
       "2020-3-15": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": 1
       }
     },
@@ -159776,19 +159762,16 @@
     "dates": {
       "2020-3-13": {
         "cases": 0,
-        "deaths": 0,
         "active": 0
       },
       "2020-3-14": {
         "cases": 2,
-        "deaths": 2,
-        "active": 0,
+        "active": 2,
         "growthFactor": null
       },
       "2020-3-15": {
         "cases": 3,
-        "deaths": 3,
-        "active": 0,
+        "active": 3,
         "growthFactor": 1.5
       }
     },
@@ -160689,13 +160672,11 @@
     "dates": {
       "2020-3-14": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0
+        "active": 1
       },
       "2020-3-15": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0,
+        "active": 1,
         "growthFactor": 1
       }
     },
@@ -163458,8 +163439,7 @@
     "dates": {
       "2020-3-15": {
         "cases": 1,
-        "deaths": 1,
-        "active": 0
+        "active": 1
       }
     },
     "county": "Lee County",
@@ -163477,8 +163457,7 @@
     "dates": {
       "2020-3-15": {
         "cases": 2,
-        "deaths": 2,
-        "active": 0
+        "active": 2
       }
     },
     "county": "Shelby County",

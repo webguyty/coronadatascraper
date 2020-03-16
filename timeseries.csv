@@ -6279,8 +6279,8 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,,ATG,94731,17.098659572500083,-61.78465735599994,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-14
 ,,,ATG,94731,17.098659572500083,-61.78465735599994,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-15
 ,,AL,USA,4903185,10.447463789112518,-84.7976370213814,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,5,,,5,,,2020-03-13
-,,AL,USA,4903185,10.447463789112518,-84.7976370213814,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,11,11,,,,2.2,2020-03-14
-,,AL,USA,4903185,10.447463789112518,-84.7976370213814,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,22,22,,,,2,2020-03-15
+,,AL,USA,4903185,10.447463789112518,-84.7976370213814,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,11,,,11,,2.2,2020-03-14
+,,AL,USA,4903185,10.447463789112518,-84.7976370213814,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,22,,,22,,2,2020-03-15
 ,,,URY,3360148,-32.535970353999936,-55.78074845749991,https://github.com/CSSEGISandData/COVID-19,4,,,4,,,2020-03-14
 ,,,URY,3360148,-32.535970353999936,-55.78074845749991,https://github.com/CSSEGISandData/COVID-19,4,,,4,,1,2020-03-15
 ,,,GHA,27499924,7.936054182000099,-1.038557295499956,https://github.com/CSSEGISandData/COVID-19,3,,,3,,,2020-03-14
@@ -6426,16 +6426,16 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Forrest County,MS,USA,75036,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,3,,,2020-03-13
 ,Forrest County,MS,USA,75036,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,3,,1,2020-03-14
 ,Forrest County,MS,USA,75036,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,3,,1,2020-03-15
-,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,,2020-03-14
-,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,1,2020-03-15
-,Jefferson County,AL,USA,659300,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,5,5,,,,,2020-03-14
-,Jefferson County,AL,USA,659300,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,12,12,,,,2.4,2020-03-15
-,Limestone County,AL,USA,96174,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,,2020-03-14
-,Limestone County,AL,USA,96174,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,1,2020-03-15
-,Montgomery County,AL,USA,225763,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,,2020-03-14
-,Montgomery County,AL,USA,225763,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,1,2020-03-15
-,Tuscaloosa County,AL,USA,208911,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,2,2,,,,,2020-03-14
-,Tuscaloosa County,AL,USA,208911,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,3,3,,,,1.5,2020-03-15
+,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-14
+,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-15
+,Jefferson County,AL,USA,659300,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,5,,,5,,,2020-03-14
+,Jefferson County,AL,USA,659300,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,12,,,12,,2.4,2020-03-15
+,Limestone County,AL,USA,96174,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-14
+,Limestone County,AL,USA,96174,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-15
+,Montgomery County,AL,USA,225763,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-14
+,Montgomery County,AL,USA,225763,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-15
+,Tuscaloosa County,AL,USA,208911,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,2,,,2,,,2020-03-14
+,Tuscaloosa County,AL,USA,208911,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,3,,,3,,1.5,2020-03-15
 ,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-13
 ,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-14
 ,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-15
@@ -6521,8 +6521,8 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,1,2020-03-15
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,,2020-03-14
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-15
-,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,,2020-03-14
-,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,1,2020-03-15
+,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-14
+,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-15
 ,Adams County,CO,USA,511868,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,6,,,6,,,2020-03-14
 ,Adams County,CO,USA,511868,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,6,,,6,,1,2020-03-15
 ,Mesa County,CO,USA,153207,38.933332,-108.21971400000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-14
@@ -6624,8 +6624,8 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,3,,,3,,3,2020-03-15
 ,,,Hong Kong,7191503,22.41313304250005,114.21021569100003,https://github.com/CSSEGISandData/COVID-19,145,4,81,60,,,2020-03-15
 ,Hinds County,MS,USA,237085,32.3110675,-90.3971595,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",2,,,2,,,2020-03-15
-,Lee County,AL,USA,163941,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,,,2020-03-15
-,Shelby County,AL,USA,215707,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,2,2,,,,,2020-03-15
+,Lee County,AL,USA,163941,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-15
+,Shelby County,AL,USA,215707,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,2,,,2,,,2020-03-15
 ,Boulder County,CO,USA,326078,40.0878355,-105.37153699999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,,2020-03-15
 ,Clear Creek County,CO,USA,9605,39.7084305,-105.66211949999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-15
 ,Garfield County,CO,USA,59770,39.728802,-108.0417065,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-15

@@ -143370,27 +143370,22 @@
     },
     "659": {
       "cases": 0,
-      "deaths": 0,
       "active": 0
     },
     "660": {
       "cases": 0,
-      "deaths": 0,
       "active": 0
     },
     "661": {
       "cases": 0,
-      "deaths": 0,
       "active": 0
     },
     "662": {
       "cases": 0,
-      "deaths": 0,
       "active": 0
     },
     "663": {
       "cases": 0,
-      "deaths": 0,
       "active": 0
     },
     "664": {
@@ -145751,8 +145746,7 @@
     },
     "423": {
       "cases": 11,
-      "deaths": 11,
-      "active": 0,
+      "active": 11,
       "growthFactor": 2.2
     },
     "424": {
@@ -147364,32 +147358,27 @@
     },
     "659": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": null
     },
     "660": {
       "cases": 5,
-      "deaths": 5,
-      "active": 0,
+      "active": 5,
       "growthFactor": null
     },
     "661": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": null
     },
     "662": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": null
     },
     "663": {
       "cases": 2,
-      "deaths": 2,
-      "active": 0,
+      "active": 2,
       "growthFactor": null
     },
     "664": {
@@ -147556,8 +147545,7 @@
     },
     "695": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0
+      "active": 1
     },
     "696": {
       "cases": 6,
@@ -150360,8 +150348,7 @@
     },
     "423": {
       "cases": 22,
-      "deaths": 22,
-      "active": 0,
+      "active": 22,
       "growthFactor": 2
     },
     "424": {
@@ -151973,32 +151960,27 @@
     },
     "659": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": 1
     },
     "660": {
       "cases": 12,
-      "deaths": 12,
-      "active": 0,
+      "active": 12,
       "growthFactor": 2.4
     },
     "661": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": 1
     },
     "662": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": 1
     },
     "663": {
       "cases": 3,
-      "deaths": 3,
-      "active": 0,
+      "active": 3,
       "growthFactor": 1.5
     },
     "664": {
@@ -152166,8 +152148,7 @@
     },
     "695": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0,
+      "active": 1,
       "growthFactor": 1
     },
     "696": {
@@ -152813,13 +152794,11 @@
     },
     "813": {
       "cases": 1,
-      "deaths": 1,
-      "active": 0
+      "active": 1
     },
     "814": {
       "cases": 2,
-      "deaths": 2,
-      "active": 0
+      "active": 2
     },
     "815": {
       "cases": 3,
