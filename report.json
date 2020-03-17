@@ -3,14 +3,14 @@
   "scrape": {
     "numCountries": 150,
     "numStates": 170,
-    "numCounties": 664,
+    "numCounties": 663,
     "numCities": 0,
     "numDuplicates": 25,
     "numErrors": 0,
     "errors": []
   },
   "findFeatures": {
-    "numFeaturesFound": 885,
+    "numFeaturesFound": 887,
     "missingFeatures": [
       "PHL",
       "NZL",
@@ -22,9 +22,6 @@
       "GLP",
       "VCT",
       "Zurich, CHE",
-      "Friuli Venezia Giulia, ITA",
-      "Puglia, ITA",
-      "Sicilia, ITA",
       "Bournemouth, Christchurch and Poole, GBR",
       "Bristol, City of, GBR",
       "Cornwall and Isles of Scilly, GBR",
@@ -110,7 +107,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 752,
+    "numLocationsWithPopulation": 753,
     "missingPopulations": [
       "PHL",
       "NZL",
@@ -131,8 +128,6 @@
       "The Bahamas",
       "VI, USA",
       "Zurich, CHE",
-      "Trentino-South Tyrol, ITA",
-      "Emilia-Romagna, ITA",
       "Barking and Dagenham, GBR",
       "Barnet, GBR",
       "Barnsley, GBR",
