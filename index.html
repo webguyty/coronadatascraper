@@ -13,6 +13,7 @@
   <meta name="viewport" content="initial-scale=1">
 
   <link rel="stylesheet" type="text/css" href="spectrum-css.css">
+  <link rel="stylesheet" type="text/css" href="colors.css">
   <link rel="stylesheet" type="text/css" href="style.css">
   <link rel="stylesheet" type="text/css" href="icons/style.css">
 
@@ -32,20 +33,16 @@
     gtag('config', 'UA-160595752-1');
 
     document.addEventListener('DOMContentLoaded', function() {
-      if (window.location.hash) {
-        loadFile(window.location.hash.substr(1));
-      }
+      let routes = {
+        '#sources': showSources,
+        '#home': function() {}
+      };
 
-      document.addEventListener('click', function(evt) {
-        var target = evt.target;
-        if (target.tagName === 'A' && target.hasAttribute('download') && !target.hasAttribute('data-noview')) {
-          // Stop download
-          evt.preventDefault();
-
-          var url = target.getAttribute('href');
-          loadFile(url, target.getAttribute('data-levels'));
-        }
-      });
+      let pages = {
+        '#home': '.cds-Home',
+        '#editor': '.cds-Editor',
+        '#sources': '.cds-Sources'
+      };
 
       var sidebar = document.querySelector('.spectrum-Site-sideBar');
       var overlay = document.querySelector('.spectrum-Site-overlay');
@@ -60,17 +57,224 @@
         overlay.classList.remove('is-open');
       }
 
-      function loadFile(url, dataLevels) {
+      // Todo make this site less crappy and don't copy paste this
+      function getName(location) {
+        let name = '';
+        let sep = '';
+        if (location.city) {
+          name += location.city;
+          sep = ', ';
+        }
+        if (location.county) {
+          name += sep + location.county;
+          sep = ', ';
+        }
+        if (location.state) {
+          name += sep + location.state;
+          sep = ', ';
+        }
+        if (location.country) {
+          name += sep + location.country;
+          sep = ', ';
+        }
+        return name;
+      }
+
+      function getGrade(rating) {
+        rating *= 200;
+
+        if (rating >= 97) {
+          return 'A+';
+        }
+        if (rating >= 93) {
+          return 'A';
+        }
+        if (rating >= 90) {
+          return 'A-';
+        }
+        if (rating >= 87) {
+          return 'B+';
+        }
+        if (rating >= 83) {
+          return 'B';
+        }
+        if (rating >= 80) {
+          return 'B-';
+        }
+        if (rating >= 77) {
+          return 'C+';
+        }
+        if (rating >= 73) {
+          return 'C';
+        }
+        if (rating >= 70) {
+          return 'C-';
+        }
+        if (rating >= 67) {
+          return 'D+';
+        }
+        if (rating >= 63) {
+          return 'D';
+        }
+        if (rating >= 60) {
+          return 'D';
+        }
+        if (rating >= 57) {
+          return 'F+';
+        }
+        if (rating >= 53) {
+          return 'F';
+        }
+        if (rating >= 50) {
+          return 'F';
+        }
+        return 'F-';
+      }
+
+      function ratingTemplate(source, index) {
+        let typeIcons = {
+          'json': '✅',
+          'csv': '✅',
+          'table': '⚠️',
+          'list': '❌',
+          'paragraph': '🤮',
+        };
+        let typeNames = {
+          'json': 'JSON',
+          'csv': 'CSV'
+        };
+
+        let granular = source.city || source.county;
+        let granularity = 'country-level';
+        if (source.city || source.aggregate === 'city') {
+          granularity = 'city-level';
+          granular = true;
+        }
+        else if (source.county || source.aggregate === 'county') {
+          granularity = 'county-level';
+          granular = true;
+        }
+        else if (source.state || source.aggregate === 'state') {
+          granularity = 'state-level';
+        }
+
+        let sourceName = source.url.match(/^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/?\n]+)/)[1];
+
+
+        return `
+        <div class="cds-ReportCard">
+          <div class="cds-ReportCard-grade cds-ReportCard-grade--${getGrade(source.rating).replace(/[^A-Z]+/g, '')}">${getGrade(source.rating).replace(/([\+\-])/, '<span class="cds-ReportCard-plusMinus">$1</span>')}</div>
+          <div class="cds-ReportCard-content">
+            <h2 class="spectrum-Heading spectrum-Heading--L">${index + 1}. ${getName(source)}</h2>
+            <h3 class="spectrum-Body spectrum-Body--XL"><a href="${source.url}" class="spectrum-Link" target="_blank">${sourceName}</a></h3>
+            <div class="cds-ReportCard-criteria">
+              <div class="cds-ReportCard-criterion">
+                ${typeIcons[source.type]} ${typeNames[source.type] || source.type.substr(0, 1).toUpperCase()+source.type.substr(1)}
+              </div>
+              <div class="cds-ReportCard-criterion">
+                ${source.timeseries ? '✅' : '❌'} Timeseries
+              </div>
+              <div class="cds-ReportCard-criterion">
+                ${source.aggregate ? '✅' : '❌'} Aggregate
+              </div>
+              <div class="cds-ReportCard-criterion">
+                ${source.ssl ? '✅' : '❌'} SSL
+              </div>
+              <div class="cds-ReportCard-criterion">
+                ${source.headless ? '❌' : '✅'} ${source.headless ? 'Requires' : ' Does not require'} JavaScript
+              </div>
+              <div class="cds-ReportCard-criterion">
+                ${granular ? '✅' : '❌'} Granularity (${granularity})
+              </div>
+            </div>
+          </div>
+        </div>
+`;
+      }
+
+      function showSources() {
+        let list = document.querySelector('.cds-Sources-list');
+        fetch('ratings.json', function(response) {
+          var ratings;
+          try {
+            ratings = JSON.parse(this.responseText);
+          }
+          catch(error) {
+            list.innerHTML = '<div class="cds-Error">Failed to load ratings: ' + error + '</div>';
+            return;
+          }
+
+          list.innerHTML = '';
+          for (var i = 0; i < ratings.length; i++) {
+            list.insertAdjacentHTML('beforeend', ratingTemplate(ratings[i], i));
+          }
+        });
+      }
+
+      function showPage(pageToShow, noPush) {
+        if (routes[pageToShow]) {
+          if (!noPush) {
+            history.pushState(null, '', pageToShow);
+          }
+          routes[pageToShow]();
+        }
+
+        // Set selected
+        let currentSideLink = document.querySelector('.spectrum-SideNav-item a[href="'+pageToShow+'"]');
+        let currentSideItem = currentSideLink && currentSideLink.closest('.spectrum-SideNav-item');
+        let otherSideItem = document.querySelector('.spectrum-SideNav-item.is-selected');
+        currentSideItem && currentSideItem.classList.add('is-selected');
+        otherSideItem && otherSideItem.classList.remove('is-selected');
+
+        for (let page in pages) {
+          let selector = pages[page];
+          if (page === pageToShow) {
+            document.querySelector(selector).hidden = false;
+          }
+          else {
+            document.querySelector(selector).hidden = true;
+          }
+        }
+        closeSidebar();
+      }
+
+      document.addEventListener('click', function(evt) {
+        var target = evt.target.closest('a');
+        if (target) {
+          if (target.tagName === 'A' && target.hasAttribute('download') && !target.hasAttribute('data-noview')) {
+            // Stop download
+            evt.preventDefault();
+
+            var url = target.getAttribute('href');
+            loadFile(url, target.getAttribute('data-levels'));
+          }
+          else if (target.tagName === 'A' && routes[target.getAttribute('href')]) {
+            // Stop download
+            evt.preventDefault();
+
+            showPage(target.getAttribute('href'));
+          }
+        }
+      });
+
+      function fetch(url, callback) {
+        var req = new XMLHttpRequest();
+        req.addEventListener('load', callback);
+
+        req.open('GET', url);
+        req.send();
+      }
+
+      function loadFile(url, dataLevels, noPush) {
         document.body.classList.add('is-editing');
 
         var req = new XMLHttpRequest();
-        req.addEventListener("load", function() {
+        fetch(url, function() {
           document.querySelector('.cds-Heading').innerText = url;
 
           var extension = url.split('.').pop();
 
-          document.querySelector('.cds-Home').hidden = true;
-          document.querySelector('.cds-Editor').hidden = false;
+          showPage('#editor');
           document.querySelector('.cds-Editor-download').href = url;
           if (extension === 'json') {
             var obj;
@@ -110,14 +314,11 @@
           }
 
           document.querySelector('a[href="' + url + '"]').closest('.spectrum-SideNav-item').classList.add('is-selected');
-
-          closeSidebar();
         });
 
-        req.open('GET', url);
-        req.send();
-
-        history.replaceState(null, null, '#' + url);
+        if (!noPush) {
+          history.pushState(null, '', '#' + url, '');
+        }
       }
 
       document.addEventListener('click', function(evt) {
@@ -130,6 +331,24 @@
           closeSidebar();
         }
       });
+
+      function handleHashChange() {
+        if (window.location.hash) {
+          if (routes[window.location.hash]) {
+            showPage(window.location.hash, true);
+          }
+          else {
+            loadFile(window.location.hash.substr(1), null, true);
+          }
+        }
+        else {
+          showPage('#home', false);
+        }
+      }
+      window.addEventListener('hashchange', handleHashChange, false);
+
+      // Init
+      handleHashChange()
     });
   </script>
 
@@ -138,7 +357,7 @@
 <body class="spectrum spectrum--light spectrum--medium">
   <!-- <a class="cds-Ribbon" href="https://github.com/lazd/coronadatascraper"><img width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_orange_ff7600.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a> -->
 
-  <div class="spectrum-Site spectrum-Typography">
+  <div class="spectrum-Site">
     <div class="spectrum-Site-overlay"></div>
 
     <div class="cds-SiteHeader spectrum-Site-header">
@@ -149,79 +368,79 @@
 
     <div class="spectrum-Site-content">
       <div class="cds-Sidebar spectrum-Site-sideBar">
-        <a class="spectrum-Site-sideBarHeader js-fastLoad" href="./">
+        <a class="spectrum-Site-sideBarHeader" href="#home">
           <!-- <img src="logo.svg" class="cds-Logo" alt="Coronadatascraper logo"> -->
           <svg version="1.1" class="cds-Logo" alt="Coronadatascraper logo" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
           	 viewBox="0 0 107.7 40.3" style="enable-background:new 0 0 107.7 40.3;" xml:space="preserve">
-         <defs>
-           <linearGradient id="markGradient" gradientTransform="rotate(30)">
-             <stop offset="0%"  stop-color="#829800" />
-             <stop offset="50%" stop-color="#007E60" />
-             <stop offset="95%" stop-color="#21385E" />
-           </linearGradient>
-         </defs>
-          <path class="cds-Logo-Mark" fill="url('#markGradient')" d="M16.3,24.7c1-0.4,2.1-0.6,3.2-0.7v-3.2h-3.8C15.8,22.2,16,23.5,16.3,24.7z M15.7,19.8h3.8v-3.2c-1.1-0.1-2.2-0.3-3.2-0.7
-          	C16,17.1,15.8,18.4,15.7,19.8z M16.6,15c0.9,0.4,1.9,0.6,2.9,0.7v-4.3C18.3,11.8,17.3,13.1,16.6,15z M15.4,15.5
-          	c-0.7-0.4-1.3-0.8-1.9-1.3c-1.4,1.5-2.3,3.5-2.4,5.6h3.6C14.8,18.2,15,16.8,15.4,15.5z M17.3,11.8c-1.1,0.4-2.1,1-3,1.7
-          	c0.5,0.4,0.9,0.7,1.5,1C16.1,13.4,16.6,12.5,17.3,11.8z M26,13.5c-0.9-0.8-1.9-1.4-3-1.7c0.6,0.7,1.2,1.7,1.6,2.8
-          	C25.1,14.2,25.6,13.9,26,13.5z M14.2,27.2c0.9,0.8,1.9,1.4,3,1.7c-0.6-0.7-1.2-1.7-1.6-2.8C15.2,26.4,14.7,26.8,14.2,27.2z
-          	 M14.7,20.8h-3.6c0.1,2.2,1,4.1,2.4,5.6c0.6-0.5,1.2-0.9,1.9-1.3C15,23.9,14.8,22.4,14.7,20.8z M19.5,29.3V25c-1,0.1-2,0.3-2.9,0.7
-          	C17.3,27.5,18.3,28.9,19.5,29.3z M20.5,11.3v4.4c1.1,0,2.2-0.3,3.1-0.7C22.9,13,21.8,11.6,20.5,11.3z M24.9,15.5
-          	c0.4,1.3,0.6,2.8,0.6,4.3h3.6c-0.1-2.2-1-4.1-2.4-5.6C26.2,14.7,25.5,15.1,24.9,15.5z M24.9,25.2c0.7,0.4,1.3,0.8,1.9,1.3
-          	c1.4-1.5,2.3-3.5,2.4-5.6h-3.6C25.5,22.4,25.2,23.9,24.9,25.2z M38.1,17.6c-0.5,0-0.9,0.3-1.2,0.8c-0.4,0.6-1.9,0.4-4.4-0.1
-          	c-0.2-1-0.4-1.9-0.8-2.7c2-1.7,3.1-2.7,3.8-2.3c0,0,0,0,0,0c0.5,0.2,1,0.3,1.4,0c0.8-0.5,0.9-1.8,0.2-3c-0.7-1.2-1.9-1.8-2.7-1.3
-          	c-0.4,0.2-0.6,0.7-0.7,1.3c-0.1,0.8-1.5,1.3-4,2.2c-0.6-0.7-1.2-1.3-2-1.9c0.9-2.6,1.4-4,2.2-4.1c0,0,0,0,0,0c0.6,0,1-0.3,1.2-0.7
-          	c0.5-0.8-0.1-2-1.3-2.7c-1.2-0.7-2.5-0.6-3,0.2c-0.2,0.4-0.2,0.9,0.1,1.4c0.3,0.7-0.7,1.9-2.5,4C23.7,8.4,22.9,8.1,22,8
-          	c-0.5-2.7-0.8-4.2-0.1-4.7c0.5-0.3,0.8-0.7,0.8-1.2c0-0.9-1.1-1.7-2.5-1.7c-1.4,0-2.5,0.8-2.5,1.7c0,0.5,0.3,0.9,0.7,1.2
-          	c0,0,0,0,0,0c0.7,0.4,0.3,2-0.1,4.7c-0.9,0.1-1.8,0.4-2.6,0.7c-1.8-2.1-2.8-3.2-2.5-4c0.3-0.5,0.3-1,0.1-1.4c-0.5-0.8-1.8-0.9-3-0.2
-          	C9.1,3.7,8.6,4.9,9,5.7c0.2,0.4,0.7,0.6,1.2,0.7c0,0,0,0,0,0c0.8,0.1,1.3,1.5,2.2,4.1c-0.7,0.6-1.4,1.2-2,1.9
-          	c-2.5-0.9-3.9-1.4-4-2.2c0-0.6-0.3-1-0.7-1.3C5,8.5,3.8,9,3.1,10.2c-0.7,1.2-0.6,2.5,0.2,3c0.4,0.2,0.9,0.2,1.4,0c0,0,0,0,0,0
-          	c0.7-0.3,1.8,0.6,3.8,2.3c-0.4,0.9-0.6,1.8-0.8,2.7c-2.5,0.5-4,0.7-4.4,0.1c-0.3-0.5-0.7-0.8-1.2-0.8c-0.9,0-1.7,1.1-1.7,2.5
-          	s0.8,2.5,1.7,2.5c0.5,0,0.9-0.3,1.2-0.7c0,0,0,0,0,0c0.4-0.6,1.8-0.4,4.3,0.1c0.1,1,0.4,2,0.7,2.9c-1.9,1.6-3,2.5-3.6,2.2
-          	c-0.5-0.3-1-0.3-1.4-0.1c-0.8,0.5-0.9,1.8-0.2,3C3.8,31,5,31.6,5.8,31.2c0.4-0.2,0.6-0.7,0.7-1.2c0,0,0,0,0,0c0.1-0.7,1.4-1.2,3.7-2
-          	c0.6,0.8,1.3,1.6,2.2,2.2c-0.8,2.3-1.3,3.5-2,3.6c-0.6,0-1,0.3-1.3,0.7c-0.5,0.8,0.1,2,1.3,2.7c1.2,0.7,2.5,0.6,3-0.2
-          	c0.2-0.4,0.2-0.9,0-1.4c0,0,0,0,0,0c-0.3-0.7,0.5-1.7,2.1-3.5c1,0.4,2,0.7,3.1,0.8c0.4,2.3,0.6,3.7,0,4.1c0,0,0,0,0,0
-          	c-0.5,0.3-0.7,0.7-0.7,1.2c0,0.9,1.1,1.7,2.5,1.7c1.4,0,2.5-0.8,2.5-1.7c0-0.5-0.3-0.9-0.8-1.2c-0.6-0.4-0.4-1.7,0-4.1
-          	c1.1-0.1,2.1-0.4,3.1-0.8c1.5,1.8,2.4,2.9,2.1,3.5c0,0,0,0,0,0c-0.2,0.5-0.3,1,0,1.4c0.5,0.8,1.8,0.9,3,0.2c1.2-0.7,1.8-1.9,1.3-2.7
-          	c-0.2-0.4-0.7-0.6-1.3-0.7c-0.7-0.1-1.2-1.3-2-3.6c0.8-0.6,1.5-1.4,2.2-2.2c2.3,0.8,3.6,1.3,3.7,2c0,0,0,0,0,0c0,0.6,0.3,1,0.7,1.2
-          	c0.8,0.5,2-0.1,2.7-1.3c0.7-1.2,0.6-2.5-0.2-3c-0.4-0.2-0.9-0.2-1.4,0.1c-0.7,0.3-1.8-0.6-3.6-2.2c0.3-0.9,0.6-1.9,0.7-2.9
-          	c2.5-0.5,3.9-0.7,4.3-0.1c0,0,0,0,0,0c0.3,0.5,0.7,0.7,1.2,0.7c0.9,0,1.7-1.1,1.7-2.5S39,17.6,38.1,17.6z M20.1,30.4
-          	c-5.6,0-10.1-4.5-10.1-10.1s4.5-10.1,10.1-10.1s10.1,4.5,10.1,10.1S25.7,30.4,20.1,30.4z M23,28.9c1.1-0.4,2.1-1,3-1.7
-          	c-0.5-0.4-0.9-0.7-1.5-1C24.1,27.2,23.6,28.2,23,28.9z M23.9,16c-1.1,0.4-2.3,0.7-3.4,0.7v3.1h4C24.5,18.4,24.3,17.1,23.9,16z
-          	 M24.5,20.8h-4V24c1.2,0,2.4,0.3,3.4,0.7C24.3,23.5,24.5,22.2,24.5,20.8z M20.5,25v4.4c1.3-0.2,2.4-1.6,3.1-3.7
-          	C22.7,25.2,21.6,25,20.5,25z"/>
-          <g>
-          	<path class="cds-Logo-Type" d="M54,33.4c-5.6,0-9-3-9-8.6v-9c0-5.6,3.4-8.6,9.2-8.6s8.8,2.6,8.8,8V16c0,0.4-0.2,0.8-0.6,0.8h-1.6c-0.4,0-0.6-0.2-0.6-0.6
-          		v-1c0-3.8-1.6-5.6-5.8-5.6c-4,0-6,2-6,6V25c0,3.8,2,6,6,6c4.2,0,5.8-1.8,5.8-5.6v-1c0-0.4,0.2-0.6,0.6-0.6h1.6
-          		c0.4,0,0.6,0.2,0.6,0.8v1C62.8,30.8,59.8,33.4,54,33.4z"/>
-          	<path class="cds-Logo-Type" d="M75.2,7.6h-8.8c-0.4,0-0.8,0.4-0.8,0.8v1c0,0.4,0.4,0.6,0.8,0.6h2.4v20.8h-2.4c-0.4,0-0.8,0.2-0.8,0.6v0.8
-          		c0,0.6,0.4,0.8,0.8,0.8h8.8c6.6,0,10.6-2.8,10.6-9.2v-7C85.8,10.4,81.8,7.6,75.2,7.6z M82.8,24c0,4.6-2.6,6.6-7.4,6.6H72V10h3.4
-          		c4.8,0,7.4,1.8,7.4,6.6V24z"/>
-          	<path class="cds-Logo-Type" d="M106.8,13.8v1c0,0.4-0.2,0.8-0.6,0.8h-1.6c-0.4,0-0.6-0.2-0.6-0.6v-1.2c0-2.8-1.8-4.2-5.4-4.2s-5.4,1.4-5.4,4.2v0.8
-          		c0,2.6,1.2,3.2,3.6,3.6l4.6,0.8c3.8,0.6,5.8,2,5.8,6.2V26c0,4.4-2.8,7-8.8,7s-8.6-2.4-8.6-6.6v-1.2c0-0.4,0.2-0.6,0.6-0.6H92
-          		c0.4,0,0.6,0.2,0.6,0.6v1.2c0,3,1.8,4.2,5.6,4.2c3.8,0,5.8-1.4,5.8-4.4v-0.8c0-2.8-1.2-3.2-3.6-3.8l-4.6-0.8
-          		c-3.8-0.6-5.8-2-5.8-6.2v-0.4c0-4.4,2.6-7,8.4-7C104.4,7.4,106.8,9.6,106.8,13.8z"/>
-          </g>
+             <defs>
+               <linearGradient id="markGradient" gradientTransform="rotate(30)">
+                 <stop offset="0%"  stop-color="#829800" />
+                 <stop offset="50%" stop-color="#007E60" />
+                 <stop offset="95%" stop-color="#21385E" />
+               </linearGradient>
+             </defs>
+              <path class="cds-Logo-Mark" fill="url('#markGradient')" d="M16.3,24.7c1-0.4,2.1-0.6,3.2-0.7v-3.2h-3.8C15.8,22.2,16,23.5,16.3,24.7z M15.7,19.8h3.8v-3.2c-1.1-0.1-2.2-0.3-3.2-0.7
+              	C16,17.1,15.8,18.4,15.7,19.8z M16.6,15c0.9,0.4,1.9,0.6,2.9,0.7v-4.3C18.3,11.8,17.3,13.1,16.6,15z M15.4,15.5
+              	c-0.7-0.4-1.3-0.8-1.9-1.3c-1.4,1.5-2.3,3.5-2.4,5.6h3.6C14.8,18.2,15,16.8,15.4,15.5z M17.3,11.8c-1.1,0.4-2.1,1-3,1.7
+              	c0.5,0.4,0.9,0.7,1.5,1C16.1,13.4,16.6,12.5,17.3,11.8z M26,13.5c-0.9-0.8-1.9-1.4-3-1.7c0.6,0.7,1.2,1.7,1.6,2.8
+              	C25.1,14.2,25.6,13.9,26,13.5z M14.2,27.2c0.9,0.8,1.9,1.4,3,1.7c-0.6-0.7-1.2-1.7-1.6-2.8C15.2,26.4,14.7,26.8,14.2,27.2z
+              	 M14.7,20.8h-3.6c0.1,2.2,1,4.1,2.4,5.6c0.6-0.5,1.2-0.9,1.9-1.3C15,23.9,14.8,22.4,14.7,20.8z M19.5,29.3V25c-1,0.1-2,0.3-2.9,0.7
+              	C17.3,27.5,18.3,28.9,19.5,29.3z M20.5,11.3v4.4c1.1,0,2.2-0.3,3.1-0.7C22.9,13,21.8,11.6,20.5,11.3z M24.9,15.5
+              	c0.4,1.3,0.6,2.8,0.6,4.3h3.6c-0.1-2.2-1-4.1-2.4-5.6C26.2,14.7,25.5,15.1,24.9,15.5z M24.9,25.2c0.7,0.4,1.3,0.8,1.9,1.3
+              	c1.4-1.5,2.3-3.5,2.4-5.6h-3.6C25.5,22.4,25.2,23.9,24.9,25.2z M38.1,17.6c-0.5,0-0.9,0.3-1.2,0.8c-0.4,0.6-1.9,0.4-4.4-0.1
+              	c-0.2-1-0.4-1.9-0.8-2.7c2-1.7,3.1-2.7,3.8-2.3c0,0,0,0,0,0c0.5,0.2,1,0.3,1.4,0c0.8-0.5,0.9-1.8,0.2-3c-0.7-1.2-1.9-1.8-2.7-1.3
+              	c-0.4,0.2-0.6,0.7-0.7,1.3c-0.1,0.8-1.5,1.3-4,2.2c-0.6-0.7-1.2-1.3-2-1.9c0.9-2.6,1.4-4,2.2-4.1c0,0,0,0,0,0c0.6,0,1-0.3,1.2-0.7
+              	c0.5-0.8-0.1-2-1.3-2.7c-1.2-0.7-2.5-0.6-3,0.2c-0.2,0.4-0.2,0.9,0.1,1.4c0.3,0.7-0.7,1.9-2.5,4C23.7,8.4,22.9,8.1,22,8
+              	c-0.5-2.7-0.8-4.2-0.1-4.7c0.5-0.3,0.8-0.7,0.8-1.2c0-0.9-1.1-1.7-2.5-1.7c-1.4,0-2.5,0.8-2.5,1.7c0,0.5,0.3,0.9,0.7,1.2
+              	c0,0,0,0,0,0c0.7,0.4,0.3,2-0.1,4.7c-0.9,0.1-1.8,0.4-2.6,0.7c-1.8-2.1-2.8-3.2-2.5-4c0.3-0.5,0.3-1,0.1-1.4c-0.5-0.8-1.8-0.9-3-0.2
+              	C9.1,3.7,8.6,4.9,9,5.7c0.2,0.4,0.7,0.6,1.2,0.7c0,0,0,0,0,0c0.8,0.1,1.3,1.5,2.2,4.1c-0.7,0.6-1.4,1.2-2,1.9
+              	c-2.5-0.9-3.9-1.4-4-2.2c0-0.6-0.3-1-0.7-1.3C5,8.5,3.8,9,3.1,10.2c-0.7,1.2-0.6,2.5,0.2,3c0.4,0.2,0.9,0.2,1.4,0c0,0,0,0,0,0
+              	c0.7-0.3,1.8,0.6,3.8,2.3c-0.4,0.9-0.6,1.8-0.8,2.7c-2.5,0.5-4,0.7-4.4,0.1c-0.3-0.5-0.7-0.8-1.2-0.8c-0.9,0-1.7,1.1-1.7,2.5
+              	s0.8,2.5,1.7,2.5c0.5,0,0.9-0.3,1.2-0.7c0,0,0,0,0,0c0.4-0.6,1.8-0.4,4.3,0.1c0.1,1,0.4,2,0.7,2.9c-1.9,1.6-3,2.5-3.6,2.2
+              	c-0.5-0.3-1-0.3-1.4-0.1c-0.8,0.5-0.9,1.8-0.2,3C3.8,31,5,31.6,5.8,31.2c0.4-0.2,0.6-0.7,0.7-1.2c0,0,0,0,0,0c0.1-0.7,1.4-1.2,3.7-2
+              	c0.6,0.8,1.3,1.6,2.2,2.2c-0.8,2.3-1.3,3.5-2,3.6c-0.6,0-1,0.3-1.3,0.7c-0.5,0.8,0.1,2,1.3,2.7c1.2,0.7,2.5,0.6,3-0.2
+              	c0.2-0.4,0.2-0.9,0-1.4c0,0,0,0,0,0c-0.3-0.7,0.5-1.7,2.1-3.5c1,0.4,2,0.7,3.1,0.8c0.4,2.3,0.6,3.7,0,4.1c0,0,0,0,0,0
+              	c-0.5,0.3-0.7,0.7-0.7,1.2c0,0.9,1.1,1.7,2.5,1.7c1.4,0,2.5-0.8,2.5-1.7c0-0.5-0.3-0.9-0.8-1.2c-0.6-0.4-0.4-1.7,0-4.1
+              	c1.1-0.1,2.1-0.4,3.1-0.8c1.5,1.8,2.4,2.9,2.1,3.5c0,0,0,0,0,0c-0.2,0.5-0.3,1,0,1.4c0.5,0.8,1.8,0.9,3,0.2c1.2-0.7,1.8-1.9,1.3-2.7
+              	c-0.2-0.4-0.7-0.6-1.3-0.7c-0.7-0.1-1.2-1.3-2-3.6c0.8-0.6,1.5-1.4,2.2-2.2c2.3,0.8,3.6,1.3,3.7,2c0,0,0,0,0,0c0,0.6,0.3,1,0.7,1.2
+              	c0.8,0.5,2-0.1,2.7-1.3c0.7-1.2,0.6-2.5-0.2-3c-0.4-0.2-0.9-0.2-1.4,0.1c-0.7,0.3-1.8-0.6-3.6-2.2c0.3-0.9,0.6-1.9,0.7-2.9
+              	c2.5-0.5,3.9-0.7,4.3-0.1c0,0,0,0,0,0c0.3,0.5,0.7,0.7,1.2,0.7c0.9,0,1.7-1.1,1.7-2.5S39,17.6,38.1,17.6z M20.1,30.4
+              	c-5.6,0-10.1-4.5-10.1-10.1s4.5-10.1,10.1-10.1s10.1,4.5,10.1,10.1S25.7,30.4,20.1,30.4z M23,28.9c1.1-0.4,2.1-1,3-1.7
+              	c-0.5-0.4-0.9-0.7-1.5-1C24.1,27.2,23.6,28.2,23,28.9z M23.9,16c-1.1,0.4-2.3,0.7-3.4,0.7v3.1h4C24.5,18.4,24.3,17.1,23.9,16z
+              	 M24.5,20.8h-4V24c1.2,0,2.4,0.3,3.4,0.7C24.3,23.5,24.5,22.2,24.5,20.8z M20.5,25v4.4c1.3-0.2,2.4-1.6,3.1-3.7
+              	C22.7,25.2,21.6,25,20.5,25z"/>
+              <g>
+              	<path class="cds-Logo-Type" d="M54,33.4c-5.6,0-9-3-9-8.6v-9c0-5.6,3.4-8.6,9.2-8.6s8.8,2.6,8.8,8V16c0,0.4-0.2,0.8-0.6,0.8h-1.6c-0.4,0-0.6-0.2-0.6-0.6
+              		v-1c0-3.8-1.6-5.6-5.8-5.6c-4,0-6,2-6,6V25c0,3.8,2,6,6,6c4.2,0,5.8-1.8,5.8-5.6v-1c0-0.4,0.2-0.6,0.6-0.6h1.6
+              		c0.4,0,0.6,0.2,0.6,0.8v1C62.8,30.8,59.8,33.4,54,33.4z"/>
+              	<path class="cds-Logo-Type" d="M75.2,7.6h-8.8c-0.4,0-0.8,0.4-0.8,0.8v1c0,0.4,0.4,0.6,0.8,0.6h2.4v20.8h-2.4c-0.4,0-0.8,0.2-0.8,0.6v0.8
+              		c0,0.6,0.4,0.8,0.8,0.8h8.8c6.6,0,10.6-2.8,10.6-9.2v-7C85.8,10.4,81.8,7.6,75.2,7.6z M82.8,24c0,4.6-2.6,6.6-7.4,6.6H72V10h3.4
+              		c4.8,0,7.4,1.8,7.4,6.6V24z"/>
+              	<path class="cds-Logo-Type" d="M106.8,13.8v1c0,0.4-0.2,0.8-0.6,0.8h-1.6c-0.4,0-0.6-0.2-0.6-0.6v-1.2c0-2.8-1.8-4.2-5.4-4.2s-5.4,1.4-5.4,4.2v0.8
+              		c0,2.6,1.2,3.2,3.6,3.6l4.6,0.8c3.8,0.6,5.8,2,5.8,6.2V26c0,4.4-2.8,7-8.8,7s-8.6-2.4-8.6-6.6v-1.2c0-0.4,0.2-0.6,0.6-0.6H92
+              		c0.4,0,0.6,0.2,0.6,0.6v1.2c0,3,1.8,4.2,5.6,4.2c3.8,0,5.8-1.4,5.8-4.4v-0.8c0-2.8-1.2-3.2-3.6-3.8l-4.6-0.8
+              		c-3.8-0.6-5.8-2-5.8-6.2v-0.4c0-4.4,2.6-7,8.4-7C104.4,7.4,106.8,9.6,106.8,13.8z"/>
+              </g>
           </svg>
         </a>
 
         <div class="u-scrollable spectrum-Site-nav">
           <nav>
             <ul class="spectrum-SideNav spectrum-SideNav--multiLevel">
-              <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="#">Snapshot</a>
+              <li class="spectrum-SideNav-item"><div class="spectrum-SideNav-itemLink" href="#">Snapshot</div>
                 <ul class="spectrum-SideNav spectrum-SideNav--multiLevel">
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="data.csv"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> CSV</a></li>
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="data.json"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> JSON</a></li>
                 </ul>
               </li>
-              <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="#">Metadata</a>
+              <li class="spectrum-SideNav-item"><div class="spectrum-SideNav-itemLink" href="#">Metadata</div>
                 <ul class="spectrum-SideNav spectrum-SideNav--multiLevel">
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="features.json"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> GeoJSON Features</a></li>
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="locations.json"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> Location Metadata</a></li>
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="report.json" data-levels="2"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> Scrape Report</a></li>
                 </ul>
               </li>
-              <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="#">Timeseries</a>
+              <li class="spectrum-SideNav-item"><div class="spectrum-SideNav-itemLink" href="#">Timeseries</div>
                 <ul class="spectrum-SideNav spectrum-SideNav--multiLevel">
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="timeseries.json"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> JSON (by date)</a></li>
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="timeseries-byLocation.json"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> JSON (by location)</a></li>
@@ -230,6 +449,8 @@
                   <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" download href="timeseries-jhu.csv"><span class="spectrum-SideNav-itemIcon icon icon-file"></span> CSV (like JHU)</a></li>
                 </ul>
               </li>
+              <!-- <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="https://blog.lazd.net/coronaglobe" target="_blank">View on 3D map (Coronaglobe)</a></li> -->
+              <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="#sources">Sources</a></li>
               <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="https://github.com/lazd/coronadatascraper/" target="_blank" rel="noopener">Github</a></li>
               <li class="spectrum-SideNav-item"><a class="spectrum-SideNav-itemLink" href="https://github.com/lazd/coronadatascraper/issues/new" target="_blank" rel="noopener">Report Issue</a></li>
             </ul>
@@ -237,7 +458,7 @@
         </div>
       </div>
 
-      <div class="spectrum-Site-mainContainer">
+      <div class="spectrum-Site-mainContainer spectrum-Typography">
 
         <div class="spectrum-Site-page cds-Home">
           <div class="spectrum-Site-hero">
@@ -248,29 +469,51 @@
               <p>Corona Data Scraper pulls COVID-19 Coronavirus case data from verified sources, finds the corresponding GeoJSON features, and adds population data.</p>
               <p>All sources are cited right in the same row as the data.</p>
               <p>Select a file on the left to view and download it.</p>
+            </div>
 
-              <h2 class="spectrum-Heading spectrum-Heading--L">Can't quite visualize it?</h2>
-              <nav>
-                <ul>
-                  <li><a class="spectrum-Link" href="https://blog.lazd.net/coronaglobe" target="_blank"><strong>Coronaglobe</strong></a> A rate-adjusted choropleth 3D globe</li>
-                  <li><a class="spectrum-Link" href="https://public.tableau.com/profile/stevenzhang#!/vizhome/semilogplotsforcoronavirusliveupdates/specificregioncomparisons?publish=yes" target="_blank"><strong>Semilog plots</strong></a> by Steven Zhang</li>
-                </ul>
-              </nav>
+            <h2 class="spectrum-Heading spectrum-Heading--L">Can't quite visualize it?</h2>
+            <nav class="spectrum-Body spectrum-Body--XL">
+              <ul>
+                <li><a class="spectrum-Link" href="https://blog.lazd.net/coronaglobe" target="_blank"><strong>Coronaglobe</strong></a> A rate-adjusted choropleth 3D globe</li>
+                <li><a class="spectrum-Link" href="https://public.tableau.com/profile/stevenzhang#!/vizhome/semilogplotsforcoronavirusliveupdates/specificregioncomparisons?publish=yes" target="_blank"><strong>Semilog plots</strong></a> by Steven Zhang</li>
+              </ul>
+            </nav>
 
-              <h2 class="spectrum-Heading spectrum-Heading--L">Missing data you've got a source for?</h2>
+            <h2 class="spectrum-Heading spectrum-Heading--L">Missing data you've got a source for?</h2>
+            <div class="spectrum-Body spectrum-Body--XL">
               <p><a class="spectrum-Link" href="https://github.com/lazd/coronadatascraper#contributing" target="_blank">Contribute a scraper</a> and your data will appear here tomorrow.</p>
-              <p><a class="spectrum-Link" href="https://join.slack.com/t/sars-cov-2covid-19/shared_invite/zt-cr6ln0ph-6eDATfSUNDtFK3mlQxqYKw" target="_blank">Join the Slack</a> and chat in <code>#scraper-dev</code> if you have any questions</p>
-
-              <h2 class="spectrum-Heading spectrum-Heading--L">Found a problem with the data?</h2>
+              <p><a class="spectrum-Link" href="https://join.slack.com/t/sars-cov-2covid-19/shared_invite/zt-cr6ln0ph-6eDATfSUNDtFK3mlQxqYKw" target="_blank">Join the Slack</a> and chat in <code class="spectrum-Code spectrum-Code--L"><strong>#scraper-dev</strong></code> if you have any questions</p>
+            </div>
+            <h2 class="spectrum-Heading spectrum-Heading--L">Found a problem with the data?</h2>
+            <div class="spectrum-Body spectrum-Body--XL">
               <p><a class="spectrum-Link" href="https://github.co m/lazd/coronadatascraper/issues">File an issue</a> on Github with complete details of the issue.</p>
-
-              <h2 class="spectrum-Heading spectrum-Heading--L">Use this data?</h2>
+            </div>
+            <h2 class="spectrum-Heading spectrum-Heading--L">Use this data?</h2>
+            <div class="spectrum-Body spectrum-Body--XL">
               <p>Cite this website and <a class="spectrum-Link" href="https://github.co m/lazd/coronadatascraper/issue/new">file an issue</a> to have your project's URL added.</p>
             </div>
           </div>
           <div class="cds-Footer spectrum-Site-footer">
             <p>Maintained by lazd (Larry Davis)</p>
             <p><a class="spectrum-Link" target="_blank" href="https://blog.lazd.net">blog</a> • <a class="spectrum-Link" target="_blank" href="https://github.com/lazd">github</a> • <a class="spectrum-Link" target="_blank" href="https://twitter.com/lazdnet">twitter</a> • <a class="spectrum-Link" target="_blank" href="https://www.patreon.com/lazd">patreon</a></p>
+          </div>
+        </div>
+        
+        <div class="cds-Sources" hidden>
+          <div class="spectrum-Site-page">
+            <h1 class="spectrum-Heading spectrum-Heading--L">Sources</h1>
+            <p>Corona Data Scraper pulls from a variety of official sources. Sources are rated based on how machine-readable, complete, and granular the data is.</p>
+
+            <h2 class="spectrum-Heading spectrum-Heading--M">Ratings have nothing to do with the accuracy of the data</h2>
+            <p>We only choose official sources for data, so it's up to the source to be honest and accurate.</p>
+            <p>The goal of offering these ratings is to make government agencies account for their data practices. We need complete, real-time, machine-readible data to inform decision making -- press releases do not cut it!</p>
+
+            <h2 class="spectrum-Heading spectrum-Heading--M">Does your source's rating look bad?</h2>
+            <p>Let's get those grades up! <a class="spectrum-Link" href="https://join.slack.com/t/sars-cov-2covid-19/shared_invite/zt-cr6ln0ph-6eDATfSUNDtFK3mlQxqYKw" target="_blank">Reach out to us on on Slack</a> or <a class="spectrum-Link" href="https://github.co m/lazd/coronadatascraper/issues">file an issue on Github</a> and we can help you improve it!</p>
+            <p>Wanna know exactly how the ratings work? <a class="spectrum-Link" href="https://github.com/lazd/coronadatascraper/blob/master/lib/rating.js" target="_blank">Look at the code</a></p>
+
+            <ul class="cds-Sources-list">
+            </ul>
           </div>
         </div>
 
@@ -283,7 +526,7 @@
             </div>
             <code class="cds-Editor-title spectrum-Code spectrum-Code--XL cds-Heading">file.json</code>
             <div class="cds-Editor-actions spectrum-ButtonGroup">
-              <a href="" download class="spectrum-ActionButton cds-Editor-download">
+              <a href="" download class="spectrum-ActionButton cds-Editor-download" data-noview>
                 <span class="spectrum-Icon icon icon-download"></span>
                 <span class="spectrum-ActionButton-label">Download</span>
               </a>

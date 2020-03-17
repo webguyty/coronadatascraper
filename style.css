@@ -1,5 +1,27 @@
+@import url("https://use.typekit.net/xcj1vcp.css");
+
 :root {
   --cds-editor-header-background-color: var(--spectrum-global-color-gray-500);
+}
+
+.spectrum--light {
+  /* Reassign spectrum color variables with our own generated colors */
+  --spectrum-global-color-gray-50: var(--Gray33);
+  --spectrum-global-color-gray-75: var(--Gray67);
+  --spectrum-global-color-gray-100: var(--Gray100);
+  --spectrum-global-color-gray-200: var(--Gray200);
+  --spectrum-global-color-gray-300: var(--Gray300);
+  --spectrum-global-color-gray-400: var(--Gray400);
+  --spectrum-global-color-gray-500: var(--Gray500);
+  --spectrum-global-color-gray-500: var(--Gray500);
+  --spectrum-global-color-gray-700: var(--Gray700);
+  --spectrum-global-color-gray-800: var(--Gray800);
+  --spectrum-global-color-gray-900: var(--Gray900);
+
+  --spectrum-global-color-blue-400: var(--Blue100);
+  --spectrum-global-color-blue-500: var(--Blue200);
+  --spectrum-global-color-blue-600: var(--Blue300);
+  --spectrum-global-color-blue-700: var(--Blue400);
 }
 
 * {
@@ -15,6 +37,7 @@ body {
   height: 100%;
   margin: 0;
 }
+
 [hidden] {
   display: none !important;
 }
@@ -112,6 +135,94 @@ body {
   border-radius: var(--spectrum-alias-border-radius-medium);
   color: white;
 }
+
+.spectrum-Heading {
+  font-family: aglet-slab, sans-serif;
+  font-weight: 500;
+  color: var(--spectrum-global-color-blue-500);
+}
+.spectrum-SideNav-itemLink {
+  font-family: aglet-slab, sans-serif;
+  font-weight: 500;
+}
+.spectrum-Body {
+  font-family: aglet-sans, sans-serif;
+}
+
+.spectrum-Site-hero .spectrum-Heading--L {
+  margin-top: calc( 2.5 * var(--spectrum-heading-l-margin-top, var(--spectrum-alias-heading-l-margin-top)));
+}
+
+.spectrum-Link {
+  text-decoration: underline;
+}
+
+div.spectrum-SideNav-itemLink {
+  cursor: default;
+}
+
+div.spectrum-SideNav-itemLink:hover {
+  background: transparent;
+}
+
+.cds-Sources-list {
+  margin-top: 48px;
+}
+
+/* Ratings */
+.cds-ReportCard {
+  display: flex;
+  flex-direction: row;
+  margin: 16px 0 32px 0;
+}
+
+.cds-ReportCard h2.spectrum-Heading--L {
+  margin-top: 0;
+}
+
+.cds-ReportCard-grade {
+  font-family: aglet-slab, sans-serif;
+  margin-right: 16px;
+  font-size: 48px;
+  width: 78px;
+  height: 78px;
+  border: 4px solid transparent;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+
+  --b-color: rgb(131, 154, 20);
+}
+.cds-ReportCard-grade--A {
+  color: green;
+  border-color: green;
+}
+.cds-ReportCard-grade--B {
+  color: var(--b-color);
+  border-color: var(--b-color);
+}
+.cds-ReportCard-grade--C {
+  color: orange;
+  border-color: orange;
+}
+.cds-ReportCard-grade--D,
+.cds-ReportCard-grade--F {
+  color: red;
+  border-color: red;
+}
+.cds-ReportCard-criteria {
+  margin-top: 12px;
+}
+
+.cds-ReportCard-plusMinus {
+  position: absolute;
+  right: 4px;
+  top: 6px;
+  font-size: 36px;
+}
+
 
 @media screen and (max-width: 960px) {
   .is-editing .cds-SiteHeader {
