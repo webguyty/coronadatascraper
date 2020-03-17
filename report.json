@@ -1,11 +1,22 @@
 {
   "scrape": {
-    "numCountries": 151,
-    "numStates": 170,
-    "numCounties": 664,
+    "numCountries": 150,
+    "numStates": 150,
+    "numCounties": 663,
     "numCities": 0,
     "numDuplicates": 15,
-    "numErrors": 0,
-    "errors": []
+    "numErrors": 2,
+    "errors": [
+      {
+        "name": "Glenn County, CA, USA",
+        "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
+        "err": "TypeError: Cannot read property '1' of null"
+      },
+      {
+        "name": "FRA",
+        "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+        "err": "Error: Invalid data: contains no case data"
+      }
+    ]
   }
 }
