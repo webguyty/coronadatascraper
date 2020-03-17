@@ -2,7 +2,7 @@
   "scrape": {
     "numCountries": 151,
     "numStates": 170,
-    "numCounties": 663,
+    "numCounties": 664,
     "numCities": 0,
     "numDuplicates": 15,
     "numErrors": 0,

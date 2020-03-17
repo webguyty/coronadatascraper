@@ -154223,145 +154223,741 @@
       "active": 0
     },
     "839": {
-      "cases": 2,
-      "active": 2
+      "cases": 7,
+      "active": 7
     },
     "840": {
-      "cases": 2,
-      "active": 2
+      "cases": 25,
+      "active": 25
     },
     "841": {
-      "cases": 3,
-      "active": 3
+      "cases": 5,
+      "active": 5
     },
     "842": {
-      "cases": 1,
-      "active": 1
+      "cases": 2,
+      "active": 2
     },
     "843": {
-      "cases": 2,
-      "active": 2
+      "cases": 0,
+      "active": 0
     },
     "844": {
-      "cases": 1,
-      "active": 1
+      "cases": 7,
+      "active": 7
     },
     "845": {
-      "cases": 2,
-      "active": 2
-    },
-    "846": {
-      "cases": 3,
-      "active": 3
-    },
-    "847": {
-      "cases": 1,
-      "active": 1
-    },
-    "848": {
-      "cases": 1,
-      "active": 1
-    },
-    "849": {
-      "cases": 1,
-      "active": 1
-    },
-    "850": {
-      "cases": 1,
-      "active": 1
-    },
-    "851": {
-      "cases": 1,
-      "active": 1
-    },
-    "852": {
-      "cases": 1,
-      "active": 1
-    },
-    "853": {
-      "cases": 1,
-      "active": 1
-    },
-    "854": {
-      "cases": 2,
-      "active": 2
-    },
-    "855": {
-      "cases": 1,
-      "active": 1
-    },
-    "856": {
-      "cases": 2,
-      "active": 2
-    },
-    "857": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1
-    },
-    "858": {
-      "cases": 1,
-      "active": 1
-    },
-    "859": {
       "cases": 8,
       "active": 8
     },
-    "860": {
+    "846": {
       "cases": 0,
-      "deaths": 0,
-      "recovered": 0,
       "active": 0
+    },
+    "847": {
+      "cases": 3,
+      "active": 3
+    },
+    "848": {
+      "cases": 3,
+      "active": 3
+    },
+    "849": {
+      "cases": 5,
+      "active": 5
+    },
+    "850": {
+      "cases": 5,
+      "active": 5
+    },
+    "851": {
+      "cases": 6,
+      "active": 6
+    },
+    "852": {
+      "cases": 20,
+      "active": 20
+    },
+    "853": {
+      "cases": 10,
+      "active": 10
+    },
+    "854": {
+      "cases": 5,
+      "active": 5
+    },
+    "855": {
+      "cases": 7,
+      "active": 7
+    },
+    "856": {
+      "cases": 15,
+      "active": 15
+    },
+    "857": {
+      "cases": 3,
+      "active": 3
+    },
+    "858": {
+      "cases": 5,
+      "active": 5
+    },
+    "859": {
+      "cases": 7,
+      "active": 7
+    },
+    "860": {
+      "cases": 22,
+      "active": 22
     },
     "861": {
-      "cases": 0,
-      "active": 0
+      "cases": 3,
+      "active": 3
     },
     "862": {
-      "cases": 0,
-      "active": 0
-    },
-    "863": {
-      "cases": 0,
-      "active": 0
-    },
-    "864": {
       "cases": 1,
       "active": 1
+    },
+    "863": {
+      "cases": 4,
+      "active": 4
+    },
+    "864": {
+      "cases": 5,
+      "active": 5
     },
     "865": {
       "cases": 1,
       "active": 1
     },
     "866": {
-      "cases": 1,
-      "active": 1
+      "cases": 2,
+      "active": 2
     },
     "867": {
-      "cases": 1,
-      "active": 1
+      "cases": 2,
+      "active": 2
     },
     "868": {
-      "cases": 1,
-      "active": 1
+      "cases": 10,
+      "active": 10
     },
     "869": {
       "cases": 2,
       "active": 2
     },
     "870": {
+      "cases": 5,
+      "active": 5
+    },
+    "871": {
+      "cases": 11,
+      "active": 11
+    },
+    "872": {
+      "cases": 15,
+      "active": 15
+    },
+    "873": {
+      "cases": 2,
+      "active": 2
+    },
+    "874": {
       "cases": 1,
       "active": 1
     },
-    "871": {
+    "875": {
+      "cases": 4,
+      "active": 4
+    },
+    "876": {
+      "cases": 20,
+      "active": 20
+    },
+    "877": {
       "cases": 3,
       "active": 3
     },
-    "872": {
+    "878": {
       "cases": 1,
       "active": 1
     },
-    "873": {
+    "879": {
+      "cases": 6,
+      "active": 6
+    },
+    "880": {
+      "cases": 14,
+      "active": 14
+    },
+    "881": {
+      "cases": 1,
+      "active": 1
+    },
+    "882": {
+      "cases": 6,
+      "active": 6
+    },
+    "883": {
+      "cases": 13,
+      "active": 13
+    },
+    "884": {
+      "cases": 13,
+      "active": 13
+    },
+    "885": {
+      "cases": 0,
+      "active": 0
+    },
+    "886": {
+      "cases": 19,
+      "active": 19
+    },
+    "887": {
+      "cases": 53,
+      "active": 53
+    },
+    "888": {
+      "cases": 11,
+      "active": 11
+    },
+    "889": {
+      "cases": 12,
+      "active": 12
+    },
+    "890": {
+      "cases": 0,
+      "active": 0
+    },
+    "891": {
+      "cases": 5,
+      "active": 5
+    },
+    "892": {
+      "cases": 1,
+      "active": 1
+    },
+    "893": {
+      "cases": 32,
+      "active": 32
+    },
+    "894": {
+      "cases": 10,
+      "active": 10
+    },
+    "895": {
+      "cases": 10,
+      "active": 10
+    },
+    "896": {
+      "cases": 2,
+      "active": 2
+    },
+    "897": {
+      "cases": 4,
+      "active": 4
+    },
+    "898": {
+      "cases": 40,
+      "active": 40
+    },
+    "899": {
+      "cases": 11,
+      "active": 11
+    },
+    "900": {
+      "cases": 0,
+      "active": 0
+    },
+    "901": {
+      "cases": 2,
+      "active": 2
+    },
+    "902": {
+      "cases": 3,
+      "active": 3
+    },
+    "903": {
+      "cases": 0,
+      "active": 0
+    },
+    "904": {
+      "cases": 26,
+      "active": 26
+    },
+    "905": {
+      "cases": 6,
+      "active": 6
+    },
+    "906": {
+      "cases": 19,
+      "active": 19
+    },
+    "907": {
+      "cases": 2,
+      "active": 2
+    },
+    "908": {
+      "cases": 6,
+      "active": 6
+    },
+    "909": {
+      "cases": 11,
+      "active": 11
+    },
+    "910": {
+      "cases": 4,
+      "active": 4
+    },
+    "911": {
+      "cases": 9,
+      "active": 9
+    },
+    "912": {
+      "cases": 2,
+      "active": 2
+    },
+    "913": {
+      "cases": 9,
+      "active": 9
+    },
+    "914": {
+      "cases": 2,
+      "active": 2
+    },
+    "915": {
+      "cases": 9,
+      "active": 9
+    },
+    "916": {
+      "cases": 0,
+      "active": 0
+    },
+    "917": {
+      "cases": 4,
+      "active": 4
+    },
+    "918": {
+      "cases": 4,
+      "active": 4
+    },
+    "919": {
+      "cases": 3,
+      "active": 3
+    },
+    "920": {
+      "cases": 1,
+      "active": 1
+    },
+    "921": {
+      "cases": 0,
+      "active": 0
+    },
+    "922": {
+      "cases": 2,
+      "active": 2
+    },
+    "923": {
+      "cases": 0,
+      "active": 0
+    },
+    "924": {
+      "cases": 2,
+      "active": 2
+    },
+    "925": {
+      "cases": 7,
+      "active": 7
+    },
+    "926": {
+      "cases": 9,
+      "active": 9
+    },
+    "927": {
+      "cases": 0,
+      "active": 0
+    },
+    "928": {
+      "cases": 5,
+      "active": 5
+    },
+    "929": {
+      "cases": 6,
+      "active": 6
+    },
+    "930": {
+      "cases": 6,
+      "active": 6
+    },
+    "931": {
+      "cases": 24,
+      "active": 24
+    },
+    "932": {
+      "cases": 1,
+      "active": 1
+    },
+    "933": {
+      "cases": 2,
+      "active": 2
+    },
+    "934": {
+      "cases": 1,
+      "active": 1
+    },
+    "935": {
+      "cases": 3,
+      "active": 3
+    },
+    "936": {
+      "cases": 1,
+      "active": 1
+    },
+    "937": {
+      "cases": 1,
+      "active": 1
+    },
+    "938": {
+      "cases": 2,
+      "active": 2
+    },
+    "939": {
+      "cases": 2,
+      "active": 2
+    },
+    "940": {
+      "cases": 2,
+      "active": 2
+    },
+    "941": {
+      "cases": 0,
+      "active": 0
+    },
+    "942": {
+      "cases": 1,
+      "active": 1
+    },
+    "943": {
+      "cases": 1,
+      "active": 1
+    },
+    "944": {
+      "cases": 1,
+      "active": 1
+    },
+    "945": {
+      "cases": 12,
+      "active": 12
+    },
+    "946": {
+      "cases": 4,
+      "active": 4
+    },
+    "947": {
+      "cases": 3,
+      "active": 3
+    },
+    "948": {
+      "cases": 0,
+      "active": 0
+    },
+    "949": {
+      "cases": 2,
+      "active": 2
+    },
+    "950": {
+      "cases": 4,
+      "active": 4
+    },
+    "951": {
+      "cases": 0,
+      "active": 0
+    },
+    "952": {
+      "cases": 1,
+      "active": 1
+    },
+    "953": {
+      "cases": 3,
+      "active": 3
+    },
+    "954": {
+      "cases": 30,
+      "active": 30
+    },
+    "955": {
+      "cases": 1,
+      "active": 1
+    },
+    "956": {
+      "cases": 6,
+      "active": 6
+    },
+    "957": {
+      "cases": 3,
+      "active": 3
+    },
+    "958": {
+      "cases": 2,
+      "active": 2
+    },
+    "959": {
+      "cases": 0,
+      "active": 0
+    },
+    "960": {
+      "cases": 3,
+      "active": 3
+    },
+    "961": {
+      "cases": 1,
+      "active": 1
+    },
+    "962": {
+      "cases": 23,
+      "active": 23
+    },
+    "963": {
+      "cases": 7,
+      "active": 7
+    },
+    "964": {
+      "cases": 2,
+      "active": 2
+    },
+    "965": {
+      "cases": 3,
+      "active": 3
+    },
+    "966": {
+      "cases": 0,
+      "active": 0
+    },
+    "967": {
+      "cases": 1,
+      "active": 1
+    },
+    "968": {
+      "cases": 7,
+      "active": 7
+    },
+    "969": {
+      "cases": 9,
+      "active": 9
+    },
+    "970": {
+      "cases": 6,
+      "active": 6
+    },
+    "971": {
+      "cases": 2,
+      "active": 2
+    },
+    "972": {
+      "cases": 5,
+      "active": 5
+    },
+    "973": {
+      "cases": 2,
+      "active": 2
+    },
+    "974": {
+      "cases": 17,
+      "active": 17
+    },
+    "975": {
+      "cases": 1,
+      "active": 1
+    },
+    "976": {
+      "cases": 5,
+      "active": 5
+    },
+    "977": {
+      "cases": 3,
+      "active": 3
+    },
+    "978": {
+      "cases": 7,
+      "active": 7
+    },
+    "979": {
+      "cases": 35,
+      "active": 35
+    },
+    "980": {
+      "cases": 3,
+      "active": 3
+    },
+    "981": {
+      "cases": 5,
+      "active": 5
+    },
+    "982": {
+      "cases": 6,
+      "active": 6
+    },
+    "983": {
+      "cases": 5,
+      "active": 5
+    },
+    "984": {
+      "cases": 5,
+      "active": 5
+    },
+    "985": {
+      "cases": 8,
+      "active": 8
+    },
+    "986": {
+      "cases": 3,
+      "active": 3
+    },
+    "987": {
+      "cases": 4,
+      "active": 4
+    },
+    "988": {
+      "cases": 2,
+      "active": 2
+    },
+    "989": {
+      "cases": 2,
+      "active": 2
+    },
+    "990": {
+      "cases": 3,
+      "active": 3
+    },
+    "991": {
+      "cases": 1,
+      "active": 1
+    },
+    "992": {
+      "cases": 2,
+      "active": 2
+    },
+    "993": {
+      "cases": 1,
+      "active": 1
+    },
+    "994": {
+      "cases": 2,
+      "active": 2
+    },
+    "995": {
+      "cases": 3,
+      "active": 3
+    },
+    "996": {
+      "cases": 1,
+      "active": 1
+    },
+    "997": {
+      "cases": 1,
+      "active": 1
+    },
+    "998": {
+      "cases": 1,
+      "active": 1
+    },
+    "999": {
+      "cases": 1,
+      "active": 1
+    },
+    "1000": {
+      "cases": 1,
+      "active": 1
+    },
+    "1001": {
+      "cases": 1,
+      "active": 1
+    },
+    "1002": {
+      "cases": 1,
+      "active": 1
+    },
+    "1003": {
+      "cases": 2,
+      "active": 2
+    },
+    "1004": {
+      "cases": 1,
+      "active": 1
+    },
+    "1005": {
+      "cases": 2,
+      "active": 2
+    },
+    "1006": {
+      "cases": 1,
+      "deaths": 0,
+      "active": 1
+    },
+    "1007": {
+      "cases": 1,
+      "active": 1
+    },
+    "1008": {
+      "cases": 8,
+      "active": 8
+    },
+    "1009": {
+      "cases": 0,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    "1010": {
+      "cases": 0,
+      "active": 0
+    },
+    "1011": {
+      "cases": 0,
+      "active": 0
+    },
+    "1012": {
+      "cases": 0,
+      "active": 0
+    },
+    "1013": {
+      "cases": 1,
+      "active": 1
+    },
+    "1014": {
+      "cases": 1,
+      "active": 1
+    },
+    "1015": {
+      "cases": 1,
+      "active": 1
+    },
+    "1016": {
+      "cases": 1,
+      "active": 1
+    },
+    "1017": {
+      "cases": 1,
+      "active": 1
+    },
+    "1018": {
+      "cases": 2,
+      "active": 2
+    },
+    "1019": {
+      "cases": 1,
+      "active": 1
+    },
+    "1020": {
+      "cases": 3,
+      "active": 3
+    },
+    "1021": {
+      "cases": 1,
+      "active": 1
+    },
+    "1022": {
       "cases": 1,
       "active": 1
     }
@@ -155077,9 +155673,9 @@
       "growthFactor": 1.7959183673469388
     },
     "103": {
-      "cases": 39,
-      "active": 39,
-      "growthFactor": 1
+      "cases": 47,
+      "active": 47,
+      "growthFactor": 1.205128205128205
     },
     "104": {
       "cases": 55,
@@ -155158,10 +155754,10 @@
       "growthFactor": 1.05
     },
     "116": {
-      "cases": 17,
-      "active": 17,
-      "tested": 120,
-      "growthFactor": 1
+      "cases": 252,
+      "active": 252,
+      "tested": 126,
+      "growthFactor": 14.823529411764707
     },
     "117": {
       "cases": 45,
@@ -155567,13 +156163,6 @@
       "active": 40,
       "growthFactor": 1
     },
-    "176": {
-      "cases": 155,
-      "deaths": 4,
-      "recovered": 84,
-      "active": 67,
-      "growthFactor": 1.0689655172413792
-    },
     "177": {
       "cases": 125,
       "deaths": 1,
@@ -155894,9 +156483,9 @@
       "growthFactor": 1
     },
     "260": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1.5
     },
     "263": {
       "cases": 1,
@@ -155997,8 +156586,8 @@
     },
     "304": {
       "cases": 138,
-      "deaths": 2,
-      "active": 136,
+      "deaths": 4,
+      "active": 134,
       "growthFactor": 1.2105263157894737
     },
     "306": {
@@ -156051,10 +156640,10 @@
       "growthFactor": 1.1724137931034482
     },
     "319": {
-      "cases": 17,
+      "cases": 22,
       "deaths": 0,
-      "active": 17,
-      "growthFactor": 1
+      "active": 22,
+      "growthFactor": 1.2941176470588236
     },
     "322": {
       "cases": 14,
@@ -156080,9 +156669,9 @@
       "growthFactor": 1.3225806451612903
     },
     "328": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 1.2
     },
     "329": {
       "cases": 2,
@@ -156090,9 +156679,9 @@
       "growthFactor": 1
     },
     "331": {
-      "cases": 13,
-      "active": 13,
-      "growthFactor": 1
+      "cases": 14,
+      "active": 14,
+      "growthFactor": 1.0769230769230769
     },
     "332": {
       "cases": 200,
@@ -156150,9 +156739,9 @@
       "growthFactor": 1
     },
     "343": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
+      "cases": 9,
+      "active": 9,
+      "growthFactor": 1.8
     },
     "344": {
       "cases": 2,
@@ -156185,9 +156774,9 @@
       "growthFactor": 1.4166666666666667
     },
     "358": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
     },
     "359": {
       "cases": 1,
@@ -156195,9 +156784,9 @@
       "growthFactor": 1
     },
     "360": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 1.5
     },
     "366": {
       "cases": 1,
@@ -158170,39 +158759,39 @@
       "growthFactor": 1.5
     },
     "679": {
-      "cases": 73,
-      "active": 73,
-      "growthFactor": 1
+      "cases": 103,
+      "active": 103,
+      "growthFactor": 1.4109589041095891
     },
     "680": {
-      "cases": 56,
-      "active": 56,
-      "growthFactor": 1.435897435897436
+      "cases": 74,
+      "active": 74,
+      "growthFactor": 1.8974358974358974
     },
     "681": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
     },
     "682": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1.75
     },
     "683": {
-      "cases": 145,
-      "active": 145,
-      "growthFactor": 1.0211267605633803
+      "cases": 177,
+      "active": 177,
+      "growthFactor": 1.2464788732394365
     },
     "684": {
-      "cases": 39,
-      "active": 39,
-      "growthFactor": 1
+      "cases": 50,
+      "active": 50,
+      "growthFactor": 1.2820512820512822
     },
     "685": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
     },
     "686": {
       "cases": 1,
@@ -158230,9 +158819,9 @@
       "growthFactor": 1
     },
     "691": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
     },
     "692": {
       "cases": 10,
@@ -158927,773 +159516,922 @@
       "growthFactor": null
     },
     "839": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
+      "cases": 10,
+      "active": 10,
+      "growthFactor": 1.4285714285714286
     },
     "840": {
-      "cases": 2,
-      "active": 2,
+      "cases": 25,
+      "active": 25,
       "growthFactor": 1
     },
     "841": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 0.8
     },
     "842": {
       "cases": 1,
       "active": 1,
-      "growthFactor": 1
+      "growthFactor": 0.5
     },
     "843": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
     },
     "844": {
+      "cases": 8,
+      "active": 8,
+      "growthFactor": 1.1428571428571428
+    },
+    "845": {
+      "cases": 15,
+      "active": 15,
+      "growthFactor": 1.875
+    },
+    "846": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "847": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 0.6666666666666666
+    },
+    "848": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "849": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1
+    },
+    "850": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 0.8
+    },
+    "851": {
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1.1666666666666667
+    },
+    "852": {
+      "cases": 20,
+      "active": 20,
+      "growthFactor": 1
+    },
+    "853": {
+      "cases": 10,
+      "active": 10,
+      "growthFactor": 1
+    },
+    "854": {
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1.4
+    },
+    "855": {
+      "cases": 11,
+      "active": 11,
+      "growthFactor": 1.5714285714285714
+    },
+    "856": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 0.8
+    },
+    "857": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 2
+    },
+    "858": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 0.4
+    },
+    "859": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.7142857142857142
+    },
+    "860": {
+      "cases": 22,
+      "active": 22,
+      "growthFactor": 1
+    },
+    "861": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1.3333333333333333
+    },
+    "862": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": 0
+    },
+    "863": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1
+    },
+    "864": {
+      "cases": 8,
+      "active": 8,
+      "growthFactor": 1.6
+    },
+    "865": {
       "cases": 1,
       "active": 1,
       "growthFactor": 1
     },
-    "845": {
+    "866": {
       "cases": 3,
       "active": 3,
       "growthFactor": 1.5
     },
-    "850": {
-      "cases": 1,
-      "active": 1,
+    "867": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 2
+    },
+    "868": {
+      "cases": 10,
+      "active": 10,
       "growthFactor": 1
     },
-    "851": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "854": {
+    "869": {
       "cases": 2,
       "active": 2,
       "growthFactor": 1
     },
-    "855": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
+    "870": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 0.8
     },
-    "856": {
+    "871": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.0909090909090908
+    },
+    "872": {
+      "cases": 20,
+      "active": 20,
+      "growthFactor": 1.3333333333333333
+    },
+    "873": {
       "cases": 2,
       "active": 2,
       "growthFactor": 1
     },
-    "857": {
+    "874": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
+    },
+    "875": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 1.5
+    },
+    "876": {
+      "cases": 18,
+      "active": 18,
+      "growthFactor": 0.9
+    },
+    "877": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1.3333333333333333
+    },
+    "878": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
+    },
+    "879": {
+      "cases": 8,
+      "active": 8,
+      "growthFactor": 1.3333333333333333
+    },
+    "880": {
+      "cases": 20,
+      "active": 20,
+      "growthFactor": 1.4285714285714286
+    },
+    "881": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "882": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 1
+    },
+    "883": {
+      "cases": 18,
+      "active": 18,
+      "growthFactor": 1.3846153846153846
+    },
+    "884": {
+      "cases": 20,
+      "active": 20,
+      "growthFactor": 1.5384615384615385
+    },
+    "885": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "886": {
+      "cases": 21,
+      "active": 21,
+      "growthFactor": 1.105263157894737
+    },
+    "887": {
+      "cases": 55,
+      "active": 55,
+      "growthFactor": 1.0377358490566038
+    },
+    "888": {
+      "cases": 16,
+      "active": 16,
+      "growthFactor": 1.4545454545454546
+    },
+    "889": {
+      "cases": 14,
+      "active": 14,
+      "growthFactor": 1.1666666666666667
+    },
+    "890": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "891": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1
+    },
+    "892": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "893": {
+      "cases": 29,
+      "active": 29,
+      "growthFactor": 0.90625
+    },
+    "894": {
+      "cases": 13,
+      "active": 13,
+      "growthFactor": 1.3
+    },
+    "895": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.2
+    },
+    "896": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 0.5
+    },
+    "897": {
+      "cases": 11,
+      "active": 11,
+      "growthFactor": 2.75
+    },
+    "898": {
+      "cases": 43,
+      "active": 43,
+      "growthFactor": 1.075
+    },
+    "899": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.0909090909090908
+    },
+    "900": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": null
+    },
+    "901": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "902": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 0.6666666666666666
+    },
+    "903": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "904": {
+      "cases": 26,
+      "active": 26,
+      "growthFactor": 1
+    },
+    "905": {
+      "cases": 8,
+      "active": 8,
+      "growthFactor": 1.3333333333333333
+    },
+    "906": {
+      "cases": 14,
+      "active": 14,
+      "growthFactor": 0.7368421052631579
+    },
+    "907": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 0.5
+    },
+    "908": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 0.8333333333333334
+    },
+    "909": {
+      "cases": 17,
+      "active": 17,
+      "growthFactor": 1.5454545454545454
+    },
+    "910": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1
+    },
+    "911": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 0.6666666666666666
+    },
+    "912": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1.5
+    },
+    "913": {
+      "cases": 8,
+      "active": 8,
+      "growthFactor": 0.8888888888888888
+    },
+    "914": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "915": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.3333333333333333
+    },
+    "916": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "917": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 0.75
+    },
+    "918": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1.25
+    },
+    "919": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "920": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
+    },
+    "921": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "922": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 0.5
+    },
+    "923": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": null
+    },
+    "924": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1.5
+    },
+    "925": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 0.8571428571428571
+    },
+    "926": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.3333333333333333
+    },
+    "927": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "928": {
+      "cases": 10,
+      "active": 10,
+      "growthFactor": 2
+    },
+    "929": {
+      "cases": 14,
+      "active": 14,
+      "growthFactor": 2.3333333333333335
+    },
+    "930": {
+      "cases": 10,
+      "active": 10,
+      "growthFactor": 1.6666666666666667
+    },
+    "931": {
+      "cases": 23,
+      "active": 23,
+      "growthFactor": 0.9583333333333334
+    },
+    "932": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "933": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "934": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "935": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "936": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
+    },
+    "937": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": 0
+    },
+    "938": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "939": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 2
+    },
+    "940": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "941": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "942": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "943": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 4
+    },
+    "944": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "945": {
+      "cases": 15,
+      "active": 15,
+      "growthFactor": 1.25
+    },
+    "946": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 0.5
+    },
+    "947": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 0.6666666666666666
+    },
+    "948": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": null
+    },
+    "949": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1.5
+    },
+    "950": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1.25
+    },
+    "951": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "952": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "953": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "954": {
+      "cases": 33,
+      "active": 33,
+      "growthFactor": 1.1
+    },
+    "955": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "956": {
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1.1666666666666667
+    },
+    "957": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "958": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "959": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "960": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "961": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "962": {
+      "cases": 25,
+      "active": 25,
+      "growthFactor": 1.0869565217391304
+    },
+    "963": {
+      "cases": 11,
+      "active": 11,
+      "growthFactor": 1.5714285714285714
+    },
+    "964": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "965": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "966": {
+      "cases": 0,
+      "active": 0,
+      "growthFactor": null
+    },
+    "967": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "968": {
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1
+    },
+    "969": {
+      "cases": 12,
+      "active": 12,
+      "growthFactor": 1.3333333333333333
+    },
+    "970": {
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1.1666666666666667
+    },
+    "971": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1.5
+    },
+    "972": {
+      "cases": 11,
+      "active": 11,
+      "growthFactor": 2.2
+    },
+    "973": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 2
+    },
+    "974": {
+      "cases": 20,
+      "active": 20,
+      "growthFactor": 1.1764705882352942
+    },
+    "975": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "976": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 0.8
+    },
+    "977": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "978": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 0.7142857142857143
+    },
+    "979": {
+      "cases": 37,
+      "active": 37,
+      "growthFactor": 1.0571428571428572
+    },
+    "980": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "981": {
+      "cases": 7,
+      "active": 7,
+      "growthFactor": 1.4
+    },
+    "982": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 1
+    },
+    "983": {
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1
+    },
+    "984": {
+      "cases": 6,
+      "active": 6,
+      "growthFactor": 1.2
+    },
+    "985": {
+      "cases": 11,
+      "active": 11,
+      "growthFactor": 1.375
+    },
+    "986": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "987": {
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1
+    },
+    "988": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "989": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "990": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "991": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "992": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "993": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "994": {
+      "cases": 3,
+      "active": 3,
+      "growthFactor": 1.5
+    },
+    "999": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "1000": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "1003": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "1004": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "1005": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "1006": {
       "cases": 1,
       "deaths": 0,
       "active": 1,
       "growthFactor": 1
     },
-    "858": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
+    "1007": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 2
     },
-    "859": {
+    "1008": {
       "cases": 9,
       "active": 9,
       "growthFactor": 1.125
     },
-    "860": {
+    "1009": {
       "cases": 0,
       "deaths": 0,
       "recovered": 0,
       "active": 0,
       "growthFactor": null
     },
-    "861": {
+    "1010": {
       "cases": 0,
       "active": 0,
       "growthFactor": null
     },
-    "862": {
+    "1011": {
       "cases": 0,
       "active": 0,
       "growthFactor": null
     },
-    "863": {
+    "1012": {
       "cases": 0,
       "active": 0,
       "growthFactor": null
     },
-    "866": {
+    "1015": {
       "cases": 1,
       "active": 1,
       "growthFactor": 1
     },
-    "867": {
+    "1016": {
       "cases": 2,
       "active": 2,
       "growthFactor": 2
     },
-    "868": {
+    "1017": {
       "cases": 1,
       "active": 1,
       "growthFactor": 1
     },
-    "869": {
+    "1018": {
       "cases": 1,
       "active": 1,
       "growthFactor": 0.5
     },
-    "870": {
+    "1019": {
       "cases": 1,
       "active": 1,
       "growthFactor": 1
     },
-    "871": {
+    "1020": {
       "cases": 4,
       "active": 4,
       "growthFactor": 1.3333333333333333
     },
-    "872": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "873": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "874": {
-      "cases": 10,
-      "active": 10
-    },
-    "875": {
-      "cases": 25,
-      "active": 25
-    },
-    "876": {
-      "cases": 4,
-      "active": 4
-    },
-    "877": {
-      "cases": 1,
-      "active": 1
-    },
-    "878": {
-      "cases": 0,
-      "active": 0
-    },
-    "879": {
-      "cases": 8,
-      "active": 8
-    },
-    "880": {
-      "cases": 15,
-      "active": 15
-    },
-    "881": {
-      "cases": 0,
-      "active": 0
-    },
-    "882": {
-      "cases": 2,
-      "active": 2
-    },
-    "883": {
-      "cases": 3,
-      "active": 3
-    },
-    "884": {
-      "cases": 5,
-      "active": 5
-    },
-    "885": {
-      "cases": 4,
-      "active": 4
-    },
-    "886": {
-      "cases": 7,
-      "active": 7
-    },
-    "887": {
-      "cases": 20,
-      "active": 20
-    },
-    "888": {
-      "cases": 10,
-      "active": 10
-    },
-    "889": {
-      "cases": 7,
-      "active": 7
-    },
-    "890": {
-      "cases": 11,
-      "active": 11
-    },
-    "891": {
-      "cases": 12,
-      "active": 12
-    },
-    "892": {
-      "cases": 6,
-      "active": 6
-    },
-    "893": {
-      "cases": 2,
-      "active": 2
-    },
-    "894": {
-      "cases": 12,
-      "active": 12
-    },
-    "895": {
-      "cases": 22,
-      "active": 22
-    },
-    "896": {
-      "cases": 4,
-      "active": 4
-    },
-    "897": {
-      "cases": 0,
-      "active": 0
-    },
-    "898": {
-      "cases": 4,
-      "active": 4
-    },
-    "899": {
-      "cases": 8,
-      "active": 8
-    },
-    "900": {
-      "cases": 1,
-      "active": 1
-    },
-    "901": {
-      "cases": 3,
-      "active": 3
-    },
-    "902": {
-      "cases": 4,
-      "active": 4
-    },
-    "903": {
-      "cases": 10,
-      "active": 10
-    },
-    "904": {
-      "cases": 2,
-      "active": 2
-    },
-    "905": {
-      "cases": 4,
-      "active": 4
-    },
-    "906": {
-      "cases": 12,
-      "active": 12
-    },
-    "907": {
-      "cases": 20,
-      "active": 20
-    },
-    "908": {
-      "cases": 2,
-      "active": 2
-    },
-    "909": {
-      "cases": 2,
-      "active": 2
-    },
-    "910": {
-      "cases": 6,
-      "active": 6
-    },
-    "911": {
-      "cases": 18,
-      "active": 18
-    },
-    "912": {
-      "cases": 4,
-      "active": 4
-    },
-    "913": {
-      "cases": 2,
-      "active": 2
-    },
-    "914": {
-      "cases": 8,
-      "active": 8
-    },
-    "915": {
-      "cases": 20,
-      "active": 20
-    },
-    "916": {
-      "cases": 1,
-      "active": 1
-    },
-    "917": {
-      "cases": 6,
-      "active": 6
-    },
-    "918": {
-      "cases": 18,
-      "active": 18
-    },
-    "919": {
-      "cases": 20,
-      "active": 20
-    },
-    "920": {
-      "cases": 0,
-      "active": 0
-    },
-    "921": {
-      "cases": 21,
-      "active": 21
-    },
-    "922": {
-      "cases": 55,
-      "active": 55
-    },
-    "923": {
-      "cases": 16,
-      "active": 16
-    },
-    "924": {
-      "cases": 14,
-      "active": 14
-    },
-    "925": {
-      "cases": 0,
-      "active": 0
-    },
-    "926": {
-      "cases": 5,
-      "active": 5
-    },
-    "927": {
-      "cases": 1,
-      "active": 1
-    },
-    "928": {
-      "cases": 29,
-      "active": 29
-    },
-    "929": {
-      "cases": 13,
-      "active": 13
-    },
-    "930": {
-      "cases": 12,
-      "active": 12
-    },
-    "931": {
-      "cases": 1,
-      "active": 1
-    },
-    "932": {
-      "cases": 11,
-      "active": 11
-    },
-    "933": {
-      "cases": 43,
-      "active": 43
-    },
-    "934": {
-      "cases": 12,
-      "active": 12
-    },
-    "935": {
-      "cases": 1,
-      "active": 1
-    },
-    "936": {
-      "cases": 2,
-      "active": 2
-    },
-    "937": {
-      "cases": 2,
-      "active": 2
-    },
-    "938": {
-      "cases": 0,
-      "active": 0
-    },
-    "939": {
-      "cases": 26,
-      "active": 26
-    },
-    "940": {
-      "cases": 8,
-      "active": 8
-    },
-    "941": {
-      "cases": 14,
-      "active": 14
-    },
-    "942": {
-      "cases": 1,
-      "active": 1
-    },
-    "943": {
-      "cases": 5,
-      "active": 5
-    },
-    "944": {
-      "cases": 17,
-      "active": 17
-    },
-    "945": {
-      "cases": 4,
-      "active": 4
-    },
-    "946": {
-      "cases": 6,
-      "active": 6
-    },
-    "947": {
-      "cases": 3,
-      "active": 3
-    },
-    "948": {
-      "cases": 8,
-      "active": 8
-    },
-    "949": {
-      "cases": 2,
-      "active": 2
-    },
-    "950": {
-      "cases": 12,
-      "active": 12
-    },
-    "951": {
-      "cases": 0,
-      "active": 0
-    },
-    "952": {
-      "cases": 3,
-      "active": 3
-    },
-    "953": {
-      "cases": 5,
-      "active": 5
-    },
-    "954": {
-      "cases": 3,
-      "active": 3
-    },
-    "955": {
-      "cases": 2,
-      "active": 2
-    },
-    "956": {
-      "cases": 0,
-      "active": 0
-    },
-    "957": {
-      "cases": 1,
-      "active": 1
-    },
-    "958": {
-      "cases": 2,
-      "active": 2
-    },
-    "959": {
-      "cases": 3,
-      "active": 3
-    },
-    "960": {
-      "cases": 6,
-      "active": 6
-    },
-    "961": {
-      "cases": 12,
-      "active": 12
-    },
-    "962": {
-      "cases": 0,
-      "active": 0
-    },
-    "963": {
-      "cases": 10,
-      "active": 10
-    },
-    "964": {
-      "cases": 14,
-      "active": 14
-    },
-    "965": {
-      "cases": 10,
-      "active": 10
-    },
-    "966": {
-      "cases": 23,
-      "active": 23
-    },
-    "967": {
-      "cases": 1,
-      "active": 1
-    },
-    "968": {
-      "cases": 2,
-      "active": 2
-    },
-    "969": {
-      "cases": 1,
-      "active": 1
-    },
-    "970": {
-      "cases": 3,
-      "active": 3
-    },
-    "971": {
-      "cases": 2,
-      "active": 2
-    },
-    "972": {
-      "cases": 0,
-      "active": 0
-    },
-    "973": {
-      "cases": 2,
-      "active": 2
-    },
-    "974": {
-      "cases": 4,
-      "active": 4
-    },
-    "975": {
-      "cases": 2,
-      "active": 2
-    },
-    "976": {
-      "cases": 0,
-      "active": 0
-    },
-    "977": {
-      "cases": 1,
-      "active": 1
-    },
-    "978": {
-      "cases": 4,
-      "active": 4
-    },
-    "979": {
-      "cases": 1,
-      "active": 1
-    },
-    "980": {
-      "cases": 15,
-      "active": 15
-    },
-    "981": {
-      "cases": 2,
-      "active": 2
-    },
-    "982": {
-      "cases": 2,
-      "active": 2
-    },
-    "983": {
-      "cases": 1,
-      "active": 1
-    },
-    "984": {
-      "cases": 3,
-      "active": 3
-    },
-    "985": {
-      "cases": 5,
-      "active": 5
-    },
-    "986": {
-      "cases": 0,
-      "active": 0
-    },
-    "987": {
-      "cases": 1,
-      "active": 1
-    },
-    "988": {
-      "cases": 3,
-      "active": 3
-    },
-    "989": {
-      "cases": 33,
-      "active": 33
-    },
-    "990": {
-      "cases": 1,
-      "active": 1
-    },
-    "991": {
-      "cases": 7,
-      "active": 7
-    },
-    "992": {
-      "cases": 3,
-      "active": 3
-    },
-    "993": {
-      "cases": 2,
-      "active": 2
-    },
-    "994": {
-      "cases": 0,
-      "active": 0
-    },
-    "995": {
-      "cases": 3,
-      "active": 3
-    },
-    "996": {
-      "cases": 1,
-      "active": 1
-    },
-    "997": {
-      "cases": 25,
-      "active": 25
-    },
-    "998": {
-      "cases": 11,
-      "active": 11
-    },
-    "999": {
-      "cases": 2,
-      "active": 2
-    },
-    "1000": {
-      "cases": 3,
-      "active": 3
-    },
-    "1001": {
-      "cases": 0,
-      "active": 0
-    },
-    "1002": {
-      "cases": 1,
-      "active": 1
-    },
-    "1003": {
-      "cases": 7,
-      "active": 7
-    },
-    "1004": {
-      "cases": 12,
-      "active": 12
-    },
-    "1005": {
-      "cases": 7,
-      "active": 7
-    },
-    "1006": {
-      "cases": 3,
-      "active": 3
-    },
-    "1007": {
-      "cases": 11,
-      "active": 11
-    },
-    "1008": {
-      "cases": 4,
-      "active": 4
-    },
-    "1009": {
-      "cases": 20,
-      "active": 20
-    },
-    "1010": {
-      "cases": 1,
-      "active": 1
-    },
-    "1011": {
-      "cases": 4,
-      "active": 4
-    },
-    "1012": {
-      "cases": 3,
-      "active": 3
-    },
-    "1013": {
-      "cases": 5,
-      "active": 5
-    },
-    "1014": {
-      "cases": 37,
-      "active": 37
-    },
-    "1015": {
-      "cases": 3,
-      "active": 3
-    },
-    "1016": {
-      "cases": 7,
-      "active": 7
-    },
-    "1017": {
-      "cases": 6,
-      "active": 6
-    },
-    "1018": {
-      "cases": 5,
-      "active": 5
-    },
-    "1019": {
-      "cases": 6,
-      "active": 6
-    },
-    "1020": {
-      "cases": 11,
-      "active": 11
-    },
     "1021": {
-      "cases": 3,
-      "active": 3
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "1022": {
-      "cases": 4,
-      "active": 4
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "1023": {
-      "cases": 1,
-      "active": 1
+      "cases": 155,
+      "deaths": 4,
+      "recovered": 84,
+      "active": 67
     },
     "1024": {
       "cases": 1,
       "active": 1
     },
     "1025": {
-      "cases": 12,
-      "active": 12
-    },
-    "1026": {
-      "cases": 2,
-      "active": 2
-    },
-    "1027": {
       "cases": 1,
       "active": 1
     },
+    "1026": {
+      "cases": 12,
+      "active": 12
+    },
+    "1027": {
+      "cases": 2,
+      "active": 2
+    },
     "1028": {
+      "cases": 2,
+      "active": 2
+    },
+    "1029": {
+      "cases": 1,
+      "active": 1
+    },
+    "1030": {
       "cases": 8,
       "recovered": 0,
       "active": 8
-    },
-    "1029": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0
-    },
-    "1030": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0
     },
     "1031": {
       "cases": 0,
@@ -159711,40 +160449,42 @@
       "active": 0
     },
     "1034": {
+      "cases": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    "1035": {
+      "cases": 0,
+      "recovered": 0,
+      "active": 0
+    },
+    "1036": {
       "cases": 2,
       "active": 2
     },
-    "1035": {
+    "1037": {
       "cases": 39,
       "active": 39
     },
-    "1036": {
-      "cases": 1,
-      "active": 1
-    },
-    "1037": {
-      "cases": 1,
-      "active": 1
-    },
     "1038": {
+      "cases": 1,
+      "active": 1
+    },
+    "1039": {
+      "cases": 1,
+      "active": 1
+    },
+    "1040": {
       "cases": 3,
       "active": 3
     },
-    "1039": {
+    "1041": {
       "cases": 6,
       "active": 6
     },
-    "1040": {
+    "1042": {
       "cases": 23,
       "active": 23
-    },
-    "1041": {
-      "cases": 5,
-      "active": 5
-    },
-    "1042": {
-      "cases": 1,
-      "active": 1
     },
     "1043": {
       "cases": 5,
@@ -159755,146 +160495,146 @@
       "active": 1
     },
     "1045": {
-      "cases": 4,
-      "active": 4
-    },
-    "1046": {
       "cases": 5,
       "active": 5
     },
+    "1046": {
+      "cases": 1,
+      "active": 1
+    },
     "1047": {
-      "cases": 1,
-      "active": 1
-    },
-    "1048": {
-      "cases": 1,
-      "active": 1
-    },
-    "1049": {
-      "cases": 3,
-      "active": 3
-    },
-    "1050": {
       "cases": 4,
       "active": 4
     },
+    "1048": {
+      "cases": 5,
+      "active": 5
+    },
+    "1049": {
+      "cases": 1,
+      "active": 1
+    },
+    "1050": {
+      "cases": 1,
+      "active": 1
+    },
     "1051": {
+      "cases": 3,
+      "active": 3
+    },
+    "1052": {
+      "cases": 4,
+      "active": 4
+    },
+    "1053": {
       "cases": 8,
       "active": 8
     },
-    "1052": {
+    "1054": {
       "cases": 2,
       "active": 2
     },
-    "1053": {
+    "1055": {
       "cases": 4,
       "active": 4
     },
-    "1054": {
+    "1056": {
       "cases": 1,
       "active": 1
     },
-    "1055": {
+    "1057": {
       "cases": 3,
       "active": 3
     },
-    "1056": {
+    "1058": {
       "cases": 4,
       "active": 4
-    },
-    "1057": {
-      "cases": 2,
-      "active": 2
-    },
-    "1058": {
-      "cases": 7,
-      "active": 7
     },
     "1059": {
       "cases": 2,
       "active": 2
     },
     "1060": {
-      "cases": 1,
-      "active": 1
+      "cases": 7,
+      "active": 7
     },
     "1061": {
-      "cases": 1,
-      "active": 1
+      "cases": 2,
+      "active": 2
     },
     "1062": {
       "cases": 1,
-      "deaths": 0,
       "active": 1
     },
     "1063": {
-      "cases": 0,
-      "active": 0
+      "cases": 1,
+      "active": 1
     },
     "1064": {
-      "cases": 0,
-      "active": 0,
-      "tested": 11
+      "cases": 1,
+      "deaths": 0,
+      "active": 1
     },
     "1065": {
       "cases": 0,
       "active": 0
     },
     "1066": {
-      "cases": 1,
-      "active": 1
+      "cases": 0,
+      "active": 0,
+      "tested": 11
     },
     "1067": {
+      "cases": 0,
+      "active": 0
+    },
+    "1068": {
       "cases": 1,
       "active": 1
     },
-    "1068": {
-      "cases": 5,
-      "active": 5
-    },
     "1069": {
-      "cases": 2,
-      "active": 2
+      "cases": 1,
+      "active": 1
     },
     "1070": {
       "cases": 5,
       "active": 5
     },
     "1071": {
+      "cases": 2,
+      "active": 2
+    },
+    "1072": {
+      "cases": 5,
+      "active": 5
+    },
+    "1073": {
       "cases": 7,
       "active": 7
     },
-    "1072": {
-      "cases": 1,
-      "active": 1
-    },
-    "1073": {
-      "cases": 1,
-      "active": 1
-    },
     "1074": {
-      "cases": 8,
-      "active": 8
+      "cases": 1,
+      "active": 1
     },
     "1075": {
-      "cases": 30,
-      "active": 30
-    },
-    "1076": {
       "cases": 1,
       "active": 1
     },
-    "1077": {
+    "1076": {
       "cases": 8,
       "active": 8
+    },
+    "1077": {
+      "cases": 30,
+      "active": 30
     },
     "1078": {
       "cases": 1,
       "active": 1
     },
     "1079": {
-      "cases": 1,
-      "active": 1
+      "cases": 8,
+      "active": 8
     },
     "1080": {
       "cases": 1,
@@ -159909,6022 +160649,134 @@
       "active": 1
     },
     "1083": {
+      "cases": 1,
+      "active": 1
+    },
+    "1084": {
+      "cases": 1,
+      "active": 1
+    },
+    "1085": {
       "cases": 554,
       "deaths": 7,
       "recovered": 0,
       "active": 547
     },
-    "1084": {
+    "1086": {
       "cases": 174,
       "deaths": 11,
       "recovered": 0,
       "active": 163
     },
-    "1085": {
+    "1087": {
       "cases": 177,
       "deaths": 1,
       "recovered": 0,
       "active": 176
     },
-    "1086": {
+    "1088": {
       "cases": 73,
       "deaths": 1,
       "recovered": 1,
       "active": 71
     },
-    "1087": {
+    "1089": {
       "cases": 119,
       "deaths": 1,
       "recovered": 1,
       "active": 117
     },
-    "1088": {
+    "1090": {
       "cases": 58,
       "deaths": 0,
       "recovered": 0,
       "active": 58
     },
-    "1089": {
+    "1091": {
       "cases": 334,
       "deaths": 9,
       "recovered": 0,
       "active": 325
     },
-    "1090": {
+    "1092": {
       "cases": 567,
       "deaths": 17,
       "recovered": 0,
       "active": 550
     },
-    "1091": {
+    "1093": {
       "cases": 903,
       "deaths": 12,
       "recovered": 0,
       "active": 891
     },
-    "1092": {
+    "1094": {
       "cases": 409,
       "deaths": 5,
       "recovered": 0,
       "active": 404
     },
-    "1093": {
+    "1095": {
       "cases": 111,
       "deaths": 2,
       "recovered": 0,
       "active": 109
     },
-    "1094": {
+    "1096": {
       "cases": 245,
       "deaths": 2,
       "recovered": 0,
       "active": 243
     },
-    "1095": {
+    "1097": {
       "cases": 4165,
       "deaths": 213,
       "recovered": 0,
       "active": 3952
     },
-    "1096": {
+    "1098": {
       "cases": 77,
       "deaths": 0,
       "recovered": 0,
       "active": 77
     },
-    "1097": {
+    "1099": {
       "cases": 274,
       "deaths": 1,
       "recovered": 0,
       "active": 273
     },
-    "1098": {
+    "1100": {
       "cases": 630,
       "deaths": 23,
       "recovered": 0,
       "active": 607
     },
-    "1099": {
+    "1101": {
       "cases": 312,
       "deaths": 4,
       "recovered": 0,
       "active": 308
     },
-    "1100": {
+    "1102": {
       "cases": 1,
       "deaths": 0,
       "recovered": 0,
       "active": 1
     },
-    "1101": {
+    "1103": {
       "cases": 8,
       "deaths": 0,
       "recovered": 0,
       "active": 8
     },
-    "1102": {
-      "cases": 1,
-      "active": 1
-    },
-    "1103": {
-      "cases": 1,
-      "active": 1
-    }
-  },
-  "2020-3-17": {
-    "0": {
-      "cases": 147,
-      "deaths": 1,
-      "recovered": 35,
-      "active": 111,
-      "growthFactor": 1
-    },
-    "1": {
-      "cases": 825,
-      "deaths": 27,
-      "recovered": 144,
-      "active": 654,
-      "growthFactor": 1
-    },
-    "2": {
-      "cases": 243,
-      "deaths": 0,
-      "recovered": 109,
-      "active": 134,
-      "growthFactor": 1
-    },
-    "3": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "4": {
-      "cases": 566,
-      "deaths": 0,
-      "recovered": 42,
-      "active": 524,
-      "growthFactor": 1
-    },
-    "5": {
-      "cases": 171,
-      "deaths": 2,
-      "recovered": 4,
-      "active": 165,
-      "growthFactor": 1
-    },
-    "6": {
-      "cases": 71,
-      "deaths": 0,
-      "recovered": 8,
-      "active": 63,
-      "growthFactor": 1
-    },
-    "7": {
-      "cases": 68,
-      "deaths": 0,
-      "recovered": 8,
-      "active": 60,
-      "growthFactor": 1
-    },
-    "8": {
-      "cases": 7,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "9": {
-      "cases": 28,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 27,
-      "growthFactor": 1
-    },
-    "10": {
-      "cases": 7272,
-      "deaths": 17,
-      "recovered": 67,
-      "active": 7188,
-      "growthFactor": 1
-    },
-    "11": {
-      "cases": 277,
-      "deaths": 0,
-      "recovered": 10,
-      "active": 267,
-      "growthFactor": 1
-    },
-    "12": {
-      "cases": 98,
-      "deaths": 0,
-      "recovered": 23,
-      "active": 75,
-      "growthFactor": 1
-    },
-    "13": {
-      "cases": 142,
-      "deaths": 12,
-      "recovered": 2,
-      "active": 128,
-      "growthFactor": 1
-    },
-    "14": {
-      "cases": 119,
-      "deaths": 2,
-      "recovered": 13,
-      "active": 104,
-      "growthFactor": 1
-    },
-    "15": {
-      "cases": 27980,
-      "deaths": 2158,
-      "recovered": 2749,
-      "active": 23073,
-      "growthFactor": 1
-    },
-    "16": {
-      "cases": 1103,
-      "deaths": 6,
-      "recovered": 1,
-      "active": 1096,
-      "growthFactor": 1
-    },
-    "17": {
-      "cases": 9191,
-      "deaths": 309,
-      "recovered": 2,
-      "active": 8880,
-      "growthFactor": 1
-    },
-    "18": {
-      "cases": 29,
-      "deaths": 0,
-      "recovered": 3,
-      "active": 26,
-      "growthFactor": 1
-    },
-    "19": {
-      "cases": 1058,
-      "deaths": 5,
-      "recovered": 1,
-      "active": 1052,
-      "growthFactor": 1
-    },
-    "20": {
-      "cases": 150,
-      "deaths": 2,
-      "recovered": 27,
-      "active": 121,
-      "growthFactor": 1
-    },
-    "21": {
-      "cases": 99,
-      "deaths": 3,
-      "recovered": 1,
-      "active": 95,
-      "growthFactor": 1
-    },
-    "22": {
-      "cases": 124,
-      "deaths": 10,
-      "recovered": 26,
-      "active": 88,
-      "growthFactor": 1
-    },
-    "23": {
-      "cases": 22,
-      "deaths": 0,
-      "recovered": 9,
-      "active": 13,
-      "growthFactor": 1
-    },
-    "24": {
-      "cases": 21,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "25": {
-      "cases": 214,
-      "deaths": 1,
-      "recovered": 77,
-      "active": 136,
-      "growthFactor": 1
-    },
-    "26": {
-      "cases": 123,
-      "deaths": 0,
-      "recovered": 9,
-      "active": 114,
-      "growthFactor": 1
-    },
-    "27": {
-      "cases": 54,
-      "deaths": 4,
-      "recovered": 12,
-      "active": 38,
-      "growthFactor": 1
-    },
-    "28": {
-      "cases": 57,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 55,
-      "growthFactor": 1
-    },
-    "29": {
-      "cases": 2200,
-      "deaths": 14,
-      "recovered": 4,
-      "active": 2182,
-      "growthFactor": 1
-    },
-    "30": {
-      "cases": 1018,
-      "deaths": 3,
-      "recovered": 6,
-      "active": 1009,
-      "growthFactor": 1
-    },
-    "31": {
-      "cases": 255,
-      "deaths": 0,
-      "recovered": 4,
-      "active": 251,
-      "growthFactor": 1
-    },
-    "32": {
-      "cases": 136,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 134,
-      "growthFactor": 1
-    },
-    "33": {
-      "cases": 200,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 199,
-      "growthFactor": 1
-    },
-    "34": {
-      "cases": 33,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 32,
-      "growthFactor": 1
-    },
-    "35": {
-      "cases": 331,
-      "deaths": 4,
-      "recovered": 8,
-      "active": 319,
-      "growthFactor": 1
-    },
-    "36": {
-      "cases": 18,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "37": {
-      "cases": 1333,
-      "deaths": 3,
-      "recovered": 1,
-      "active": 1329,
-      "growthFactor": 1
-    },
-    "38": {
-      "cases": 158,
-      "deaths": 0,
-      "recovered": 9,
-      "active": 149,
-      "growthFactor": 1
-    },
-    "39": {
-      "cases": 205,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 204,
-      "growthFactor": 1
-    },
-    "41": {
-      "cases": 109,
-      "deaths": 7,
-      "recovered": 4,
-      "active": 98,
-      "growthFactor": 1
-    },
-    "42": {
-      "cases": 36,
-      "deaths": 0,
-      "recovered": 3,
-      "active": 33,
-      "growthFactor": 1
-    },
-    "43": {
-      "cases": 180,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 180,
-      "growthFactor": 1
-    },
-    "44": {
-      "cases": 17,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 16,
-      "growthFactor": 1
-    },
-    "45": {
-      "cases": 53,
-      "deaths": 0,
-      "recovered": 4,
-      "active": 49,
-      "growthFactor": 1
-    },
-    "46": {
-      "cases": 8,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "47": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "48": {
-      "cases": 28,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 27,
-      "growthFactor": 1
-    },
-    "49": {
-      "cases": 169,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 167,
-      "growthFactor": 1
-    },
-    "50": {
-      "cases": 77,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 76,
-      "growthFactor": 1
-    },
-    "51": {
-      "cases": 7,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "52": {
-      "cases": 439,
-      "deaths": 0,
-      "recovered": 4,
-      "active": 435,
-      "growthFactor": 1
-    },
-    "53": {
-      "cases": 37,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 35,
-      "growthFactor": 1
-    },
-    "54": {
-      "cases": 15,
-      "deaths": 1,
-      "recovered": 6,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "55": {
-      "cases": 52,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 52,
-      "growthFactor": 1
-    },
-    "56": {
-      "cases": 11,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "57": {
-      "cases": 134,
-      "deaths": 5,
-      "recovered": 8,
-      "active": 121,
-      "growthFactor": 1
-    },
-    "58": {
-      "cases": 331,
-      "deaths": 0,
-      "recovered": 3,
-      "active": 328,
-      "growthFactor": 1
-    },
-    "59": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "60": {
-      "cases": 7,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "61": {
-      "cases": 34,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 33,
-      "growthFactor": 1
-    },
-    "62": {
-      "cases": 29,
-      "deaths": 1,
-      "recovered": 1,
-      "active": 27,
-      "growthFactor": 1
-    },
-    "63": {
-      "cases": 118,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 116,
-      "growthFactor": 1
-    },
-    "64": {
-      "cases": 24,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 22,
-      "growthFactor": 1
-    },
-    "65": {
-      "cases": 56,
-      "deaths": 2,
-      "recovered": 1,
-      "active": 53,
-      "growthFactor": 1
-    },
-    "66": {
-      "cases": 155,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 155,
-      "growthFactor": 1
-    },
-    "67": {
-      "cases": 17,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 16,
-      "growthFactor": 1
-    },
-    "68": {
-      "cases": 7,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "69": {
-      "cases": 39,
-      "deaths": 1,
-      "recovered": 1,
-      "active": 37,
-      "growthFactor": 1
-    },
-    "70": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "71": {
-      "cases": 4,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "72": {
-      "cases": 177,
-      "deaths": 4,
-      "recovered": 13,
-      "active": 160,
-      "growthFactor": 1
-    },
-    "73": {
-      "cases": 20,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "74": {
-      "cases": 25,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 25,
-      "growthFactor": 1
-    },
-    "75": {
-      "cases": 253,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 252,
-      "growthFactor": 1
-    },
-    "76": {
-      "cases": 62,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 62,
-      "growthFactor": 1
-    },
-    "77": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "78": {
-      "cases": 4,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "79": {
-      "cases": 54,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 54,
-      "growthFactor": 1
-    },
-    "80": {
-      "cases": 35,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 35,
-      "growthFactor": 1
-    },
-    "81": {
-      "cases": 86,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 86,
-      "growthFactor": 1
-    },
-    "82": {
-      "cases": 55,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 54,
-      "growthFactor": 1
-    },
-    "83": {
-      "cases": 63,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 63,
-      "growthFactor": 1
-    },
-    "84": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "85": {
-      "cases": 11,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "86": {
-      "cases": 30,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 28,
-      "growthFactor": 1
-    },
-    "87": {
-      "cases": 15,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "88": {
-      "cases": 52,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 50,
-      "growthFactor": 1
-    },
-    "89": {
-      "cases": 13,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 13,
-      "growthFactor": 1
-    },
-    "90": {
-      "cases": 8,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "91": {
-      "cases": 8,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "92": {
-      "cases": 51,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 50,
-      "growthFactor": 1
-    },
-    "93": {
-      "cases": 33,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 33,
-      "growthFactor": 1
-    },
-    "94": {
-      "cases": 54,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 54,
-      "growthFactor": 1
-    },
-    "95": {
-      "cases": 904,
-      "deaths": 48,
-      "active": 856,
-      "growthFactor": 1
-    },
-    "96": {
-      "cases": 950,
-      "active": 950,
-      "growthFactor": 1
-    },
-    "97": {
-      "cases": 557,
-      "deaths": 7,
-      "recovered": 6,
-      "active": 544,
-      "growthFactor": 1
-    },
-    "98": {
-      "cases": 197,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 196,
-      "growthFactor": 1
-    },
-    "99": {
-      "cases": 121,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 120,
-      "growthFactor": 1
-    },
-    "100": {
-      "cases": 160,
-      "active": 160,
-      "tested": 1216,
-      "growthFactor": 1
-    },
-    "101": {
-      "cases": 155,
-      "deaths": 5,
-      "recovered": 0,
-      "active": 150,
-      "growthFactor": 1
-    },
-    "102": {
-      "cases": 176,
-      "active": 176,
-      "tested": 220,
-      "growthFactor": 1
-    },
-    "103": {
-      "cases": 39,
-      "active": 39,
-      "growthFactor": 1
-    },
-    "104": {
-      "cases": 55,
-      "active": 55,
-      "growthFactor": 1
-    },
-    "105": {
-      "cases": 105,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 103,
-      "growthFactor": 1
-    },
-    "106": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "107": {
-      "cases": 22,
-      "active": 22,
-      "growthFactor": 1
-    },
-    "108": {
-      "cases": 41,
-      "deaths": 0,
-      "recovered": 3,
-      "active": 38,
-      "growthFactor": 1
-    },
-    "109": {
-      "cases": 33,
-      "active": 33,
-      "growthFactor": 1
-    },
-    "110": {
-      "cases": 33,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 32,
-      "growthFactor": 1
-    },
-    "111": {
-      "cases": 52,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 52,
-      "growthFactor": 1
-    },
-    "112": {
-      "cases": 49,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 48,
-      "growthFactor": 1
-    },
-    "113": {
-      "cases": 18,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "114": {
-      "cases": 25,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 24,
-      "growthFactor": 1
-    },
-    "115": {
-      "cases": 21,
-      "deaths": 1,
-      "recovered": 1,
-      "active": 19,
-      "growthFactor": 1
-    },
-    "116": {
-      "cases": 17,
-      "active": 17,
-      "tested": 120,
-      "growthFactor": 1
-    },
-    "117": {
-      "cases": 45,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 44,
-      "growthFactor": 1
-    },
-    "118": {
-      "cases": 17,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "119": {
-      "cases": 54,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 54,
-      "growthFactor": 1
-    },
-    "120": {
-      "cases": 18,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 18,
-      "growthFactor": 1
-    },
-    "121": {
-      "cases": 50,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 50,
-      "growthFactor": 1
-    },
-    "122": {
-      "cases": 21,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 21,
-      "growthFactor": 1
-    },
-    "123": {
-      "cases": 47,
-      "active": 47,
-      "tested": 551,
-      "growthFactor": 1
-    },
-    "124": {
-      "cases": 30,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 30,
-      "growthFactor": 1
-    },
-    "125": {
-      "cases": 7,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "126": {
-      "cases": 10,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "127": {
-      "cases": 39,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 39,
-      "growthFactor": 1
-    },
-    "128": {
-      "cases": 15,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "129": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "130": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "131": {
-      "cases": 55,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 54,
-      "growthFactor": 1
-    },
-    "132": {
-      "cases": 11,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "133": {
-      "cases": 136,
-      "active": 136,
-      "growthFactor": 1
-    },
-    "134": {
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "135": {
-      "cases": 12,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "136": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "137": {
-      "cases": 22,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 22,
-      "growthFactor": 1
-    },
-    "138": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "139": {
-      "cases": 5,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "140": {
-      "cases": 17,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "141": {
-      "cases": 53,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 53,
-      "growthFactor": 1
-    },
-    "142": {
-      "cases": 24,
-      "active": 24,
-      "growthFactor": 1
-    },
-    "143": {
-      "cases": 7,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "144": {
-      "cases": 17,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "145": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "146": {
-      "cases": 10,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "147": {
-      "cases": 0,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "148": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "149": {
-      "cases": 67798,
-      "deaths": 3099,
-      "recovered": 55142,
-      "active": 9557,
-      "growthFactor": 1
-    },
-    "150": {
-      "cases": 14991,
-      "deaths": 853,
-      "recovered": 4590,
-      "active": 9548,
-      "growthFactor": 1
-    },
-    "151": {
-      "cases": 8236,
-      "deaths": 75,
-      "recovered": 1137,
-      "active": 7024,
-      "growthFactor": 1
-    },
-    "152": {
-      "cases": 6633,
-      "active": 6633,
-      "growthFactor": 1
-    },
-    "153": {
-      "cases": 1361,
-      "deaths": 8,
-      "recovered": 1306,
-      "active": 47,
-      "growthFactor": 1
-    },
-    "154": {
-      "cases": 1273,
-      "deaths": 22,
-      "recovered": 1250,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "155": {
-      "cases": 1231,
-      "deaths": 1,
-      "recovered": 1216,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "156": {
-      "cases": 1018,
-      "deaths": 4,
-      "recovered": 1014,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "157": {
-      "cases": 990,
-      "deaths": 6,
-      "recovered": 984,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "158": {
-      "cases": 935,
-      "deaths": 1,
-      "recovered": 934,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "159": {
-      "cases": 760,
-      "deaths": 7,
-      "recovered": 746,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "160": {
-      "cases": 631,
-      "deaths": 0,
-      "recovered": 631,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "161": {
-      "cases": 576,
-      "deaths": 6,
-      "recovered": 570,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "162": {
-      "cases": 539,
-      "deaths": 3,
-      "recovered": 516,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "163": {
-      "cases": 482,
-      "deaths": 13,
-      "recovered": 455,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "164": {
-      "cases": 452,
-      "deaths": 8,
-      "recovered": 360,
-      "active": 84,
-      "growthFactor": 1
-    },
-    "165": {
-      "cases": 355,
-      "deaths": 3,
-      "recovered": 325,
-      "active": 27,
-      "growthFactor": 1
-    },
-    "166": {
-      "cases": 318,
-      "deaths": 6,
-      "recovered": 310,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "167": {
-      "cases": 296,
-      "deaths": 1,
-      "recovered": 295,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "168": {
-      "cases": 252,
-      "deaths": 2,
-      "recovered": 248,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "169": {
-      "cases": 245,
-      "deaths": 2,
-      "recovered": 233,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "170": {
-      "cases": 176,
-      "deaths": 2,
-      "recovered": 172,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "171": {
-      "cases": 168,
-      "deaths": 6,
-      "recovered": 161,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "172": {
-      "cases": 146,
-      "deaths": 2,
-      "recovered": 144,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "173": {
-      "cases": 136,
-      "deaths": 3,
-      "recovered": 133,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "174": {
-      "cases": 133,
-      "deaths": 0,
-      "recovered": 133,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "175": {
-      "cases": 133,
-      "deaths": 2,
-      "recovered": 91,
-      "active": 40,
-      "growthFactor": 1
-    },
-    "177": {
-      "cases": 125,
-      "deaths": 1,
-      "recovered": 115,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "178": {
-      "cases": 93,
-      "deaths": 1,
-      "recovered": 92,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "179": {
-      "cases": 298,
-      "deaths": 0,
-      "recovered": 3,
-      "active": 295,
-      "growthFactor": 1
-    },
-    "180": {
-      "cases": 76,
-      "deaths": 3,
-      "recovered": 73,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "181": {
-      "cases": 75,
-      "deaths": 1,
-      "recovered": 73,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "182": {
-      "cases": 75,
-      "deaths": 0,
-      "recovered": 75,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "183": {
-      "cases": 67,
-      "deaths": 1,
-      "recovered": 20,
-      "active": 46,
-      "growthFactor": 1
-    },
-    "184": {
-      "cases": 61,
-      "deaths": 0,
-      "recovered": 16,
-      "active": 45,
-      "growthFactor": 1
-    },
-    "185": {
-      "cases": 90,
-      "deaths": 0,
-      "recovered": 8,
-      "active": 82,
-      "growthFactor": 1
-    },
-    "186": {
-      "cases": 18,
-      "deaths": 0,
-      "recovered": 18,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "187": {
-      "cases": 11,
-      "deaths": 0,
-      "recovered": 10,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "188": {
-      "cases": 23,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 23,
-      "growthFactor": 1
-    },
-    "189": {
-      "cases": 11,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "190": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "191": {
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "192": {
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "193": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "194": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "195": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "196": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "197": {
-      "cases": 10,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "198": {
-      "cases": 9,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "199": {
-      "cases": 18,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 18,
-      "growthFactor": 1
-    },
-    "200": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "201": {
-      "cases": 7,
-      "deaths": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "202": {
-      "cases": 9,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "203": {
-      "cases": 9,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "205": {
-      "cases": 4,
-      "active": 4,
-      "tested": 149,
-      "growthFactor": 1
-    },
-    "211": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "212": {
-      "cases": 14,
-      "active": 14,
-      "tested": 19,
-      "growthFactor": 1
-    },
-    "213": {
-      "cases": 5,
-      "active": 5,
-      "tested": 8,
-      "growthFactor": 1
-    },
-    "214": {
-      "cases": 3,
-      "active": 3,
-      "tested": 6,
-      "growthFactor": 1
-    },
-    "215": {
-      "cases": 8,
-      "active": 8,
-      "tested": 10,
-      "growthFactor": 1
-    },
-    "216": {
-      "cases": 8,
-      "active": 8,
-      "tested": 13,
-      "growthFactor": 1
-    },
-    "228": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "229": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "232": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "234": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "235": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "236": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "237": {
-      "cases": 24,
-      "active": 24,
-      "growthFactor": 1
-    },
-    "243": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "246": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "249": {
-      "cases": 15,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "251": {
-      "cases": 25,
-      "active": 25,
-      "growthFactor": 1
-    },
-    "252": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "253": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "254": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "255": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "256": {
-      "cases": 19,
-      "active": 19,
-      "tested": 25,
-      "growthFactor": 1
-    },
-    "258": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "260": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "263": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "264": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "266": {
-      "cases": 63,
-      "active": 63,
-      "growthFactor": 1
-    },
-    "267": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "273": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "277": {
-      "cases": 16,
-      "active": 16,
-      "growthFactor": 1
-    },
-    "278": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "280": {
-      "cases": 4,
-      "deaths": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "282": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "285": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "286": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "287": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "288": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "289": {
-      "cases": 38,
-      "deaths": 0,
-      "active": 38,
-      "growthFactor": 1
-    },
-    "293": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "297": {
-      "cases": 7,
-      "deaths": 1,
-      "active": 6,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "299": {
-      "cases": 109,
-      "active": 109,
-      "growthFactor": 1
-    },
-    "303": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "304": {
-      "cases": 138,
-      "deaths": 2,
-      "active": 136,
-      "growthFactor": 1
-    },
-    "306": {
-      "cases": 9,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "307": {
-      "cases": 3,
-      "deaths": 1,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "309": {
-      "cases": 18,
-      "active": 18,
-      "growthFactor": 1
-    },
-    "310": {
-      "cases": 463,
-      "active": 463,
-      "growthFactor": 1
-    },
-    "311": {
-      "cases": 15,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "315": {
-      "cases": 61,
-      "active": 61,
-      "tested": 68,
-      "growthFactor": 1
-    },
-    "316": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "317": {
-      "cases": 40,
-      "deaths": 0,
-      "active": 40,
-      "growthFactor": 1
-    },
-    "318": {
-      "cases": 34,
-      "deaths": 0,
-      "active": 34,
-      "growthFactor": 1
-    },
-    "319": {
-      "cases": 17,
-      "deaths": 0,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "322": {
-      "cases": 14,
-      "deaths": 0,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "323": {
-      "cases": 220,
-      "active": 220,
-      "growthFactor": 1
-    },
-    "326": {
-      "cases": 8,
-      "deaths": 1,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "327": {
-      "cases": 41,
-      "deaths": 1,
-      "active": 40,
-      "growthFactor": 1
-    },
-    "328": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "329": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "331": {
-      "cases": 13,
-      "active": 13,
-      "growthFactor": 1
-    },
-    "332": {
-      "cases": 200,
-      "deaths": 4,
-      "active": 196,
-      "growthFactor": 1
-    },
-    "334": {
-      "cases": 33,
-      "deaths": 2,
-      "active": 31,
-      "growthFactor": 1
-    },
-    "335": {
-      "cases": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "336": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 2,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "337": {
-      "cases": 94,
-      "deaths": 1,
-      "active": 93,
-      "growthFactor": 1
-    },
-    "338": {
-      "cases": 488,
-      "deaths": 43,
-      "active": 445,
-      "growthFactor": 1
-    },
-    "340": {
-      "cases": 7,
-      "deaths": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "341": {
-      "cases": 4,
-      "deaths": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "342": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "343": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "344": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "345": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "353": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "354": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "355": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "356": {
-      "cases": 17,
-      "active": 17,
-      "tested": 21,
-      "growthFactor": 1
-    },
-    "358": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "359": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "360": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "366": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "367": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "368": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "369": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "371": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "374": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "375": {
-      "cases": 29,
-      "active": 29,
-      "growthFactor": 1
-    },
-    "376": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "378": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "379": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "380": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "381": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "382": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "383": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "389": {
-      "cases": 176,
-      "deaths": 4,
-      "recovered": 7,
-      "active": 165,
-      "growthFactor": 1
-    },
-    "390": {
-      "cases": 12,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "391": {
-      "cases": 241,
-      "deaths": 6,
-      "recovered": 0,
-      "active": 235,
-      "growthFactor": 1
-    },
-    "392": {
-      "cases": 89,
-      "deaths": 1,
-      "recovered": 1,
-      "active": 87,
-      "growthFactor": 1
-    },
-    "393": {
-      "cases": 400,
-      "deaths": 9,
-      "recovered": 28,
-      "active": 363,
-      "growthFactor": 1
-    },
-    "394": {
-      "cases": 3522,
-      "deaths": 346,
-      "recovered": 88,
-      "active": 3088,
-      "growthFactor": 1
-    },
-    "395": {
-      "cases": 386,
-      "deaths": 22,
-      "recovered": 18,
-      "active": 346,
-      "growthFactor": 1
-    },
-    "396": {
-      "cases": 523,
-      "deaths": 19,
-      "recovered": 32,
-      "active": 472,
-      "growthFactor": 1
-    },
-    "397": {
-      "cases": 667,
-      "deaths": 50,
-      "recovered": 42,
-      "active": 575,
-      "growthFactor": 1
-    },
-    "398": {
-      "cases": 14649,
-      "deaths": 1420,
-      "recovered": 2368,
-      "active": 10861,
-      "growthFactor": 1
-    },
-    "399": {
-      "cases": 1242,
-      "deaths": 57,
-      "recovered": 0,
-      "active": 1185,
-      "growthFactor": 1
-    },
-    "400": {
-      "cases": 21,
-      "deaths": 1,
-      "recovered": 5,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "401": {
-      "cases": 1516,
-      "deaths": 111,
-      "recovered": 0,
-      "active": 1405,
-      "growthFactor": 1
-    },
-    "402": {
-      "cases": 230,
-      "deaths": 16,
-      "recovered": 2,
-      "active": 212,
-      "growthFactor": 1
-    },
-    "403": {
-      "cases": 107,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 105,
-      "growthFactor": 1
-    },
-    "404": {
-      "cases": 213,
-      "deaths": 2,
-      "recovered": 8,
-      "active": 203,
-      "growthFactor": 1
-    },
-    "405": {
-      "cases": 866,
-      "deaths": 14,
-      "recovered": 11,
-      "active": 841,
-      "growthFactor": 1
-    },
-    "406": {
-      "cases": 378,
-      "deaths": 6,
-      "recovered": 5,
-      "active": 367,
-      "growthFactor": 1
-    },
-    "407": {
-      "cases": 164,
-      "deaths": 1,
-      "recovered": 4,
-      "active": 159,
-      "growthFactor": 1
-    },
-    "408": {
-      "cases": 105,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 103,
-      "growthFactor": 1
-    },
-    "409": {
-      "cases": 2473,
-      "deaths": 69,
-      "recovered": 130,
-      "active": 2274,
-      "growthFactor": 1
-    },
-    "410": {
-      "cases": 270,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 269,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "411": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "412": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "413": {
-      "cases": 18,
-      "deaths": 0,
-      "active": 18,
-      "growthFactor": 1
-    },
-    "414": {
-      "cases": 16,
-      "deaths": 0,
-      "active": 16,
-      "growthFactor": 1
-    },
-    "415": {
-      "cases": 11,
-      "deaths": 0,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "416": {
-      "cases": 9,
-      "deaths": 0,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "417": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "418": {
-      "cases": 1762,
-      "deaths": 0,
-      "active": 1762,
-      "growthFactor": 1
-    },
-    "419": {
-      "cases": 90,
-      "deaths": 0,
-      "active": 90,
-      "growthFactor": 1
-    },
-    "420": {
-      "cases": 507,
-      "deaths": 0,
-      "active": 507,
-      "growthFactor": 1
-    },
-    "421": {
-      "cases": 156,
-      "deaths": 0,
-      "active": 156,
-      "growthFactor": 1
-    },
-    "422": {
-      "cases": 585,
-      "deaths": 0,
-      "active": 585,
-      "growthFactor": 1
-    },
-    "423": {
-      "cases": 1543,
-      "deaths": 0,
-      "active": 1543,
-      "growthFactor": 1
-    },
-    "424": {
-      "cases": 108,
-      "deaths": 0,
-      "active": 108,
-      "growthFactor": 1
-    },
-    "425": {
-      "cases": 233,
-      "deaths": 0,
-      "active": 233,
-      "growthFactor": 1
-    },
-    "426": {
-      "cases": 178,
-      "deaths": 0,
-      "active": 178,
-      "growthFactor": 1
-    },
-    "427": {
-      "cases": 262,
-      "deaths": 0,
-      "active": 262,
-      "growthFactor": 1
-    },
-    "428": {
-      "cases": 618,
-      "deaths": 0,
-      "active": 618,
-      "growthFactor": 1
-    },
-    "429": {
-      "cases": 405,
-      "deaths": 0,
-      "active": 405,
-      "growthFactor": 1
-    },
-    "430": {
-      "cases": 126,
-      "deaths": 0,
-      "active": 126,
-      "growthFactor": 1
-    },
-    "431": {
-      "cases": 4,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "432": {
-      "cases": 4,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "433": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "434": {
-      "cases": 1543,
-      "deaths": 55,
-      "recovered": 20,
-      "active": 1468,
-      "growthFactor": 1
-    },
-    "435": {
-      "cases": 10,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "436": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "437": {
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "438": {
-      "cases": 5,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "439": {
-      "cases": 1,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": 1
-    },
-    "440": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "441": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "442": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "443": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "444": {
-      "cases": 29,
-      "active": 29,
-      "growthFactor": 1
-    },
-    "445": {
-      "cases": 8,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "446": {
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "447": {
-      "cases": 5,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "448": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "449": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "450": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "451": {
-      "cases": 4,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "452": {
-      "cases": 17,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "453": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "454": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "455": {
-      "cases": 2,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "456": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "457": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "458": {
-      "cases": 5,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "459": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "460": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "461": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "462": {
-      "cases": 0,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "463": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "464": {
-      "cases": 2,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "465": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "466": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "467": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "468": {
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "469": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "470": {
-      "cases": 3,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "471": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "472": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "473": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "474": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "475": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "476": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "477": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "478": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "479": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "480": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "481": {
-      "cases": 21,
-      "deaths": 0,
-      "active": 21,
-      "growthFactor": 1
-    },
-    "482": {
-      "cases": 94,
-      "deaths": 0,
-      "active": 94,
-      "growthFactor": 1
-    },
-    "483": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "484": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "485": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "486": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "487": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "488": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "489": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "490": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "491": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "492": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "493": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "494": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "495": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "496": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "497": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "498": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "499": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "500": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "501": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "502": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "503": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "504": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "505": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "506": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "507": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "508": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "509": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "510": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "511": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "512": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "513": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "514": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "515": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "516": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "517": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "518": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "519": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "520": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "521": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "522": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "523": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "524": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "525": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "526": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "527": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "528": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "529": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "530": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "531": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "532": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "533": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "534": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "535": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "536": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "537": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "538": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "539": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "540": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "541": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "542": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "543": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "tested": 0,
-      "growthFactor": 1
-    },
-    "544": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "545": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "546": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "547": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "548": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "549": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "550": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "551": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "552": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "553": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "554": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "555": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "556": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "557": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "558": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "559": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "560": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "561": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "562": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "563": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "564": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "565": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "566": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "567": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "568": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "569": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "570": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "571": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "572": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "573": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "574": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "575": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "576": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "577": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "578": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "579": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "580": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "581": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "582": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "583": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "584": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "585": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "586": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "587": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "588": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "589": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "590": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "591": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "592": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "593": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "594": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "595": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "596": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "597": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "598": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "599": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "600": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "601": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "602": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "603": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "604": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "605": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "606": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "607": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "608": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "609": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "610": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "611": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "612": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "613": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "614": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "615": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "616": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "617": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "618": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "619": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "620": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "621": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "622": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "623": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "624": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "625": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "626": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "627": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "628": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "629": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "630": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "631": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "632": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "633": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "634": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "635": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "636": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "637": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "638": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "639": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "640": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "641": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "642": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "643": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "644": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "645": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "646": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "647": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "648": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "649": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "650": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "651": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "652": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "653": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "654": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "655": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "656": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "657": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "658": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "659": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "660": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "661": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "662": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "663": {
-      "cases": 4,
-      "deaths": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "664": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "665": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "666": {
-      "cases": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "667": {
-      "cases": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "668": {
-      "cases": 0,
-      "active": 0,
-      "tested": 1,
-      "growthFactor": null
-    },
-    "669": {
-      "cases": 20,
-      "active": 20,
-      "tested": 24,
-      "growthFactor": 1
-    },
-    "670": {
-      "cases": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "671": {
-      "cases": 1,
-      "active": 1,
-      "tested": 2,
-      "growthFactor": 1
-    },
-    "672": {
-      "cases": 6,
-      "active": 6,
-      "tested": 6,
-      "growthFactor": 1
-    },
-    "673": {
-      "cases": 3,
-      "active": 3,
-      "tested": 4,
-      "growthFactor": 1
-    },
-    "674": {
-      "cases": 0,
-      "active": 0,
-      "tested": 0,
-      "growthFactor": null
-    },
-    "675": {
-      "cases": 5,
-      "active": 5,
-      "tested": 5,
-      "growthFactor": 1
-    },
-    "676": {
-      "cases": 0,
-      "active": 0,
-      "tested": 1,
-      "growthFactor": null
-    },
-    "677": {
-      "cases": 0,
-      "active": 0,
-      "tested": 1,
-      "growthFactor": null
-    },
-    "678": {
-      "cases": 6,
-      "active": 6,
-      "tested": 6,
-      "growthFactor": 1
-    },
-    "679": {
-      "cases": 73,
-      "active": 73,
-      "growthFactor": 1
-    },
-    "680": {
-      "cases": 56,
-      "active": 56,
-      "growthFactor": 1
-    },
-    "681": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "682": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "683": {
-      "cases": 145,
-      "active": 145,
-      "growthFactor": 1
-    },
-    "684": {
-      "cases": 39,
-      "active": 39,
-      "growthFactor": 1
-    },
-    "685": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "686": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "687": {
-      "cases": 17,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "688": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "689": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "690": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "691": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "692": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "693": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "694": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "695": {
-      "cases": 6,
-      "deaths": 0,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "696": {
-      "cases": 2,
-      "deaths": 0,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "697": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "698": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "699": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "700": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "710": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "711": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "712": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "713": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "714": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "715": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "716": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "717": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "718": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "719": {
-      "cases": 7,
-      "deaths": 0,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "720": {
-      "cases": 4,
-      "deaths": 0,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "721": {
-      "cases": 126,
-      "deaths": 0,
-      "active": 126,
-      "growthFactor": 1
-    },
-    "722": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "723": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "729": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "730": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "731": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "732": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "733": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "734": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "735": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "736": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "737": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "738": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "739": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "740": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "741": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "742": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "743": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "744": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "745": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "746": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "747": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "748": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "749": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "750": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "751": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "752": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "753": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "754": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "755": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "756": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "757": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "758": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "759": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "760": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "761": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "762": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "763": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "764": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "765": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "766": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "767": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "768": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "769": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "770": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "771": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "772": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "773": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "774": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "775": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "776": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "777": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "778": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "779": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "780": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "781": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "782": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "783": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "784": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "785": {
-      "cases": 0,
-      "deaths": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "786": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "787": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "788": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "789": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "790": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "791": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "792": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "795": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "796": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "797": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "798": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "799": {
-      "cases": 3,
-      "deaths": 0,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "800": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "801": {
-      "cases": 13,
-      "active": 13,
-      "growthFactor": 1
-    },
-    "802": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "803": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "804": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "805": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "806": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "807": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "808": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "809": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "810": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "811": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "812": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "813": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "814": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "815": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "816": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "817": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "824": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "825": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "826": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "827": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "828": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "829": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "830": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "831": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "832": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "833": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "834": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "835": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "836": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "837": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "838": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "839": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "840": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "841": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "842": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "843": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "844": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "845": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "850": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "851": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "854": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "855": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "856": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "857": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "858": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "859": {
-      "cases": 9,
-      "active": 9,
-      "growthFactor": 1
-    },
-    "860": {
-      "cases": 0,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "861": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "862": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "863": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "866": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "867": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "868": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "869": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "870": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "871": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "872": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "873": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "874": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "875": {
-      "cases": 25,
-      "active": 25,
-      "growthFactor": 1
-    },
-    "876": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "877": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "878": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "879": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "880": {
-      "cases": 15,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "881": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "882": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "883": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "884": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "885": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "886": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "887": {
-      "cases": 20,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "888": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "889": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "890": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "891": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "892": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "893": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "894": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "895": {
-      "cases": 22,
-      "active": 22,
-      "growthFactor": 1
-    },
-    "896": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "897": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "898": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "899": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "900": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "901": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "902": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "903": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "904": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "905": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "906": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "907": {
-      "cases": 20,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "908": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "909": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "910": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "911": {
-      "cases": 18,
-      "active": 18,
-      "growthFactor": 1
-    },
-    "912": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "913": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "914": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "915": {
-      "cases": 20,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "916": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "917": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "918": {
-      "cases": 18,
-      "active": 18,
-      "growthFactor": 1
-    },
-    "919": {
-      "cases": 20,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "920": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "921": {
-      "cases": 21,
-      "active": 21,
-      "growthFactor": 1
-    },
-    "922": {
-      "cases": 55,
-      "active": 55,
-      "growthFactor": 1
-    },
-    "923": {
-      "cases": 16,
-      "active": 16,
-      "growthFactor": 1
-    },
-    "924": {
-      "cases": 14,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "925": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "926": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "927": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "928": {
-      "cases": 29,
-      "active": 29,
-      "growthFactor": 1
-    },
-    "929": {
-      "cases": 13,
-      "active": 13,
-      "growthFactor": 1
-    },
-    "930": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "931": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "932": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "933": {
-      "cases": 43,
-      "active": 43,
-      "growthFactor": 1
-    },
-    "934": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "935": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "936": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "937": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "938": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "939": {
-      "cases": 26,
-      "active": 26,
-      "growthFactor": 1
-    },
-    "940": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "941": {
-      "cases": 14,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "942": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "943": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "944": {
-      "cases": 17,
-      "active": 17,
-      "growthFactor": 1
-    },
-    "945": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "946": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "947": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "948": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "949": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "950": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "951": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "952": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "953": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "954": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "955": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "956": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "957": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "958": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "959": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "960": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "961": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "962": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "963": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "964": {
-      "cases": 14,
-      "active": 14,
-      "growthFactor": 1
-    },
-    "965": {
-      "cases": 10,
-      "active": 10,
-      "growthFactor": 1
-    },
-    "966": {
-      "cases": 23,
-      "active": 23,
-      "growthFactor": 1
-    },
-    "967": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "968": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "969": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "970": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "971": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "972": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "973": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "974": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "975": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "976": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "977": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "978": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "979": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "980": {
-      "cases": 15,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "981": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "982": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "983": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "984": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "985": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "986": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "987": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "988": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "989": {
-      "cases": 33,
-      "active": 33,
-      "growthFactor": 1
-    },
-    "990": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "991": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "992": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "993": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "994": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "995": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "996": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "997": {
-      "cases": 25,
-      "active": 25,
-      "growthFactor": 1
-    },
-    "998": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "999": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1000": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1001": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1002": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1003": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "1004": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "1005": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "1006": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1007": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "1008": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1009": {
-      "cases": 20,
-      "active": 20,
-      "growthFactor": 1
-    },
-    "1010": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1011": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1012": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1013": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1014": {
-      "cases": 37,
-      "active": 37,
-      "growthFactor": 1
-    },
-    "1015": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1016": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "1017": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "1018": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1019": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "1020": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "1021": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1022": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1023": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1024": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1025": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
-    },
-    "1026": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1027": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1028": {
-      "cases": 8,
-      "recovered": 0,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "1029": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1030": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1031": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1032": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1033": {
-      "cases": 0,
-      "recovered": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1034": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1035": {
-      "cases": 39,
-      "active": 39,
-      "growthFactor": 1
-    },
-    "1036": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1037": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1038": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1039": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "1040": {
-      "cases": 23,
-      "active": 23,
-      "growthFactor": 1
-    },
-    "1041": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1042": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1043": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1044": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1045": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1046": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1047": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1048": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1049": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1050": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1051": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "1052": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1053": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1054": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1055": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "1056": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
-    "1057": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1058": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "1059": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1060": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1061": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1062": {
-      "cases": 1,
-      "deaths": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1063": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1064": {
-      "cases": 0,
-      "active": 0,
-      "tested": 11,
-      "growthFactor": null
-    },
-    "1065": {
-      "cases": 0,
-      "active": 0,
-      "growthFactor": null
-    },
-    "1066": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1067": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1068": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1069": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 1
-    },
-    "1070": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
-    "1071": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1
-    },
-    "1072": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1073": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1074": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "1075": {
-      "cases": 30,
-      "active": 30,
-      "growthFactor": 1
-    },
-    "1076": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1077": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "1078": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1079": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1080": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1081": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1082": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1083": {
-      "cases": 554,
-      "deaths": 7,
-      "recovered": 0,
-      "active": 547,
-      "growthFactor": 1
-    },
-    "1084": {
-      "cases": 174,
-      "deaths": 11,
-      "recovered": 0,
-      "active": 163,
-      "growthFactor": 1
-    },
-    "1085": {
-      "cases": 177,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 176,
-      "growthFactor": 1
-    },
-    "1086": {
-      "cases": 73,
-      "deaths": 1,
-      "recovered": 1,
-      "active": 71,
-      "growthFactor": 1
-    },
-    "1087": {
-      "cases": 119,
-      "deaths": 1,
-      "recovered": 1,
-      "active": 117,
-      "growthFactor": 1
-    },
-    "1088": {
-      "cases": 58,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 58,
-      "growthFactor": 1
-    },
-    "1089": {
-      "cases": 334,
-      "deaths": 9,
-      "recovered": 0,
-      "active": 325,
-      "growthFactor": 1
-    },
-    "1090": {
-      "cases": 567,
-      "deaths": 17,
-      "recovered": 0,
-      "active": 550,
-      "growthFactor": 1
-    },
-    "1091": {
-      "cases": 903,
-      "deaths": 12,
-      "recovered": 0,
-      "active": 891,
-      "growthFactor": 1
-    },
-    "1092": {
-      "cases": 409,
-      "deaths": 5,
-      "recovered": 0,
-      "active": 404,
-      "growthFactor": 1
-    },
-    "1093": {
-      "cases": 111,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 109,
-      "growthFactor": 1
-    },
-    "1094": {
-      "cases": 245,
-      "deaths": 2,
-      "recovered": 0,
-      "active": 243,
-      "growthFactor": 1
-    },
-    "1095": {
-      "cases": 4165,
-      "deaths": 213,
-      "recovered": 0,
-      "active": 3952,
-      "growthFactor": 1
-    },
-    "1096": {
-      "cases": 77,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 77,
-      "growthFactor": 1
-    },
-    "1097": {
-      "cases": 274,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 273,
-      "growthFactor": 1
-    },
-    "1098": {
-      "cases": 630,
-      "deaths": 23,
-      "recovered": 0,
-      "active": 607,
-      "growthFactor": 1
-    },
-    "1099": {
-      "cases": 312,
-      "deaths": 4,
-      "recovered": 0,
-      "active": 308,
-      "growthFactor": 1
-    },
-    "1100": {
-      "cases": 1,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1101": {
-      "cases": 8,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 8,
-      "growthFactor": 1
-    },
-    "1102": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "1103": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
     "1104": {
-      "cases": 155,
-      "deaths": 4,
-      "recovered": 84,
-      "active": 67
+      "cases": 1,
+      "active": 1
+    },
+    "1105": {
+      "cases": 1,
+      "active": 1
     }
   }
 }

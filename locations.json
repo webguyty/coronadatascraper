@@ -230,9 +230,9 @@
     "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
     "timeseries": true,
     "rating": 0.53125,
-    "type": "csv",
     "featureId": 241,
     "population": 48958159,
+    "type": "csv",
     "name": "ESP"
   },
   {
@@ -1239,7 +1239,7 @@
       45.68986573358319,
       37.87138458300004
     ],
-    "featureId": 769,
+    "featureId": 770,
     "population": 7614893,
     "name": "WA, USA"
   },
@@ -1254,7 +1254,7 @@
       10.953043415920217,
       -3.095310059778787
     ],
-    "featureId": 750,
+    "featureId": 751,
     "population": 19453561,
     "name": "NY, USA"
   },
@@ -1355,7 +1355,7 @@
       -67.60700517144237,
       -18.613514702841258
     ],
-    "featureId": 635,
+    "featureId": 636,
     "population": 4217737,
     "name": "OR, USA"
   },
@@ -1371,7 +1371,7 @@
       -100.0884705015624,
       31.177528238191037
     ],
-    "featureId": 724,
+    "featureId": 725,
     "population": 28995881,
     "name": "TX, USA"
   },
@@ -1400,7 +1400,7 @@
       -57.22248977138129,
       -32.0391034891347
     ],
-    "featureId": 826,
+    "featureId": 827,
     "population": 12801989,
     "name": "PA, USA"
   },
@@ -1416,7 +1416,7 @@
       28.787421502350412,
       46.933647162536516
     ],
-    "featureId": 707,
+    "featureId": 708,
     "population": 3155070,
     "name": "IA, USA"
   },
@@ -1642,7 +1642,7 @@
       -6.855844692999938,
       57.796128648000064
     ],
-    "featureId": 811,
+    "featureId": 812,
     "population": 5822434,
     "name": "WI, USA"
   },
@@ -1779,7 +1779,7 @@
       106.13383655129704,
       10.715987449983892
     ],
-    "featureId": 699,
+    "featureId": 700,
     "population": 4648794,
     "name": "LA, USA"
   },
@@ -1850,7 +1850,7 @@
       -7.372542280711016,
       9.482044681239529
     ],
-    "featureId": 725,
+    "featureId": 726,
     "population": 973764,
     "name": "DE, USA"
   },
@@ -2714,7 +2714,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 758,
+    "featureId": 759,
     "population": 269805,
     "name": "Kitsap County, WA, USA"
   },
@@ -2729,7 +2729,7 @@
     "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
     "timeseries": true,
     "rating": 0.375,
-    "featureId": 776,
+    "featureId": 777,
     "population": 446610,
     "name": "Solano County, CA, USA"
   },
@@ -2744,7 +2744,7 @@
     "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
     "timeseries": true,
     "rating": 0.375,
-    "featureId": 774,
+    "featureId": 775,
     "population": 274255,
     "name": "Santa Cruz County, CA, USA"
   },
@@ -2773,7 +2773,7 @@
     "timeseries": true,
     "rating": 0.5,
     "type": "paragraph",
-    "featureId": 800,
+    "featureId": 801,
     "population": 850967,
     "name": "Ventura County, CA, USA"
   },
@@ -2855,7 +2855,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 716,
+    "featureId": 717,
     "population": 123707,
     "name": "Gregg County, TX, USA"
   },
@@ -3099,7 +3099,7 @@
     "url": "https://coronavirus.maryland.gov/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 880,
+    "featureId": 881,
     "population": 909308,
     "name": "Prince George's County, MD, USA"
   },
@@ -3116,7 +3116,7 @@
     "rating": 0.375,
     "type": "table",
     "headless": true,
-    "featureId": 706,
+    "featureId": 707,
     "population": 93533,
     "name": "Pottawattamie County, IA, USA"
   },
@@ -3203,7 +3203,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 801,
+    "featureId": 802,
     "population": 542364,
     "name": "Dane County, WI, USA"
   },
@@ -3219,7 +3219,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 805,
+    "featureId": 806,
     "population": 42555,
     "name": "Pierce County, WI, USA"
   },
@@ -3234,7 +3234,7 @@
     "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 841,
+    "featureId": 842,
     "population": 1243857,
     "name": "Cuyahoga County, OH, USA"
   },
@@ -3317,7 +3317,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 711,
+    "featureId": 712,
     "population": 1005146,
     "name": "Collin County, TX, USA"
   },
@@ -3358,7 +3358,7 @@
     "url": "https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 784,
+    "featureId": 785,
     "population": 180040,
     "name": "Shasta County, CA, USA"
   },
@@ -3401,7 +3401,7 @@
     "rating": 0.375,
     "type": "table",
     "headless": true,
-    "featureId": 704,
+    "featureId": 705,
     "population": 151260,
     "name": "Johnson County, IA, USA"
   },
@@ -3430,7 +3430,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 830,
+    "featureId": 831,
     "population": 692587,
     "name": "Davidson County, TN, USA"
   },
@@ -3446,7 +3446,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 625,
+    "featureId": 626,
     "population": 110283,
     "name": "Douglas County, OR, USA"
   },
@@ -3461,7 +3461,7 @@
     "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 781,
+    "featureId": 782,
     "population": 994400,
     "name": "Fresno County, CA, USA"
   },
@@ -3476,7 +3476,7 @@
     "url": "https://coronavirus.maryland.gov/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 878,
+    "featureId": 879,
     "population": 253956,
     "name": "Harford County, MD, USA"
   },
@@ -3538,7 +3538,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 759,
+    "featureId": 760,
     "population": 47364,
     "name": "Kittitas County, WA, USA"
   },
@@ -3568,7 +3568,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 629,
+    "featureId": 630,
     "population": 346868,
     "name": "Marion County, OR, USA"
   },
@@ -3610,7 +3610,7 @@
     "url": "https://www.rivcoph.org/coronavirus",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 798,
+    "featureId": 799,
     "population": 2450758,
     "name": "Riverside County, CA, USA"
   },
@@ -3626,7 +3626,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 836,
+    "featureId": 837,
     "population": 935764,
     "name": "Shelby County, TN, USA"
   },
@@ -3655,7 +3655,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 728,
+    "featureId": 729,
     "population": 1481093,
     "name": "Suffolk County, NY, USA"
   },
@@ -3671,7 +3671,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 734,
+    "featureId": 735,
     "population": 178599,
     "name": "Ulster County, NY, USA"
   },
@@ -3752,7 +3752,7 @@
     "url": "http://www.acphd.org/2019-ncov.aspx",
     "timeseries": true,
     "rating": 0.5,
-    "featureId": 772,
+    "featureId": 773,
     "population": 1666753,
     "name": "Alameda County, CA, USA"
   },
@@ -3809,7 +3809,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 729,
+    "featureId": 730,
     "population": 325695,
     "name": "Rockland County, NY, USA"
   },
@@ -3825,7 +3825,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 735,
+    "featureId": 736,
     "population": 230163,
     "name": "Saratoga County, NY, USA"
   },
@@ -3855,7 +3855,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 751,
+    "featureId": 752,
     "population": 481857,
     "name": "Clark County, WA, USA"
   },
@@ -3884,7 +3884,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 819,
+    "featureId": 820,
     "population": 351713,
     "name": "Davis County, UT, USA"
   },
@@ -3927,7 +3927,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 626,
+    "featureId": 627,
     "population": 219564,
     "name": "Jackson County, OR, USA"
   },
@@ -3944,7 +3944,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 756,
+    "featureId": 757,
     "population": 31729,
     "name": "Jefferson County, WA, USA"
   },
@@ -3960,7 +3960,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 627,
+    "featureId": 628,
     "population": 67653,
     "name": "Klamath County, OR, USA"
   },
@@ -3975,7 +3975,7 @@
     "url": "https://www.maderacounty.com/government/public-health/health-updates/corona-virus",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 782,
+    "featureId": 783,
     "population": 157672,
     "name": "Madera County, CA, USA"
   },
@@ -3992,7 +3992,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 762,
+    "featureId": 763,
     "population": 891299,
     "name": "Pierce County, WA, USA"
   },
@@ -4133,7 +4133,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 727,
+    "featureId": 728,
     "population": 1358343,
     "name": "Nassau County, NY, USA"
   },
@@ -4188,7 +4188,7 @@
     "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 779,
+    "featureId": 780,
     "population": 220408,
     "name": "Yolo County, CA, USA"
   },
@@ -4203,7 +4203,7 @@
     "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 775,
+    "featureId": 776,
     "population": 1937570,
     "name": "Santa Clara County, CA, USA"
   },
@@ -4233,7 +4233,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 714,
+    "featureId": 715,
     "population": 787858,
     "name": "Fort Bend County, TX, USA"
   },
@@ -4250,7 +4250,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 753,
+    "featureId": 754,
     "population": 97331,
     "name": "Grant County, WA, USA"
   },
@@ -4280,7 +4280,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 838,
+    "featureId": 839,
     "population": 231729,
     "name": "Williamson County, TN, USA"
   },
@@ -4296,7 +4296,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 749,
+    "featureId": 750,
     "population": 1628701,
     "name": "New York County, NY, USA"
   },
@@ -4311,7 +4311,7 @@
     "url": "https://coronavirus.maryland.gov/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 881,
+    "featureId": 882,
     "population": 1052567,
     "name": "Montgomery County, MD, USA"
   },
@@ -4385,7 +4385,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 717,
+    "featureId": 718,
     "population": 4698619,
     "name": "Harris County, TX, USA"
   },
@@ -4400,7 +4400,7 @@
     "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 770,
+    "featureId": 771,
     "population": 883305,
     "name": "San Francisco County, CA, USA"
   },
@@ -4415,7 +4415,7 @@
     "url": "https://www.coronavirus.cchealth.org/",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 777,
+    "featureId": 778,
     "population": 1150215,
     "name": "Contra Costa County, CA, USA"
   },
@@ -4430,7 +4430,7 @@
     "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
     "timeseries": true,
     "rating": 0.5,
-    "featureId": 797,
+    "featureId": 798,
     "population": 3185968,
     "name": "Orange County, CA, USA"
   },
@@ -4488,7 +4488,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 726,
+    "featureId": 727,
     "population": 967612,
     "name": "Westchester County, NY, USA"
   },
@@ -4530,7 +4530,7 @@
     "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 783,
+    "featureId": 784,
     "population": 393149,
     "name": "Placer County, CA, USA"
   },
@@ -4545,7 +4545,7 @@
     "url": "https://www.smchealth.org/coronavirus",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 771,
+    "featureId": 772,
     "population": 769545,
     "name": "San Mateo County, CA, USA"
   },
@@ -4560,7 +4560,7 @@
     "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 773,
+    "featureId": 774,
     "population": 499942,
     "name": "Sonoma County, CA, USA"
   },
@@ -4576,7 +4576,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 632,
+    "featureId": 633,
     "population": 77516,
     "name": "Umatilla County, OR, USA"
   },
@@ -4605,7 +4605,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 633,
+    "featureId": 634,
     "population": 597695,
     "name": "Washington County, OR, USA"
   },
@@ -4622,7 +4622,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 764,
+    "featureId": 765,
     "population": 814901,
     "name": "Snohomish County, WA, USA"
   },
@@ -4650,7 +4650,7 @@
     "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 780,
+    "featureId": 781,
     "population": 1540975,
     "name": "Sacramento County, CA, USA"
   },
@@ -4665,7 +4665,7 @@
     "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 799,
+    "featureId": 800,
     "population": 3343364,
     "name": "San Diego County, CA, USA"
   },
@@ -4680,7 +4680,7 @@
     "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 855,
+    "featureId": 856,
     "population": 61537,
     "name": "San Benito County, CA, USA"
   },
@@ -4695,7 +4695,7 @@
     "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
     "timeseries": true,
     "rating": 0.5,
-    "featureId": 785,
+    "featureId": 786,
     "population": 10105518,
     "name": "Los Angeles County, CA, USA"
   },
@@ -4712,7 +4712,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 757,
+    "featureId": 758,
     "population": 2233163,
     "name": "King County, WA, USA"
   },
@@ -4742,7 +4742,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 763,
+    "featureId": 764,
     "population": 128206,
     "name": "Skagit County, WA, USA"
   },
@@ -4759,7 +4759,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 766,
+    "featureId": 767,
     "population": 286419,
     "name": "Thurston County, WA, USA"
   },
@@ -4776,7 +4776,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 767,
+    "featureId": 768,
     "population": 225685,
     "name": "Whatcom County, WA, USA"
   },
@@ -4791,7 +4791,7 @@
     "url": "https://coronavirus.marinhhs.org/surveillance",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 789,
+    "featureId": 790,
     "population": 259666,
     "name": "Marin County, CA, USA"
   },
@@ -4806,7 +4806,7 @@
     "url": "https://covid19.calaverasgov.us/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 791,
+    "featureId": 792,
     "population": 45602,
     "name": "Calaveras County, CA, USA"
   },
@@ -4821,7 +4821,7 @@
     "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
     "timeseries": true,
     "rating": 0.375,
-    "featureId": 778,
+    "featureId": 779,
     "population": 549815,
     "name": "Stanislaus County, CA, USA"
   },
@@ -4934,7 +4934,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 712,
+    "featureId": 713,
     "population": 2637772,
     "name": "Dallas County, TX, USA"
   },
@@ -4951,7 +4951,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 723,
+    "featureId": 724,
     "population": 2084931,
     "name": "Tarrant County, TX, USA"
   },
@@ -4968,7 +4968,7 @@
     "rating": 0.40625,
     "type": "table",
     "ssl": false,
-    "featureId": 721,
+    "featureId": 722,
     "population": 590925,
     "name": "Montgomery County, TX, USA"
   },
@@ -5014,7 +5014,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 630,
+    "featureId": 631,
     "population": 811880,
     "name": "Multnomah County, OR, USA"
   },
@@ -5030,7 +5030,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 631,
+    "featureId": 632,
     "population": 85234,
     "name": "Polk County, OR, USA"
   },
@@ -5046,7 +5046,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 624,
+    "featureId": 625,
     "population": 191996,
     "name": "Deschutes County, OR, USA"
   },
@@ -5128,7 +5128,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 837,
+    "featureId": 838,
     "population": 157668,
     "name": "Sullivan County, TN, USA"
   },
@@ -5204,7 +5204,7 @@
     "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 847,
+    "featureId": 848,
     "population": 371574,
     "name": "Stark County, OH, USA"
   },
@@ -5246,7 +5246,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 822,
+    "featureId": 823,
     "population": 41933,
     "name": "Summit County, UT, USA"
   },
@@ -5262,7 +5262,7 @@
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 851,
+    "featureId": 852,
     "population": 943823,
     "name": "Fairfield County, CT, USA"
   },
@@ -5278,7 +5278,7 @@
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 853,
+    "featureId": 854,
     "population": 181111,
     "name": "Litchfield County, CT, USA"
   },
@@ -5307,7 +5307,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 818,
+    "featureId": 819,
     "population": 111729,
     "name": "Pennington County, SD, USA"
   },
@@ -5323,7 +5323,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 812,
+    "featureId": 813,
     "population": 18883,
     "name": "Beadle County, SD, USA"
   },
@@ -5339,7 +5339,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 814,
+    "featureId": 815,
     "population": 9338,
     "name": "Charles Mix County, SD, USA"
   },
@@ -5355,7 +5355,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 815,
+    "featureId": 816,
     "population": 19790,
     "name": "Davison County, SD, USA"
   },
@@ -5371,7 +5371,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 817,
+    "featureId": 818,
     "population": 192876,
     "name": "Minnehaha County, SD, USA"
   },
@@ -5387,7 +5387,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 813,
+    "featureId": 814,
     "population": 6980,
     "name": "Bon Homme County, SD, USA"
   },
@@ -5792,7 +5792,7 @@
       -61.49286861849993,
       16.196804103500057
     ],
-    "featureId": 856,
+    "featureId": 857,
     "name": "Guadeloupe, FRA"
   },
   {
@@ -5806,7 +5806,7 @@
       -61.019622362499945,
       14.669175522500069
     ],
-    "featureId": 857,
+    "featureId": 858,
     "name": "Martinique, FRA"
   },
   {
@@ -5829,7 +5829,7 @@
       55.53996829500005,
       -21.115329685499916
     ],
-    "featureId": 858,
+    "featureId": 859,
     "name": "La Réunion, FRA"
   },
   {
@@ -5911,7 +5911,7 @@
       -1.3420896595558247,
       46.68028475254144
     ],
-    "featureId": 859,
+    "featureId": 860,
     "name": "Pays de la Loire, FRA"
   },
   {
@@ -5925,7 +5925,7 @@
       -2.89110042139734,
       47.83005411656552
     ],
-    "featureId": 860,
+    "featureId": 861,
     "name": "Bretagne, FRA"
   },
   {
@@ -5975,7 +5975,7 @@
       9.06503339891242,
       42.42572715736796
     ],
-    "featureId": 861,
+    "featureId": 862,
     "name": "Corse, FRA"
   },
   {
@@ -6622,7 +6622,7 @@
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 638,
+    "featureId": 639,
     "population": 98115,
     "name": "Lafourche Parish, LA, USA"
   },
@@ -6637,7 +6637,7 @@
       -90.114832,
       29.696731
     ],
-    "featureId": 698,
+    "featureId": 699,
     "population": 434051,
     "name": "Jefferson Parish, LA, USA"
   },
@@ -6652,7 +6652,7 @@
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 639,
+    "featureId": 640,
     "population": 391006,
     "name": "Orleans Parish, LA, USA"
   },
@@ -9865,7 +9865,7 @@
       -122.26009400000001,
       45.1737
     ],
-    "featureId": 623,
+    "featureId": 624,
     "population": 416075,
     "name": "Clackamas County, OR, USA"
   },
@@ -9880,7 +9880,7 @@
       -122.5272075,
       44.496468
     ],
-    "featureId": 628,
+    "featureId": 629,
     "population": 127335,
     "name": "Linn County, OR, USA"
   },
@@ -9895,7 +9895,7 @@
       -89.4145595,
       29.8500655
     ],
-    "featureId": 696,
+    "featureId": 697,
     "population": 46721,
     "name": "St. Bernard Parish, LA, USA"
   },
@@ -9910,7 +9910,7 @@
       -90.3585315,
       29.961458
     ],
-    "featureId": 644,
+    "featureId": 645,
     "population": 52879,
     "name": "St. Charles Parish, LA, USA"
   },
@@ -9925,7 +9925,7 @@
       -89.891049,
       30.43073
     ],
-    "featureId": 642,
+    "featureId": 643,
     "population": 258111,
     "name": "St. Tammany Parish, LA, USA"
   },
@@ -9940,7 +9940,7 @@
       -90.8557755,
       29.406244
     ],
-    "featureId": 697,
+    "featureId": 698,
     "population": 111021,
     "name": "Terrebonne Parish, LA, USA"
   },
@@ -9956,7 +9956,7 @@
       -94.8607925,
       42.0363995
     ],
-    "featureId": 701,
+    "featureId": 702,
     "population": 20154,
     "name": "Carroll County, IA, USA"
   },
@@ -9972,7 +9972,7 @@
       -95.8184015,
       41.6857895
     ],
-    "featureId": 703,
+    "featureId": 704,
     "population": 14134,
     "name": "Harrison County, IA, USA"
   },
@@ -9988,7 +9988,7 @@
       -97.4920175,
       31.0362865
     ],
-    "featureId": 708,
+    "featureId": 709,
     "population": 355642,
     "name": "Bell County, TX, USA"
   },
@@ -10004,7 +10004,7 @@
       -95.2899065,
       32.4112925
     ],
-    "featureId": 722,
+    "featureId": 723,
     "population": 230221,
     "name": "Smith County, TX, USA"
   },
@@ -10099,7 +10099,7 @@
       -74.354217,
       41.3878105
     ],
-    "featureId": 731,
+    "featureId": 732,
     "population": 381951,
     "name": "Orange County, NY, USA"
   },
@@ -10114,7 +10114,7 @@
       -73.9708125,
       42.613902
     ],
-    "featureId": 730,
+    "featureId": 731,
     "population": 307117,
     "name": "Albany County, NY, USA"
   },
@@ -10129,7 +10129,7 @@
       -77.684384,
       43.154810499999996
     ],
-    "featureId": 733,
+    "featureId": 734,
     "population": 742474,
     "name": "Monroe County, NY, USA"
   },
@@ -10144,7 +10144,7 @@
       -73.74371099999999,
       41.7599055
     ],
-    "featureId": 732,
+    "featureId": 733,
     "population": 293718,
     "name": "Dutchess County, NY, USA"
   },
@@ -10159,7 +10159,7 @@
       -74.92498599999999,
       42.183063
     ],
-    "featureId": 742,
+    "featureId": 743,
     "population": 44527,
     "name": "Delaware County, NY, USA"
   },
@@ -10174,7 +10174,7 @@
       -74.957551,
       43.460950999999994
     ],
-    "featureId": 743,
+    "featureId": 744,
     "population": 61833,
     "name": "Herkimer County, NY, USA"
   },
@@ -10189,7 +10189,7 @@
       -75.74488,
       42.206783
     ],
-    "featureId": 741,
+    "featureId": 742,
     "population": 191659,
     "name": "Broome County, NY, USA"
   },
@@ -10205,7 +10205,7 @@
       -117.92289099999999,
       46.3118295
     ],
-    "featureId": 752,
+    "featureId": 753,
     "population": 4059,
     "name": "Columbia County, WA, USA"
   },
@@ -10221,7 +10221,7 @@
       -123.756045,
       47.162482
     ],
-    "featureId": 754,
+    "featureId": 755,
     "population": 73901,
     "name": "Grays Harbor County, WA, USA"
   },
@@ -10237,7 +10237,7 @@
       -122.559821,
       48.157794
     ],
-    "featureId": 755,
+    "featureId": 756,
     "population": 84460,
     "name": "Island County, WA, USA"
   },
@@ -10253,7 +10253,7 @@
       -120.69510149999999,
       46.564808
     ],
-    "featureId": 768,
+    "featureId": 769,
     "population": 251446,
     "name": "Yakima County, WA, USA"
   },
@@ -10352,7 +10352,7 @@
       -93.699102,
       32.0948115
     ],
-    "featureId": 636,
+    "featureId": 637,
     "population": 27436,
     "name": "De Soto Parish, LA, USA"
   },
@@ -10367,7 +10367,7 @@
       -90.4833525,
       30.0930385
     ],
-    "featureId": 637,
+    "featureId": 638,
     "population": 43184,
     "name": "St. John the Baptist Parish, LA, USA"
   },
@@ -10382,7 +10382,7 @@
       -93.557699,
       31.505406999999998
     ],
-    "featureId": 640,
+    "featureId": 641,
     "population": 24032,
     "name": "Sabine Parish, LA, USA"
   },
@@ -10397,7 +10397,7 @@
       -90.405269,
       30.612403
     ],
-    "featureId": 641,
+    "featureId": 642,
     "population": 133777,
     "name": "Tangipahoa Parish, LA, USA"
   },
@@ -10412,7 +10412,7 @@
       -90.696248,
       30.412879
     ],
-    "featureId": 643,
+    "featureId": 644,
     "population": 139567,
     "name": "Livingston Parish, LA, USA"
   },
@@ -10427,7 +10427,7 @@
       -93.326522,
       30.2639165
     ],
-    "featureId": 645,
+    "featureId": 646,
     "population": 203112,
     "name": "Calcasieu Parish, LA, USA"
   },
@@ -10442,7 +10442,7 @@
       -92.394117,
       32.7976865
     ],
-    "featureId": 646,
+    "featureId": 647,
     "population": 22330,
     "name": "Union Parish, LA, USA"
   },
@@ -10457,7 +10457,7 @@
       -92.09278499999999,
       32.102264500000004
     ],
-    "featureId": 647,
+    "featureId": 648,
     "population": 9960,
     "name": "Caldwell Parish, LA, USA"
   },
@@ -10472,7 +10472,7 @@
       -91.3045835,
       31.991290499999998
     ],
-    "featureId": 648,
+    "featureId": 649,
     "population": 4462,
     "name": "Tensas Parish, LA, USA"
   },
@@ -10487,7 +10487,7 @@
       -92.56701000000001,
       32.3212645
     ],
-    "featureId": 649,
+    "featureId": 650,
     "population": 15902,
     "name": "Jackson Parish, LA, USA"
   },
@@ -10502,7 +10502,7 @@
       -92.58483,
       31.5926135
     ],
-    "featureId": 650,
+    "featureId": 651,
     "population": 22482,
     "name": "Grant Parish, LA, USA"
   },
@@ -10517,7 +10517,7 @@
       -92.64820449999999,
       32.606269499999996
     ],
-    "featureId": 651,
+    "featureId": 652,
     "population": 47196,
     "name": "Lincoln Parish, LA, USA"
   },
@@ -10532,7 +10532,7 @@
       -92.857122,
       30.2628035
     ],
-    "featureId": 652,
+    "featureId": 653,
     "population": 31582,
     "name": "Jefferson Davis Parish, LA, USA"
   },
@@ -10547,7 +10547,7 @@
       -92.0951095,
       30.2075775
     ],
-    "featureId": 653,
+    "featureId": 654,
     "population": 242782,
     "name": "Lafayette Parish, LA, USA"
   },
@@ -10562,7 +10562,7 @@
       -91.2303025,
       32.7714455
     ],
-    "featureId": 654,
+    "featureId": 655,
     "population": 7037,
     "name": "East Carroll Parish, LA, USA"
   },
@@ -10577,7 +10577,7 @@
       -91.0732675,
       30.824589
     ],
-    "featureId": 655,
+    "featureId": 656,
     "population": 19305,
     "name": "East Feliciana Parish, LA, USA"
   },
@@ -10592,7 +10592,7 @@
       -91.3600815,
       30.2613845
     ],
-    "featureId": 656,
+    "featureId": 657,
     "population": 32721,
     "name": "Iberville Parish, LA, USA"
   },
@@ -10607,7 +10607,7 @@
       -91.732693,
       32.409445500000004
     ],
-    "featureId": 657,
+    "featureId": 658,
     "population": 20192,
     "name": "Richland Parish, LA, USA"
   },
@@ -10622,7 +10622,7 @@
       -91.53909150000001,
       30.09857
     ],
-    "featureId": 658,
+    "featureId": 659,
     "population": 53621,
     "name": "St. Martin Parish, LA, USA"
   },
@@ -10637,7 +10637,7 @@
       -92.981675,
       32.8016545
     ],
-    "featureId": 659,
+    "featureId": 660,
     "population": 15944,
     "name": "Claiborne Parish, LA, USA"
   },
@@ -10652,7 +10652,7 @@
       -92.08607749999999,
       30.573712
     ],
-    "featureId": 660,
+    "featureId": 661,
     "population": 82764,
     "name": "St. Landry Parish, LA, USA"
   },
@@ -10667,7 +10667,7 @@
       -91.5623665,
       30.750701999999997
     ],
-    "featureId": 661,
+    "featureId": 662,
     "population": 21940,
     "name": "Pointe Coupee Parish, LA, USA"
   },
@@ -10692,7 +10692,7 @@
       -93.3384255,
       32.7143435
     ],
-    "featureId": 662,
+    "featureId": 663,
     "population": 38798,
     "name": "Webster Parish, LA, USA"
   },
@@ -10707,7 +10707,7 @@
       -90.8028455,
       30.027838
     ],
-    "featureId": 663,
+    "featureId": 664,
     "population": 21037,
     "name": "St. James Parish, LA, USA"
   },
@@ -10722,7 +10722,7 @@
       -91.76029249999999,
       32.7570325
     ],
-    "featureId": 664,
+    "featureId": 665,
     "population": 25398,
     "name": "Morehouse Parish, LA, USA"
   },
@@ -10737,7 +10737,7 @@
       -92.5286315,
       31.203797
     ],
-    "featureId": 665,
+    "featureId": 666,
     "population": 130562,
     "name": "Rapides Parish, LA, USA"
   },
@@ -10752,7 +10752,7 @@
       -91.97901999999999,
       31.095483
     ],
-    "featureId": 666,
+    "featureId": 667,
     "population": 40462,
     "name": "Avoyelles Parish, LA, USA"
   },
@@ -10767,7 +10767,7 @@
       -92.64287350000001,
       31.928432
     ],
-    "featureId": 667,
+    "featureId": 668,
     "population": 14134,
     "name": "Winn Parish, LA, USA"
   },
@@ -10782,7 +10782,7 @@
       -91.776279,
       31.5993165
     ],
-    "featureId": 668,
+    "featureId": 669,
     "population": 9608,
     "name": "Catahoula Parish, LA, USA"
   },
@@ -10797,7 +10797,7 @@
       -91.0722915,
       29.8539995
     ],
-    "featureId": 669,
+    "featureId": 670,
     "population": 22300,
     "name": "Assumption Parish, LA, USA"
   },
@@ -10812,7 +10812,7 @@
       -93.757198,
       32.6074585
     ],
-    "featureId": 670,
+    "featureId": 671,
     "population": 242922,
     "name": "Caddo Parish, LA, USA"
   },
@@ -10827,7 +10827,7 @@
       -90.03715650000001,
       30.835068999999997
     ],
-    "featureId": 671,
+    "featureId": 672,
     "population": 46582,
     "name": "Washington Parish, LA, USA"
   },
@@ -10842,7 +10842,7 @@
       -91.0821615,
       30.516002
     ],
-    "featureId": 672,
+    "featureId": 673,
     "population": 440956,
     "name": "East Baton Rouge Parish, LA, USA"
   },
@@ -10857,7 +10857,7 @@
       -93.080363,
       31.747528000000003
     ],
-    "featureId": 673,
+    "featureId": 674,
     "population": 38659,
     "name": "Natchitoches Parish, LA, USA"
   },
@@ -10872,7 +10872,7 @@
       -93.10068150000001,
       32.366091999999995
     ],
-    "featureId": 674,
+    "featureId": 675,
     "population": 13308,
     "name": "Bienville Parish, LA, USA"
   },
@@ -10887,7 +10887,7 @@
       -93.5978795,
       32.627677000000006
     ],
-    "featureId": 675,
+    "featureId": 676,
     "population": 127185,
     "name": "Bossier Parish, LA, USA"
   },
@@ -10902,7 +10902,7 @@
       -92.856948,
       30.661153
     ],
-    "featureId": 676,
+    "featureId": 677,
     "population": 25605,
     "name": "Allen Parish, LA, USA"
   },
@@ -10917,7 +10917,7 @@
       -92.159829,
       32.4907775
     ],
-    "featureId": 677,
+    "featureId": 678,
     "population": 154475,
     "name": "Ouachita Parish, LA, USA"
   },
@@ -10932,7 +10932,7 @@
       -90.738279,
       30.824559
     ],
-    "featureId": 678,
+    "featureId": 679,
     "population": 10262,
     "name": "St. Helena Parish, LA, USA"
   },
@@ -10947,7 +10947,7 @@
       -91.46312950000001,
       30.8493775
     ],
-    "featureId": 679,
+    "featureId": 680,
     "population": 15460,
     "name": "West Feliciana Parish, LA, USA"
   },
@@ -10962,7 +10962,7 @@
       -91.45007849999999,
       32.7940275
     ],
-    "featureId": 680,
+    "featureId": 681,
     "population": 10982,
     "name": "West Carroll Parish, LA, USA"
   },
@@ -10977,7 +10977,7 @@
       -91.622707,
       31.366113
     ],
-    "featureId": 681,
+    "featureId": 682,
     "population": 19572,
     "name": "Concordia Parish, LA, USA"
   },
@@ -10992,7 +10992,7 @@
       -91.313597,
       30.490574000000002
     ],
-    "featureId": 682,
+    "featureId": 683,
     "population": 26427,
     "name": "West Baton Rouge Parish, LA, USA"
   },
@@ -11007,7 +11007,7 @@
       -91.216415,
       32.341573
     ],
-    "featureId": 683,
+    "featureId": 684,
     "population": 11161,
     "name": "Madison Parish, LA, USA"
   },
@@ -11022,7 +11022,7 @@
       -90.869644,
       30.204696499999997
     ],
-    "featureId": 684,
+    "featureId": 685,
     "population": 124672,
     "name": "Ascension Parish, LA, USA"
   },
@@ -11037,7 +11037,7 @@
       -92.38683499999999,
       30.2652335
     ],
-    "featureId": 685,
+    "featureId": 686,
     "population": 62190,
     "name": "Acadia Parish, LA, USA"
   },
@@ -11052,7 +11052,7 @@
       -93.35856949999999,
       30.6430015
     ],
-    "featureId": 686,
+    "featureId": 687,
     "population": 37253,
     "name": "Beauregard Parish, LA, USA"
   },
@@ -11067,7 +11067,7 @@
       -91.6867355,
       32.1420035
     ],
-    "featureId": 687,
+    "featureId": 688,
     "population": 20156,
     "name": "Franklin Parish, LA, USA"
   },
@@ -11082,7 +11082,7 @@
       -92.40312349999999,
       30.7409765
     ],
-    "featureId": 688,
+    "featureId": 689,
     "population": 33443,
     "name": "Evangeline Parish, LA, USA"
   },
@@ -11097,7 +11097,7 @@
       -93.19772900000001,
       31.1119345
     ],
-    "featureId": 689,
+    "featureId": 690,
     "population": 48860,
     "name": "Vernon Parish, LA, USA"
   },
@@ -11112,7 +11112,7 @@
       -93.367939,
       32.062484
     ],
-    "featureId": 690,
+    "featureId": 691,
     "population": 8477,
     "name": "Red River Parish, LA, USA"
   },
@@ -11127,7 +11127,7 @@
       -92.351531,
       29.8402345
     ],
-    "featureId": 691,
+    "featureId": 692,
     "population": 59830,
     "name": "Vermilion Parish, LA, USA"
   },
@@ -11142,7 +11142,7 @@
       -89.5381785,
       29.4150075
     ],
-    "featureId": 692,
+    "featureId": 693,
     "population": 23410,
     "name": "Plaquemines Parish, LA, USA"
   },
@@ -11157,7 +11157,7 @@
       -91.48180049999999,
       29.7141755
     ],
-    "featureId": 693,
+    "featureId": 694,
     "population": 49774,
     "name": "St. Mary Parish, LA, USA"
   },
@@ -11172,7 +11172,7 @@
       -93.27240900000001,
       29.8158395
     ],
-    "featureId": 694,
+    "featureId": 695,
     "population": 6968,
     "name": "Cameron Parish, LA, USA"
   },
@@ -11187,7 +11187,7 @@
       -91.632762,
       29.7982045
     ],
-    "featureId": 695,
+    "featureId": 696,
     "population": 70941,
     "name": "Iberia Parish, LA, USA"
   },
@@ -11203,7 +11203,7 @@
       -94.03547599999999,
       41.683413
     ],
-    "featureId": 702,
+    "featureId": 703,
     "population": 90180,
     "name": "Dallas County, IA, USA"
   },
@@ -11219,7 +11219,7 @@
       -98.4636305,
       29.4374885
     ],
-    "featureId": 709,
+    "featureId": 710,
     "population": 1986049,
     "name": "Bexar County, TX, USA"
   },
@@ -11235,7 +11235,7 @@
       -95.46632349999999,
       29.2119295
     ],
-    "featureId": 710,
+    "featureId": 711,
     "population": 370200,
     "name": "Brazoria County, TX, USA"
   },
@@ -11251,7 +11251,7 @@
       -106.299987,
       31.6946625
     ],
-    "featureId": 713,
+    "featureId": 714,
     "population": 840758,
     "name": "El Paso County, TX, USA"
   },
@@ -11267,7 +11267,7 @@
       -94.8019735,
       29.3376555
     ],
-    "featureId": 715,
+    "featureId": 716,
     "population": 337890,
     "name": "Galveston County, TX, USA"
   },
@@ -11283,7 +11283,7 @@
       -98.0039075,
       30.054378
     ],
-    "featureId": 718,
+    "featureId": 719,
     "population": 222631,
     "name": "Hays County, TX, USA"
   },
@@ -11299,7 +11299,7 @@
       -96.9003315,
       29.347974999999998
     ],
-    "featureId": 719,
+    "featureId": 720,
     "population": 20110,
     "name": "Lavaca County, TX, USA"
   },
@@ -11332,7 +11332,7 @@
       -78.79997900000001,
       42.768297000000004
     ],
-    "featureId": 736,
+    "featureId": 737,
     "population": 919719,
     "name": "Erie County, NY, USA"
   },
@@ -11347,7 +11347,7 @@
       -74.0573495,
       42.834184
     ],
-    "featureId": 737,
+    "featureId": 738,
     "population": 155350,
     "name": "Schenectady County, NY, USA"
   },
@@ -11362,7 +11362,7 @@
       -76.322135,
       42.2043415
     ],
-    "featureId": 744,
+    "featureId": 745,
     "population": 48560,
     "name": "Tioga County, NY, USA"
   },
@@ -11377,7 +11377,7 @@
       -76.4683765,
       42.445197500000006
     ],
-    "featureId": 745,
+    "featureId": 746,
     "population": 102793,
     "name": "Tompkins County, NY, USA"
   },
@@ -11393,7 +11393,7 @@
       -117.431769,
       47.653568500000006
     ],
-    "featureId": 765,
+    "featureId": 766,
     "population": 514631,
     "name": "Spokane County, WA, USA"
   },
@@ -11408,7 +11408,7 @@
       -88.5234625,
       43.7405715
     ],
-    "featureId": 802,
+    "featureId": 803,
     "population": 103066,
     "name": "Fond du Lac County, WI, USA"
   },
@@ -11423,7 +11423,7 @@
       -87.94847250000001,
       43.017386
     ],
-    "featureId": 803,
+    "featureId": 804,
     "population": 948201,
     "name": "Milwaukee County, WI, USA"
   },
@@ -11438,7 +11438,7 @@
       -88.0365295,
       42.72707
     ],
-    "featureId": 806,
+    "featureId": 807,
     "population": 196584,
     "name": "Racine County, WI, USA"
   },
@@ -11453,7 +11453,7 @@
       -87.9311795,
       43.7172725
     ],
-    "featureId": 807,
+    "featureId": 808,
     "population": 115456,
     "name": "Sheboygan County, WI, USA"
   },
@@ -11468,7 +11468,7 @@
       -88.30268950000001,
       43.018702
     ],
-    "featureId": 808,
+    "featureId": 809,
     "population": 403072,
     "name": "Waukesha County, WI, USA"
   },
@@ -11483,7 +11483,7 @@
       -88.644934,
       44.0685395
     ],
-    "featureId": 809,
+    "featureId": 810,
     "population": 171020,
     "name": "Winnebago County, WI, USA"
   },
@@ -11498,7 +11498,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 816,
+    "featureId": 817,
     "population": 5546,
     "name": "McCook County, SD, USA"
   },
@@ -11531,7 +11531,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 820,
+    "featureId": 821,
     "population": 1152633,
     "name": "Salt Lake County, UT, USA"
   },
@@ -11546,7 +11546,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 821,
+    "featureId": 822,
     "population": 15449,
     "name": "San Juan County, UT, USA"
   },
@@ -11579,7 +11579,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 823,
+    "featureId": 824,
     "population": 69907,
     "name": "Tooele County, UT, USA"
   },
@@ -11603,7 +11603,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 824,
+    "featureId": 825,
     "population": 622213,
     "name": "Utah County, UT, USA"
   },
@@ -11618,7 +11618,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 825,
+    "featureId": 826,
     "population": 33240,
     "name": "Wasatch County, UT, USA"
   },
@@ -11696,7 +11696,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 829,
+    "featureId": 830,
     "population": 39583,
     "name": "Campbell County, TN, USA"
   },
@@ -11711,7 +11711,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 831,
+    "featureId": 832,
     "population": 364286,
     "name": "Hamilton County, TN, USA"
   },
@@ -11726,7 +11726,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 832,
+    "featureId": 833,
     "population": 54012,
     "name": "Jefferson County, TN, USA"
   },
@@ -11741,7 +11741,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 833,
+    "featureId": 834,
     "population": 465289,
     "name": "Knox County, TN, USA"
   },
@@ -11756,7 +11756,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 834,
+    "featureId": 835,
     "population": 324890,
     "name": "Rutherford County, TN, USA"
   },
@@ -11770,7 +11770,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 839,
+    "featureId": 840,
     "population": 67505,
     "name": "Belmont County, OH, USA"
   },
@@ -11784,7 +11784,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 840,
+    "featureId": 841,
     "population": 382378,
     "name": "Butler County, OH, USA"
   },
@@ -11798,7 +11798,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 842,
+    "featureId": 843,
     "population": 1310300,
     "name": "Franklin County, OH, USA"
   },
@@ -11812,7 +11812,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 844,
+    "featureId": 845,
     "population": 309461,
     "name": "Lorain County, OH, USA"
   },
@@ -11826,7 +11826,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 848,
+    "featureId": 849,
     "population": 541918,
     "name": "Summit County, OH, USA"
   },
@@ -11840,7 +11840,7 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 849,
+    "featureId": 850,
     "population": 198627,
     "name": "Trumbull County, OH, USA"
   },
@@ -11855,7 +11855,7 @@
       -72.71937700000001,
       41.7926935
     ],
-    "featureId": 852,
+    "featureId": 853,
     "population": 892697,
     "name": "Hartford County, CT, USA"
   },
@@ -11870,7 +11870,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 854,
+    "featureId": 855,
     "population": 857620,
     "name": "New Haven County, CT, USA"
   },
@@ -11901,465 +11901,6 @@
     "featureId": 223,
     "population": 923598,
     "name": "Nova Scotia, CAN"
-  },
-  {
-    "county": "Copiah County",
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -90.42352199999999,
-      31.867576
-    ],
-    "featureId": 604,
-    "population": 28543,
-    "name": "Copiah County, MS, USA"
-  },
-  {
-    "county": "Hinds County",
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -90.3971595,
-      32.3110675
-    ],
-    "featureId": 607,
-    "population": 237085,
-    "name": "Hinds County, MS, USA"
-  },
-  {
-    "county": "Forrest County",
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -89.2947915,
-      31.1719645
-    ],
-    "featureId": 605,
-    "population": 75036,
-    "name": "Forrest County, MS, USA"
-  },
-  {
-    "county": "Leflore County",
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -90.277601,
-      33.523355
-    ],
-    "featureId": 608,
-    "population": 28919,
-    "name": "Leflore County, MS, USA"
-  },
-  {
-    "county": "Pearl River County",
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -89.596482,
-      30.7364495
-    ],
-    "featureId": 610,
-    "population": 55387,
-    "name": "Pearl River County, MS, USA"
-  },
-  {
-    "county": "Lee County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "type": "table",
-    "rating": 0.40625,
-    "coordinates": [
-      -85.348772,
-      32.578877500000004
-    ],
-    "featureId": 615,
-    "population": 163941,
-    "name": "Lee County, AL, USA"
-  },
-  {
-    "county": "Shelby County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "type": "table",
-    "rating": 0.40625,
-    "coordinates": [
-      -86.6839795,
-      33.2828065
-    ],
-    "featureId": 619,
-    "population": 215707,
-    "name": "Shelby County, AL, USA"
-  },
-  {
-    "county": "Boulder County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "name": "Boulder County, CO, USA"
-  },
-  {
-    "county": "Clear Creek County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "name": "Clear Creek County, CO, USA"
-  },
-  {
-    "county": "Garfield County",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "name": "Garfield County, CO, USA"
-  },
-  {
-    "county": "(unassigned)",
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "name": "(unassigned), CO, USA"
-  },
-  {
-    "county": "Yamhill County",
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -123.31725850000001,
-      45.254474
-    ],
-    "featureId": 634,
-    "population": 107002,
-    "name": "Yamhill County, OR, USA"
-  },
-  {
-    "county": "Matagorda County",
-    "state": "TX",
-    "country": "USA",
-    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
-    "type": "table",
-    "ssl": false,
-    "rating": 0.40625,
-    "coordinates": [
-      -95.943229,
-      28.8068055
-    ],
-    "featureId": 720,
-    "population": 36552,
-    "name": "Matagorda County, TX, USA"
-  },
-  {
-    "county": "Citrus County",
-    "state": "FL",
-    "country": "USA",
-    "type": "table",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "rating": 0.40625,
-    "name": "Citrus County, FL, USA"
-  },
-  {
-    "county": "St. Johns County",
-    "state": "FL",
-    "country": "USA",
-    "type": "table",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "rating": 0.40625,
-    "name": "St. Johns County, FL, USA"
-  },
-  {
-    "county": "Greene County",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -74.1565635,
-      42.28041
-    ],
-    "featureId": 738,
-    "population": 47491,
-    "name": "Greene County, NY, USA"
-  },
-  {
-    "county": "Montgomery County",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -74.4234035,
-      42.910201
-    ],
-    "featureId": 746,
-    "population": 49455,
-    "name": "Montgomery County, NY, USA"
-  },
-  {
-    "county": "Putnam County",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
-    "type": "table",
-    "rating": 0.4375,
-    "coordinates": [
-      -73.7563255,
-      41.4244435
-    ],
-    "featureId": 739,
-    "population": 98892,
-    "name": "Putnam County, NY, USA"
-  },
-  {
-    "county": "Lincoln County",
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "type": "table",
-    "headless": true,
-    "rating": 0.5,
-    "coordinates": [
-      -118.399462,
-      47.609032
-    ],
-    "featureId": 761,
-    "population": 10740,
-    "name": "Lincoln County, WA, USA"
-  },
-  {
-    "county": "San Bernardino County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://wp.sbcounty.gov/dph/coronavirus/",
-    "rating": 0.375,
-    "coordinates": [
-      -115.96848299999999,
-      34.840230000000005
-    ],
-    "featureId": 786,
-    "population": 2171603,
-    "name": "San Bernardino County, CA, USA"
-  },
-  {
-    "county": "San Joaquin County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.sjcphs.org/coronavirus.aspx#res",
-    "rating": 0.375,
-    "coordinates": [
-      -121.2534915,
-      37.891017500000004
-    ],
-    "featureId": 787,
-    "population": 752660,
-    "name": "San Joaquin County, CA, USA"
-  },
-  {
-    "county": "Merced County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
-    "rating": 0.65625,
-    "coordinates": [
-      -120.649022,
-      37.1868725
-    ],
-    "featureId": 788,
-    "population": 274765,
-    "name": "Merced County, CA, USA"
-  },
-  {
-    "county": "Butte County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.buttecounty.net/publichealth",
-    "rating": 0.40625,
-    "coordinates": [
-      -121.57306299999999,
-      39.723763
-    ],
-    "featureId": 790,
-    "population": 231256,
-    "name": "Butte County, CA, USA"
-  },
-  {
-    "county": "Kings County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1",
-    "rating": 0.40625,
-    "coordinates": [
-      -119.8948375,
-      36.139044999999996
-    ],
-    "featureId": 795,
-    "population": 151366,
-    "name": "Kings County, CA, USA"
-  },
-  {
-    "county": "Mendocino County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.mendocinocounty.org/community/novel-coronavirus",
-    "rating": 0.40625,
-    "coordinates": [
-      -123.422765,
-      39.380249
-    ],
-    "featureId": 796,
-    "population": 87606,
-    "name": "Mendocino County, CA, USA"
-  },
-  {
-    "county": "Lehigh County",
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "type": "list",
-    "rating": 0.40625,
-    "name": "Lehigh County, PA, USA"
-  },
-  {
-    "county": "Luzerne County",
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "type": "list",
-    "rating": 0.40625,
-    "name": "Luzerne County, PA, USA"
-  },
-  {
-    "county": "Lucas County",
-    "state": "OH",
-    "country": "USA",
-    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-    "rating": 0.40625,
-    "coordinates": [
-      -83.5244735,
-      41.573549
-    ],
-    "featureId": 845,
-    "population": 429899,
-    "name": "Lucas County, OH, USA"
-  },
-  {
-    "county": "Medina County",
-    "state": "OH",
-    "country": "USA",
-    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-    "rating": 0.40625,
-    "coordinates": [
-      -81.92915450000001,
-      41.132868
-    ],
-    "featureId": 846,
-    "population": 179146,
-    "name": "Medina County, OH, USA"
-  },
-  {
-    "county": "Tuscarawas County",
-    "state": "OH",
-    "country": "USA",
-    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-    "rating": 0.40625,
-    "coordinates": [
-      -81.488516,
-      40.440586499999995
-    ],
-    "featureId": 850,
-    "population": 92176,
-    "name": "Tuscarawas County, OH, USA"
-  },
-  {
-    "county": "Anne Arundel County",
-    "state": "MD",
-    "country": "USA",
-    "url": "https://coronavirus.maryland.gov/",
-    "rating": 0.40625,
-    "coordinates": [
-      -76.617221,
-      38.9754795
-    ],
-    "featureId": 874,
-    "population": 576031,
-    "name": "Anne Arundel County, MD, USA"
-  },
-  {
-    "county": "Baltimore City",
-    "state": "MD",
-    "country": "USA",
-    "url": "https://coronavirus.maryland.gov/",
-    "rating": 0.40625,
-    "name": "Baltimore City, MD, USA"
-  },
-  {
-    "county": "Baltimore County",
-    "state": "MD",
-    "country": "USA",
-    "url": "https://coronavirus.maryland.gov/",
-    "rating": 0.40625,
-    "coordinates": [
-      -76.60774,
-      39.4583055
-    ],
-    "featureId": 875,
-    "population": 828431,
-    "name": "Baltimore County, MD, USA"
-  },
-  {
-    "county": "Carroll County",
-    "state": "MD",
-    "country": "USA",
-    "url": "https://coronavirus.maryland.gov/",
-    "rating": 0.40625,
-    "coordinates": [
-      -77.04930300000001,
-      39.534766000000005
-    ],
-    "featureId": 876,
-    "population": 168429,
-    "name": "Carroll County, MD, USA"
-  },
-  {
-    "county": "Charles County",
-    "state": "MD",
-    "country": "USA",
-    "url": "https://coronavirus.maryland.gov/",
-    "rating": 0.40625,
-    "coordinates": [
-      -76.96860749999999,
-      38.480309500000004
-    ],
-    "featureId": 877,
-    "population": 161503,
-    "name": "Charles County, MD, USA"
   },
   {
     "county": "Barking and Dagenham",
@@ -14143,6 +13684,478 @@
     "name": "York, GBR"
   },
   {
+    "county": "Copiah County",
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -90.42352199999999,
+      31.867576
+    ],
+    "featureId": 604,
+    "population": 28543,
+    "name": "Copiah County, MS, USA"
+  },
+  {
+    "county": "Hinds County",
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -90.3971595,
+      32.3110675
+    ],
+    "featureId": 607,
+    "population": 237085,
+    "name": "Hinds County, MS, USA"
+  },
+  {
+    "county": "Forrest County",
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -89.2947915,
+      31.1719645
+    ],
+    "featureId": 605,
+    "population": 75036,
+    "name": "Forrest County, MS, USA"
+  },
+  {
+    "county": "Leflore County",
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -90.277601,
+      33.523355
+    ],
+    "featureId": 608,
+    "population": 28919,
+    "name": "Leflore County, MS, USA"
+  },
+  {
+    "county": "Pearl River County",
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -89.596482,
+      30.7364495
+    ],
+    "featureId": 610,
+    "population": 55387,
+    "name": "Pearl River County, MS, USA"
+  },
+  {
+    "county": "Lee County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "type": "table",
+    "rating": 0.40625,
+    "coordinates": [
+      -85.348772,
+      32.578877500000004
+    ],
+    "featureId": 615,
+    "population": 163941,
+    "name": "Lee County, AL, USA"
+  },
+  {
+    "county": "Shelby County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "type": "table",
+    "rating": 0.40625,
+    "coordinates": [
+      -86.6839795,
+      33.2828065
+    ],
+    "featureId": 619,
+    "population": 215707,
+    "name": "Shelby County, AL, USA"
+  },
+  {
+    "county": "Boulder County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "type": "list",
+    "rating": 0.40625,
+    "name": "Boulder County, CO, USA"
+  },
+  {
+    "county": "Clear Creek County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "type": "list",
+    "rating": 0.40625,
+    "name": "Clear Creek County, CO, USA"
+  },
+  {
+    "county": "Garfield County",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "type": "list",
+    "rating": 0.40625,
+    "name": "Garfield County, CO, USA"
+  },
+  {
+    "county": "(unassigned)",
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "type": "list",
+    "rating": 0.40625,
+    "name": "(unassigned), CO, USA"
+  },
+  {
+    "county": "Yamhill County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -123.31725850000001,
+      45.254474
+    ],
+    "featureId": 635,
+    "population": 107002,
+    "name": "Yamhill County, OR, USA"
+  },
+  {
+    "county": "Matagorda County",
+    "state": "TX",
+    "country": "USA",
+    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+    "type": "table",
+    "ssl": false,
+    "rating": 0.40625,
+    "coordinates": [
+      -95.943229,
+      28.8068055
+    ],
+    "featureId": 721,
+    "population": 36552,
+    "name": "Matagorda County, TX, USA"
+  },
+  {
+    "county": "Citrus County",
+    "state": "FL",
+    "country": "USA",
+    "type": "table",
+    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
+    "rating": 0.40625,
+    "name": "Citrus County, FL, USA"
+  },
+  {
+    "county": "St. Johns County",
+    "state": "FL",
+    "country": "USA",
+    "type": "table",
+    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
+    "rating": 0.40625,
+    "name": "St. Johns County, FL, USA"
+  },
+  {
+    "county": "Greene County",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -74.1565635,
+      42.28041
+    ],
+    "featureId": 739,
+    "population": 47491,
+    "name": "Greene County, NY, USA"
+  },
+  {
+    "county": "Montgomery County",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -74.4234035,
+      42.910201
+    ],
+    "featureId": 747,
+    "population": 49455,
+    "name": "Montgomery County, NY, USA"
+  },
+  {
+    "county": "Putnam County",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -73.7563255,
+      41.4244435
+    ],
+    "featureId": 740,
+    "population": 98892,
+    "name": "Putnam County, NY, USA"
+  },
+  {
+    "county": "Lincoln County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.5,
+    "coordinates": [
+      -118.399462,
+      47.609032
+    ],
+    "featureId": 762,
+    "population": 10740,
+    "name": "Lincoln County, WA, USA"
+  },
+  {
+    "county": "San Bernardino County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://wp.sbcounty.gov/dph/coronavirus/",
+    "rating": 0.375,
+    "coordinates": [
+      -115.96848299999999,
+      34.840230000000005
+    ],
+    "featureId": 787,
+    "population": 2171603,
+    "name": "San Bernardino County, CA, USA"
+  },
+  {
+    "county": "San Joaquin County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.sjcphs.org/coronavirus.aspx#res",
+    "rating": 0.375,
+    "coordinates": [
+      -121.2534915,
+      37.891017500000004
+    ],
+    "featureId": 788,
+    "population": 752660,
+    "name": "San Joaquin County, CA, USA"
+  },
+  {
+    "county": "Merced County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
+    "rating": 0.65625,
+    "coordinates": [
+      -120.649022,
+      37.1868725
+    ],
+    "featureId": 789,
+    "population": 274765,
+    "name": "Merced County, CA, USA"
+  },
+  {
+    "county": "Butte County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.buttecounty.net/publichealth",
+    "rating": 0.40625,
+    "coordinates": [
+      -121.57306299999999,
+      39.723763
+    ],
+    "featureId": 791,
+    "population": 231256,
+    "name": "Butte County, CA, USA"
+  },
+  {
+    "county": "Kings County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1",
+    "rating": 0.40625,
+    "coordinates": [
+      -119.8948375,
+      36.139044999999996
+    ],
+    "featureId": 796,
+    "population": 151366,
+    "name": "Kings County, CA, USA"
+  },
+  {
+    "county": "Mendocino County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.mendocinocounty.org/community/novel-coronavirus",
+    "rating": 0.40625,
+    "coordinates": [
+      -123.422765,
+      39.380249
+    ],
+    "featureId": 797,
+    "population": 87606,
+    "name": "Mendocino County, CA, USA"
+  },
+  {
+    "county": "Lehigh County",
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "type": "list",
+    "rating": 0.40625,
+    "name": "Lehigh County, PA, USA"
+  },
+  {
+    "county": "Luzerne County",
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "type": "list",
+    "rating": 0.40625,
+    "name": "Luzerne County, PA, USA"
+  },
+  {
+    "county": "Lucas County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
+    "rating": 0.40625,
+    "coordinates": [
+      -83.5244735,
+      41.573549
+    ],
+    "featureId": 846,
+    "population": 429899,
+    "name": "Lucas County, OH, USA"
+  },
+  {
+    "county": "Medina County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
+    "rating": 0.40625,
+    "coordinates": [
+      -81.92915450000001,
+      41.132868
+    ],
+    "featureId": 847,
+    "population": 179146,
+    "name": "Medina County, OH, USA"
+  },
+  {
+    "county": "Tuscarawas County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
+    "rating": 0.40625,
+    "coordinates": [
+      -81.488516,
+      40.440586499999995
+    ],
+    "featureId": 851,
+    "population": 92176,
+    "name": "Tuscarawas County, OH, USA"
+  },
+  {
+    "county": "Anne Arundel County",
+    "state": "MD",
+    "country": "USA",
+    "url": "https://coronavirus.maryland.gov/",
+    "rating": 0.40625,
+    "coordinates": [
+      -76.617221,
+      38.9754795
+    ],
+    "featureId": 875,
+    "population": 576031,
+    "name": "Anne Arundel County, MD, USA"
+  },
+  {
+    "county": "Baltimore City",
+    "state": "MD",
+    "country": "USA",
+    "url": "https://coronavirus.maryland.gov/",
+    "rating": 0.40625,
+    "name": "Baltimore City, MD, USA"
+  },
+  {
+    "county": "Baltimore County",
+    "state": "MD",
+    "country": "USA",
+    "url": "https://coronavirus.maryland.gov/",
+    "rating": 0.40625,
+    "coordinates": [
+      -76.60774,
+      39.4583055
+    ],
+    "featureId": 876,
+    "population": 828431,
+    "name": "Baltimore County, MD, USA"
+  },
+  {
+    "county": "Carroll County",
+    "state": "MD",
+    "country": "USA",
+    "url": "https://coronavirus.maryland.gov/",
+    "rating": 0.40625,
+    "coordinates": [
+      -77.04930300000001,
+      39.534766000000005
+    ],
+    "featureId": 877,
+    "population": 168429,
+    "name": "Carroll County, MD, USA"
+  },
+  {
+    "county": "Charles County",
+    "state": "MD",
+    "country": "USA",
+    "url": "https://coronavirus.maryland.gov/",
+    "rating": 0.40625,
+    "coordinates": [
+      -76.96860749999999,
+      38.480309500000004
+    ],
+    "featureId": 878,
+    "population": 161503,
+    "name": "Charles County, MD, USA"
+  },
+  {
+    "country": "Hong Kong",
+    "coordinates": [
+      114.21021569100003,
+      22.41313304250005
+    ],
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "timeseries": true,
+    "rating": 0.65625,
+    "featureId": 380,
+    "population": 7191503,
+    "name": "Hong Kong"
+  },
+  {
     "county": "Hancock County",
     "state": "MS",
     "country": "USA",
@@ -14182,6 +14195,21 @@
     "name": "Total County, MS, USA"
   },
   {
+    "county": "Benton County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "type": "table",
+    "rating": 0.4375,
+    "coordinates": [
+      -123.44528700000001,
+      44.498886
+    ],
+    "featureId": 623,
+    "population": 92101,
+    "name": "Benton County, OR, USA"
+  },
+  {
     "county": "Allamakee County",
     "state": "IA",
     "country": "USA",
@@ -14193,7 +14221,7 @@
       -91.3343975,
       43.290620000000004
     ],
-    "featureId": 700,
+    "featureId": 701,
     "population": 13832,
     "name": "Allamakee County, IA, USA"
   },
@@ -14209,7 +14237,7 @@
       -93.571967,
       41.6727085
     ],
-    "featureId": 705,
+    "featureId": 706,
     "population": 487204,
     "name": "Polk County, IA, USA"
   },
@@ -14503,7 +14531,7 @@
       -78.0160695,
       42.260023000000004
     ],
-    "featureId": 740,
+    "featureId": 741,
     "population": 46430,
     "name": "Allegany County, NY, USA"
   },
@@ -14518,7 +14546,7 @@
       -76.19769550000001,
       43.021398
     ],
-    "featureId": 747,
+    "featureId": 748,
     "population": 461809,
     "name": "Onondaga County, NY, USA"
   },
@@ -14533,7 +14561,7 @@
       -77.28751,
       42.808147000000005
     ],
-    "featureId": 748,
+    "featureId": 749,
     "population": 109864,
     "name": "Ontario County, NY, USA"
   },
@@ -14549,7 +14577,7 @@
       -122.3615475,
       46.5893095
     ],
-    "featureId": 760,
+    "featureId": 761,
     "population": 79604,
     "name": "Lewis County, WA, USA"
   },
@@ -14563,7 +14591,7 @@
       -122.2913685,
       39.169222000000005
     ],
-    "featureId": 792,
+    "featureId": 793,
     "population": 21627,
     "name": "Colusa County, CA, USA"
   },
@@ -14577,7 +14605,7 @@
       -123.88695,
       41.6909115
     ],
-    "featureId": 793,
+    "featureId": 794,
     "population": 27828,
     "name": "Del Norte County, CA, USA"
   },
@@ -14591,7 +14619,7 @@
       -122.405772,
       39.5913755
     ],
-    "featureId": 794,
+    "featureId": 795,
     "population": 28047,
     "name": "Glenn County, CA, USA"
   },
@@ -14606,7 +14634,7 @@
       -88.46518649999999,
       44.416275999999996
     ],
-    "featureId": 804,
+    "featureId": 805,
     "population": 187365,
     "name": "Outagamie County, WI, USA"
   },
@@ -14621,7 +14649,7 @@
       -90.02142649999999,
       44.466415999999995
     ],
-    "featureId": 810,
+    "featureId": 811,
     "population": 73055,
     "name": "Wood County, WI, USA"
   },
@@ -14663,7 +14691,7 @@
       -75.41630955251765,
       39.14564123795276
     ],
-    "featureId": 827,
+    "featureId": 828,
     "name": "Delaware, PA, USA"
   },
   {
@@ -14749,7 +14777,7 @@
       -120.80671709265283,
       47.27941361449236
     ],
-    "featureId": 828,
+    "featureId": 829,
     "name": "Washington, PA, USA"
   },
   {
@@ -14763,7 +14791,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 835,
+    "featureId": 836,
     "population": 97892,
     "name": "Sevier County, TN, USA"
   },
@@ -14777,7 +14805,7 @@
       -81.19737699999999,
       41.5314985
     ],
-    "featureId": 843,
+    "featureId": 844,
     "population": 94031,
     "name": "Geauga County, OH, USA"
   },
@@ -14791,7 +14819,7 @@
       -5.760709740962795,
       36.52305392954614
     ],
-    "featureId": 862,
+    "featureId": 863,
     "name": "Andalucía, ESP"
   },
   {
@@ -14804,7 +14832,7 @@
       -0.08049929380734966,
       42.134828154805525
     ],
-    "featureId": 863,
+    "featureId": 864,
     "name": "Aragón, ESP"
   },
   {
@@ -14841,7 +14869,7 @@
       -3.991235879578522,
       43.13970978396958
     ],
-    "featureId": 864,
+    "featureId": 865,
     "name": "Cantabria, ESP"
   },
   {
@@ -14854,7 +14882,7 @@
       -6.152125149456111,
       41.68636903055628
     ],
-    "featureId": 865,
+    "featureId": 866,
     "name": "Castilla y León, ESP"
   },
   {
@@ -14867,7 +14895,7 @@
       -1.8916374333209092,
       38.724266107394925
     ],
-    "featureId": 866,
+    "featureId": 867,
     "name": "Castilla-La Mancha, ESP"
   },
   {
@@ -14880,7 +14908,7 @@
       1.0855422223956452,
       42.03562612236923
     ],
-    "featureId": 867,
+    "featureId": 868,
     "name": "Cataluña, ESP"
   },
   {
@@ -14901,7 +14929,7 @@
       -6.250120712850645,
       39.75451443774111
     ],
-    "featureId": 868,
+    "featureId": 869,
     "name": "Extremadura, ESP"
   },
   {
@@ -14914,7 +14942,7 @@
       -7.54885392701712,
       42.19553303442197
     ],
-    "featureId": 869,
+    "featureId": 870,
     "name": "Galicia, ESP"
   },
   {
@@ -14951,7 +14979,7 @@
       -2.154373327342114,
       43.14304220529398
     ],
-    "featureId": 870,
+    "featureId": 871,
     "name": "País Vasco, ESP"
   },
   {
@@ -14964,7 +14992,7 @@
       -2.4031165223596247,
       42.28492574697563
     ],
-    "featureId": 871,
+    "featureId": 872,
     "name": "La Rioja, ESP"
   },
   {
@@ -14977,7 +15005,7 @@
       -5.345359091499915,
       35.88593067100006
     ],
-    "featureId": 872,
+    "featureId": 873,
     "name": "Ceuta, ESP"
   },
   {
@@ -14990,7 +15018,7 @@
       -2.939916344999915,
       35.29882680600007
     ],
-    "featureId": 873,
+    "featureId": 874,
     "name": "Melilla, ESP"
   },
   {
@@ -15003,7 +15031,7 @@
       -76.9419445,
       39.236219
     ],
-    "featureId": 879,
+    "featureId": 880,
     "population": 323196,
     "name": "Howard County, MD, USA"
   },
@@ -15017,21 +15045,8 @@
       -76.122386,
       38.7587675
     ],
-    "featureId": 882,
+    "featureId": 883,
     "population": 36968,
     "name": "Talbot County, MD, USA"
-  },
-  {
-    "country": "Hong Kong",
-    "coordinates": [
-      114.21021569100003,
-      22.41313304250005
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "timeseries": true,
-    "rating": 0.65625,
-    "featureId": 380,
-    "population": 7191503,
-    "name": "Hong Kong"
   }
 ]
