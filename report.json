@@ -10,17 +10,13 @@
     "errors": []
   },
   "findFeatures": {
-    "numFeaturesFound": 887,
+    "numFeaturesFound": 894,
     "missingFeatures": [
-      "PHL",
-      "NZL",
-      "MCO",
-      "MDV",
+      "Hong Kong",
       "Macau, CHN",
       "Channel Islands, GBR",
       "French Polynesia, FRA",
       "GLP",
-      "VCT",
       "Zurich, CHE",
       "Bournemouth, Christchurch and Poole, GBR",
       "Bristol, City of, GBR",
@@ -93,7 +89,6 @@
       "Occitanie, FRA",
       "Auvergne-Rhône-Alpes, FRA",
       "Provence-Alpes-Côte d’Azur, FRA",
-      "FRA",
       "Principado de Asturias, ESP",
       "Illes Balears, ESP",
       "Canarias, ESP",
@@ -101,29 +96,21 @@
       "Comunidad de Madrid, ESP",
       "Región de Murcia, ESP",
       "Comunidad Foral de Navarra, ESP",
-      "ESP",
-      "Baltimore City, MD, USA",
-      "AUS"
+      "Baltimore City, MD, USA"
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 753,
+    "numLocationsWithPopulation": 762,
     "missingPopulations": [
-      "PHL",
-      "NZL",
-      "MCO",
-      "MLT",
       "MTQ",
-      "MDV",
+      "Hong Kong",
       "St Martin, FRA",
       "Channel Islands, GBR",
       "REU",
       "French Polynesia, FRA",
       "GLP",
-      "VCT",
       "GU, USA",
       "GUF",
-      "GUM",
       "MYT",
       "The Bahamas",
       "VI, USA",
@@ -316,7 +303,6 @@
       "Auvergne-Rhône-Alpes, FRA",
       "Provence-Alpes-Côte d’Azur, FRA",
       "Corse, FRA",
-      "FRA",
       "Andalucía, ESP",
       "Aragón, ESP",
       "Principado de Asturias, ESP",
@@ -336,9 +322,7 @@
       "La Rioja, ESP",
       "Ceuta, ESP",
       "Melilla, ESP",
-      "ESP",
-      "Baltimore City, MD, USA",
-      "AUS"
+      "Baltimore City, MD, USA"
     ]
   }
 }
