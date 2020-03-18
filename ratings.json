@@ -272,15 +272,6 @@
     "ssl": true
   },
   {
-    "county": "San Francisco County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
-    "rating": 0.2682926829268293,
-    "type": "list",
-    "ssl": true
-  },
-  {
     "county": "San Mateo County",
     "state": "CA",
     "country": "USA",
@@ -475,6 +466,15 @@
     "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
     "rating": 0.2682926829268293,
     "type": "list",
+    "ssl": true
+  },
+  {
+    "county": "San Francisco County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
+    "type": "paragraph",
+    "rating": 0.24390243902439024,
     "ssl": true
   },
   {

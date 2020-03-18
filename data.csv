@@ -938,7 +938,7 @@ city,county,state,country,cases,deaths,recovered,tested,active,population,lat,lo
 ,Yakima County,WA,USA,5,0,,,5,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,0.6341463414634146,882,county
 ,(unassigned),WA,USA,70,0,,,70,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,0.6341463414634146,,county
 ,,WA,USA,1012,52,,,960,7614893,37.87138458300004,45.68986573358319,https://www.doh.wa.gov/Emergencies/Coronavirus,0.5365853658536586,883,county
-,San Francisco County,CA,USA,43,0,,,43,883305,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,0.4146341463414634,884,
+,San Francisco County,CA,USA,43,0,,,43,883305,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,0.3902439024390244,884,
 ,San Mateo County,CA,USA,64,1,,,63,769545,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,0.4146341463414634,885,
 ,Alameda County,CA,USA,0,0,,,0,1666753,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,0.3902439024390244,886,
 ,Sonoma County,CA,USA,6,,,,6,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,0.3170731707317073,887,
