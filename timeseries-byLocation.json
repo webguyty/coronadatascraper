@@ -13721,9 +13721,8 @@
       -14.236725569657125
     ],
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "aggregate": "state",
-    "rating": 0.4634146341463415,
-    "format": "json",
+    "aggregate": "county",
+    "rating": 0.7073170731707317,
     "featureId": 1056,
     "population": 207353391
   },
@@ -152562,8 +152561,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1045
   },
   "RJ, BRA": {
@@ -152857,8 +152856,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1047
   },
   "SC, BRA": {
@@ -153152,8 +153151,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1050
   },
   "SP, BRA": {
@@ -153447,8 +153446,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1048
   },
   "RS, BRA": {
@@ -153742,8 +153741,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1051
   },
   "PR, BRA": {
@@ -154037,8 +154036,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1049
   },
   "CE, BRA": {
@@ -154332,8 +154331,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1038
   },
   "DF, BRA": {
@@ -154543,8 +154542,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1055
   },
   "Abruzzo, ITA": {
@@ -158351,8 +158350,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1044
   },
   "PB, BRA": {
@@ -158484,8 +158483,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1040
   },
   "PE, BRA": {
@@ -158617,8 +158616,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1041
   },
   "ES, BRA": {
@@ -158750,8 +158749,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1046
   },
   "Zurich, CHE": {
@@ -159001,8 +159000,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1039
   },
   "AL, BRA": {
@@ -159128,8 +159127,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1042
   },
   "MS, BRA": {
@@ -159255,8 +159254,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1052
   },
   "GO, BRA": {
@@ -159382,8 +159381,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1054
   },
   "RO, BRA": {
@@ -159485,8 +159484,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1029
   },
   "AM, BRA": {
@@ -159588,8 +159587,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1031
   },
   "PA, BRA": {
@@ -159691,8 +159690,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1033
   },
   "MA, BRA": {
@@ -159794,8 +159793,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1036
   },
   "PI, BRA": {
@@ -159897,8 +159896,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1037
   },
   "SE, BRA": {
@@ -160000,8 +159999,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1043
   },
   "MT, BRA": {
@@ -160103,8 +160102,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1053
   },
   "Saint-Barthélemy, FRA": {
@@ -161786,8 +161785,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1030
   },
   "CUB": {
@@ -175132,8 +175131,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1035
   },
   "Prince Edward Island, CAN": {
@@ -179881,8 +179880,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1032
   },
   "AP, BRA": {
@@ -179913,8 +179912,8 @@
     ],
     "country": "BRA",
     "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "format": "json",
-    "rating": 0.5121951219512195,
+    "aggregate": "county",
+    "rating": 0.7560975609756098,
     "featureId": 1034
   },
   "Barking and Dagenham, GBR": {

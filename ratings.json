@@ -1,5 +1,14 @@
 [
   {
+    "country": "BRA",
+    "type": "json",
+    "priority": 1,
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
+    "timeseries": true,
+    "aggregate": "county",
+    "rating": 0.5609756097560976
+  },
+  {
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "timeseries": true,
@@ -261,15 +270,6 @@
     "aggregate": "state",
     "rating": 0.34146341463414637,
     "ssl": true
-  },
-  {
-    "country": "BRA",
-    "type": "json",
-    "priority": 1,
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
-    "timeseries": true,
-    "format": "json",
-    "rating": 0.3170731707317073
   },
   {
     "county": "San Francisco County",
