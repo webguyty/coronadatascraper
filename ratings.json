@@ -9,19 +9,30 @@
     "ssl": true
   },
   {
+    "country": "FRA",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "timeseries": true,
+    "priority": 1,
+    "aggregate": "state",
+    "rating": 0.5365853658536586,
+    "type": "csv",
+    "ssl": true
+  },
+  {
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "aggregate": "state",
     "priority": -1,
     "rating": 0.4878048780487805,
-    "country": "USA",
+    "country": "The Gambia",
     "type": "list",
     "ssl": true
   },
   {
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "country": "USA",
     "state": "IN",
+    "priority": 1,
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "aggregate": "county",
     "rating": 0.4634146341463415,
     "type": "csv",
@@ -49,7 +60,7 @@
     "state": "LA",
     "country": "USA",
     "aggregate": "county",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "url": "https://opendata.arcgis.com/datasets/79e1165ecb95496589d39faa25a83ad4_0.csv",
     "type": "csv",
     "rating": 0.4634146341463415,
     "ssl": true
@@ -61,6 +72,15 @@
     "aggregate": "county",
     "type": "csv",
     "url": "https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv",
+    "rating": 0.4634146341463415,
+    "ssl": true
+  },
+  {
+    "state": "MD",
+    "country": "USA",
+    "aggregate": "county",
+    "type": "csv",
+    "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
     "rating": 0.4634146341463415,
     "ssl": true
   },
@@ -102,7 +122,7 @@
   {
     "state": "NY",
     "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/",
+    "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "type": "table",
     "aggregate": "county",
     "rating": 0.43902439024390244,
@@ -194,25 +214,6 @@
     "type": "list",
     "aggregate": "county",
     "rating": 0.4146341463414634,
-    "ssl": true
-  },
-  {
-    "state": "MD",
-    "country": "USA",
-    "url": "https://coronavirus.maryland.gov/",
-    "aggregate": "county",
-    "rating": 0.4146341463414634,
-    "type": "list",
-    "ssl": true
-  },
-  {
-    "state": "IA",
-    "country": "USA",
-    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
-    "type": "table",
-    "aggregate": "county",
-    "headless": true,
-    "rating": 0.3902439024390244,
     "ssl": true
   },
   {
@@ -351,6 +352,14 @@
     "ssl": true
   },
   {
+    "county": "San Joaquin County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.sjcphs.org/coronavirus.aspx#res",
+    "type": "table",
+    "rating": 0.2682926829268293
+  },
+  {
     "county": "Merced County",
     "state": "CA",
     "country": "USA",
@@ -382,6 +391,15 @@
     "state": "CA",
     "country": "USA",
     "url": "https://covid19.calaverasgov.us/",
+    "rating": 0.2682926829268293,
+    "type": "list",
+    "ssl": true
+  },
+  {
+    "county": "Glenn County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
     "rating": 0.2682926829268293,
     "type": "list",
     "ssl": true
@@ -489,14 +507,6 @@
     "type": "list"
   },
   {
-    "county": "San Joaquin County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.sjcphs.org/coronavirus.aspx#res",
-    "rating": 0.24390243902439024,
-    "type": "list"
-  },
-  {
     "county": "Colusa County",
     "state": "CA",
     "country": "USA",
@@ -528,6 +538,14 @@
     "type": "paragraph",
     "rating": 0.24390243902439024,
     "ssl": true
+  },
+  {
+    "state": "IL",
+    "country": "USA",
+    "priority": 1,
+    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
+    "rating": 0.1951219512195122,
+    "type": "json"
   },
   {
     "state": "DC",
