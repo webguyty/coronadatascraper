@@ -1,26 +1,15 @@
 {
   "scrape": {
     "numCountries": 146,
-    "numStates": 170,
-    "numCounties": 800,
+    "numStates": 197,
+    "numCounties": 809,
     "numCities": 0,
-    "numDuplicates": 25,
-    "numErrors": 2,
-    "errors": [
-      {
-        "name": "CO, USA",
-        "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-        "err": "Error: Hey remember how Colorado is awful at reporting data? You gotta do manual work again today to get it"
-      },
-      {
-        "name": "IA, USA",
-        "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
-        "err": "Error: Invalid data: contains no case data"
-      }
-    ]
+    "numDuplicates": 28,
+    "numErrors": 0,
+    "errors": []
   },
   "findFeatures": {
-    "numFeaturesFound": 1023,
+    "numFeaturesFound": 1059,
     "missingFeatures": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
@@ -115,7 +104,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 891,
+    "numLocationsWithPopulation": 900,
     "missingPopulations": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",

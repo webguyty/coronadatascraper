@@ -217,6 +217,16 @@
     "ssl": true
   },
   {
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "aggregate": "county",
+    "headless": true,
+    "rating": 0.3902439024390244,
+    "ssl": true
+  },
+  {
     "state": "WA",
     "country": "USA",
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
@@ -251,6 +261,15 @@
     "aggregate": "state",
     "rating": 0.34146341463414637,
     "ssl": true
+  },
+  {
+    "country": "BRA",
+    "type": "json",
+    "priority": 1,
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
+    "timeseries": true,
+    "format": "json",
+    "rating": 0.3170731707317073
   },
   {
     "county": "San Francisco County",
@@ -551,6 +570,14 @@
     "state": "DC",
     "country": "USA",
     "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+    "type": "paragraph",
+    "rating": 0.14634146341463414,
+    "ssl": true
+  },
+  {
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "paragraph",
     "rating": 0.14634146341463414,
     "ssl": true
