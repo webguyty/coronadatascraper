@@ -38,6 +38,17 @@
     "ssl": true
   },
   {
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "type": "csv",
+    "timeseries": true,
+    "priority": -1,
+    "rating": 0.4878048780487805,
+    "county": "Grand County",
+    "ssl": true
+  },
+  {
     "country": "USA",
     "state": "IN",
     "priority": 1,
@@ -571,14 +582,6 @@
     "state": "DC",
     "country": "USA",
     "url": "https://coronavirus.dc.gov/page/coronavirus-data",
-    "type": "paragraph",
-    "rating": 0.14634146341463414,
-    "ssl": true
-  },
-  {
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "paragraph",
     "rating": 0.14634146341463414,
     "ssl": true

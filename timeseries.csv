@@ -2381,15 +2381,15 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,GA,USA,10617423,32.68249920507424,-83.22068258120515,https://github.com/CSSEGISandData/COVID-19,121,1,,120,,1.2222222222222223,2020-03-16
 ,,GA,USA,10617423,32.68249920507424,-83.22068258120515,https://github.com/CSSEGISandData/COVID-19,146,1,,145,,1.2066115702479339,2020-03-17
 ,,GA,USA,10617423,32.68249920507424,-83.22068258120515,https://github.com/CSSEGISandData/COVID-19,199,3,,196,,1.3630136986301369,2020-03-18
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,15,,,15,,,2020-03-10
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,34,,,34,,2.2666666666666666,2020-03-11
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,45,,,45,,1.3235294117647058,2020-03-12
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,49,,,49,,1.0888888888888888,2020-03-13
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,98,,,98,,2,2020-03-14
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,131,,,131,758,1.336734693877551,2020-03-15
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,160,,,160,1216,1.2213740458015268,2020-03-16
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,160,,,160,1216,1,2020-03-17
-,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,160,,,160,1216,1,2020-03-18
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,15,,,15,,,2020-03-10
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,34,,,34,,2.2666666666666666,2020-03-11
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,45,,,45,,1.3235294117647058,2020-03-12
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,49,,,49,,1.0888888888888888,2020-03-13
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,98,,,98,,2,2020-03-14
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,131,,,131,758,1.336734693877551,2020-03-15
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,160,,,160,1216,1.2213740458015268,2020-03-16
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,160,,,160,1216,1,2020-03-17
+,,CO,USA,5758736,38.99982098225249,-105.54309696705135,https://github.com/CSSEGISandData/COVID-19,184,2,,182,,1.15,2020-03-18
 ,,FL,USA,21477737,28.060753542550117,-83.82965067998012,https://github.com/CSSEGISandData/COVID-19,15,2,,13,,,2020-03-10
 ,,FL,USA,21477737,28.060753542550117,-83.82965067998012,https://github.com/CSSEGISandData/COVID-19,28,2,,26,,1.8666666666666667,2020-03-11
 ,,FL,USA,21477737,28.060753542550117,-83.82965067998012,https://github.com/CSSEGISandData/COVID-19,35,2,,33,,1.25,2020-03-12
@@ -5176,18 +5176,22 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Union County,NJ,USA,558067,40.665566,-74.300027,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,8,,,8,13,2,2020-03-16
 ,Union County,NJ,USA,558067,40.665566,-74.300027,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,15,,,15,20,1.875,2020-03-17
 ,Union County,NJ,USA,558067,40.665566,-74.300027,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,26,,,26,31,1.7333333333333334,2020-03-18
-,Eagle County,CO,USA,,39.6553,-106.8287,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,,2020-03-10
-,Eagle County,CO,USA,,39.6553,-106.8287,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,4,,,4,,2,2020-03-11
-,Eagle County,CO,USA,,39.6553,-106.8287,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,20,,,20,,,2020-03-14
-,Larimer County,CO,USA,,40.6956,-105.5943,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-10
-,Larimer County,CO,USA,,40.6956,-105.5943,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-11
-,Larimer County,CO,USA,,40.6956,-105.5943,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-14
-,Arapahoe County,CO,USA,,39.6203,-104.3326,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,,2020-03-10
-,Arapahoe County,CO,USA,,39.6203,-104.3326,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,1.5,2020-03-11
-,Arapahoe County,CO,USA,,39.6203,-104.3326,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,10,,,10,,,2020-03-14
-,Gunnison County,CO,USA,,38.5458,-106.9253,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-10
-,Gunnison County,CO,USA,,38.5458,-106.9253,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,5,,,5,,5,2020-03-11
-,Gunnison County,CO,USA,,38.5458,-106.9253,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,6,,,6,,,2020-03-14
+,Eagle County,CO,USA,54895,39.6373275,-106.645068,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-10
+,Eagle County,CO,USA,54895,39.6373275,-106.645068,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,4,,,4,,2,2020-03-11
+,Eagle County,CO,USA,54895,39.6373275,-106.645068,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,20,,,20,,,2020-03-14
+,Eagle County,CO,USA,54895,39.6373275,-106.645068,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,39,,,39,,,2020-03-18
+,Larimer County,CO,USA,350424,40.628046999999995,-105.5669625,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-10
+,Larimer County,CO,USA,350424,40.628046999999995,-105.5669625,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-11
+,Larimer County,CO,USA,350424,40.628046999999995,-105.5669625,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-14
+,Larimer County,CO,USA,350424,40.628046999999995,-105.5669625,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,4,,,4,,,2020-03-18
+,Arapahoe County,CO,USA,651513,39.6533655,-104.38034350000001,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-10
+,Arapahoe County,CO,USA,651513,39.6533655,-104.38034350000001,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,1.5,2020-03-11
+,Arapahoe County,CO,USA,651513,39.6533655,-104.38034350000001,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,10,,,10,,,2020-03-14
+,Arapahoe County,CO,USA,651513,39.6533655,-104.38034350000001,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,22,,,22,,,2020-03-18
+,Gunnison County,CO,USA,17182,38.702179,-106.94099,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-10
+,Gunnison County,CO,USA,17182,38.702179,-106.94099,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,5,,,5,,5,2020-03-11
+,Gunnison County,CO,USA,17182,38.702179,-106.94099,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,6,,,6,,,2020-03-14
+,Gunnison County,CO,USA,17182,38.702179,-106.94099,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,11,,,11,,,2020-03-18
 ,Kane County,IL,USA,534216,41.9369435,-88.419968,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,1,,,1,,,2020-03-10
 ,Kane County,IL,USA,534216,41.9369435,-88.419968,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,1,,,1,,1,2020-03-11
 ,Kane County,IL,USA,534216,41.9369435,-88.419968,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,3,,,3,,,2020-03-17
@@ -5563,12 +5567,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Davis County,UT,USA,351713,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,1,,,1,,1,2020-03-10
 ,Davis County,UT,USA,351713,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,1,,,1,,1,2020-03-11
 ,Davis County,UT,USA,351713,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,2,,,2,,,2020-03-14
-,El Paso County,CO,USA,,38.9108,-104.4723,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-07
-,El Paso County,CO,USA,,38.9108,-104.4723,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-08
-,El Paso County,CO,USA,,38.9108,-104.4723,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-09
-,El Paso County,CO,USA,,38.9108,-104.4723,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-10
-,El Paso County,CO,USA,,38.9108,-104.4723,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-11
-,El Paso County,CO,USA,,38.9108,-104.4723,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,,2020-03-14
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-07
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-08
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-09
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-10
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-11
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,,2020-03-14
+,El Paso County,CO,USA,714536,38.824693999999994,-104.5619235,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,8,,,8,,,2020-03-18
 ,Honolulu County,HI,USA,,21.307,-157.8584,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-07
 ,Honolulu County,HI,USA,,21.307,-157.8584,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-08
 ,Honolulu County,HI,USA,,21.307,-157.8584,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-09
@@ -5634,12 +5639,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Tulsa County,OK,USA,,36.1593,-95.941,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-09
 ,Tulsa County,OK,USA,,36.1593,-95.941,https://github.com/CSSEGISandData/COVID-19,2,,,2,,2,2020-03-10
 ,Tulsa County,OK,USA,,36.1593,-95.941,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-03-11
-,Douglas County,CO,USA,,39.2587,-104.9389,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,,2020-03-07
-,Douglas County,CO,USA,,39.2587,-104.9389,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,1,2020-03-08
-,Douglas County,CO,USA,,39.2587,-104.9389,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,1,2020-03-09
-,Douglas County,CO,USA,,39.2587,-104.9389,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,1,2020-03-10
-,Douglas County,CO,USA,,39.2587,-104.9389,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,1,2020-03-11
-,Douglas County,CO,USA,,39.2587,-104.9389,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,4,,,4,,,2020-03-14
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,,2020-03-07
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,1,2020-03-08
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,1,2020-03-09
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,1,2020-03-10
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,1,2020-03-11
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,4,,,4,,,2020-03-14
+,Douglas County,CO,USA,342937,39.34788,-104.994923,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,11,,,11,,,2020-03-18
 ,Providence County,RI,USA,,41.8882,-71.4774,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-01
 ,Providence County,RI,USA,,41.8882,-71.4774,https://github.com/CSSEGISandData/COVID-19,2,,,2,,2,2020-03-02
 ,Providence County,RI,USA,,41.8882,-71.4774,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-03-03
@@ -5906,20 +5912,22 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Suffolk County,MA,USA,,42.3601,-71.0589,https://github.com/CSSEGISandData/COVID-19,8,,1,7,,1,2020-03-09
 ,Suffolk County,MA,USA,,42.3601,-71.0589,https://github.com/CSSEGISandData/COVID-19,10,,1,9,,1.25,2020-03-10
 ,Suffolk County,MA,USA,,42.3601,-71.0589,https://github.com/CSSEGISandData/COVID-19,20,,1,19,,2,2020-03-11
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,,2020-03-06
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,1,2020-03-07
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,1,2020-03-08
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,1,2020-03-09
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,1.5,2020-03-10
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,6,,,6,,2,2020-03-11
-,Denver County,CO,USA,,39.7392,-104.9903,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,21,,,21,,,2020-03-14
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-06
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-07
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-08
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-09
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-10
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,1,2020-03-11
-,Summit County,CO,USA,,39.5912,-106.064,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,2,,,2,,,2020-03-14
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-06
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,1,2020-03-07
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,1,2020-03-08
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,1,2020-03-09
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,1.5,2020-03-10
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,6,,,6,,2,2020-03-11
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,21,,,21,,,2020-03-14
+,Denver County,CO,USA,717862,39.76426,-104.855181,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,43,,,43,,,2020-03-18
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-06
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-07
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-08
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-09
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-10
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,1,2020-03-11
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-14
+,Summit County,CO,USA,30978,39.6416725,-106.10532549999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,4,,,4,,,2020-03-18
 ,Bergen County,NJ,USA,936692,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,2,,,2,,,2020-03-05
 ,Bergen County,NJ,USA,936692,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,2,,,2,,1,2020-03-06
 ,Bergen County,NJ,USA,936692,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,4,,,4,,2,2020-03-07
@@ -6606,8 +6614,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Middlesex County,NJ,USA,829685,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,17,,,17,21,1.4166666666666667,2020-03-16
 ,Middlesex County,NJ,USA,829685,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,22,,,22,26,1.2941176470588236,2020-03-17
 ,Middlesex County,NJ,USA,829685,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,40,,,40,44,1.8181818181818181,2020-03-18
-,Jefferson County,CO,USA,,39.58,-105.2663,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,,2020-03-11
-,Jefferson County,CO,USA,,39.58,-105.2663,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,9,,,9,,,2020-03-14
+,Jefferson County,CO,USA,579877,39.5219745,-105.2238445,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,,2020-03-11
+,Jefferson County,CO,USA,579877,39.5219745,-105.2238445,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,9,,,9,,,2020-03-14
+,Jefferson County,CO,USA,579877,39.5219745,-105.2238445,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,25,,,25,,,2020-03-18
 ,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-11
 ,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-13
 ,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-14
@@ -8206,11 +8215,16 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-16
 ,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-17
 ,Baldwin County,AL,USA,218022,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-18
-,Adams County,CO,USA,,,,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,6,,,6,,,2020-03-14
-,Mesa County,CO,USA,,,,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-14
-,Pitkin County,CO,USA,,,,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,11,,,11,,,2020-03-14
-,Pueblo County,CO,USA,,,,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,1,,,1,,,2020-03-14
-,Weld County,CO,USA,,,,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,3,,,3,,,2020-03-14
+,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,6,,,6,,,2020-03-14
+,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,10,,,10,,,2020-03-18
+,Mesa County,CO,USA,153628,38.933332,-108.21971400000001,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-14
+,Mesa County,CO,USA,153628,38.933332,-108.21971400000001,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-18
+,Pitkin County,CO,USA,17926,39.171949,-106.946222,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,11,,,11,,,2020-03-14
+,Pitkin County,CO,USA,17926,39.171949,-106.946222,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,11,,,11,,,2020-03-18
+,Pueblo County,CO,USA,167081,38.1285485,-104.5522995,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-14
+,Pueblo County,CO,USA,167081,38.1285485,-104.5522995,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-18
+,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,3,,,3,,,2020-03-14
+,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,9,,,9,,,2020-03-18
 ,St. John the Baptist Parish,LA,USA,43184,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/79e1165ecb95496589d39faa25a83ad4_0.csv,1,,,1,,,2020-03-14
 ,St. John the Baptist Parish,LA,USA,43184,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/79e1165ecb95496589d39faa25a83ad4_0.csv,1,,,1,,1,2020-03-15
 ,St. John the Baptist Parish,LA,USA,43184,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/79e1165ecb95496589d39faa25a83ad4_0.csv,1,,,1,,1,2020-03-16
@@ -9233,6 +9247,11 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Madison County,MS,USA,105630,32.6424515,-90.0900265,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,,2020-03-18
 ,Perry County,MS,USA,11931,31.1719645,-88.9902575,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,,2020-03-18
 ,Calhoun County,AL,USA,114277,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-18
+,Boulder County,CO,USA,325520,40.0878355,-105.37153699999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,7,,,7,,,2020-03-18
+,Garfield County,CO,USA,59854,39.728802,-108.0417065,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-18
+,Routt County,CO,USA,25716,40.4610575,-107.034562,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-18
+,Clear Creek County,CO,USA,9659,39.7084305,-105.66211949999999,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,2,,,2,,,2020-03-18
+,Grand County,CO,USA,15503,40.085187000000005,-106.14149,https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv,1,,,1,,,2020-03-18
 ,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,1,,,2020-03-18
 ,Washington County,IA,USA,22141,41.336486,-91.715019,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-18
 ,Winneshiek County,IA,USA,20029,43.291228000000004,-91.842569,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-18

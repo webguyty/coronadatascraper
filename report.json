@@ -3,14 +3,14 @@
   "scrape": {
     "numCountries": 146,
     "numStates": 198,
-    "numCounties": 847,
+    "numCounties": 911,
     "numCities": 0,
     "numDuplicates": 32,
     "numErrors": 0,
     "errors": []
   },
   "findFeatures": {
-    "numFeaturesFound": 1084,
+    "numFeaturesFound": 1148,
     "missingFeatures": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",

@@ -6980,6 +6980,23 @@
   },
   {
     "country": "USA",
+    "state": "CO",
+    "cases": 184,
+    "recovered": 0,
+    "deaths": 2,
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "aggregate": "state",
+    "rating": 0.7804878048780488,
+    "active": 182,
+    "coordinates": [
+      -105.54309696705135,
+      38.99982098225249
+    ],
+    "featureId": 415,
+    "population": 5758736
+  },
+  {
+    "country": "USA",
     "state": "FL",
     "cases": 314,
     "recovered": 0,
@@ -6992,42 +7009,8 @@
       -83.82965067998012,
       28.060753542550117
     ],
-    "featureId": 415,
-    "population": 21477737
-  },
-  {
-    "country": "USA",
-    "state": "OR",
-    "cases": 68,
-    "recovered": 0,
-    "deaths": 2,
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "aggregate": "state",
-    "rating": 0.7804878048780488,
-    "active": 66,
-    "coordinates": [
-      -120.50533834262885,
-      44.11740471870206
-    ],
     "featureId": 416,
-    "population": 4217737
-  },
-  {
-    "country": "USA",
-    "state": "IA",
-    "cases": 29,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "aggregate": "state",
-    "rating": 0.7804878048780488,
-    "active": 29,
-    "coordinates": [
-      -93.38911747419203,
-      41.94023846253498
-    ],
-    "featureId": 417,
-    "population": 3155070
+    "population": 21477737
   },
   {
     "country": "USA",
@@ -7043,7 +7026,7 @@
       -80.96432271741013,
       33.619274050261765
     ],
-    "featureId": 418,
+    "featureId": 417,
     "population": 5148714
   },
   {
@@ -7060,7 +7043,7 @@
       -85.98153690830165,
       35.837455259602535
     ],
-    "featureId": 419,
+    "featureId": 418,
     "population": 6829174
   },
   {
@@ -7077,7 +7060,7 @@
       -79.76028754243612,
       37.99530438119223
     ],
-    "featureId": 420,
+    "featureId": 419,
     "population": 8535519
   },
   {
@@ -7094,7 +7077,7 @@
       -111.93299895849756,
       34.165156819218375
     ],
-    "featureId": 421,
+    "featureId": 420,
     "population": 7278717
   },
   {
@@ -7111,7 +7094,7 @@
       -85.69484257237679,
       37.820719419565535
     ],
-    "featureId": 422,
+    "featureId": 421,
     "population": 4467673
   },
   {
@@ -7128,7 +7111,7 @@
       -117.02047733760901,
       38.50182293528022
     ],
-    "featureId": 423,
+    "featureId": 422,
     "population": 3080156
   },
   {
@@ -7145,7 +7128,7 @@
       -71.64192281532604,
       44.002575579129676
     ],
-    "featureId": 424,
+    "featureId": 423,
     "population": 1359711
   },
   {
@@ -7162,7 +7145,7 @@
       -93.36252550514794,
       46.434810139826055
     ],
-    "featureId": 425,
+    "featureId": 424,
     "population": 5639632
   },
   {
@@ -7179,7 +7162,7 @@
       -99.68549198596634,
       41.50023602157509
     ],
-    "featureId": 426,
+    "featureId": 425,
     "population": 1934408
   },
   {
@@ -7196,7 +7179,7 @@
       -82.67188114679749,
       40.36645852284252
     ],
-    "featureId": 427,
+    "featureId": 426,
     "population": 11689100
   },
   {
@@ -7213,25 +7196,8 @@
       -71.48453225865693,
       41.66332011094793
     ],
-    "featureId": 428,
+    "featureId": 427,
     "population": 1059361
-  },
-  {
-    "country": "USA",
-    "state": "WI",
-    "cases": 92,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "aggregate": "state",
-    "rating": 0.7804878048780488,
-    "active": 92,
-    "coordinates": [
-      -89.56690985655462,
-      44.89991863863423
-    ],
-    "featureId": 429,
-    "population": 5822434
   },
   {
     "country": "USA",
@@ -7247,7 +7213,7 @@
       -72.75935673202756,
       41.52780529315321
     ],
-    "featureId": 430,
+    "featureId": 428,
     "population": 3565287
   },
   {
@@ -7264,7 +7230,7 @@
       -157.30113772849992,
       20.58419053050008
     ],
-    "featureId": 431,
+    "featureId": 429,
     "population": 1415872
   },
   {
@@ -7281,7 +7247,7 @@
       -98.71994022800911,
       35.32361248602737
     ],
-    "featureId": 432,
+    "featureId": 430,
     "population": 3956971
   },
   {
@@ -7298,7 +7264,7 @@
       -111.54443973955233,
       39.49994305252983
     ],
-    "featureId": 433,
+    "featureId": 431,
     "population": 3205958
   },
   {
@@ -7314,7 +7280,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 19,
-    "featureId": 434,
+    "featureId": 432,
     "population": 20107509
   },
   {
@@ -7330,7 +7296,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 435,
+    "featureId": 433,
     "population": 1000
   },
   {
@@ -7346,7 +7312,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6,
-    "featureId": 436,
+    "featureId": 434,
     "population": 3068243
   },
   {
@@ -7362,7 +7328,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 85,
-    "featureId": 437,
+    "featureId": 435,
     "population": 3753142
   },
   {
@@ -7379,7 +7345,7 @@
       -98.33450321689992,
       38.49995525967745
     ],
-    "featureId": 438,
+    "featureId": 436,
     "population": 2913314
   },
   {
@@ -7396,7 +7362,7 @@
       -92.44567264977294,
       38.30249432230511
     ],
-    "featureId": 439,
+    "featureId": 437,
     "population": 6137428
   },
   {
@@ -7413,7 +7379,7 @@
       -72.47219594044931,
       43.87150381198679
     ],
-    "featureId": 440,
+    "featureId": 438,
     "population": 623989
   },
   {
@@ -7430,7 +7396,7 @@
       0.7835596040000752,
       61.51689280800005
     ],
-    "featureId": 441,
+    "featureId": 439,
     "population": 731545
   },
   {
@@ -7447,7 +7413,7 @@
       -92.142816204804,
       34.755387388617066
     ],
-    "featureId": 442,
+    "featureId": 440,
     "population": 3017804
   },
   {
@@ -7464,7 +7430,7 @@
       -114.12702030654191,
       45.49602738420207
     ],
-    "featureId": 443,
+    "featureId": 441,
     "population": 1787065
   },
   {
@@ -7481,7 +7447,7 @@
       -69.03113847999994,
       45.261826073000044
     ],
-    "featureId": 444,
+    "featureId": 442,
     "population": 1344212
   },
   {
@@ -7498,7 +7464,7 @@
       -86.2800539156174,
       44.99773029893432
     ],
-    "featureId": 445,
+    "featureId": 443,
     "population": 9986857
   },
   {
@@ -7515,7 +7481,7 @@
       -110.04412235741086,
       46.70905513463874
     ],
-    "featureId": 446,
+    "featureId": 444,
     "population": 1068778
   },
   {
@@ -7532,7 +7498,7 @@
       -106.02383427161152,
       34.16360001562739
     ],
-    "featureId": 447,
+    "featureId": 445,
     "population": 2096829
   },
   {
@@ -7549,7 +7515,7 @@
       -100.3019580214955,
       47.46721085597658
     ],
-    "featureId": 448,
+    "featureId": 446,
     "population": 762062
   },
   {
@@ -7566,7 +7532,7 @@
       -100.2551086848679,
       44.230179869105655
     ],
-    "featureId": 449,
+    "featureId": 447,
     "population": 884659
   },
   {
@@ -7583,7 +7549,7 @@
       -80.1829407161911,
       38.92806805344787
     ],
-    "featureId": 450,
+    "featureId": 448,
     "population": 1792147
   },
   {
@@ -7600,7 +7566,7 @@
       -107.55199589229656,
       42.999967466625236
     ],
-    "featureId": 451,
+    "featureId": 449,
     "population": 578759
   },
   {
@@ -7617,7 +7583,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 7751,
-    "featureId": 452,
+    "featureId": 450,
     "population": 59170000
   },
   {
@@ -7633,7 +7599,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 10837,
-    "featureId": 453,
+    "featureId": 451,
     "population": 82021564
   },
   {
@@ -7649,7 +7615,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6789,
-    "featureId": 454,
+    "featureId": 452,
     "population": 51181299
   },
   {
@@ -7666,7 +7632,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 49,
-    "featureId": 455,
+    "featureId": 453,
     "population": 113460000
   },
   {
@@ -7683,7 +7649,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 456,
+    "featureId": 454,
     "population": 96050000
   },
   {
@@ -7700,7 +7666,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 15,
-    "featureId": 457,
+    "featureId": 455,
     "population": 57370000
   },
   {
@@ -7717,7 +7683,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 458,
+    "featureId": 456,
     "population": 68990000
   },
   {
@@ -7734,7 +7700,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 459,
+    "featureId": 457,
     "population": 63240000
   },
   {
@@ -7751,7 +7717,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 460,
+    "featureId": 458,
     "population": 46480000
   },
   {
@@ -7768,7 +7734,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 8,
-    "featureId": 461,
+    "featureId": 459,
     "population": 100470000
   },
   {
@@ -7785,7 +7751,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 462,
+    "featureId": 460,
     "population": 80510000
   },
   {
@@ -7802,7 +7768,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 463,
+    "featureId": 461,
     "population": 31020000
   },
   {
@@ -7819,7 +7785,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 12,
-    "featureId": 464,
+    "featureId": 462,
     "population": 83410000
   },
   {
@@ -7836,7 +7802,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 10,
-    "featureId": 465,
+    "featureId": 463,
     "population": 37730000
   },
   {
@@ -7853,7 +7819,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 83,
-    "featureId": 466,
+    "featureId": 464,
     "population": 21540000
   },
   {
@@ -7870,7 +7836,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 32,
-    "featureId": 467,
+    "featureId": 465,
     "population": 24240000
   },
   {
@@ -7887,7 +7853,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 468,
+    "featureId": 466,
     "population": 75560000
   },
   {
@@ -7904,7 +7870,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 469,
+    "featureId": 467,
     "population": 39410000
   },
   {
@@ -7921,7 +7887,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 470,
+    "featureId": 468,
     "population": 49260000
   },
   {
@@ -7938,7 +7904,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6,
-    "featureId": 471,
+    "featureId": 469,
     "population": 38640000
   },
   {
@@ -7955,7 +7921,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 472,
+    "featureId": 470,
     "population": 48300000
   },
   {
@@ -7972,7 +7938,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 473,
+    "featureId": 471,
     "population": 9340000
   },
   {
@@ -7989,7 +7955,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 474,
+    "featureId": 472,
     "population": 36000000
   },
   {
@@ -8006,7 +7972,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 475,
+    "featureId": 473,
     "population": 15600000
   },
   {
@@ -8023,7 +7989,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 476,
+    "featureId": 474,
     "population": 37180000
   },
   {
@@ -8040,7 +8006,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 40,
-    "featureId": 477,
+    "featureId": 475,
     "population": 26370000
   },
   {
@@ -8071,7 +8037,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 478,
+    "featureId": 476,
     "population": 43590000
   },
   {
@@ -8088,7 +8054,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 479,
+    "featureId": 477,
     "population": 27040000
   },
   {
@@ -8104,7 +8070,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 461,
-    "featureId": 480,
+    "featureId": 478,
     "population": 10674723
   },
   {
@@ -8121,7 +8087,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 481,
+    "featureId": 479,
     "population": 24870000
   },
   {
@@ -8138,7 +8104,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 482,
+    "featureId": 480,
     "population": 25000034
   },
   {
@@ -8155,7 +8121,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 483,
+    "featureId": 481,
     "population": 6880000
   },
   {
@@ -8171,7 +8137,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 77,
-    "featureId": 484,
+    "featureId": 482,
     "population": 23508428
   },
   {
@@ -8187,7 +8153,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 59,
-    "featureId": 485,
+    "featureId": 483,
     "population": 96160163
   },
   {
@@ -8203,7 +8169,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 139,
-    "featureId": 486,
+    "featureId": 484,
     "population": 142257519
   },
   {
@@ -8220,7 +8186,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 487,
+    "featureId": 485,
     "population": 6030000
   },
   {
@@ -8252,7 +8218,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 28,
-    "featureId": 488,
+    "featureId": 486,
     "population": 3474121
   },
   {
@@ -8268,7 +8234,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 12,
-    "featureId": 489,
+    "featureId": 487,
     "population": 11138234
   },
   {
@@ -8285,7 +8251,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 3,
-    "featureId": 490
+    "featureId": 488
   },
   {
     "country": "HND",
@@ -8300,7 +8266,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 9,
-    "featureId": 491,
+    "featureId": 489,
     "population": 9038741
   },
   {
@@ -8332,7 +8298,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 0,
-    "featureId": 492,
+    "featureId": 490,
     "population": 3440000
   },
   {
@@ -8348,7 +8314,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 4,
-    "featureId": 493,
+    "featureId": 491,
     "population": 83301151
   },
   {
@@ -8364,7 +8330,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 5,
-    "featureId": 494,
+    "featureId": 492,
     "population": 24184810
   },
   {
@@ -8381,7 +8347,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 3,
-    "featureId": 495,
+    "featureId": 493,
     "population": 9793
   },
   {
@@ -8397,7 +8363,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 11,
-    "featureId": 496,
+    "featureId": 494,
     "population": 2990561
   },
   {
@@ -8413,7 +8379,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 97,
-    "featureId": 497,
+    "featureId": 495,
     "population": 80845215
   },
   {
@@ -8430,7 +8396,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6,
-    "featureId": 498,
+    "featureId": 496,
     "population": 32194
   },
   {
@@ -8446,7 +8412,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6,
-    "featureId": 499,
+    "featureId": 497,
     "population": 11147407
   },
   {
@@ -8462,7 +8428,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6,
-    "featureId": 500,
+    "featureId": 498,
     "population": 737718
   },
   {
@@ -8478,7 +8444,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2490,
-    "featureId": 501,
+    "featureId": 499,
     "population": 64769452
   },
   {
@@ -8494,7 +8460,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 35,
-    "featureId": 502,
+    "featureId": 500,
     "population": 18556698
   },
   {
@@ -8525,7 +8491,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 6,
-    "featureId": 503,
+    "featureId": 501,
     "population": 105350020
   },
   {
@@ -8541,7 +8507,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 504,
+    "featureId": 502,
     "population": 37345935
   },
   {
@@ -8557,7 +8523,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 505,
+    "featureId": 503,
     "population": 12413867
   },
   {
@@ -8573,7 +8539,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 3,
-    "featureId": 506,
+    "featureId": 504,
     "population": 47615739
   },
   {
@@ -8589,7 +8555,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 507,
+    "featureId": 505,
     "population": 94731
   },
   {
@@ -8605,7 +8571,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 50,
-    "featureId": 508,
+    "featureId": 506,
     "population": 3360148
   },
   {
@@ -8621,7 +8587,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 7,
-    "featureId": 509,
+    "featureId": 507,
     "population": 27499924
   },
   {
@@ -8649,7 +8615,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 510,
+    "featureId": 508,
     "population": 2484780
   },
   {
@@ -8665,7 +8631,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 4,
-    "featureId": 511,
+    "featureId": 509,
     "population": 93920
   },
   {
@@ -8681,7 +8647,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 7,
-    "featureId": 512,
+    "featureId": 510,
     "population": 1218208
   },
   {
@@ -8697,7 +8663,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 36,
-    "featureId": 513,
+    "featureId": 511,
     "population": 31304016
   },
   {
@@ -8713,7 +8679,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 514,
+    "featureId": 512,
     "population": 1467152
   },
   {
@@ -8729,7 +8695,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 515,
+    "featureId": 513,
     "population": 1772255
   },
   {
@@ -8745,7 +8711,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 5,
-    "featureId": 516,
+    "featureId": 514,
     "population": 15460732
   },
   {
@@ -8761,7 +8727,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 517,
+    "featureId": 515,
     "population": 19245344
   },
   {
@@ -8777,7 +8743,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 8,
-    "featureId": 518,
+    "featureId": 516,
     "population": 11901484
   },
   {
@@ -8793,7 +8759,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 519,
+    "featureId": 517,
     "population": 164994
   },
   {
@@ -8809,7 +8775,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 520,
+    "featureId": 518,
     "population": 102089
   },
   {
@@ -8825,7 +8791,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 521,
+    "featureId": 519,
     "population": 591919
   },
   {
@@ -8852,7 +8818,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 522,
+    "featureId": 520,
     "population": 1895250
   },
   {
@@ -8868,7 +8834,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 523,
+    "featureId": 521,
     "population": 5625118
   },
   {
@@ -8884,7 +8850,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 524,
+    "featureId": 522,
     "population": 4954674
   },
   {
@@ -8900,7 +8866,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 4,
-    "featureId": 525,
+    "featureId": 523,
     "population": 778358
   },
   {
@@ -8916,7 +8882,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 15,
-    "featureId": 526,
+    "featureId": 524,
     "population": 29748859
   },
   {
@@ -8932,7 +8898,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 527,
+    "featureId": 525,
     "population": 11038805
   },
   {
@@ -8948,7 +8914,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 528,
+    "featureId": 526,
     "population": 57713
   },
   {
@@ -8964,7 +8930,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 529,
+    "featureId": 527,
     "population": 4689021
   },
   {
@@ -8980,7 +8946,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 530,
+    "featureId": 528,
     "population": 7531386
   },
   {
@@ -8996,7 +8962,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 3,
-    "featureId": 531,
+    "featureId": 529,
     "population": 53950935
   },
   {
@@ -9012,7 +8978,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 532
+    "featureId": 530
   },
   {
     "country": "USA",
@@ -9038,7 +9004,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 533,
+    "featureId": 531,
     "population": 292336
   },
   {
@@ -9054,7 +9020,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 534,
+    "featureId": 532,
     "population": 642550
   },
   {
@@ -9070,7 +9036,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 3,
-    "featureId": 535,
+    "featureId": 533,
     "population": 5789122
   },
   {
@@ -9086,7 +9052,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 3,
-    "featureId": 536,
+    "featureId": 534,
     "population": 1356388
   },
   {
@@ -9102,7 +9068,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 2,
-    "featureId": 537,
+    "featureId": 535,
     "population": 15972000
   },
   {
@@ -9118,7 +9084,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 538,
+    "featureId": 536,
     "population": 865267
   },
   {
@@ -9134,7 +9100,7 @@
     "aggregate": "state",
     "rating": 0.7804878048780488,
     "active": 1,
-    "featureId": 539,
+    "featureId": 537,
     "population": 2051363
   },
   {
@@ -9162,7 +9128,7 @@
       13.90075072681885,
       42.28841046055399
     ],
-    "featureId": 540,
+    "featureId": 538,
     "population": 1311580
   },
   {
@@ -9179,7 +9145,7 @@
       16.10092821894685,
       40.51736165566957
     ],
-    "featureId": 541,
+    "featureId": 539,
     "population": 562869
   },
   {
@@ -9196,7 +9162,7 @@
       11.419398570635366,
       46.65500433907897
     ],
-    "featureId": 542,
+    "featureId": 540,
     "population": 107436
   },
   {
@@ -9213,7 +9179,7 @@
       16.418351979942813,
       39.02984011561159
     ],
-    "featureId": 543,
+    "featureId": 541,
     "population": 1947131
   },
   {
@@ -9230,7 +9196,7 @@
       14.783939401902451,
       40.74896505776182
     ],
-    "featureId": 544,
+    "featureId": 542,
     "population": 5801692
   },
   {
@@ -9247,7 +9213,7 @@
       10.977418355306853,
       44.43551924350304
     ],
-    "featureId": 545,
+    "featureId": 543,
     "population": 4459477
   },
   {
@@ -9264,7 +9230,7 @@
       13.120408018720507,
       46.11416103259626
     ],
-    "featureId": 546,
+    "featureId": 544,
     "population": 1215220
   },
   {
@@ -9281,7 +9247,7 @@
       12.738640304805985,
       41.811776720877134
     ],
-    "featureId": 547,
+    "featureId": 545,
     "population": 5879082
   },
   {
@@ -9298,7 +9264,7 @@
       8.783353306551223,
       44.22635345917788
     ],
-    "featureId": 548,
+    "featureId": 546,
     "population": 1550640
   },
   {
@@ -9315,7 +9281,7 @@
       9.96253973345539,
       45.65756679322394
     ],
-    "featureId": 549,
+    "featureId": 547,
     "population": 10060574
   },
   {
@@ -9332,7 +9298,7 @@
       13.051090223045493,
       43.327895591043244
     ],
-    "featureId": 550,
+    "featureId": 548,
     "population": 1525271
   },
   {
@@ -9349,7 +9315,7 @@
       14.551257200672993,
       41.716894204537866
     ],
-    "featureId": 551,
+    "featureId": 549,
     "population": 305617
   },
   {
@@ -9366,7 +9332,7 @@
       7.920205809104651,
       45.2610218282163
     ],
-    "featureId": 552,
+    "featureId": 550,
     "population": 4356406
   },
   {
@@ -9383,7 +9349,7 @@
       16.726699634103944,
       41.010137150757664
     ],
-    "featureId": 553,
+    "featureId": 551,
     "population": 4029053
   },
   {
@@ -9400,7 +9366,7 @@
       8.980454405390873,
       40.08640349767029
     ],
-    "featureId": 554,
+    "featureId": 552,
     "population": 1639591
   },
   {
@@ -9417,7 +9383,7 @@
       13.78962610516875,
       37.15296765317062
     ],
-    "featureId": 555,
+    "featureId": 553,
     "population": 4999891
   },
   {
@@ -9434,7 +9400,7 @@
       11.02809014521221,
       43.35572961610775
     ],
-    "featureId": 556,
+    "featureId": 554,
     "population": 3729641
   },
   {
@@ -9451,7 +9417,7 @@
       11.214905976229801,
       46.10760284849263
     ],
-    "featureId": 557,
+    "featureId": 555,
     "population": 1072276
   },
   {
@@ -9468,7 +9434,7 @@
       12.578027098494626,
       42.99086726176927
     ],
-    "featureId": 558,
+    "featureId": 556,
     "population": 882015
   },
   {
@@ -9485,7 +9451,7 @@
       7.3704153357535205,
       45.726711771467265
     ],
-    "featureId": 559,
+    "featureId": 557,
     "population": 125666
   },
   {
@@ -9502,7 +9468,7 @@
       11.862938179646614,
       45.737146979710815
     ],
-    "featureId": 560,
+    "featureId": 558,
     "population": 4905854
   },
   {
@@ -9517,7 +9483,7 @@
       0.12030826146707341,
       51.54832672819592
     ],
-    "featureId": 561
+    "featureId": 559
   },
   {
     "county": "Barnet",
@@ -9531,7 +9497,7 @@
       -0.21207455134947395,
       51.61140902605567
     ],
-    "featureId": 562
+    "featureId": 560
   },
   {
     "county": "Barnsley",
@@ -9545,7 +9511,7 @@
       -1.5707457753972278,
       53.49588354104256
     ],
-    "featureId": 563
+    "featureId": 561
   },
   {
     "county": "Bath and North East Somerset",
@@ -9559,7 +9525,7 @@
       -2.49667670271765,
       51.34663361320065
     ],
-    "featureId": 564
+    "featureId": 562
   },
   {
     "county": "Bedford",
@@ -9573,7 +9539,7 @@
       -0.4537910627573467,
       52.18762872368663
     ],
-    "featureId": 565
+    "featureId": 563
   },
   {
     "county": "Bexley",
@@ -9587,7 +9553,7 @@
       0.15247684063368183,
       51.45065827116227
     ],
-    "featureId": 566
+    "featureId": 564
   },
   {
     "county": "Birmingham",
@@ -9601,7 +9567,7 @@
       -1.8858483547677736,
       52.476461290855866
     ],
-    "featureId": 567
+    "featureId": 565
   },
   {
     "county": "Blackburn with Darwen",
@@ -9615,7 +9581,7 @@
       -2.441111619305815,
       53.69625763613098
     ],
-    "featureId": 568
+    "featureId": 566
   },
   {
     "county": "Blackpool",
@@ -9629,7 +9595,7 @@
       -3.00525353831452,
       53.83887360262369
     ],
-    "featureId": 569
+    "featureId": 567
   },
   {
     "county": "Bolton",
@@ -9643,7 +9609,7 @@
       -2.4471864488955077,
       53.58462916755201
     ],
-    "featureId": 570
+    "featureId": 568
   },
   {
     "county": "Bournemouth, Christchurch and Poole",
@@ -9666,7 +9632,7 @@
       -0.7675701597850377,
       51.400511862532426
     ],
-    "featureId": 571
+    "featureId": 569
   },
   {
     "county": "Bradford",
@@ -9680,7 +9646,7 @@
       -1.812523939378309,
       53.84824612590796
     ],
-    "featureId": 572
+    "featureId": 570
   },
   {
     "county": "Brent",
@@ -9694,7 +9660,7 @@
       -0.2522658957045394,
       51.56151713725606
     ],
-    "featureId": 573
+    "featureId": 571
   },
   {
     "county": "Brighton and Hove",
@@ -9708,7 +9674,7 @@
       -0.0956836538794903,
       50.83370545060512
     ],
-    "featureId": 574
+    "featureId": 572
   },
   {
     "county": "Bristol, City of",
@@ -9731,7 +9697,7 @@
       0.044925265988212004,
       51.36398397443085
     ],
-    "featureId": 575
+    "featureId": 573
   },
   {
     "county": "Buckinghamshire",
@@ -9745,7 +9711,7 @@
       -0.8048032292356311,
       51.77382975993544
     ],
-    "featureId": 576,
+    "featureId": 574,
     "population": 781167
   },
   {
@@ -9760,7 +9726,7 @@
       -2.313881069755581,
       53.584358023753765
     ],
-    "featureId": 577
+    "featureId": 575
   },
   {
     "county": "Calderdale",
@@ -9774,7 +9740,7 @@
       -1.9539011830931372,
       53.754367784295795
     ],
-    "featureId": 578
+    "featureId": 576
   },
   {
     "county": "Cambridgeshire",
@@ -9788,7 +9754,7 @@
       0.02921563059686605,
       52.3633803375825
     ],
-    "featureId": 579,
+    "featureId": 577,
     "population": 830279
   },
   {
@@ -9803,7 +9769,7 @@
       -0.15101884604291627,
       51.534399929962774
     ],
-    "featureId": 580
+    "featureId": 578
   },
   {
     "county": "Central Bedfordshire",
@@ -9817,7 +9783,7 @@
       -0.40933641209576876,
       52.005637315759486
     ],
-    "featureId": 581
+    "featureId": 579
   },
   {
     "county": "Cheshire East",
@@ -9831,7 +9797,7 @@
       -2.3151145353575373,
       53.16374492069153
     ],
-    "featureId": 582
+    "featureId": 580
   },
   {
     "county": "Cheshire West and Chester",
@@ -9845,7 +9811,7 @@
       -2.753126456920455,
       53.1486968423354
     ],
-    "featureId": 583
+    "featureId": 581
   },
   {
     "county": "Cornwall and Isles of Scilly",
@@ -9868,7 +9834,7 @@
       -1.799640245530711,
       54.67953095184194
     ],
-    "featureId": 584
+    "featureId": 582
   },
   {
     "county": "Coventry",
@@ -9882,7 +9848,7 @@
       -1.547535670934451,
       52.397590135426384
     ],
-    "featureId": 585
+    "featureId": 583
   },
   {
     "county": "Croydon",
@@ -9896,7 +9862,7 @@
       -0.07526119659695496,
       51.366968289205175
     ],
-    "featureId": 586
+    "featureId": 584
   },
   {
     "county": "Cumbria",
@@ -9910,7 +9876,7 @@
       -2.894685635497069,
       54.65147772950007
     ],
-    "featureId": 587,
+    "featureId": 585,
     "population": 497874
   },
   {
@@ -9925,7 +9891,7 @@
       -1.5471868553890715,
       54.5325890167197
     ],
-    "featureId": 588
+    "featureId": 586
   },
   {
     "county": "Derby",
@@ -9939,7 +9905,7 @@
       -1.473741726249699,
       52.889821072034806
     ],
-    "featureId": 589
+    "featureId": 587
   },
   {
     "county": "Derbyshire",
@@ -9953,7 +9919,7 @@
       -1.596395738322684,
       53.10898082160762
     ],
-    "featureId": 590,
+    "featureId": 588,
     "population": 1032267
   },
   {
@@ -9968,7 +9934,7 @@
       -3.7468521474031253,
       50.73217421134865
     ],
-    "featureId": 591,
+    "featureId": 589,
     "population": 1159832
   },
   {
@@ -9983,7 +9949,7 @@
       -1.1025886705806727,
       53.51311636043167
     ],
-    "featureId": 592
+    "featureId": 590
   },
   {
     "county": "Dorset",
@@ -9997,7 +9963,7 @@
       -2.3107224188537714,
       50.83684499757297
     ],
-    "featureId": 593,
+    "featureId": 591,
     "population": 759768
   },
   {
@@ -10012,7 +9978,7 @@
       -2.089965285219762,
       52.49018902145616
     ],
-    "featureId": 594
+    "featureId": 592
   },
   {
     "county": "Ealing",
@@ -10026,7 +9992,7 @@
       -0.31465226938672686,
       51.52145498321087
     ],
-    "featureId": 595
+    "featureId": 593
   },
   {
     "county": "East Riding of Yorkshire",
@@ -10040,7 +10006,7 @@
       -0.4702299669435206,
       53.88757670754899
     ],
-    "featureId": 596,
+    "featureId": 594,
     "population": 594825
   },
   {
@@ -10055,7 +10021,7 @@
       0.3705739670149626,
       50.94161367390575
     ],
-    "featureId": 597,
+    "featureId": 595,
     "population": 820842
   },
   {
@@ -10070,7 +10036,7 @@
       -0.08400660437129659,
       51.6391351386757
     ],
-    "featureId": 598
+    "featureId": 596
   },
   {
     "county": "Essex",
@@ -10084,7 +10050,7 @@
       0.6384996882008807,
       51.801330145419854
     ],
-    "featureId": 599,
+    "featureId": 597,
     "population": 1773154
   },
   {
@@ -10099,7 +10065,7 @@
       -1.6728933342100163,
       54.94435801006409
     ],
-    "featureId": 600
+    "featureId": 598
   },
   {
     "county": "Gloucestershire",
@@ -10113,7 +10079,7 @@
       -2.1589416167073807,
       51.84146129050612
     ],
-    "featureId": 601,
+    "featureId": 599,
     "population": 882888
   },
   {
@@ -10128,7 +10094,7 @@
       0.04868472621913611,
       51.467168891331255
     ],
-    "featureId": 602
+    "featureId": 600
   },
   {
     "county": "Hackney and City of London",
@@ -10151,7 +10117,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 603
+    "featureId": 601
   },
   {
     "county": "Hammersmith and Fulham",
@@ -10165,7 +10131,7 @@
       -0.2078500022258254,
       51.49955709528368
     ],
-    "featureId": 604
+    "featureId": 602
   },
   {
     "county": "Hampshire",
@@ -10179,7 +10145,7 @@
       -1.3405973986010906,
       51.05528290387548
     ],
-    "featureId": 605,
+    "featureId": 603,
     "population": 1800511
   },
   {
@@ -10194,7 +10160,7 @@
       -0.09633226132478967,
       51.583918870809214
     ],
-    "featureId": 606
+    "featureId": 604
   },
   {
     "county": "Harrow",
@@ -10208,7 +10174,7 @@
       -0.3332945418096642,
       51.593362738849294
     ],
-    "featureId": 607
+    "featureId": 605
   },
   {
     "county": "Hartlepool",
@@ -10222,7 +10188,7 @@
       -1.290542151179023,
       54.666020093800526
     ],
-    "featureId": 608
+    "featureId": 606
   },
   {
     "county": "Havering",
@@ -10236,7 +10202,7 @@
       0.23417727985756187,
       51.55322306998866
     ],
-    "featureId": 609
+    "featureId": 607
   },
   {
     "county": "Herefordshire, County of",
@@ -10259,7 +10225,7 @@
       -0.25780819354329765,
       51.83029918091245
     ],
-    "featureId": 610,
+    "featureId": 608,
     "population": 1154766
   },
   {
@@ -10274,7 +10240,7 @@
       -0.43250037279398157,
       51.5343224151473
     ],
-    "featureId": 611
+    "featureId": 609
   },
   {
     "county": "Hounslow",
@@ -10288,7 +10254,7 @@
       -0.3390693831954934,
       51.454017239454004
     ],
-    "featureId": 612
+    "featureId": 610
   },
   {
     "county": "Isle of Wight",
@@ -10302,7 +10268,7 @@
       -1.2943416004999335,
       50.68117910350006
     ],
-    "featureId": 613,
+    "featureId": 611,
     "population": 139105
   },
   {
@@ -10317,7 +10283,7 @@
       -0.1091867740503858,
       51.54380504037027
     ],
-    "featureId": 614
+    "featureId": 612
   },
   {
     "county": "Kensington and Chelsea",
@@ -10331,7 +10297,7 @@
       -0.17697333470164267,
       51.49734792776462
     ],
-    "featureId": 615
+    "featureId": 613
   },
   {
     "county": "Kent",
@@ -10345,7 +10311,7 @@
       0.7391297744358951,
       51.20639796273913
     ],
-    "featureId": 616,
+    "featureId": 614,
     "population": 1784369
   },
   {
@@ -10369,7 +10335,7 @@
       -0.2657405251551097,
       51.403012600601016
     ],
-    "featureId": 617
+    "featureId": 615
   },
   {
     "county": "Kirklees",
@@ -10383,7 +10349,7 @@
       -1.8024297176073958,
       53.64010463801861
     ],
-    "featureId": 618
+    "featureId": 616
   },
   {
     "county": "Knowsley",
@@ -10397,7 +10363,7 @@
       -2.8437495108312874,
       53.42208175625544
     ],
-    "featureId": 619
+    "featureId": 617
   },
   {
     "county": "Lambeth",
@@ -10411,7 +10377,7 @@
       -0.10314063148496189,
       51.45665273733394
     ],
-    "featureId": 620
+    "featureId": 618
   },
   {
     "county": "Lancashire",
@@ -10425,7 +10391,7 @@
       -2.5321267362598974,
       53.86064036695933
     ],
-    "featureId": 621,
+    "featureId": 619,
     "population": 1471979
   },
   {
@@ -10440,7 +10406,7 @@
       -1.5114138447231653,
       53.80972938979946
     ],
-    "featureId": 622
+    "featureId": 620
   },
   {
     "county": "Leicester",
@@ -10454,7 +10420,7 @@
       -1.1258430644059274,
       52.60678925257193
     ],
-    "featureId": 623
+    "featureId": 621
   },
   {
     "county": "Leicestershire",
@@ -10468,7 +10434,7 @@
       -1.1170709903839224,
       52.67122976369262
     ],
-    "featureId": 624,
+    "featureId": 622,
     "population": 1005558
   },
   {
@@ -10483,7 +10449,7 @@
       -0.020626288272609372,
       51.45485698096485
     ],
-    "featureId": 625
+    "featureId": 623
   },
   {
     "county": "Lincolnshire",
@@ -10497,7 +10463,7 @@
       -0.22751105405745875,
       53.12138316510095
     ],
-    "featureId": 626,
+    "featureId": 624,
     "population": 1060567
   },
   {
@@ -10512,7 +10478,7 @@
       -2.9620655980152155,
       53.412221738037374
     ],
-    "featureId": 627
+    "featureId": 625
   },
   {
     "county": "Luton",
@@ -10526,7 +10492,7 @@
       -0.3940014311211826,
       51.88424937600786
     ],
-    "featureId": 628
+    "featureId": 626
   },
   {
     "county": "Manchester",
@@ -10540,7 +10506,7 @@
       -2.2513235753227434,
       53.44718915755354
     ],
-    "featureId": 629
+    "featureId": 627
   },
   {
     "county": "Medway",
@@ -10554,7 +10520,7 @@
       0.5708690730683657,
       51.41229721683642
     ],
-    "featureId": 630
+    "featureId": 628
   },
   {
     "county": "Merton",
@@ -10568,7 +10534,7 @@
       -0.18562913672528225,
       51.40890371353552
     ],
-    "featureId": 631
+    "featureId": 629
   },
   {
     "county": "Middlesbrough",
@@ -10582,7 +10548,7 @@
       -1.2151916162001442,
       54.531012885136505
     ],
-    "featureId": 632
+    "featureId": 630
   },
   {
     "county": "Milton Keynes",
@@ -10596,7 +10562,7 @@
       -0.7260095895209417,
       52.070181179218025
     ],
-    "featureId": 633
+    "featureId": 631
   },
   {
     "county": "Newcastle upon Tyne",
@@ -10610,7 +10576,7 @@
       -1.6197237394090394,
       55.01077984411447
     ],
-    "featureId": 634
+    "featureId": 632
   },
   {
     "county": "Newham",
@@ -10624,7 +10590,7 @@
       0.042922804493827016,
       51.52600250990787
     ],
-    "featureId": 635
+    "featureId": 633
   },
   {
     "county": "Norfolk",
@@ -10638,7 +10604,7 @@
       0.9523097061513965,
       52.66413290015265
     ],
-    "featureId": 636,
+    "featureId": 634,
     "population": 877710
   },
   {
@@ -10653,7 +10619,7 @@
       -0.1301505615609193,
       53.553496852445065
     ],
-    "featureId": 637
+    "featureId": 635
   },
   {
     "county": "North Lincolnshire",
@@ -10667,7 +10633,7 @@
       -0.558919283936299,
       53.58327667878578
     ],
-    "featureId": 638
+    "featureId": 636
   },
   {
     "county": "North Somerset",
@@ -10681,7 +10647,7 @@
       -2.8128399318404718,
       51.40801629048416
     ],
-    "featureId": 639
+    "featureId": 637
   },
   {
     "county": "North Tyneside",
@@ -10695,7 +10661,7 @@
       -1.5311261769496696,
       55.026428262859
     ],
-    "featureId": 640
+    "featureId": 638
   },
   {
     "county": "North Yorkshire",
@@ -10709,7 +10675,7 @@
       -1.3737297140511806,
       54.08903304402421
     ],
-    "featureId": 641,
+    "featureId": 639,
     "population": 1080136
   },
   {
@@ -10724,7 +10690,7 @@
       -0.8284193587164452,
       52.30807363568971
     ],
-    "featureId": 642,
+    "featureId": 640,
     "population": 714392
   },
   {
@@ -10739,7 +10705,7 @@
       -2.0702957224004597,
       55.2943535425097
     ],
-    "featureId": 643,
+    "featureId": 641,
     "population": 315987
   },
   {
@@ -10754,7 +10720,7 @@
       -1.1664349024987644,
       52.93211823202077
     ],
-    "featureId": 644
+    "featureId": 642
   },
   {
     "county": "Nottinghamshire",
@@ -10768,7 +10734,7 @@
       -1.0091835185045852,
       53.12984518121013
     ],
-    "featureId": 645,
+    "featureId": 643,
     "population": 1115658
   },
   {
@@ -10783,7 +10749,7 @@
       -2.0505382180143386,
       53.54174510415322
     ],
-    "featureId": 646
+    "featureId": 644
   },
   {
     "county": "Oxfordshire",
@@ -10797,7 +10763,7 @@
       -1.2839083519388907,
       51.808104153383965
     ],
-    "featureId": 647,
+    "featureId": 645,
     "population": 672516
   },
   {
@@ -10812,7 +10778,7 @@
       -0.27010718424918423,
       52.58384491665956
     ],
-    "featureId": 648
+    "featureId": 646
   },
   {
     "county": "Plymouth",
@@ -10826,7 +10792,7 @@
       -4.114404709437087,
       50.386921002852894
     ],
-    "featureId": 649
+    "featureId": 647
   },
   {
     "county": "Portsmouth",
@@ -10840,7 +10806,7 @@
       -1.0414932934999115,
       50.81639231950007
     ],
-    "featureId": 650
+    "featureId": 648
   },
   {
     "county": "Reading",
@@ -10854,7 +10820,7 @@
       -1.0228260967969334,
       51.45051852416054
     ],
-    "featureId": 651
+    "featureId": 649
   },
   {
     "county": "Redbridge",
@@ -10868,7 +10834,7 @@
       0.08813968275015327,
       51.58426768725394
     ],
-    "featureId": 652
+    "featureId": 650
   },
   {
     "county": "Redcar and Cleveland",
@@ -10882,7 +10848,7 @@
       -0.9987577985335747,
       54.56022797297001
     ],
-    "featureId": 653
+    "featureId": 651
   },
   {
     "county": "Richmond upon Thames",
@@ -10896,7 +10862,7 @@
       -0.2985421411569007,
       51.43577545852057
     ],
-    "featureId": 654
+    "featureId": 652
   },
   {
     "county": "Rochdale",
@@ -10910,7 +10876,7 @@
       -2.1230948556430747,
       53.611113383875534
     ],
-    "featureId": 655
+    "featureId": 653
   },
   {
     "county": "Rotherham",
@@ -10924,7 +10890,7 @@
       -1.2620607199262963,
       53.38535818403295
     ],
-    "featureId": 656
+    "featureId": 654
   },
   {
     "county": "Rutland",
@@ -10938,7 +10904,7 @@
       -0.6102156235521932,
       52.62709809060436
     ],
-    "featureId": 657,
+    "featureId": 655,
     "population": 38022
   },
   {
@@ -10953,7 +10919,7 @@
       -2.4083187582041603,
       53.478487549560725
     ],
-    "featureId": 658
+    "featureId": 656
   },
   {
     "county": "Sandwell",
@@ -10967,7 +10933,7 @@
       -1.990508552377804,
       52.51594821064137
     ],
-    "featureId": 659
+    "featureId": 657
   },
   {
     "county": "Sefton",
@@ -10981,7 +10947,7 @@
       -2.9978000018707007,
       53.59523329742909
     ],
-    "featureId": 660
+    "featureId": 658
   },
   {
     "county": "Sheffield",
@@ -10995,7 +10961,7 @@
       -1.604896511165066,
       53.40286469230168
     ],
-    "featureId": 661
+    "featureId": 659
   },
   {
     "county": "Shropshire",
@@ -11009,7 +10975,7 @@
       -2.7153846879136267,
       52.660881557637765
     ],
-    "featureId": 662,
+    "featureId": 660,
     "population": 479561
   },
   {
@@ -11024,7 +10990,7 @@
       -0.5744942897296994,
       51.469675198001966
     ],
-    "featureId": 663
+    "featureId": 661
   },
   {
     "county": "Solihull",
@@ -11038,7 +11004,7 @@
       -1.7274030960260518,
       52.42412598362722
     ],
-    "featureId": 664
+    "featureId": 662
   },
   {
     "county": "Somerset",
@@ -11052,7 +11018,7 @@
       -2.975872259896903,
       51.07369161647489
     ],
-    "featureId": 665,
+    "featureId": 663,
     "population": 931784
   },
   {
@@ -11067,7 +11033,7 @@
       -2.475195048114843,
       51.54588758329207
     ],
-    "featureId": 666
+    "featureId": 664
   },
   {
     "county": "South Tyneside",
@@ -11081,7 +11047,7 @@
       -1.4462816066733524,
       54.958685614000075
     ],
-    "featureId": 667
+    "featureId": 665
   },
   {
     "county": "Southampton",
@@ -11095,7 +11061,7 @@
       -1.3789863545366359,
       50.88910228093991
     ],
-    "featureId": 668
+    "featureId": 666
   },
   {
     "county": "Southend-on-Sea",
@@ -11109,7 +11075,7 @@
       0.7374681475586442,
       51.55627981216796
     ],
-    "featureId": 669
+    "featureId": 667
   },
   {
     "county": "Southwark",
@@ -11123,7 +11089,7 @@
       -0.06552018850590002,
       51.464455878635846
     ],
-    "featureId": 670
+    "featureId": 668
   },
   {
     "county": "St. Helens",
@@ -11146,7 +11112,7 @@
       -2.014742295320673,
       52.81512278888559
     ],
-    "featureId": 671,
+    "featureId": 669,
     "population": 1111192
   },
   {
@@ -11161,7 +11127,7 @@
       -2.1360268822847956,
       53.39109497375401
     ],
-    "featureId": 672
+    "featureId": 670
   },
   {
     "county": "Stockton-on-Tees",
@@ -11175,7 +11141,7 @@
       -1.3218388537300996,
       54.55390554510478
     ],
-    "featureId": 673
+    "featureId": 671
   },
   {
     "county": "Stoke-on-Trent",
@@ -11189,7 +11155,7 @@
       -2.1709084745964162,
       53.03867503507479
     ],
-    "featureId": 674
+    "featureId": 672
   },
   {
     "county": "Suffolk",
@@ -11203,7 +11169,7 @@
       1.0804205660576542,
       52.236436265000066
     ],
-    "featureId": 675,
+    "featureId": 673,
     "population": 738512
   },
   {
@@ -11218,7 +11184,7 @@
       -1.459068324274273,
       54.86062788461916
     ],
-    "featureId": 676
+    "featureId": 674
   },
   {
     "county": "Surrey",
@@ -11232,7 +11198,7 @@
       -0.38864000088534567,
       51.27844656061026
     ],
-    "featureId": 677,
+    "featureId": 675,
     "population": 1161256
   },
   {
@@ -11247,7 +11213,7 @@
       -0.1872181866200151,
       51.35340322572827
     ],
-    "featureId": 678
+    "featureId": 676
   },
   {
     "county": "Swindon",
@@ -11261,7 +11227,7 @@
       -1.7075775824394839,
       51.56933319821849
     ],
-    "featureId": 679
+    "featureId": 677
   },
   {
     "county": "Tameside",
@@ -11275,7 +11241,7 @@
       -2.1016202588178885,
       53.46045083518786
     ],
-    "featureId": 680
+    "featureId": 678
   },
   {
     "county": "Telford and Wrekin",
@@ -11289,7 +11255,7 @@
       -2.4850753440019275,
       52.71430206958482
     ],
-    "featureId": 681
+    "featureId": 679
   },
   {
     "county": "Thurrock",
@@ -11303,7 +11269,7 @@
       0.3850030914694855,
       51.505512803373136
     ],
-    "featureId": 682
+    "featureId": 680
   },
   {
     "county": "Torbay",
@@ -11317,7 +11283,7 @@
       -3.5739260030656315,
       50.44218552834638
     ],
-    "featureId": 683
+    "featureId": 681
   },
   {
     "county": "Tower Hamlets",
@@ -11331,7 +11297,7 @@
       -0.02629777642127351,
       51.516080633764204
     ],
-    "featureId": 684
+    "featureId": 682
   },
   {
     "county": "Trafford",
@@ -11345,7 +11311,7 @@
       -2.3816966416367222,
       53.40615211592737
     ],
-    "featureId": 685
+    "featureId": 683
   },
   {
     "county": "Wakefield",
@@ -11359,7 +11325,7 @@
       -1.4101797147220907,
       53.6560275336937
     ],
-    "featureId": 686
+    "featureId": 684
   },
   {
     "county": "Walsall",
@@ -11373,7 +11339,7 @@
       -1.955641203978388,
       52.598079007839914
     ],
-    "featureId": 687
+    "featureId": 685
   },
   {
     "county": "Waltham Forest",
@@ -11387,7 +11353,7 @@
       -0.012551846240711484,
       51.599512234202194
     ],
-    "featureId": 688
+    "featureId": 686
   },
   {
     "county": "Wandsworth",
@@ -11401,7 +11367,7 @@
       -0.1861200631404074,
       51.45489573859743
     ],
-    "featureId": 689
+    "featureId": 687
   },
   {
     "county": "Warrington",
@@ -11415,7 +11381,7 @@
       -2.5546834985446196,
       53.387232571276115
     ],
-    "featureId": 690
+    "featureId": 688
   },
   {
     "county": "Warwickshire",
@@ -11429,7 +11395,7 @@
       -1.5655449083208737,
       52.33041077363828
     ],
-    "featureId": 691,
+    "featureId": 689,
     "population": 551594
   },
   {
@@ -11444,7 +11410,7 @@
       -1.3082479518315324,
       51.44120148436099
     ],
-    "featureId": 692
+    "featureId": 690
   },
   {
     "county": "West Sussex",
@@ -11458,7 +11424,7 @@
       -0.4655862087365392,
       50.94804494863297
     ],
-    "featureId": 693,
+    "featureId": 691,
     "population": 828398
   },
   {
@@ -11473,7 +11439,7 @@
       -0.16165127203859697,
       51.50601664944878
     ],
-    "featureId": 694
+    "featureId": 692
   },
   {
     "county": "Wigan",
@@ -11487,7 +11453,7 @@
       -2.6185297304627113,
       53.51763804825728
     ],
-    "featureId": 695
+    "featureId": 693
   },
   {
     "county": "Wiltshire",
@@ -11501,7 +11467,7 @@
       -1.9179652566412813,
       51.309930426547936
     ],
-    "featureId": 696,
+    "featureId": 694,
     "population": 698942
   },
   {
@@ -11516,7 +11482,7 @@
       -0.7110234240917634,
       51.464455878186186
     ],
-    "featureId": 697
+    "featureId": 695
   },
   {
     "county": "Wirral",
@@ -11539,7 +11505,7 @@
       -0.9407575803480484,
       51.44908526202519
     ],
-    "featureId": 698
+    "featureId": 696
   },
   {
     "county": "Wolverhampton",
@@ -11553,7 +11519,7 @@
       -2.088510402932741,
       52.58091227872865
     ],
-    "featureId": 699
+    "featureId": 697
   },
   {
     "county": "Worcestershire",
@@ -11567,7 +11533,7 @@
       -2.1993563498157016,
       52.20434611687975
     ],
-    "featureId": 700,
+    "featureId": 698,
     "population": 575421
   },
   {
@@ -11582,7 +11548,7 @@
       -1.0799931502137383,
       53.94391693776643
     ],
-    "featureId": 701
+    "featureId": 699
   },
   {
     "county": "Bolivar County",
@@ -11597,7 +11563,7 @@
       -90.9447695,
       33.8247305
     ],
-    "featureId": 702,
+    "featureId": 700,
     "population": 31333
   },
   {
@@ -11613,7 +11579,7 @@
       -90.6784215,
       34.255278000000004
     ],
-    "featureId": 703,
+    "featureId": 701,
     "population": 22628
   },
   {
@@ -11629,7 +11595,7 @@
       -90.42352199999999,
       31.867576
     ],
-    "featureId": 704,
+    "featureId": 702,
     "population": 28543
   },
   {
@@ -11645,7 +11611,7 @@
       -90.0184165,
       34.851822
     ],
-    "featureId": 705,
+    "featureId": 703,
     "population": 182001
   },
   {
@@ -11661,7 +11627,7 @@
       -89.2947915,
       31.1719645
     ],
-    "featureId": 706,
+    "featureId": 704,
     "population": 75036
   },
   {
@@ -11677,7 +11643,7 @@
       -89.506062,
       30.4111555
     ],
-    "featureId": 707,
+    "featureId": 705,
     "population": 47334
   },
   {
@@ -11693,7 +11659,7 @@
       -89.0935275,
       30.439798500000002
     ],
-    "featureId": 708,
+    "featureId": 706,
     "population": 206650
   },
   {
@@ -11709,7 +11675,7 @@
       -90.3971595,
       32.3110675
     ],
-    "featureId": 709,
+    "featureId": 707,
     "population": 237085
   },
   {
@@ -11725,7 +11691,7 @@
       -88.639257,
       30.466091
     ],
-    "featureId": 710,
+    "featureId": 708,
     "population": 143277
   },
   {
@@ -11741,7 +11707,7 @@
       -90.277601,
       33.523355
     ],
-    "featureId": 711,
+    "featureId": 709,
     "population": 28919
   },
   {
@@ -11757,7 +11723,7 @@
       -90.0900265,
       32.6424515
     ],
-    "featureId": 712,
+    "featureId": 710,
     "population": 105630
   },
   {
@@ -11773,7 +11739,7 @@
       -88.4618815,
       33.8697745
     ],
-    "featureId": 713,
+    "featureId": 711,
     "population": 35564
   },
   {
@@ -11789,7 +11755,7 @@
       -89.596482,
       30.7364495
     ],
-    "featureId": 714,
+    "featureId": 712,
     "population": 55387
   },
   {
@@ -11805,7 +11771,7 @@
       -88.9902575,
       31.1719645
     ],
-    "featureId": 715,
+    "featureId": 713,
     "population": 11931
   },
   {
@@ -11830,7 +11796,7 @@
       -89.87338261081882,
       32.59642655665229
     ],
-    "featureId": 716,
+    "featureId": 714,
     "population": 2976149
   },
   {
@@ -11845,7 +11811,7 @@
       -77.0145477695639,
       38.899451555326564
     ],
-    "featureId": 717,
+    "featureId": 715,
     "population": 705749
   },
   {
@@ -11861,7 +11827,7 @@
       -87.69793150000001,
       30.765086
     ],
-    "featureId": 718,
+    "featureId": 716,
     "population": 218022
   },
   {
@@ -11877,7 +11843,7 @@
       -85.837497,
       33.7622675
     ],
-    "featureId": 719,
+    "featureId": 717,
     "population": 114277
   },
   {
@@ -11893,7 +11859,7 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 720,
+    "featureId": 718,
     "population": 81887
   },
   {
@@ -11909,7 +11875,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 721,
+    "featureId": 719,
     "population": 163941
   },
   {
@@ -11925,7 +11891,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 722,
+    "featureId": 720,
     "population": 659300
   },
   {
@@ -11941,7 +11907,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 723,
+    "featureId": 721,
     "population": 96174
   },
   {
@@ -11957,7 +11923,7 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 724,
+    "featureId": 722,
     "population": 366519
   },
   {
@@ -11973,7 +11939,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 725,
+    "featureId": 723,
     "population": 225763
   },
   {
@@ -11989,7 +11955,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 726,
+    "featureId": 724,
     "population": 215707
   },
   {
@@ -12005,7 +11971,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 727,
+    "featureId": 725,
     "population": 88690
   },
   {
@@ -12021,7 +11987,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 728,
+    "featureId": 726,
     "population": 208911
   },
   {
@@ -12036,23 +12002,1222 @@
       -86.69343876373793,
       32.6211173120505
     ],
-    "featureId": 729,
+    "featureId": 727,
     "population": 4903185
   },
   {
-    "cases": 160,
-    "tested": 1216,
+    "county": "Saguache County",
+    "cases": 0,
+    "population": 6829,
     "state": "CO",
     "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "rating": 0.2926829268292683,
-    "active": 160,
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
     "coordinates": [
-      -105.54309696705135,
-      38.99982098225249
+      -106.215006,
+      38.103038
     ],
-    "featureId": 730,
-    "population": 5758736
+    "featureId": 728
+  },
+  {
+    "county": "Sedgwick County",
+    "cases": 0,
+    "population": 2275,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.3523775,
+      40.875999500000006
+    ],
+    "featureId": 729
+  },
+  {
+    "county": "Cheyenne County",
+    "cases": 0,
+    "population": 1867,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.6090085,
+      38.829744000000005
+    ],
+    "featureId": 730
+  },
+  {
+    "county": "Custer County",
+    "cases": 0,
+    "population": 4934,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.42259200000001,
+      38.077787
+    ],
+    "featureId": 731
+  },
+  {
+    "county": "La Plata County",
+    "cases": 0,
+    "population": 56446,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -107.93047,
+      37.319665
+    ],
+    "featureId": 732
+  },
+  {
+    "county": "San Juan County",
+    "cases": 0,
+    "population": 747,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -107.71467949999999,
+      37.802258
+    ],
+    "featureId": 733
+  },
+  {
+    "county": "Pitkin County",
+    "cases": 11,
+    "population": 17926,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 11,
+    "coordinates": [
+      -106.946222,
+      39.171949
+    ],
+    "featureId": 734
+  },
+  {
+    "county": "Park County",
+    "cases": 0,
+    "population": 18545,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.76916299999999,
+      39.130874
+    ],
+    "featureId": 735
+  },
+  {
+    "county": "Alamosa County",
+    "cases": 0,
+    "population": 16178,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.74678800000001,
+      37.554131
+    ],
+    "featureId": 736
+  },
+  {
+    "county": "Prowers County",
+    "cases": 0,
+    "population": 12076,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.394781,
+      37.9561955
+    ],
+    "featureId": 737
+  },
+  {
+    "county": "Moffat County",
+    "cases": 0,
+    "population": 13201,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -108.18256099999999,
+      40.611532
+    ],
+    "featureId": 738
+  },
+  {
+    "county": "Jefferson County",
+    "cases": 25,
+    "population": 579877,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 25,
+    "coordinates": [
+      -105.2238445,
+      39.5219745
+    ],
+    "featureId": 739
+  },
+  {
+    "county": "Summit County",
+    "cases": 4,
+    "population": 30978,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 4,
+    "coordinates": [
+      -106.10532549999999,
+      39.6416725
+    ],
+    "featureId": 740
+  },
+  {
+    "county": "Pueblo County",
+    "cases": 1,
+    "population": 167081,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -104.5522995,
+      38.1285485
+    ],
+    "featureId": 741
+  },
+  {
+    "county": "Boulder County",
+    "cases": 7,
+    "population": 325520,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 7,
+    "coordinates": [
+      -105.37153699999999,
+      40.0878355
+    ],
+    "featureId": 742
+  },
+  {
+    "county": "Denver County",
+    "cases": 43,
+    "population": 717862,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 43,
+    "coordinates": [
+      -104.855181,
+      39.76426
+    ],
+    "featureId": 743
+  },
+  {
+    "county": "Montrose County",
+    "cases": 0,
+    "population": 42280,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -108.28004100000001,
+      38.4104405
+    ],
+    "featureId": 744
+  },
+  {
+    "county": "Eagle County",
+    "cases": 39,
+    "population": 54895,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 39,
+    "coordinates": [
+      -106.645068,
+      39.6373275
+    ],
+    "featureId": 745
+  },
+  {
+    "county": "San Miguel County",
+    "cases": 0,
+    "population": 8196,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -108.3879545,
+      37.964549
+    ],
+    "featureId": 746
+  },
+  {
+    "county": "Costilla County",
+    "cases": 0,
+    "population": 3819,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.4539,
+      37.3221975
+    ],
+    "featureId": 747
+  },
+  {
+    "county": "Broomfield County",
+    "cases": 0,
+    "population": 69130,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.0634215,
+      39.967068499999996
+    ],
+    "featureId": 748
+  },
+  {
+    "county": "Chaffee County",
+    "cases": 0,
+    "population": 20010,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.238668,
+      38.740337999999994
+    ],
+    "featureId": 749
+  },
+  {
+    "county": "Crowley County",
+    "cases": 0,
+    "population": 5855,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.7800745,
+      38.3175405
+    ],
+    "featureId": 750
+  },
+  {
+    "county": "Fremont County",
+    "cases": 0,
+    "population": 47921,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.4765585,
+      38.477588999999995
+    ],
+    "featureId": 751
+  },
+  {
+    "county": "Huerfano County",
+    "cases": 0,
+    "population": 6850,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -104.9261975,
+      37.6560375
+    ],
+    "featureId": 752
+  },
+  {
+    "county": "Delta County",
+    "cases": 0,
+    "population": 30936,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -107.9397795,
+      38.9429835
+    ],
+    "featureId": 753
+  },
+  {
+    "county": "Garfield County",
+    "cases": 2,
+    "population": 59854,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 2,
+    "coordinates": [
+      -108.0417065,
+      39.728802
+    ],
+    "featureId": 754
+  },
+  {
+    "county": "Rio Blanco County",
+    "cases": 0,
+    "population": 6293,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -108.0442015,
+      39.938113
+    ],
+    "featureId": 755
+  },
+  {
+    "county": "Morgan County",
+    "cases": 0,
+    "population": 28436,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.8075595,
+      40.262602
+    ],
+    "featureId": 756
+  },
+  {
+    "county": "Lincoln County",
+    "cases": 0,
+    "population": 5574,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.604952,
+      39.04137
+    ],
+    "featureId": 757
+  },
+  {
+    "county": "Montezuma County",
+    "cases": 0,
+    "population": 26121,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -108.5080625,
+      37.3192465
+    ],
+    "featureId": 758
+  },
+  {
+    "county": "Adams County",
+    "cases": 10,
+    "population": 511720,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 10,
+    "coordinates": [
+      -104.3794855,
+      39.87063
+    ],
+    "featureId": 759
+  },
+  {
+    "county": "Mineral County",
+    "cases": 0,
+    "population": 754,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.915857,
+      37.683724
+    ],
+    "featureId": 760
+  },
+  {
+    "county": "Otero County",
+    "cases": 0,
+    "population": 18352,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.7308725,
+      37.954505499999996
+    ],
+    "featureId": 761
+  },
+  {
+    "county": "Phillips County",
+    "cases": 0,
+    "population": 4280,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.358048,
+      40.594029500000005
+    ],
+    "featureId": 762
+  },
+  {
+    "county": "Ouray County",
+    "cases": 0,
+    "population": 4812,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -107.82163,
+      38.112279
+    ],
+    "featureId": 763
+  },
+  {
+    "county": "Bent County",
+    "cases": 0,
+    "population": 5833,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.072417,
+      37.9551955
+    ],
+    "featureId": 764
+  },
+  {
+    "county": "Archuleta County",
+    "cases": 0,
+    "population": 13764,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.9792055,
+      37.207684
+    ],
+    "featureId": 765
+  },
+  {
+    "county": "Routt County",
+    "cases": 2,
+    "population": 25716,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 2,
+    "coordinates": [
+      -107.034562,
+      40.4610575
+    ],
+    "featureId": 766
+  },
+  {
+    "county": "Hinsdale County",
+    "cases": 0,
+    "population": 804,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -107.2959845,
+      37.78497
+    ],
+    "featureId": 767
+  },
+  {
+    "county": "Weld County",
+    "cases": 9,
+    "population": 314288,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 9,
+    "coordinates": [
+      -104.315327,
+      40.5011525
+    ],
+    "featureId": 768
+  },
+  {
+    "county": "Larimer County",
+    "cases": 4,
+    "population": 350424,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 4,
+    "coordinates": [
+      -105.5669625,
+      40.628046999999995
+    ],
+    "featureId": 769
+  },
+  {
+    "county": "Lake County",
+    "cases": 0,
+    "population": 7766,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.360843,
+      39.2185175
+    ],
+    "featureId": 770
+  },
+  {
+    "county": "Rio Grande County",
+    "cases": 0,
+    "population": 11213,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.37501850000001,
+      37.617297
+    ],
+    "featureId": 771
+  },
+  {
+    "county": "Gilpin County",
+    "cases": 0,
+    "population": 6096,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.548784,
+      39.8421315
+    ],
+    "featureId": 772
+  },
+  {
+    "county": "Yuma County",
+    "cases": 0,
+    "population": 10037,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.42678649999999,
+      40.0039245
+    ],
+    "featureId": 773
+  },
+  {
+    "county": "Jackson County",
+    "cases": 0,
+    "population": 1394,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.3595425,
+      40.664885
+    ],
+    "featureId": 774
+  },
+  {
+    "county": "Kit Carson County",
+    "cases": 0,
+    "population": 7169,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.6048215,
+      39.305834000000004
+    ],
+    "featureId": 775
+  },
+  {
+    "county": "Clear Creek County",
+    "cases": 2,
+    "population": 9659,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 2,
+    "coordinates": [
+      -105.66211949999999,
+      39.7084305
+    ],
+    "featureId": 776
+  },
+  {
+    "county": "Logan County",
+    "cases": 0,
+    "population": 21858,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.1163375,
+      40.719452000000004
+    ],
+    "featureId": 777
+  },
+  {
+    "county": "Washington County",
+    "cases": 0,
+    "population": 4716,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -103.243516,
+      40.00205
+    ],
+    "featureId": 778
+  },
+  {
+    "county": "Douglas County",
+    "cases": 11,
+    "population": 342937,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 11,
+    "coordinates": [
+      -104.994923,
+      39.34788
+    ],
+    "featureId": 779
+  },
+  {
+    "county": "Conejos County",
+    "cases": 0,
+    "population": 8151,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -106.1984215,
+      37.1987175
+    ],
+    "featureId": 780
+  },
+  {
+    "county": "El Paso County",
+    "cases": 8,
+    "population": 714536,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 8,
+    "coordinates": [
+      -104.5619235,
+      38.824693999999994
+    ],
+    "featureId": 781
+  },
+  {
+    "county": "Kiowa County",
+    "cases": 0,
+    "population": 1373,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.7757135,
+      38.4403555
+    ],
+    "featureId": 782
+  },
+  {
+    "county": "Teller County",
+    "cases": 0,
+    "population": 25068,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -105.13471899999999,
+      38.888707
+    ],
+    "featureId": 783
+  },
+  {
+    "county": "Gunnison County",
+    "cases": 11,
+    "population": 17182,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 11,
+    "coordinates": [
+      -106.94099,
+      38.702179
+    ],
+    "featureId": 784
+  },
+  {
+    "county": "Baca County",
+    "cases": 0,
+    "population": 3551,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -102.563815,
+      37.3187205
+    ],
+    "featureId": 785
+  },
+  {
+    "county": "Elbert County",
+    "cases": 0,
+    "population": 26243,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -104.1886255,
+      39.216578999999996
+    ],
+    "featureId": 786
+  },
+  {
+    "county": "Mesa County",
+    "cases": 1,
+    "population": 153628,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -108.21971400000001,
+      38.933332
+    ],
+    "featureId": 787
+  },
+  {
+    "county": "Dolores County",
+    "cases": 0,
+    "population": 2050,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -108.4521545,
+      37.690124499999996
+    ],
+    "featureId": 788
+  },
+  {
+    "county": "Arapahoe County",
+    "cases": 22,
+    "population": 651513,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 22,
+    "coordinates": [
+      -104.38034350000001,
+      39.6533655
+    ],
+    "featureId": 789
+  },
+  {
+    "county": "Las Animas County",
+    "cases": 0,
+    "population": 14529,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 0,
+    "coordinates": [
+      -104.1148525,
+      37.4051085
+    ],
+    "featureId": 790
+  },
+  {
+    "county": "Grand County",
+    "cases": 1,
+    "population": 15503,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/46c727cc29424b1fb9db67554c7df04e_0.csv",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -106.14149,
+      40.085187000000005
+    ],
+    "featureId": 791
+  },
+  {
+    "county": "Benton County",
+    "cases": 3,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 3,
+    "coordinates": [
+      -123.44528700000001,
+      44.498886
+    ],
+    "featureId": 792,
+    "population": 92101
+  },
+  {
+    "county": "Clackamas County",
+    "cases": 6,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 6,
+    "coordinates": [
+      -122.26009400000001,
+      45.1737
+    ],
+    "featureId": 793,
+    "population": 416075
+  },
+  {
+    "county": "Deschutes County",
+    "cases": 6,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 6,
+    "coordinates": [
+      -120.94952,
+      44.001645499999995
+    ],
+    "featureId": 794,
+    "population": 191996
+  },
+  {
+    "county": "Douglas County",
+    "cases": 1,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 1,
+    "coordinates": [
+      -123.0963585,
+      43.3222345
+    ],
+    "featureId": 795,
+    "population": 110283
+  },
+  {
+    "county": "Jackson County",
+    "cases": 2,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 2,
+    "coordinates": [
+      -122.756742,
+      42.4995805
+    ],
+    "featureId": 796,
+    "population": 219564
+  },
+  {
+    "county": "Klamath County",
+    "cases": 1,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 1,
+    "coordinates": [
+      -121.58491599999999,
+      42.804975999999996
+    ],
+    "featureId": 797,
+    "population": 67653
+  },
+  {
+    "county": "Lane County",
+    "cases": 2,
+    "deaths": 1,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 1,
+    "coordinates": [
+      -122.963617,
+      43.863845
+    ],
+    "featureId": 798,
+    "population": 379611
+  },
+  {
+    "county": "Linn County",
+    "cases": 15,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 15,
+    "coordinates": [
+      -122.5272075,
+      44.496468
+    ],
+    "featureId": 799,
+    "population": 127335
+  },
+  {
+    "county": "Marion County",
+    "cases": 8,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 8,
+    "coordinates": [
+      -122.4575375,
+      44.984239
+    ],
+    "featureId": 800,
+    "population": 346868
+  },
+  {
+    "county": "Multnomah County",
+    "cases": 3,
+    "deaths": 1,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 2,
+    "coordinates": [
+      -122.374808,
+      45.580658
+    ],
+    "featureId": 801,
+    "population": 811880
+  },
+  {
+    "county": "Polk County",
+    "cases": 1,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 1,
+    "coordinates": [
+      -123.38289850000001,
+      44.8977695
+    ],
+    "featureId": 802,
+    "population": 85234
+  },
+  {
+    "county": "Umatilla County",
+    "cases": 2,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 2,
+    "coordinates": [
+      -118.7037805,
+      45.4984405
+    ],
+    "featureId": 803,
+    "population": 77516
+  },
+  {
+    "county": "Washington County",
+    "cases": 23,
+    "deaths": 1,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 22,
+    "coordinates": [
+      -123.114875,
+      45.5483985
+    ],
+    "featureId": 804,
+    "population": 597695
+  },
+  {
+    "county": "Yamhill County",
+    "cases": 2,
+    "deaths": 0,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.6829268292682927,
+    "active": 2,
+    "coordinates": [
+      -123.31725850000001,
+      45.254474
+    ],
+    "featureId": 805,
+    "population": 107002
+  },
+  {
+    "cases": 75,
+    "deaths": 3,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "rating": 0.5853658536585366,
+    "active": 72,
+    "coordinates": [
+      -120.50533834262885,
+      44.11740471870206
+    ],
+    "featureId": 806,
+    "population": 4217737
   },
   {
     "county": "Acadia Parish",
@@ -12068,7 +13233,7 @@
       -92.38683499999999,
       30.2652335
     ],
-    "featureId": 731,
+    "featureId": 807,
     "population": 62190
   },
   {
@@ -12085,7 +13250,7 @@
       -92.856948,
       30.661153
     ],
-    "featureId": 732,
+    "featureId": 808,
     "population": 25605
   },
   {
@@ -12102,7 +13267,7 @@
       -90.869644,
       30.204696499999997
     ],
-    "featureId": 733,
+    "featureId": 809,
     "population": 124672
   },
   {
@@ -12119,7 +13284,7 @@
       -91.0722915,
       29.8539995
     ],
-    "featureId": 734,
+    "featureId": 810,
     "population": 22300
   },
   {
@@ -12136,7 +13301,7 @@
       -91.97901999999999,
       31.095483
     ],
-    "featureId": 735,
+    "featureId": 811,
     "population": 40462
   },
   {
@@ -12153,7 +13318,7 @@
       -93.35856949999999,
       30.6430015
     ],
-    "featureId": 736,
+    "featureId": 812,
     "population": 37253
   },
   {
@@ -12170,7 +13335,7 @@
       -93.10068150000001,
       32.366091999999995
     ],
-    "featureId": 737,
+    "featureId": 813,
     "population": 13308
   },
   {
@@ -12187,7 +13352,7 @@
       -93.5978795,
       32.627677000000006
     ],
-    "featureId": 738,
+    "featureId": 814,
     "population": 127185
   },
   {
@@ -12204,7 +13369,7 @@
       -93.757198,
       32.6074585
     ],
-    "featureId": 739,
+    "featureId": 815,
     "population": 242922
   },
   {
@@ -12221,7 +13386,7 @@
       -93.326522,
       30.2639165
     ],
-    "featureId": 740,
+    "featureId": 816,
     "population": 203112
   },
   {
@@ -12238,7 +13403,7 @@
       -92.09278499999999,
       32.102264500000004
     ],
-    "featureId": 741,
+    "featureId": 817,
     "population": 9960
   },
   {
@@ -12255,7 +13420,7 @@
       -93.27240900000001,
       29.8158395
     ],
-    "featureId": 742,
+    "featureId": 818,
     "population": 6968
   },
   {
@@ -12272,7 +13437,7 @@
       -91.776279,
       31.5993165
     ],
-    "featureId": 743,
+    "featureId": 819,
     "population": 9608
   },
   {
@@ -12289,7 +13454,7 @@
       -92.981675,
       32.8016545
     ],
-    "featureId": 744,
+    "featureId": 820,
     "population": 15944
   },
   {
@@ -12306,7 +13471,7 @@
       -91.622707,
       31.366113
     ],
-    "featureId": 745,
+    "featureId": 821,
     "population": 19572
   },
   {
@@ -12323,7 +13488,7 @@
       -93.699102,
       32.0948115
     ],
-    "featureId": 746,
+    "featureId": 822,
     "population": 27436
   },
   {
@@ -12340,7 +13505,7 @@
       -91.0821615,
       30.516002
     ],
-    "featureId": 747,
+    "featureId": 823,
     "population": 440956
   },
   {
@@ -12357,7 +13522,7 @@
       -91.2303025,
       32.7714455
     ],
-    "featureId": 748,
+    "featureId": 824,
     "population": 7037
   },
   {
@@ -12374,7 +13539,7 @@
       -91.0732675,
       30.824589
     ],
-    "featureId": 749,
+    "featureId": 825,
     "population": 19305
   },
   {
@@ -12391,7 +13556,7 @@
       -92.40312349999999,
       30.7409765
     ],
-    "featureId": 750,
+    "featureId": 826,
     "population": 33443
   },
   {
@@ -12408,7 +13573,7 @@
       -91.6867355,
       32.1420035
     ],
-    "featureId": 751,
+    "featureId": 827,
     "population": 20156
   },
   {
@@ -12425,7 +13590,7 @@
       -92.58483,
       31.5926135
     ],
-    "featureId": 752,
+    "featureId": 828,
     "population": 22482
   },
   {
@@ -12442,7 +13607,7 @@
       -91.632762,
       29.7982045
     ],
-    "featureId": 753,
+    "featureId": 829,
     "population": 70941
   },
   {
@@ -12459,7 +13624,7 @@
       -91.3600815,
       30.2613845
     ],
-    "featureId": 754,
+    "featureId": 830,
     "population": 32721
   },
   {
@@ -12476,7 +13641,7 @@
       -92.56701000000001,
       32.3212645
     ],
-    "featureId": 755,
+    "featureId": 831,
     "population": 15902
   },
   {
@@ -12493,7 +13658,7 @@
       -90.114832,
       29.696731
     ],
-    "featureId": 756,
+    "featureId": 832,
     "population": 434051
   },
   {
@@ -12510,7 +13675,7 @@
       -92.857122,
       30.2628035
     ],
-    "featureId": 757,
+    "featureId": 833,
     "population": 31582
   },
   {
@@ -12527,7 +13692,7 @@
       -92.186641,
       31.6257625
     ],
-    "featureId": 758,
+    "featureId": 834,
     "population": 14917
   },
   {
@@ -12544,7 +13709,7 @@
       -92.0951095,
       30.2075775
     ],
-    "featureId": 759,
+    "featureId": 835,
     "population": 242782
   },
   {
@@ -12561,7 +13726,7 @@
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 760,
+    "featureId": 836,
     "population": 98115
   },
   {
@@ -12578,7 +13743,7 @@
       -92.64820449999999,
       32.606269499999996
     ],
-    "featureId": 761,
+    "featureId": 837,
     "population": 47196
   },
   {
@@ -12595,7 +13760,7 @@
       -90.696248,
       30.412879
     ],
-    "featureId": 762,
+    "featureId": 838,
     "population": 139567
   },
   {
@@ -12612,7 +13777,7 @@
       -91.216415,
       32.341573
     ],
-    "featureId": 763,
+    "featureId": 839,
     "population": 11161
   },
   {
@@ -12629,7 +13794,7 @@
       -91.76029249999999,
       32.7570325
     ],
-    "featureId": 764,
+    "featureId": 840,
     "population": 25398
   },
   {
@@ -12646,7 +13811,7 @@
       -93.080363,
       31.747528000000003
     ],
-    "featureId": 765,
+    "featureId": 841,
     "population": 38659
   },
   {
@@ -12663,7 +13828,7 @@
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 766,
+    "featureId": 842,
     "population": 391006
   },
   {
@@ -12680,7 +13845,7 @@
       -92.159829,
       32.4907775
     ],
-    "featureId": 767,
+    "featureId": 843,
     "population": 154475
   },
   {
@@ -12697,7 +13862,7 @@
       -89.5381785,
       29.4150075
     ],
-    "featureId": 768,
+    "featureId": 844,
     "population": 23410
   },
   {
@@ -12714,7 +13879,7 @@
       -91.5623665,
       30.750701999999997
     ],
-    "featureId": 769,
+    "featureId": 845,
     "population": 21940
   },
   {
@@ -12731,7 +13896,7 @@
       -92.5286315,
       31.203797
     ],
-    "featureId": 770,
+    "featureId": 846,
     "population": 130562
   },
   {
@@ -12748,7 +13913,7 @@
       -93.367939,
       32.062484
     ],
-    "featureId": 771,
+    "featureId": 847,
     "population": 8477
   },
   {
@@ -12765,7 +13930,7 @@
       -91.732693,
       32.409445500000004
     ],
-    "featureId": 772,
+    "featureId": 848,
     "population": 20192
   },
   {
@@ -12782,7 +13947,7 @@
       -93.557699,
       31.505406999999998
     ],
-    "featureId": 773,
+    "featureId": 849,
     "population": 24032
   },
   {
@@ -12799,7 +13964,7 @@
       -89.4145595,
       29.8500655
     ],
-    "featureId": 774,
+    "featureId": 850,
     "population": 46721
   },
   {
@@ -12816,7 +13981,7 @@
       -90.3585315,
       29.961458
     ],
-    "featureId": 775,
+    "featureId": 851,
     "population": 52879
   },
   {
@@ -12833,7 +13998,7 @@
       -90.738279,
       30.824559
     ],
-    "featureId": 776,
+    "featureId": 852,
     "population": 10262
   },
   {
@@ -12850,7 +14015,7 @@
       -90.8028455,
       30.027838
     ],
-    "featureId": 777,
+    "featureId": 853,
     "population": 21037
   },
   {
@@ -12867,7 +14032,7 @@
       -90.4833525,
       30.0930385
     ],
-    "featureId": 778,
+    "featureId": 854,
     "population": 43184
   },
   {
@@ -12884,7 +14049,7 @@
       -92.08607749999999,
       30.573712
     ],
-    "featureId": 779,
+    "featureId": 855,
     "population": 82764
   },
   {
@@ -12901,7 +14066,7 @@
       -91.53909150000001,
       30.09857
     ],
-    "featureId": 780,
+    "featureId": 856,
     "population": 53621
   },
   {
@@ -12918,7 +14083,7 @@
       -91.48180049999999,
       29.7141755
     ],
-    "featureId": 781,
+    "featureId": 857,
     "population": 49774
   },
   {
@@ -12935,7 +14100,7 @@
       -89.891049,
       30.43073
     ],
-    "featureId": 782,
+    "featureId": 858,
     "population": 258111
   },
   {
@@ -12952,7 +14117,7 @@
       -90.405269,
       30.612403
     ],
-    "featureId": 783,
+    "featureId": 859,
     "population": 133777
   },
   {
@@ -12969,7 +14134,7 @@
       -91.3045835,
       31.991290499999998
     ],
-    "featureId": 784,
+    "featureId": 860,
     "population": 4462
   },
   {
@@ -12986,7 +14151,7 @@
       -90.8557755,
       29.406244
     ],
-    "featureId": 785,
+    "featureId": 861,
     "population": 111021
   },
   {
@@ -13003,7 +14168,7 @@
       -92.394117,
       32.7976865
     ],
-    "featureId": 786,
+    "featureId": 862,
     "population": 22330
   },
   {
@@ -13020,7 +14185,7 @@
       -92.351531,
       29.8402345
     ],
-    "featureId": 787,
+    "featureId": 863,
     "population": 59830
   },
   {
@@ -13037,7 +14202,7 @@
       -93.19772900000001,
       31.1119345
     ],
-    "featureId": 788,
+    "featureId": 864,
     "population": 48860
   },
   {
@@ -13054,7 +14219,7 @@
       -90.03715650000001,
       30.835068999999997
     ],
-    "featureId": 789,
+    "featureId": 865,
     "population": 46582
   },
   {
@@ -13071,7 +14236,7 @@
       -93.3384255,
       32.7143435
     ],
-    "featureId": 790,
+    "featureId": 866,
     "population": 38798
   },
   {
@@ -13088,7 +14253,7 @@
       -91.313597,
       30.490574000000002
     ],
-    "featureId": 791,
+    "featureId": 867,
     "population": 26427
   },
   {
@@ -13105,7 +14270,7 @@
       -91.45007849999999,
       32.7940275
     ],
-    "featureId": 792,
+    "featureId": 868,
     "population": 10982
   },
   {
@@ -13122,7 +14287,7 @@
       -91.46312950000001,
       30.8493775
     ],
-    "featureId": 793,
+    "featureId": 869,
     "population": 15460
   },
   {
@@ -13139,7 +14304,7 @@
       -92.64287350000001,
       31.928432
     ],
-    "featureId": 794,
+    "featureId": 870,
     "population": 14134
   },
   {
@@ -13166,8 +14331,199 @@
       -91.53320699521313,
       31.022399050426287
     ],
-    "featureId": 795,
+    "featureId": 871,
     "population": 4648794
+  },
+  {
+    "county": "Adair County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -94.47111100000001,
+      41.330641
+    ],
+    "featureId": 872,
+    "population": 7063
+  },
+  {
+    "county": "Allamakee County",
+    "cases": 2,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 2,
+    "coordinates": [
+      -91.3343975,
+      43.290620000000004
+    ],
+    "featureId": 873,
+    "population": 13832
+  },
+  {
+    "county": "Black Hawk County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -92.309374,
+      42.4696575
+    ],
+    "featureId": 874,
+    "population": 132408
+  },
+  {
+    "county": "Carroll County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -94.8607925,
+      42.0363995
+    ],
+    "featureId": 875,
+    "population": 20154
+  },
+  {
+    "county": "Dallas County",
+    "cases": 5,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 5,
+    "coordinates": [
+      -94.03547599999999,
+      41.683413
+    ],
+    "featureId": 876,
+    "population": 90180
+  },
+  {
+    "county": "Harrison County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -95.8184015,
+      41.6857895
+    ],
+    "featureId": 877,
+    "population": 14134
+  },
+  {
+    "county": "Johnson County",
+    "cases": 21,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 21,
+    "coordinates": [
+      -91.5995785,
+      41.6426345
+    ],
+    "featureId": 878,
+    "population": 151260
+  },
+  {
+    "county": "Polk County",
+    "cases": 3,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 3,
+    "coordinates": [
+      -93.571967,
+      41.6727085
+    ],
+    "featureId": 879,
+    "population": 487204
+  },
+  {
+    "county": "Pottawattamie County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -95.5872695,
+      41.3330975
+    ],
+    "featureId": 880,
+    "population": 93533
+  },
+  {
+    "county": "Washington County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -91.715019,
+      41.336486
+    ],
+    "featureId": 881,
+    "population": 22141
+  },
+  {
+    "county": "Winneshiek County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.5365853658536586,
+    "active": 1,
+    "coordinates": [
+      -91.842569,
+      43.291228000000004
+    ],
+    "featureId": 882,
+    "population": 20029
+  },
+  {
+    "cases": 38,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "aggregate": "county",
+    "rating": 0.43902439024390244,
+    "active": 38,
+    "coordinates": [
+      -93.38911747419203,
+      41.94023846253498
+    ],
+    "featureId": 883,
+    "population": 3155070
   },
   {
     "county": "Bell County",
@@ -13182,7 +14538,7 @@
       -97.4920175,
       31.0362865
     ],
-    "featureId": 796,
+    "featureId": 884,
     "population": 355642
   },
   {
@@ -13198,7 +14554,7 @@
       -98.4636305,
       29.4374885
     ],
-    "featureId": 797,
+    "featureId": 885,
     "population": 1986049
   },
   {
@@ -13214,7 +14570,7 @@
       -94.394897,
       33.474644999999995
     ],
-    "featureId": 798,
+    "featureId": 886,
     "population": 94324
   },
   {
@@ -13230,7 +14586,7 @@
       -95.46632349999999,
       29.2119295
     ],
-    "featureId": 799,
+    "featureId": 887,
     "population": 370200
   },
   {
@@ -13246,7 +14602,7 @@
       -96.3408385,
       30.652012499999998
     ],
-    "featureId": 800,
+    "featureId": 888,
     "population": 226758
   },
   {
@@ -13262,7 +14618,7 @@
       -96.569696,
       33.193628000000004
     ],
-    "featureId": 801,
+    "featureId": 889,
     "population": 1005146
   },
   {
@@ -13278,7 +14634,7 @@
       -96.7776255,
       32.767269
     ],
-    "featureId": 802,
+    "featureId": 890,
     "population": 2637772
   },
   {
@@ -13294,7 +14650,7 @@
       -97.116242,
       33.209002
     ],
-    "featureId": 803,
+    "featureId": 891,
     "population": 859064
   },
   {
@@ -13310,7 +14666,7 @@
       -106.299987,
       31.6946625
     ],
-    "featureId": 804,
+    "featureId": 892,
     "population": 840758
   },
   {
@@ -13326,7 +14682,7 @@
       -95.75651500000001,
       29.525435
     ],
-    "featureId": 805,
+    "featureId": 893,
     "population": 787858
   },
   {
@@ -13342,7 +14698,7 @@
       -94.8019735,
       29.3376555
     ],
-    "featureId": 806,
+    "featureId": 894,
     "population": 337890
   },
   {
@@ -13358,7 +14714,7 @@
       -94.78307699999999,
       32.5138005
     ],
-    "featureId": 807,
+    "featureId": 895,
     "population": 123707
   },
   {
@@ -13374,7 +14730,7 @@
       -95.43486150000001,
       29.833973999999998
     ],
-    "featureId": 808,
+    "featureId": 896,
     "population": 4698619
   },
   {
@@ -13390,7 +14746,7 @@
       -98.0039075,
       30.054378
     ],
-    "featureId": 809,
+    "featureId": 897,
     "population": 222631
   },
   {
@@ -13406,7 +14762,7 @@
       -96.9003315,
       29.347974999999998
     ],
-    "featureId": 810,
+    "featureId": 898,
     "population": 20110
   },
   {
@@ -13422,7 +14778,7 @@
       -95.943229,
       28.8068055
     ],
-    "featureId": 811,
+    "featureId": 899,
     "population": 36552
   },
   {
@@ -13438,7 +14794,7 @@
       -99.1093215,
       29.3905715
     ],
-    "featureId": 812,
+    "featureId": 900,
     "population": 50921
   },
   {
@@ -13454,7 +14810,7 @@
       -95.463474,
       30.3290225
     ],
-    "featureId": 813,
+    "featureId": 901,
     "population": 590925
   },
   {
@@ -13470,7 +14826,7 @@
       -94.719045,
       32.124975
     ],
-    "featureId": 814,
+    "featureId": 902,
     "population": 54450
   },
   {
@@ -13486,7 +14842,7 @@
       -95.2899065,
       32.4112925
     ],
-    "featureId": 815,
+    "featureId": 903,
     "population": 230221
   },
   {
@@ -13502,7 +14858,7 @@
       -97.29143450000001,
       32.7714195
     ],
-    "featureId": 816,
+    "featureId": 904,
     "population": 2084931
   },
   {
@@ -13518,7 +14874,7 @@
       -97.771258,
       30.326374
     ],
-    "featureId": 817,
+    "featureId": 905,
     "population": 1248743
   },
   {
@@ -13534,7 +14890,7 @@
       -99.505112,
       27.732308
     ],
-    "featureId": 818,
+    "featureId": 906,
     "population": 275910
   },
   {
@@ -13549,7 +14905,7 @@
       -100.0884705015624,
       31.177528238191037
     ],
-    "featureId": 819,
+    "featureId": 907,
     "population": 28995881
   },
   {
@@ -13630,7 +14986,7 @@
       -75.41630955251765,
       39.14564123795276
     ],
-    "featureId": 820,
+    "featureId": 908,
     "population": 973764
   },
   {
@@ -13956,7 +15312,7 @@
       -73.9708125,
       42.613902
     ],
-    "featureId": 821,
+    "featureId": 909,
     "population": 307117
   },
   {
@@ -13972,7 +15328,7 @@
       -78.0160695,
       42.260023000000004
     ],
-    "featureId": 822,
+    "featureId": 910,
     "population": 46430
   },
   {
@@ -13988,7 +15344,7 @@
       -75.74488,
       42.206783
     ],
-    "featureId": 823,
+    "featureId": 911,
     "population": 191659
   },
   {
@@ -14004,7 +15360,7 @@
       -75.5928545,
       42.470226499999995
     ],
-    "featureId": 824,
+    "featureId": 912,
     "population": 47536
   },
   {
@@ -14020,7 +15376,7 @@
       -73.680273,
       44.7202695
     ],
-    "featureId": 825,
+    "featureId": 913,
     "population": 80695
   },
   {
@@ -14036,7 +15392,7 @@
       -74.92498599999999,
       42.183063
     ],
-    "featureId": 826,
+    "featureId": 914,
     "population": 44527
   },
   {
@@ -14052,7 +15408,7 @@
       -73.74371099999999,
       41.7599055
     ],
-    "featureId": 827,
+    "featureId": 915,
     "population": 293718
   },
   {
@@ -14068,7 +15424,7 @@
       -78.79997900000001,
       42.768297000000004
     ],
-    "featureId": 828,
+    "featureId": 916,
     "population": 919719
   },
   {
@@ -14084,7 +15440,7 @@
       -73.8152195,
       44.1456775
     ],
-    "featureId": 829,
+    "featureId": 917,
     "population": 37300
   },
   {
@@ -14100,7 +15456,7 @@
       -74.1565635,
       42.28041
     ],
-    "featureId": 830,
+    "featureId": 918,
     "population": 47491
   },
   {
@@ -14116,7 +15472,7 @@
       -74.457387,
       43.667618000000004
     ],
-    "featureId": 831,
+    "featureId": 919,
     "population": 4434
   },
   {
@@ -14132,7 +15488,7 @@
       -74.957551,
       43.460950999999994
     ],
-    "featureId": 832,
+    "featureId": 920,
     "population": 61833
   },
   {
@@ -14148,7 +15504,7 @@
       -77.684384,
       43.154810499999996
     ],
-    "featureId": 833,
+    "featureId": 921,
     "population": 742474
   },
   {
@@ -14164,7 +15520,7 @@
       -74.4234035,
       42.910201
     ],
-    "featureId": 834,
+    "featureId": 922,
     "population": 49455
   },
   {
@@ -14180,7 +15536,7 @@
       -73.5961185,
       40.7528025
     ],
-    "featureId": 835,
+    "featureId": 923,
     "population": 1358343
   },
   {
@@ -14196,7 +15552,7 @@
       -73.9771565,
       40.7808115
     ],
-    "featureId": 836,
+    "featureId": 924,
     "population": 1628701
   },
   {
@@ -14212,7 +15568,7 @@
       -76.19769550000001,
       43.021398
     ],
-    "featureId": 837,
+    "featureId": 925,
     "population": 461809
   },
   {
@@ -14228,7 +15584,7 @@
       -77.28751,
       42.808147000000005
     ],
-    "featureId": 838,
+    "featureId": 926,
     "population": 109864
   },
   {
@@ -14244,7 +15600,7 @@
       -74.354217,
       41.3878105
     ],
-    "featureId": 839,
+    "featureId": 927,
     "population": 381951
   },
   {
@@ -14260,7 +15616,7 @@
       -73.7563255,
       41.4244435
     ],
-    "featureId": 840,
+    "featureId": 928,
     "population": 98892
   },
   {
@@ -14276,7 +15632,7 @@
       -73.5247755,
       42.711440499999995
     ],
-    "featureId": 841,
+    "featureId": 929,
     "population": 159442
   },
   {
@@ -14292,7 +15648,7 @@
       -74.06082649999999,
       41.160945
     ],
-    "featureId": 842,
+    "featureId": 930,
     "population": 325695
   },
   {
@@ -14308,7 +15664,7 @@
       -73.866721,
       43.0867325
     ],
-    "featureId": 843,
+    "featureId": 931,
     "population": 230163
   },
   {
@@ -14324,7 +15680,7 @@
       -74.0573495,
       42.834184
     ],
-    "featureId": 844,
+    "featureId": 932,
     "population": 155350
   },
   {
@@ -14340,7 +15696,7 @@
       -72.6766375,
       40.9499955
     ],
-    "featureId": 845,
+    "featureId": 933,
     "population": 1481093
   },
   {
@@ -14356,7 +15712,7 @@
       -74.7567505,
       41.7190175
     ],
-    "featureId": 846,
+    "featureId": 934,
     "population": 75498
   },
   {
@@ -14372,7 +15728,7 @@
       -76.322135,
       42.2043415
     ],
-    "featureId": 847,
+    "featureId": 935,
     "population": 48560
   },
   {
@@ -14388,7 +15744,7 @@
       -76.4683765,
       42.445197500000006
     ],
-    "featureId": 848,
+    "featureId": 936,
     "population": 102793
   },
   {
@@ -14404,7 +15760,7 @@
       -74.345684,
       41.878800999999996
     ],
-    "featureId": 849,
+    "featureId": 937,
     "population": 178599
   },
   {
@@ -14420,7 +15776,7 @@
       -73.82637249999999,
       43.512905
     ],
-    "featureId": 850,
+    "featureId": 938,
     "population": 64265
   },
   {
@@ -14436,7 +15792,7 @@
       -73.4390205,
       43.374883
     ],
-    "featureId": 851,
+    "featureId": 939,
     "population": 61197
   },
   {
@@ -14452,7 +15808,7 @@
       -73.7326465,
       41.122837000000004
     ],
-    "featureId": 852,
+    "featureId": 940,
     "population": 967612
   },
   {
@@ -14468,7 +15824,7 @@
       -78.2215535,
       42.694677
     ],
-    "featureId": 853,
+    "featureId": 941,
     "population": 40085
   },
   {
@@ -14493,7 +15849,7 @@
       -75.8409706677239,
       42.76080525150005
     ],
-    "featureId": 854,
+    "featureId": 942,
     "population": 19453561
   },
   {
@@ -14510,7 +15866,7 @@
       -120.52038999999999,
       47.905806999999996
     ],
-    "featureId": 855,
+    "featureId": 943,
     "population": 77036
   },
   {
@@ -14527,7 +15883,7 @@
       -122.5203415,
       45.80125099999999
     ],
-    "featureId": 856,
+    "featureId": 944,
     "population": 481857
   },
   {
@@ -14544,7 +15900,7 @@
       -117.92289099999999,
       46.3118295
     ],
-    "featureId": 857,
+    "featureId": 945,
     "population": 4059
   },
   {
@@ -14561,7 +15917,7 @@
       -118.8288585,
       46.465897
     ],
-    "featureId": 858,
+    "featureId": 946,
     "population": 94347
   },
   {
@@ -14578,7 +15934,7 @@
       -119.508134,
       47.293631
     ],
-    "featureId": 859,
+    "featureId": 947,
     "population": 97331
   },
   {
@@ -14595,7 +15951,7 @@
       -123.756045,
       47.162482
     ],
-    "featureId": 860,
+    "featureId": 948,
     "population": 73901
   },
   {
@@ -14612,7 +15968,7 @@
       -122.559821,
       48.157794
     ],
-    "featureId": 861,
+    "featureId": 949,
     "population": 84460
   },
   {
@@ -14629,7 +15985,7 @@
       -123.61055200000001,
       47.8304245
     ],
-    "featureId": 862,
+    "featureId": 950,
     "population": 31729
   },
   {
@@ -14646,7 +16002,7 @@
       -121.7969185,
       47.4324805
     ],
-    "featureId": 863,
+    "featureId": 951,
     "population": 2233163
   },
   {
@@ -14663,7 +16019,7 @@
       -122.7433825,
       47.6719585
     ],
-    "featureId": 864,
+    "featureId": 952,
     "population": 269805
   },
   {
@@ -14680,7 +16036,7 @@
       -120.688514,
       47.167153
     ],
-    "featureId": 865,
+    "featureId": 953,
     "population": 47364
   },
   {
@@ -14697,7 +16053,7 @@
       -120.739452,
       45.825073
     ],
-    "featureId": 866,
+    "featureId": 954,
     "population": 22107
   },
   {
@@ -14714,7 +16070,7 @@
       -122.3615475,
       46.5893095
     ],
-    "featureId": 867,
+    "featureId": 955,
     "population": 79604
   },
   {
@@ -14731,7 +16087,7 @@
       -118.399462,
       47.609032
     ],
-    "featureId": 868,
+    "featureId": 956,
     "population": 10740
   },
   {
@@ -14748,7 +16104,7 @@
       -123.153076,
       47.344863000000004
     ],
-    "featureId": 869,
+    "featureId": 957,
     "population": 65507
   },
   {
@@ -14765,7 +16121,7 @@
       -122.10319799999999,
       47.066154
     ],
-    "featureId": 870,
+    "featureId": 958,
     "population": 891299
   },
   {
@@ -14782,7 +16138,7 @@
       -121.712645,
       48.476543
     ],
-    "featureId": 871,
+    "featureId": 959,
     "population": 128206
   },
   {
@@ -14799,7 +16155,7 @@
       -121.65598399999999,
       48.037258
     ],
-    "featureId": 872,
+    "featureId": 960,
     "population": 814901
   },
   {
@@ -14816,7 +16172,7 @@
       -117.431769,
       47.653568500000006
     ],
-    "featureId": 873,
+    "featureId": 961,
     "population": 514631
   },
   {
@@ -14833,7 +16189,7 @@
       -122.7023935,
       46.9761355
     ],
-    "featureId": 874,
+    "featureId": 962,
     "population": 286419
   },
   {
@@ -14850,7 +16206,7 @@
       -121.884438,
       48.821715499999996
     ],
-    "featureId": 875,
+    "featureId": 963,
     "population": 225685
   },
   {
@@ -14867,7 +16223,7 @@
       -120.69510149999999,
       46.564808
     ],
-    "featureId": 876,
+    "featureId": 964,
     "population": 251446
   },
   {
@@ -14894,7 +16250,7 @@
       -120.80671709265283,
       47.27941361449236
     ],
-    "featureId": 877,
+    "featureId": 965,
     "population": 7614893
   },
   {
@@ -14910,7 +16266,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 878,
+    "featureId": 966,
     "population": 883305
   },
   {
@@ -14926,7 +16282,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 879,
+    "featureId": 967,
     "population": 769545
   },
   {
@@ -14941,7 +16297,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 880,
+    "featureId": 968,
     "population": 1666753
   },
   {
@@ -14956,7 +16312,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 881,
+    "featureId": 969,
     "population": 499942
   },
   {
@@ -14971,7 +16327,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 882,
+    "featureId": 970,
     "population": 274255
   },
   {
@@ -14987,7 +16343,7 @@
       -121.70515,
       37.190824000000006
     ],
-    "featureId": 883,
+    "featureId": 971,
     "population": 1937570
   },
   {
@@ -15002,7 +16358,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 884,
+    "featureId": 972,
     "population": 446610
   },
   {
@@ -15018,7 +16374,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 885,
+    "featureId": 973,
     "population": 1150215
   },
   {
@@ -15033,7 +16389,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 886,
+    "featureId": 974,
     "population": 549815
   },
   {
@@ -15048,7 +16404,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 887,
+    "featureId": 975,
     "population": 220408
   },
   {
@@ -15064,7 +16420,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 888,
+    "featureId": 976,
     "population": 1540975
   },
   {
@@ -15080,7 +16436,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 889,
+    "featureId": 977,
     "population": 994400
   },
   {
@@ -15095,7 +16451,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 890,
+    "featureId": 978,
     "population": 157672
   },
   {
@@ -15111,7 +16467,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 891,
+    "featureId": 979,
     "population": 393149
   },
   {
@@ -15126,7 +16482,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 892,
+    "featureId": 980,
     "population": 180040
   },
   {
@@ -15142,7 +16498,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 893,
+    "featureId": 981,
     "population": 10105518
   },
   {
@@ -15157,7 +16513,7 @@
       -115.96848299999999,
       34.840230000000005
     ],
-    "featureId": 894,
+    "featureId": 982,
     "population": 2171603
   },
   {
@@ -15173,7 +16529,7 @@
       -121.2534915,
       37.891017500000004
     ],
-    "featureId": 895,
+    "featureId": 983,
     "population": 752660
   },
   {
@@ -15190,7 +16546,7 @@
       -120.649022,
       37.1868725
     ],
-    "featureId": 896,
+    "featureId": 984,
     "population": 274765
   },
   {
@@ -15205,7 +16561,7 @@
       -122.731167,
       38.071675
     ],
-    "featureId": 897,
+    "featureId": 985,
     "population": 259666
   },
   {
@@ -15220,7 +16576,7 @@
       -121.57306299999999,
       39.723763
     ],
-    "featureId": 898,
+    "featureId": 986,
     "population": 231256
   },
   {
@@ -15235,7 +16591,7 @@
       -120.507724,
       38.170645500000006
     ],
-    "featureId": 899,
+    "featureId": 987,
     "population": 45602
   },
   {
@@ -15250,7 +16606,7 @@
       -122.2913685,
       39.169222000000005
     ],
-    "featureId": 900,
+    "featureId": 988,
     "population": 21627
   },
   {
@@ -15266,7 +16622,7 @@
       -123.88695,
       41.6909115
     ],
-    "featureId": 901,
+    "featureId": 989,
     "population": 27828
   },
   {
@@ -15281,7 +16637,7 @@
       -122.405772,
       39.5913755
     ],
-    "featureId": 902,
+    "featureId": 990,
     "population": 28047
   },
   {
@@ -15296,7 +16652,7 @@
       -119.8948375,
       36.139044999999996
     ],
-    "featureId": 903,
+    "featureId": 991,
     "population": 151366
   },
   {
@@ -15311,7 +16667,7 @@
       -123.422765,
       39.380249
     ],
-    "featureId": 904,
+    "featureId": 992,
     "population": 87606
   },
   {
@@ -15327,7 +16683,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 905,
+    "featureId": 993,
     "population": 3185968
   },
   {
@@ -15342,7 +16698,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 906,
+    "featureId": 994,
     "population": 2450758
   },
   {
@@ -15357,7 +16713,7 @@
       -118.73838749999999,
       38.088132
     ],
-    "featureId": 907,
+    "featureId": 995,
     "population": 14250
   },
   {
@@ -15373,7 +16729,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 908,
+    "featureId": 996,
     "population": 3343364
   },
   {
@@ -15389,8 +16745,248 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 909,
+    "featureId": 997,
     "population": 850967
+  },
+  {
+    "county": "Brown County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 1,
+    "coordinates": [
+      -88.00379000000001,
+      44.460046000000006
+    ],
+    "featureId": 998,
+    "population": 263378
+  },
+  {
+    "county": "Dane County",
+    "cases": 23,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 23,
+    "coordinates": [
+      -89.4235435,
+      43.069541
+    ],
+    "featureId": 999,
+    "population": 542364
+  },
+  {
+    "county": "Fond du Lac County",
+    "cases": 12,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 12,
+    "coordinates": [
+      -88.5234625,
+      43.7405715
+    ],
+    "featureId": 1000,
+    "population": 103066
+  },
+  {
+    "county": "Kenosha County",
+    "cases": 4,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 4,
+    "coordinates": [
+      -88.053184,
+      42.5808145
+    ],
+    "featureId": 1001,
+    "population": 169290
+  },
+  {
+    "county": "La Crosse County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 1,
+    "coordinates": [
+      -91.1678275,
+      43.90481
+    ],
+    "featureId": 1002,
+    "population": 118230
+  },
+  {
+    "county": "Milwaukee County",
+    "cases": 47,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 47,
+    "coordinates": [
+      -87.94847250000001,
+      43.017386
+    ],
+    "featureId": 1003,
+    "population": 948201
+  },
+  {
+    "county": "Outagamie County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 1,
+    "coordinates": [
+      -88.46518649999999,
+      44.416275999999996
+    ],
+    "featureId": 1004,
+    "population": 187365
+  },
+  {
+    "county": "Pierce County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 1,
+    "coordinates": [
+      -92.47159500000001,
+      44.7007885
+    ],
+    "featureId": 1005,
+    "population": 42555
+  },
+  {
+    "county": "Racine County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 1,
+    "coordinates": [
+      -88.0365295,
+      42.72707
+    ],
+    "featureId": 1006,
+    "population": 196584
+  },
+  {
+    "county": "Sheboygan County",
+    "cases": 4,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 4,
+    "coordinates": [
+      -87.9311795,
+      43.7172725
+    ],
+    "featureId": 1007,
+    "population": 115456
+  },
+  {
+    "county": "Washington County",
+    "cases": 2,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 2,
+    "coordinates": [
+      -88.2293215,
+      43.3678245
+    ],
+    "featureId": 1008,
+    "population": 135693
+  },
+  {
+    "county": "Waukesha County",
+    "cases": 5,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 5,
+    "coordinates": [
+      -88.30268950000001,
+      43.018702
+    ],
+    "featureId": 1009,
+    "population": 403072
+  },
+  {
+    "county": "Winnebago County",
+    "cases": 3,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 3,
+    "coordinates": [
+      -88.644934,
+      44.0685395
+    ],
+    "featureId": 1010,
+    "population": 171020
+  },
+  {
+    "county": "Wood County",
+    "cases": 1,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 1,
+    "coordinates": [
+      -90.02142649999999,
+      44.466415999999995
+    ],
+    "featureId": 1011,
+    "population": 73055
+  },
+  {
+    "tested": 1683,
+    "cases": 106,
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "rating": 0.6097560975609756,
+    "active": 106,
+    "coordinates": [
+      -89.56690985655462,
+      44.89991863863423
+    ],
+    "featureId": 1012,
+    "population": 5822434
   },
   {
     "county": "Beadle County",
@@ -15405,7 +17001,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 910,
+    "featureId": 1013,
     "population": 18883
   },
   {
@@ -15421,7 +17017,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 911,
+    "featureId": 1014,
     "population": 6980
   },
   {
@@ -15437,7 +17033,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 912,
+    "featureId": 1015,
     "population": 9338
   },
   {
@@ -15453,7 +17049,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 913,
+    "featureId": 1016,
     "population": 19790
   },
   {
@@ -15469,7 +17065,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 914,
+    "featureId": 1017,
     "population": 5546
   },
   {
@@ -15485,7 +17081,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 915,
+    "featureId": 1018,
     "population": 192876
   },
   {
@@ -15501,7 +17097,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 916,
+    "featureId": 1019,
     "population": 111729
   },
   {
@@ -15537,7 +17133,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 917,
+    "featureId": 1020,
     "population": 351713
   },
   {
@@ -15553,7 +17149,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 918,
+    "featureId": 1021,
     "population": 1152633
   },
   {
@@ -15569,7 +17165,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 919,
+    "featureId": 1022,
     "population": 15449
   },
   {
@@ -15605,7 +17201,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 920,
+    "featureId": 1023,
     "population": 41933
   },
   {
@@ -15621,7 +17217,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 921,
+    "featureId": 1024,
     "population": 69907
   },
   {
@@ -15647,7 +17243,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 922,
+    "featureId": 1025,
     "population": 622213
   },
   {
@@ -15663,7 +17259,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 923,
+    "featureId": 1026,
     "population": 33240
   },
   {
@@ -15888,7 +17484,7 @@
       -77.60961308037935,
       41.12951166463159
     ],
-    "featureId": 924,
+    "featureId": 1027,
     "population": 12801989
   },
   {
@@ -15904,7 +17500,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 925,
+    "featureId": 1028,
     "population": 39583
   },
   {
@@ -15920,7 +17516,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 926,
+    "featureId": 1029,
     "population": 40439
   },
   {
@@ -15936,7 +17532,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 927,
+    "featureId": 1030,
     "population": 692587
   },
   {
@@ -15952,7 +17548,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 928,
+    "featureId": 1031,
     "population": 364286
   },
   {
@@ -15968,7 +17564,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 929,
+    "featureId": 1032,
     "population": 54012
   },
   {
@@ -15984,7 +17580,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 930,
+    "featureId": 1033,
     "population": 465289
   },
   {
@@ -16000,7 +17596,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 931,
+    "featureId": 1034,
     "population": 71012
   },
   {
@@ -16016,7 +17612,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 932,
+    "featureId": 1035,
     "population": 324890
   },
   {
@@ -16032,7 +17628,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 933,
+    "featureId": 1036,
     "population": 97892
   },
   {
@@ -16048,7 +17644,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 934,
+    "featureId": 1037,
     "population": 935764
   },
   {
@@ -16064,7 +17660,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 935,
+    "featureId": 1038,
     "population": 157668
   },
   {
@@ -16080,7 +17676,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 936,
+    "featureId": 1039,
     "population": 187149
   },
   {
@@ -16096,7 +17692,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 937,
+    "featureId": 1040,
     "population": 231729
   },
   {
@@ -16112,7 +17708,7 @@
       -82.280962,
       40.810381
     ],
-    "featureId": 938,
+    "featureId": 1041,
     "population": 53745
   },
   {
@@ -16128,7 +17724,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 939,
+    "featureId": 1042,
     "population": 67505
   },
   {
@@ -16144,7 +17740,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 940,
+    "featureId": 1043,
     "population": 382378
   },
   {
@@ -16160,7 +17756,7 @@
       -81.9059705,
       40.303628
     ],
-    "featureId": 941,
+    "featureId": 1044,
     "population": 36629
   },
   {
@@ -16176,7 +17772,7 @@
       -81.67301699999999,
       41.453196000000005
     ],
-    "featureId": 942,
+    "featureId": 1045,
     "population": 1243857
   },
   {
@@ -16192,7 +17788,7 @@
       -84.6191565,
       40.135587
     ],
-    "featureId": 943,
+    "featureId": 1046,
     "population": 51323
   },
   {
@@ -16208,7 +17804,7 @@
       -82.99676299999999,
       40.284922
     ],
-    "featureId": 944,
+    "featureId": 1047,
     "population": 204826
   },
   {
@@ -16224,7 +17820,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 945,
+    "featureId": 1048,
     "population": 1310300
   },
   {
@@ -16240,7 +17836,7 @@
       -81.19737699999999,
       41.5314985
     ],
-    "featureId": 946,
+    "featureId": 1049,
     "population": 94031
   },
   {
@@ -16256,7 +17852,7 @@
       -82.5889855,
       41.1414835
     ],
-    "featureId": 947,
+    "featureId": 1050,
     "population": 58504
   },
   {
@@ -16272,7 +17868,7 @@
       -81.2455255,
       41.712312
     ],
-    "featureId": 948,
+    "featureId": 1051,
     "population": 230514
   },
   {
@@ -16288,7 +17884,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 949,
+    "featureId": 1052,
     "population": 309461
   },
   {
@@ -16304,7 +17900,7 @@
       -83.5244735,
       41.573549
     ],
-    "featureId": 950,
+    "featureId": 1053,
     "population": 429899
   },
   {
@@ -16320,7 +17916,7 @@
       -80.80287200000001,
       41.0170235
     ],
-    "featureId": 951,
+    "featureId": 1054,
     "population": 229642
   },
   {
@@ -16336,7 +17932,7 @@
       -81.92915450000001,
       41.132868
     ],
-    "featureId": 952,
+    "featureId": 1055,
     "population": 179146
   },
   {
@@ -16352,7 +17948,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 953,
+    "featureId": 1056,
     "population": 371574
   },
   {
@@ -16368,7 +17964,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 954,
+    "featureId": 1057,
     "population": 541918
   },
   {
@@ -16384,7 +17980,7 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 955,
+    "featureId": 1058,
     "population": 198627
   },
   {
@@ -16400,8 +17996,88 @@
       -81.488516,
       40.440586499999995
     ],
-    "featureId": 956,
+    "featureId": 1059,
     "population": 92176
+  },
+  {
+    "county": "Fairfield County",
+    "cases": 69,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "aggregate": "county",
+    "rating": 0.5609756097560976,
+    "active": 69,
+    "coordinates": [
+      -73.397813,
+      41.3259525
+    ],
+    "featureId": 1060,
+    "population": 943823
+  },
+  {
+    "county": "Hartford County",
+    "cases": 11,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "aggregate": "county",
+    "rating": 0.5609756097560976,
+    "active": 11,
+    "coordinates": [
+      -72.71937700000001,
+      41.7926935
+    ],
+    "featureId": 1061,
+    "population": 892697
+  },
+  {
+    "county": "Litchfield County",
+    "cases": 5,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "aggregate": "county",
+    "rating": 0.5609756097560976,
+    "active": 5,
+    "coordinates": [
+      -73.20264900000001,
+      41.759701
+    ],
+    "featureId": 1062,
+    "population": 181111
+  },
+  {
+    "county": "Middlesex County",
+    "cases": 1,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "aggregate": "county",
+    "rating": 0.5609756097560976,
+    "active": 1,
+    "coordinates": [
+      -72.529236,
+      41.4513225
+    ],
+    "featureId": 1063,
+    "population": 162682
+  },
+  {
+    "county": "New Haven County",
+    "cases": 10,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "aggregate": "county",
+    "rating": 0.5609756097560976,
+    "active": 10,
+    "coordinates": [
+      -72.93228500000001,
+      41.4056375
+    ],
+    "featureId": 1064,
+    "population": 857620
   },
   {
     "cases": 5,
@@ -16417,7 +18093,7 @@
       -121.1202815,
       36.595779
     ],
-    "featureId": 957,
+    "featureId": 1065,
     "population": 61537
   },
   {
@@ -16453,7 +18129,7 @@
       -61.49286861849993,
       16.196804103500057
     ],
-    "featureId": 958
+    "featureId": 1066
   },
   {
     "state": "Martinique",
@@ -16468,7 +18144,7 @@
       -61.019622362499945,
       14.669175522500069
     ],
-    "featureId": 959
+    "featureId": 1067
   },
   {
     "state": "Guyane",
@@ -16493,7 +18169,7 @@
       55.53996829500005,
       -21.115329685499916
     ],
-    "featureId": 960
+    "featureId": 1068
   },
   {
     "state": "Mayotte",
@@ -16508,7 +18184,7 @@
       45.150157097500085,
       -12.856052341999913
     ],
-    "featureId": 961
+    "featureId": 1069
   },
   {
     "state": "Ile-de-France",
@@ -16593,7 +18269,7 @@
       -1.3420896595558247,
       46.68028475254144
     ],
-    "featureId": 962
+    "featureId": 1070
   },
   {
     "state": "Bretagne",
@@ -16608,7 +18284,7 @@
       -2.89110042139734,
       47.83005411656552
     ],
-    "featureId": 963
+    "featureId": 1071
   },
   {
     "state": "Nouvelle-Aquitaine",
@@ -16663,7 +18339,7 @@
       9.06503339891242,
       42.42572715736796
     ],
-    "featureId": 964
+    "featureId": 1072
   },
   {
     "cases": 9874,
@@ -16677,7 +18353,7 @@
       -2.9882706369999426,
       14.862000781359463
     ],
-    "featureId": 965,
+    "featureId": 1073,
     "population": 67106161
   },
   {
@@ -16694,7 +18370,7 @@
       -5.760709740962795,
       36.52305392954614
     ],
-    "featureId": 966
+    "featureId": 1074
   },
   {
     "state": "Aragón",
@@ -16710,7 +18386,7 @@
       -0.08049929380734966,
       42.134828154805525
     ],
-    "featureId": 967
+    "featureId": 1075
   },
   {
     "state": "Principado de Asturias",
@@ -16759,7 +18435,7 @@
       -3.991235879578522,
       43.13970978396958
     ],
-    "featureId": 968
+    "featureId": 1076
   },
   {
     "state": "Castilla y León",
@@ -16775,7 +18451,7 @@
       -6.152125149456111,
       41.68636903055628
     ],
-    "featureId": 969
+    "featureId": 1077
   },
   {
     "state": "Castilla-La Mancha",
@@ -16791,7 +18467,7 @@
       -1.8916374333209092,
       38.724266107394925
     ],
-    "featureId": 970
+    "featureId": 1078
   },
   {
     "state": "Cataluña",
@@ -16807,7 +18483,7 @@
       1.0855422223956452,
       42.03562612236923
     ],
-    "featureId": 971
+    "featureId": 1079
   },
   {
     "state": "Comunitat Valenciana",
@@ -16834,7 +18510,7 @@
       -6.250120712850645,
       39.75451443774111
     ],
-    "featureId": 972
+    "featureId": 1080
   },
   {
     "state": "Galicia",
@@ -16850,7 +18526,7 @@
       -7.54885392701712,
       42.19553303442197
     ],
-    "featureId": 973
+    "featureId": 1081
   },
   {
     "state": "Comunidad de Madrid",
@@ -16899,7 +18575,7 @@
       -2.154373327342114,
       43.14304220529398
     ],
-    "featureId": 974
+    "featureId": 1082
   },
   {
     "state": "La Rioja",
@@ -16915,7 +18591,7 @@
       -2.4031165223596247,
       42.28492574697563
     ],
-    "featureId": 975
+    "featureId": 1083
   },
   {
     "state": "Ceuta",
@@ -16931,7 +18607,7 @@
       -5.345359091499915,
       35.88593067100006
     ],
-    "featureId": 976
+    "featureId": 1084
   },
   {
     "state": "Melilla",
@@ -16947,7 +18623,7 @@
       -2.939916344999915,
       35.29882680600007
     ],
-    "featureId": 977
+    "featureId": 1085
   },
   {
     "cases": 13716,
@@ -16962,7 +18638,7 @@
       -6.849639452499929,
       35.73847077050007
     ],
-    "featureId": 978,
+    "featureId": 1086,
     "population": 48958159
   },
   {
@@ -16980,7 +18656,7 @@
       -78.6931075,
       39.580749
     ],
-    "featureId": 979,
+    "featureId": 1087,
     "population": 70975
   },
   {
@@ -16998,7 +18674,7 @@
       -76.617221,
       38.9754795
     ],
-    "featureId": 980,
+    "featureId": 1088,
     "population": 576031
   },
   {
@@ -17016,7 +18692,7 @@
       -76.60774,
       39.4583055
     ],
-    "featureId": 981,
+    "featureId": 1089,
     "population": 828431
   },
   {
@@ -17046,7 +18722,7 @@
       -76.5440945,
       38.537166
     ],
-    "featureId": 982,
+    "featureId": 1090,
     "population": 92003
   },
   {
@@ -17064,7 +18740,7 @@
       -75.85111599999999,
       38.889352
     ],
-    "featureId": 983,
+    "featureId": 1091,
     "population": 33304
   },
   {
@@ -17082,7 +18758,7 @@
       -77.04930300000001,
       39.534766000000005
     ],
-    "featureId": 984,
+    "featureId": 1092,
     "population": 168429
   },
   {
@@ -17100,7 +18776,7 @@
       -75.999976,
       39.5413585
     ],
-    "featureId": 985,
+    "featureId": 1093,
     "population": 102826
   },
   {
@@ -17118,7 +18794,7 @@
       -76.96860749999999,
       38.480309500000004
     ],
-    "featureId": 986,
+    "featureId": 1094,
     "population": 161503
   },
   {
@@ -17136,7 +18812,7 @@
       -76.0189625,
       38.409225
     ],
-    "featureId": 987,
+    "featureId": 1095,
     "population": 31998
   },
   {
@@ -17154,7 +18830,7 @@
       -77.392417,
       39.47017700000001
     ],
-    "featureId": 988,
+    "featureId": 1096,
     "population": 255648
   },
   {
@@ -17172,7 +18848,7 @@
       -79.209413,
       39.463305500000004
     ],
-    "featureId": 989,
+    "featureId": 1097,
     "population": 29163
   },
   {
@@ -17190,7 +18866,7 @@
       -76.315203,
       39.5117065
     ],
-    "featureId": 990,
+    "featureId": 1098,
     "population": 253956
   },
   {
@@ -17208,7 +18884,7 @@
       -76.9419445,
       39.236219
     ],
-    "featureId": 991,
+    "featureId": 1099,
     "population": 323196
   },
   {
@@ -17226,7 +18902,7 @@
       -76.0172445,
       39.196154500000006
     ],
-    "featureId": 992,
+    "featureId": 1100,
     "population": 19383
   },
   {
@@ -17244,7 +18920,7 @@
       -77.2078935,
       39.1439065
     ],
-    "featureId": 993,
+    "featureId": 1101,
     "population": 1052567
   },
   {
@@ -17262,7 +18938,7 @@
       -76.87822,
       38.8331695
     ],
-    "featureId": 994,
+    "featureId": 1102,
     "population": 909308
   },
   {
@@ -17280,7 +18956,7 @@
       -76.0619365,
       39.047804
     ],
-    "featureId": 995,
+    "featureId": 1103,
     "population": 50251
   },
   {
@@ -17298,7 +18974,7 @@
       -75.800611,
       38.105281000000005
     ],
-    "featureId": 996,
+    "featureId": 1104,
     "population": 25675
   },
   {
@@ -17316,7 +18992,7 @@
       -76.595653,
       38.2745585
     ],
-    "featureId": 997,
+    "featureId": 1105,
     "population": 112664
   },
   {
@@ -17334,7 +19010,7 @@
       -76.122386,
       38.7587675
     ],
-    "featureId": 998,
+    "featureId": 1106,
     "population": 36968
   },
   {
@@ -17352,7 +19028,7 @@
       -77.91450950000001,
       39.5205695
     ],
-    "featureId": 999,
+    "featureId": 1107,
     "population": 150926
   },
   {
@@ -17370,7 +19046,7 @@
       -75.61925600000001,
       38.3943725
     ],
-    "featureId": 1000,
+    "featureId": 1108,
     "population": 103195
   },
   {
@@ -17388,7 +19064,7 @@
       -75.3490465,
       38.2230905
     ],
-    "featureId": 1001,
+    "featureId": 1109,
     "population": 51823
   },
   {
@@ -17403,7 +19079,7 @@
       -77.28591288692019,
       38.84687414823583
     ],
-    "featureId": 1002,
+    "featureId": 1110,
     "population": 6045680
   },
   {
@@ -17418,7 +19094,7 @@
       149.06023522322693,
       -35.53036325446061
     ],
-    "featureId": 1003,
+    "featureId": 1111,
     "population": 426709
   },
   {
@@ -17433,7 +19109,7 @@
       147.3153664483503,
       -32.82977854599065
     ],
-    "featureId": 1004,
+    "featureId": 1112,
     "population": 8089526
   },
   {
@@ -17448,7 +19124,7 @@
       133.50015133877957,
       -18.516157321898987
     ],
-    "featureId": 1005,
+    "featureId": 1113,
     "population": 245869
   },
   {
@@ -17463,7 +19139,7 @@
       145.75436445400004,
       -19.64674041161055
     ],
-    "featureId": 1006,
+    "featureId": 1114,
     "population": 5095100
   },
   {
@@ -17478,7 +19154,7 @@
       135.0000995213503,
       -32.035240980898976
     ],
-    "featureId": 1007,
+    "featureId": 1115,
     "population": 1751693
   },
   {
@@ -17493,7 +19169,7 @@
       146.16134687600004,
       -41.60023365649994
     ],
-    "featureId": 1008,
+    "featureId": 1116,
     "population": 534281
   },
   {
@@ -17508,7 +19184,7 @@
       145.4695804428331,
       -36.537788791607284
     ],
-    "featureId": 1009,
+    "featureId": 1117,
     "population": 6594804
   },
   {
@@ -17523,7 +19199,7 @@
       120.95978010457588,
       -24.407891534499925
     ],
-    "featureId": 1010,
+    "featureId": 1118,
     "population": 2621680
   },
   {
@@ -17537,7 +19213,7 @@
       133.43764789150003,
       -27.17176685949994
     ],
-    "featureId": 1011,
+    "featureId": 1119,
     "population": 23232413
   },
   {
@@ -17550,11 +19226,11 @@
       -10.831668929677392
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1012
+    "featureId": 1120
   },
   {
     "state": "AC",
@@ -17566,11 +19242,11 @@
       -9.121958699499913
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1013
+    "featureId": 1121
   },
   {
     "state": "AM",
@@ -17582,11 +19258,11 @@
       -3.801031659031324
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 1,
-    "featureId": 1014
+    "featureId": 1122
   },
   {
     "state": "RR",
@@ -17598,11 +19274,11 @@
       1.9338620027494215
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1015
+    "featureId": 1123
   },
   {
     "state": "PA",
@@ -17614,11 +19290,11 @@
       -3.626695330355169
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1016
+    "featureId": 1124
   },
   {
     "state": "AP",
@@ -17630,11 +19306,11 @@
       1.6322509422846565
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1017
+    "featureId": 1125
   },
   {
     "state": "TO",
@@ -17646,11 +19322,11 @@
       -9.258995252778703
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1018
+    "featureId": 1126
   },
   {
     "state": "MA",
@@ -17662,11 +19338,11 @@
       -5.739146620286533
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1019
+    "featureId": 1127
   },
   {
     "state": "PI",
@@ -17678,11 +19354,11 @@
       -6.830773613917813
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1020
+    "featureId": 1128
   },
   {
     "state": "CE",
@@ -17694,11 +19370,11 @@
       -5.320150038402943
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 9,
-    "featureId": 1021
+    "featureId": 1129
   },
   {
     "state": "RN",
@@ -17710,11 +19386,11 @@
       -5.902948951918576
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 1,
-    "featureId": 1022
+    "featureId": 1130
   },
   {
     "state": "PB",
@@ -17726,11 +19402,11 @@
       -7.154162489157557
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1023
+    "featureId": 1131
   },
   {
     "state": "PE",
@@ -17742,11 +19418,11 @@
       -8.378092949979674
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 16,
-    "featureId": 1024
+    "featureId": 1132
   },
   {
     "state": "AL",
@@ -17758,11 +19434,11 @@
       -9.66813364038606
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 1,
-    "featureId": 1025
+    "featureId": 1133
   },
   {
     "state": "SE",
@@ -17774,11 +19450,11 @@
       -10.542973727655408
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 5,
-    "featureId": 1026
+    "featureId": 1134
   },
   {
     "state": "BA",
@@ -17790,11 +19466,11 @@
       -13.428636359280546
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 3,
-    "featureId": 1027
+    "featureId": 1135
   },
   {
     "state": "MG",
@@ -17806,11 +19482,11 @@
       -18.569305515387242
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 15,
-    "featureId": 1028
+    "featureId": 1136
   },
   {
     "state": "ES",
@@ -17822,11 +19498,11 @@
       -19.583987593752454
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 9,
-    "featureId": 1029
+    "featureId": 1137
   },
   {
     "state": "RJ",
@@ -17838,11 +19514,11 @@
       -22.06503752988857
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 45,
-    "featureId": 1030
+    "featureId": 1138
   },
   {
     "state": "SP",
@@ -17854,11 +19530,11 @@
       -22.549618393174313
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 236,
-    "featureId": 1031
+    "featureId": 1139
   },
   {
     "state": "PR",
@@ -17870,11 +19546,11 @@
       -24.601107883122296
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 13,
-    "featureId": 1032
+    "featureId": 1140
   },
   {
     "state": "SC",
@@ -17886,11 +19562,11 @@
       -27.65149708429871
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 10,
-    "featureId": 1033
+    "featureId": 1141
   },
   {
     "state": "RS",
@@ -17902,11 +19578,11 @@
       -30.406333313679497
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 19,
-    "featureId": 1034
+    "featureId": 1142
   },
   {
     "state": "MS",
@@ -17918,11 +19594,11 @@
       -20.618883874041558
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 7,
-    "featureId": 1035
+    "featureId": 1143
   },
   {
     "state": "MT",
@@ -17934,11 +19610,11 @@
       -12.685375257861864
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 0,
-    "featureId": 1036
+    "featureId": 1144
   },
   {
     "state": "GO",
@@ -17950,11 +19626,11 @@
       -15.936701348488441
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 8,
-    "featureId": 1037
+    "featureId": 1145
   },
   {
     "state": "DF",
@@ -17966,17 +19642,17 @@
       -15.764954725480209
     ],
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7560975609756098,
     "active": 26,
-    "featureId": 1038
+    "featureId": 1146
   },
   {
     "cases": 428,
     "deaths": 4,
     "country": "BRA",
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "aggregate": "county",
     "rating": 0.7073170731707317,
     "active": 424,
@@ -17984,7 +19660,7 @@
       -54.38839290699988,
       -14.236725569657125
     ],
-    "featureId": 1039,
+    "featureId": 1147,
     "population": 207353391
   }
 ]
