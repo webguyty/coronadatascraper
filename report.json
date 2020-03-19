@@ -1,11 +1,11 @@
 {
   "date": "2020-3-18",
   "scrape": {
-    "numCountries": 146,
-    "numStates": 198,
+    "numCountries": 148,
+    "numStates": 205,
     "numCounties": 911,
     "numCities": 0,
-    "numDuplicates": 32,
+    "numDuplicates": 34,
     "numErrors": 0,
     "crosscheckReports": {
       "Bretagne, FRA": [
@@ -22,7 +22,7 @@
             -2.89110042139734,
             47.83005411656552
           ],
-          "featureId": 1071
+          "featureId": 1080
         },
         {
           "state": "Bretagne",
@@ -65,6 +65,78 @@
           "active": 208
         }
       ],
+      "Guadeloupe, FRA": [
+        {
+          "country": "FRA",
+          "cases": 27,
+          "recovered": 0,
+          "deaths": 0,
+          "coordinates": [
+            -61.5833,
+            16.25
+          ],
+          "state": "Guadeloupe",
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "ssl": true,
+          "type": "list",
+          "rating": 0.7804878048780488,
+          "active": 27
+        },
+        {
+          "state": "Guadeloupe",
+          "cases": 33,
+          "deaths": 0,
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "country": "FRA",
+          "aggregate": "state",
+          "rating": 0.7317073170731707,
+          "active": 33,
+          "coordinates": [
+            -61.49286861849993,
+            16.196804103500057
+          ],
+          "featureId": 1075
+        }
+      ],
+      "Mayotte, FRA": [
+        {
+          "country": "FRA",
+          "cases": 3,
+          "recovered": 0,
+          "deaths": 0,
+          "coordinates": [
+            45.1662,
+            -12.8275
+          ],
+          "state": "Mayotte",
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "ssl": true,
+          "type": "list",
+          "rating": 0.7804878048780488,
+          "active": 3
+        },
+        {
+          "state": "Mayotte",
+          "cases": 3,
+          "deaths": 0,
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "country": "FRA",
+          "aggregate": "state",
+          "rating": 0.7317073170731707,
+          "active": 3,
+          "coordinates": [
+            45.150157097500085,
+            -12.856052341999913
+          ],
+          "featureId": 1078
+        }
+      ],
       "AL, USA": [
         {
           "country": "USA",
@@ -93,14 +165,13 @@
             -86.69343876373793,
             32.6211173120505
           ],
-          "featureId": 726,
+          "featureId": 735,
           "population": 4903185
         }
       ],
       "Australian Capital Territory, AUS": [
         {
           "country": "AUS",
-          "state": "Australian Capital Territory",
           "cases": 3,
           "recovered": 0,
           "deaths": 0,
@@ -108,6 +179,7 @@
             149.0124,
             -35.4735
           ],
+          "state": "Australian Capital Territory",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -129,7 +201,7 @@
             149.06023522322693,
             -35.53036325446061
           ],
-          "featureId": 1111,
+          "featureId": 1120,
           "population": 426709
         }
       ],
@@ -149,7 +221,7 @@
           "priority": -1,
           "ssl": true,
           "type": "list",
-          "rating": 0.7804878048780488,
+          "rating": 0.7317073170731707,
           "active": 8883
         },
         {
@@ -164,7 +236,7 @@
             -2.9882706369999426,
             14.862000781359463
           ],
-          "featureId": 1073,
+          "featureId": 1082,
           "population": 67106161
         }
       ],
@@ -196,7 +268,7 @@
             -89.87338261081882,
             32.59642655665229
           ],
-          "featureId": 713,
+          "featureId": 722,
           "population": 2976149
         }
       ],
@@ -228,7 +300,7 @@
             -75.41630955251765,
             39.14564123795276
           ],
-          "featureId": 908,
+          "featureId": 917,
           "population": 973764
         }
       ],
@@ -261,7 +333,7 @@
             -91.53320699521313,
             31.022399050426287
           ],
-          "featureId": 871,
+          "featureId": 880,
           "population": 4648794
         }
       ],
@@ -294,7 +366,7 @@
             -89.56690985655462,
             44.89991863863423
           ],
-          "featureId": 1012,
+          "featureId": 1021,
           "population": 5822434
         }
       ],
@@ -326,7 +398,7 @@
             -77.0145477695639,
             38.899451555326564
           ],
-          "featureId": 714,
+          "featureId": 723,
           "population": 705749
         }
       ],
@@ -358,7 +430,7 @@
             -77.28591288692019,
             38.84687414823583
           ],
-          "featureId": 1110,
+          "featureId": 1119,
           "population": 6045680
         }
       ],
@@ -390,7 +462,7 @@
             -93.38911747419203,
             41.94023846253498
           ],
-          "featureId": 883,
+          "featureId": 892,
           "population": 3155070
         }
       ],
@@ -424,7 +496,7 @@
             -77.60961308037935,
             41.12951166463159
           ],
-          "featureId": 1027,
+          "featureId": 1036,
           "population": 12801989
         }
       ],
@@ -456,7 +528,7 @@
             -100.0884705015624,
             31.177528238191037
           ],
-          "featureId": 907,
+          "featureId": 916,
           "population": 28995881
         }
       ],
@@ -489,7 +561,7 @@
             -120.50533834262885,
             44.11740471870206
           ],
-          "featureId": 806,
+          "featureId": 815,
           "population": 4217737
         }
       ],
@@ -522,7 +594,7 @@
             -105.54309696705135,
             38.99982098225249
           ],
-          "featureId": 791
+          "featureId": 800
         }
       ],
       "NY, USA": [
@@ -553,7 +625,7 @@
             -75.8409706677239,
             42.76080525150005
           ],
-          "featureId": 942,
+          "featureId": 951,
           "population": 19453561
         }
       ],
@@ -586,14 +658,13 @@
             -120.80671709265283,
             47.27941361449236
           ],
-          "featureId": 965,
+          "featureId": 974,
           "population": 7614893
         }
       ],
       "Northern Territory, AUS": [
         {
           "country": "AUS",
-          "state": "Northern Territory",
           "cases": 1,
           "recovered": 0,
           "deaths": 0,
@@ -601,6 +672,7 @@
             130.8456,
             -12.4634
           ],
+          "state": "Northern Territory",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -622,14 +694,13 @@
             133.50015133877957,
             -18.516157321898987
           ],
-          "featureId": 1113,
+          "featureId": 1122,
           "population": 245869
         }
       ],
       "Tasmania, AUS": [
         {
           "country": "AUS",
-          "state": "Tasmania",
           "cases": 10,
           "recovered": 0,
           "deaths": 0,
@@ -637,6 +708,7 @@
             145.9707,
             -41.4545
           ],
+          "state": "Tasmania",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -658,14 +730,13 @@
             146.16134687600004,
             -41.60023365649994
           ],
-          "featureId": 1116,
+          "featureId": 1125,
           "population": 534281
         }
       ],
       "Western Australia, AUS": [
         {
           "country": "AUS",
-          "state": "Western Australia",
           "cases": 35,
           "recovered": 0,
           "deaths": 1,
@@ -673,6 +744,7 @@
             115.8605,
             -31.9505
           ],
+          "state": "Western Australia",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -694,7 +766,7 @@
             120.95978010457588,
             -24.407891534499925
           ],
-          "featureId": 1118,
+          "featureId": 1127,
           "population": 2621680
         }
       ],
@@ -714,7 +786,7 @@
           "priority": -1,
           "ssl": true,
           "type": "list",
-          "rating": 0.7804878048780488,
+          "rating": 0.7317073170731707,
           "active": 367
         },
         {
@@ -729,14 +801,13 @@
             -54.38839290699988,
             -14.236725569657125
           ],
-          "featureId": 1147,
+          "featureId": 1156,
           "population": 207353391
         }
       ],
       "South Australia, AUS": [
         {
           "country": "AUS",
-          "state": "South Australia",
           "cases": 37,
           "recovered": 3,
           "deaths": 0,
@@ -744,6 +815,7 @@
             138.6007,
             -34.9285
           ],
+          "state": "South Australia",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -765,7 +837,7 @@
             135.0000995213503,
             -32.035240980898976
           ],
-          "featureId": 1115,
+          "featureId": 1124,
           "population": 1751693
         }
       ],
@@ -785,7 +857,7 @@
           "priority": -1,
           "ssl": true,
           "type": "list",
-          "rating": 0.7804878048780488,
+          "rating": 0.7317073170731707,
           "active": 12206
         },
         {
@@ -801,14 +873,13 @@
             -6.849639452499929,
             35.73847077050007
           ],
-          "featureId": 1086,
+          "featureId": 1095,
           "population": 48958159
         }
       ],
       "Queensland, AUS": [
         {
           "country": "AUS",
-          "state": "Queensland",
           "cases": 94,
           "recovered": 8,
           "deaths": 0,
@@ -816,6 +887,7 @@
             153.4,
             -28.0167
           ],
+          "state": "Queensland",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -837,14 +909,13 @@
             145.75436445400004,
             -19.64674041161055
           ],
-          "featureId": 1114,
+          "featureId": 1123,
           "population": 5095100
         }
       ],
       "Victoria, AUS": [
         {
           "country": "AUS",
-          "state": "Victoria",
           "cases": 121,
           "recovered": 8,
           "deaths": 0,
@@ -852,6 +923,7 @@
             144.9631,
             -37.8136
           ],
+          "state": "Victoria",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -873,14 +945,13 @@
             145.4695804428331,
             -36.537788791607284
           ],
-          "featureId": 1117,
+          "featureId": 1126,
           "population": 6594804
         }
       ],
       "New South Wales, AUS": [
         {
           "country": "AUS",
-          "state": "New South Wales",
           "cases": 267,
           "recovered": 4,
           "deaths": 5,
@@ -888,6 +959,7 @@
             151.2093,
             -33.8688
           ],
+          "state": "New South Wales",
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
@@ -909,7 +981,7 @@
             147.3153664483503,
             -32.82977854599065
           ],
-          "featureId": 1112,
+          "featureId": 1121,
           "population": 8089526
         }
       ],
@@ -1046,18 +1118,18 @@
     "errors": []
   },
   "findFeatures": {
-    "numFeaturesFound": 1148,
+    "numFeaturesFound": 1157,
     "missingFeatures": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
       "Suburban Cook County, IL, USA",
-      "Hong Kong",
-      "Macau, CHN",
       "Channel Islands, GBR",
       "French Polynesia, FRA",
       "PR, USA",
       "GU, USA",
       "VI, USA",
+      "Reunion, FRA",
+      "Aruba, NLD",
       "Zurich, CHE",
       "Bournemouth, Christchurch and Poole, GBR",
       "Bristol, City of, GBR",
@@ -1155,19 +1227,24 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 929,
+    "numLocationsWithPopulation": 933,
     "missingPopulations": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
       "Suburban Cook County, IL, USA",
       "MTQ",
-      "Hong Kong",
       "St Martin, FRA",
       "Channel Islands, GBR",
       "French Polynesia, FRA",
+      "French Guiana, FRA",
       "GU, USA",
+      "Curacao, NLD",
       "The Bahamas",
       "VI, USA",
+      "Cayman Islands, GBR",
+      "Reunion, FRA",
+      "Aruba, NLD",
+      "Montserrat, GBR",
       "Zurich, CHE",
       "Barking and Dagenham, GBR",
       "Barnet, GBR",
