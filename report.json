@@ -1,36 +1,16 @@
 {
+  "date": "2020-3-18",
   "scrape": {
     "numCountries": 146,
     "numStates": 198,
-    "numCounties": 803,
+    "numCounties": 847,
     "numCities": 0,
-    "numDuplicates": 29,
-    "numErrors": 4,
-    "errors": [
-      {
-        "name": "OR, USA",
-        "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-        "err": "TypeError: $ is not a function"
-      },
-      {
-        "name": "IA, USA",
-        "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
-        "err": "Error: Invalid data: contains no case data"
-      },
-      {
-        "name": "WI, USA",
-        "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-        "err": "Error: Invalid data: contains no case data"
-      },
-      {
-        "name": "CT, USA",
-        "url": "https://portal.ct.gov/Coronavirus",
-        "err": "Error: Invalid data: scraper for CT, USA returned 0 rows"
-      }
-    ]
+    "numDuplicates": 32,
+    "numErrors": 0,
+    "errors": []
   },
   "findFeatures": {
-    "numFeaturesFound": 1040,
+    "numFeaturesFound": 1084,
     "missingFeatures": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
@@ -139,7 +119,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 886,
+    "numLocationsWithPopulation": 930,
     "missingPopulations": [
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",

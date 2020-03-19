@@ -3,7 +3,7 @@
     "country": "BRA",
     "type": "json",
     "priority": 1,
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-19",
     "timeseries": true,
     "aggregate": "county",
     "rating": 0.5609756097560976
@@ -85,6 +85,15 @@
     "ssl": true
   },
   {
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+    "type": "json",
+    "rating": 0.4634146341463415,
+    "ssl": true
+  },
+  {
     "state": "MD",
     "country": "USA",
     "aggregate": "county",
@@ -106,6 +115,15 @@
     "state": "MS",
     "country": "USA",
     "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "aggregate": "county",
+    "rating": 0.43902439024390244,
+    "ssl": true
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "aggregate": "county",
     "rating": 0.43902439024390244,
@@ -196,6 +214,25 @@
     "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
     "rating": 0.4146341463414634,
     "type": "list",
+    "ssl": true
+  },
+  {
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "type": "list",
+    "aggregate": "county",
+    "rating": 0.4146341463414634,
+    "ssl": true
+  },
+  {
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "aggregate": "county",
+    "headless": true,
+    "rating": 0.3902439024390244,
     "ssl": true
   },
   {
