@@ -3,7 +3,7 @@
     "country": "BRA",
     "type": "json",
     "priority": 1,
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-17",
+    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-18",
     "timeseries": true,
     "aggregate": "county",
     "rating": 0.5609756097560976
@@ -33,7 +33,7 @@
     "aggregate": "state",
     "priority": -1,
     "rating": 0.4878048780487805,
-    "country": "The Gambia",
+    "country": "Gambia, The",
     "type": "list",
     "ssl": true
   },
@@ -112,15 +112,6 @@
     "ssl": true
   },
   {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "type": "table",
-    "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
-  },
-  {
     "state": "DE",
     "country": "USA",
     "aggregate": "county",
@@ -132,15 +123,6 @@
     "state": "NY",
     "country": "USA",
     "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
-    "type": "table",
-    "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
-  },
-  {
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
     "type": "table",
     "aggregate": "county",
     "rating": 0.43902439024390244,
@@ -161,6 +143,15 @@
     "url": "https://coronavirus.utah.gov/latest/",
     "type": "table",
     "aggregate": "county",
+    "rating": 0.43902439024390244,
+    "ssl": true
+  },
+  {
+    "state": "PA",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+    "type": "table",
     "rating": 0.43902439024390244,
     "ssl": true
   },
@@ -199,40 +190,12 @@
     "rating": 0.4146341463414634
   },
   {
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "type": "list",
-    "aggregate": "county",
-    "rating": 0.4146341463414634,
-    "ssl": true
-  },
-  {
     "state": "OH",
     "country": "USA",
     "aggregate": "county",
     "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
     "rating": 0.4146341463414634,
     "type": "list",
-    "ssl": true
-  },
-  {
-    "state": "CT",
-    "country": "USA",
-    "url": "https://portal.ct.gov/Coronavirus",
-    "type": "list",
-    "aggregate": "county",
-    "rating": 0.4146341463414634,
-    "ssl": true
-  },
-  {
-    "state": "IA",
-    "country": "USA",
-    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
-    "type": "table",
-    "aggregate": "county",
-    "headless": true,
-    "rating": 0.3902439024390244,
     "ssl": true
   },
   {
@@ -478,14 +441,6 @@
     "ssl": true
   },
   {
-    "county": "Alameda County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.acphd.org/2019-ncov.aspx",
-    "rating": 0.24390243902439024,
-    "type": "list"
-  },
-  {
     "county": "Santa Cruz County",
     "state": "CA",
     "country": "USA",
@@ -565,6 +520,15 @@
     "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
     "rating": 0.1951219512195122,
     "type": "json"
+  },
+  {
+    "county": "Alameda County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.acphd.org/2019-ncov.aspx",
+    "headless": true,
+    "type": "paragraph",
+    "rating": 0.17073170731707318
   },
   {
     "state": "DC",
