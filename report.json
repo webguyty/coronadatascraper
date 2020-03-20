@@ -2,10 +2,10 @@
   "scrape": {
     "numCountries": 152,
     "numStates": 214,
-    "numCounties": 883,
+    "numCounties": 996,
     "numCities": 0,
-    "numDuplicates": 121,
-    "numErrors": 7,
+    "numDuplicates": 129,
+    "numErrors": 1,
     "crosscheckReports": {
       "Yolo County, CA, USA": [
         {
@@ -38,6 +38,15 @@
           "county": "Yolo County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
           "ssl": true,
           "type": "list",
@@ -77,6 +86,15 @@
           "state": "CA",
           "country": "USA",
           "type": "paragraph",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.vcemergency.com",
           "ssl": true,
           "rating": 0.2926829268292683,
@@ -114,6 +132,15 @@
           "county": "Stanislaus County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
           "type": "list",
           "rating": 0.2926829268292683,
@@ -152,6 +179,15 @@
           "county": "Sonoma County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
           "ssl": true,
           "type": "list",
@@ -190,6 +226,15 @@
           "county": "Solano County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
           "type": "list",
           "rating": 0.2926829268292683,
@@ -227,6 +272,15 @@
           "county": "Shasta County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus",
           "ssl": true,
           "type": "list",
@@ -265,6 +319,15 @@
           "county": "Santa Cruz County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
           "type": "list",
           "rating": 0.2926829268292683,
@@ -303,6 +366,15 @@
           "county": "Santa Clara County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
           "ssl": true,
           "type": "list",
@@ -341,11 +413,58 @@
           "county": "Santa Barbara County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://publichealthsbc.org",
           "type": "paragraph",
           "ssl": true,
           "rating": 0.2926829268292683,
           "active": 8
+        }
+      ],
+      "San Luis Obispo County, CA, USA": [
+        {
+          "county": "San Luis Obispo County",
+          "cases": 6,
+          "deaths": 0,
+          "state": "CA",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
+          "curators": [
+            {
+              "name": "Harriet Rowan",
+              "email": "hattierowan@gmail.com",
+              "twitter": "@hattierowan",
+              "github": "HarrietRowan"
+            }
+          ],
+          "rating": 0.7073170731707317,
+          "active": 6,
+          "coordinates": [
+            -120.40954099999999,
+            35.3481785
+          ],
+          "featureId": 527,
+          "population": 284010
+        },
+        {
+          "cases": 13,
+          "county": "San Luis Obispo County",
+          "state": "CA",
+          "country": "USA",
+          "url": "https://www.emergencyslo.org/en/covid19.aspx",
+          "type": "paragraph",
+          "ssl": true,
+          "rating": 0.2926829268292683,
+          "active": 13
         }
       ],
       "San Joaquin County, CA, USA": [
@@ -380,6 +499,15 @@
           "county": "San Joaquin County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://www.sjcphs.org/coronavirus.aspx#res",
           "type": "table",
           "rating": 0.4146341463414634,
@@ -418,6 +546,15 @@
           "county": "San Diego County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
           "ssl": true,
           "type": "list",
@@ -456,6 +593,15 @@
           "county": "San Bernardino County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://wp.sbcounty.gov/dph/coronavirus/",
           "type": "list",
           "rating": 0.2926829268292683,
@@ -496,6 +642,15 @@
           "county": "San Benito County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
           "ssl": true,
           "type": "list",
@@ -535,6 +690,15 @@
           "county": "Sacramento County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
           "ssl": true,
           "type": "list",
@@ -573,6 +737,15 @@
           "county": "Riverside County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.rivcoph.org/coronavirus",
           "ssl": true,
           "type": "list",
@@ -613,10 +786,57 @@
           "county": "Orange County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
           "type": "list",
           "rating": 0.3902439024390244,
           "active": 0
+        }
+      ],
+      "Monterey County, CA, USA": [
+        {
+          "county": "Monterey County",
+          "cases": 2,
+          "deaths": 0,
+          "state": "CA",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
+          "curators": [
+            {
+              "name": "Harriet Rowan",
+              "email": "hattierowan@gmail.com",
+              "twitter": "@hattierowan",
+              "github": "HarrietRowan"
+            }
+          ],
+          "rating": 0.7073170731707317,
+          "active": 2,
+          "coordinates": [
+            -121.0962855,
+            36.351338
+          ],
+          "featureId": 514,
+          "population": 435594
+        },
+        {
+          "cases": 2,
+          "county": "Monterey County",
+          "state": "CA",
+          "country": "USA",
+          "url": "https://www.co.monterey.ca.us/government/departments-a-h/administrative-office/office-of-emergency-services/response/covid-19",
+          "type": "table",
+          "ssl": true,
+          "rating": 0.34146341463414637,
+          "active": 2
         }
       ],
       "Mono County, CA, USA": [
@@ -651,6 +871,15 @@
           "county": "Mono County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://monocovid19-monomammoth.hub.arcgis.com/",
           "ssl": true,
           "type": "list",
@@ -692,6 +921,15 @@
           "county": "Merced County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
           "ssl": true,
           "type": "list",
@@ -730,6 +968,15 @@
           "county": "Mendocino County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.mendocinocounty.org/community/novel-coronavirus",
           "ssl": true,
           "type": "list",
@@ -768,6 +1015,15 @@
           "county": "Marin County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://coronavirus.marinhhs.org/surveillance",
           "ssl": true,
           "type": "list",
@@ -806,6 +1062,15 @@
           "county": "Madera County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.maderacounty.com/government/public-health/health-updates/corona-virus",
           "ssl": true,
           "type": "list",
@@ -845,6 +1110,15 @@
           "county": "Los Angeles County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
           "type": "list",
           "rating": 0.3902439024390244,
@@ -883,11 +1157,58 @@
           "county": "Kings County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1",
           "ssl": true,
           "type": "list",
           "rating": 0.3170731707317073,
           "active": 0
+        }
+      ],
+      "Kern County, CA, USA": [
+        {
+          "county": "Kern County",
+          "cases": 2,
+          "deaths": 0,
+          "state": "CA",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
+          "curators": [
+            {
+              "name": "Harriet Rowan",
+              "email": "hattierowan@gmail.com",
+              "twitter": "@hattierowan",
+              "github": "HarrietRowan"
+            }
+          ],
+          "rating": 0.7073170731707317,
+          "active": 2,
+          "coordinates": [
+            -118.9051705,
+            35.294389
+          ],
+          "featureId": 502,
+          "population": 896764
+        },
+        {
+          "cases": 4,
+          "tested": 326,
+          "county": "Kern County",
+          "state": "CA",
+          "country": "USA",
+          "url": " https://kernpublichealth.com/2019-novel-coronavirus/",
+          "type": "table",
+          "rating": 0.4146341463414634,
+          "active": 4
         }
       ],
       "Glenn County, CA, USA": [
@@ -896,6 +1217,15 @@
           "county": "Glenn County",
           "state": "CA",
           "country": "USA",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
           "ssl": true,
           "type": "list",
@@ -936,6 +1266,15 @@
           "state": "CA",
           "country": "USA",
           "url": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "type": "list",
           "rating": 0.3902439024390244,
           "active": 0
@@ -975,6 +1314,15 @@
           "state": "CA",
           "country": "USA",
           "url": "https://www.coronavirus.cchealth.org/",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "ssl": true,
           "type": "list",
           "rating": 0.4146341463414634,
@@ -1013,6 +1361,15 @@
           "state": "CA",
           "country": "USA",
           "url": "http://www.countyofcolusa.org/99/Public-Health",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "type": "list",
           "rating": 0.2926829268292683,
           "active": 0
@@ -1050,6 +1407,15 @@
           "state": "CA",
           "country": "USA",
           "url": "https://covid19.calaverasgov.us/",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "ssl": true,
           "type": "list",
           "rating": 0.3170731707317073,
@@ -1088,6 +1454,15 @@
           "state": "CA",
           "country": "USA",
           "url": "https://www.buttecounty.net/publichealth",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
           "ssl": true,
           "type": "list",
           "rating": 0.3170731707317073,
@@ -1117,6 +1492,53 @@
           ],
           "featureId": 491,
           "population": 231256
+        }
+      ],
+      "Alameda County, CA, USA": [
+        {
+          "cases": 35,
+          "county": "Alameda County",
+          "state": "CA",
+          "country": "USA",
+          "url": "http://www.acphd.org/2019-ncov.aspx",
+          "headless": true,
+          "type": "paragraph",
+          "maintainers": [
+            {
+              "name": "John Bencina",
+              "github": "jbencina",
+              "country": "USA",
+              "state": "CA",
+              "flag": "🇺🇸"
+            }
+          ],
+          "rating": 0.21951219512195122,
+          "active": 35
+        },
+        {
+          "county": "Alameda County",
+          "cases": 34,
+          "deaths": 0,
+          "state": "CA",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
+          "curators": [
+            {
+              "name": "Harriet Rowan",
+              "email": "hattierowan@gmail.com",
+              "twitter": "@hattierowan",
+              "github": "HarrietRowan"
+            }
+          ],
+          "rating": 0.7073170731707317,
+          "active": 34,
+          "coordinates": [
+            -121.9024445,
+            37.6801065
+          ],
+          "featureId": 488,
+          "population": 1666753
         }
       ],
       "WY, USA": [
@@ -1211,8 +1633,8 @@
           "population": 7614893
         },
         {
-          "cases": 1376,
-          "deaths": 74,
+          "cases": 1375,
+          "deaths": 73,
           "state": "WA",
           "country": "USA",
           "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
@@ -1237,6 +1659,60 @@
           "type": "list",
           "rating": 0.7804878048780488,
           "active": 1302
+        }
+      ],
+      "UT, USA": [
+        {
+          "state": "UT",
+          "cases": 78,
+          "tested": 1604,
+          "deaths": 0,
+          "country": "USA",
+          "url": "https://covidtracking.com/api/states",
+          "curators": [
+            {
+              "name": "The COVID Tracking Project",
+              "url": "https://covidtracking.com/",
+              "twitter": "@COVID19Tracking",
+              "github": "COVID19Tracking"
+            }
+          ],
+          "aggregate": "state",
+          "rating": 0.6585365853658537,
+          "active": 78,
+          "coordinates": [
+            -111.54443973955233,
+            39.49994305252983
+          ],
+          "featureId": 465,
+          "population": 3205958
+        },
+        {
+          "tested": 1526,
+          "cases": 78,
+          "state": "UT",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://coronavirus-dashboard.utah.gov/",
+          "type": "table",
+          "ssl": true,
+          "rating": 0.5853658536585366,
+          "active": 78
+        },
+        {
+          "country": "USA",
+          "state": "UT",
+          "cases": 80,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "ssl": true,
+          "type": "list",
+          "rating": 0.7804878048780488,
+          "active": 80
         }
       ],
       "TX, USA": [
@@ -1291,6 +1767,61 @@
           "type": "list",
           "rating": 0.7804878048780488,
           "active": 255
+        }
+      ],
+      "PA, USA": [
+        {
+          "state": "PA",
+          "cases": 185,
+          "tested": 1793,
+          "deaths": 1,
+          "country": "USA",
+          "url": "https://covidtracking.com/api/states",
+          "curators": [
+            {
+              "name": "The COVID Tracking Project",
+              "url": "https://covidtracking.com/",
+              "twitter": "@COVID19Tracking",
+              "github": "COVID19Tracking"
+            }
+          ],
+          "aggregate": "state",
+          "rating": 0.6585365853658537,
+          "active": 184,
+          "coordinates": [
+            -77.60961308037935,
+            41.12951166463159
+          ],
+          "featureId": 459,
+          "population": 12801989
+        },
+        {
+          "cases": 185,
+          "deaths": 1,
+          "tested": 1608,
+          "state": "PA",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+          "type": "table",
+          "ssl": true,
+          "rating": 0.6829268292682927,
+          "active": 184
+        },
+        {
+          "country": "USA",
+          "state": "PA",
+          "cases": 206,
+          "recovered": 0,
+          "deaths": 1,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "ssl": true,
+          "type": "list",
+          "rating": 0.7804878048780488,
+          "active": 205
         }
       ],
       "OR, USA": [
@@ -1611,6 +2142,60 @@
           "active": 106
         }
       ],
+      "LA, USA": [
+        {
+          "state": "LA",
+          "cases": 347,
+          "tested": 805,
+          "deaths": 8,
+          "country": "USA",
+          "url": "https://covidtracking.com/api/states",
+          "curators": [
+            {
+              "name": "The COVID Tracking Project",
+              "url": "https://covidtracking.com/",
+              "twitter": "@COVID19Tracking",
+              "github": "COVID19Tracking"
+            }
+          ],
+          "aggregate": "state",
+          "rating": 0.6585365853658537,
+          "active": 339,
+          "coordinates": [
+            -91.53320699521313,
+            31.022399050426287
+          ],
+          "featureId": 439,
+          "population": 4648794
+        },
+        {
+          "cases": 392,
+          "deaths": 10,
+          "state": "LA",
+          "country": "USA",
+          "aggregate": "county",
+          "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
+          "type": "json",
+          "ssl": true,
+          "rating": 0.6097560975609756,
+          "active": 382
+        },
+        {
+          "country": "USA",
+          "state": "LA",
+          "cases": 392,
+          "recovered": 0,
+          "deaths": 10,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "ssl": true,
+          "type": "list",
+          "rating": 0.7804878048780488,
+          "active": 382
+        }
+      ],
       "IN, USA": [
         {
           "state": "IN",
@@ -1821,6 +2406,59 @@
           "type": "list",
           "rating": 0.7804878048780488,
           "active": 40
+        }
+      ],
+      "CT, USA": [
+        {
+          "state": "CT",
+          "cases": 96,
+          "tested": 700,
+          "deaths": 1,
+          "country": "USA",
+          "url": "https://covidtracking.com/api/states",
+          "curators": [
+            {
+              "name": "The COVID Tracking Project",
+              "url": "https://covidtracking.com/",
+              "twitter": "@COVID19Tracking",
+              "github": "COVID19Tracking"
+            }
+          ],
+          "aggregate": "state",
+          "rating": 0.6585365853658537,
+          "active": 95,
+          "coordinates": [
+            -72.75935673202756,
+            41.52780529315321
+          ],
+          "featureId": 427,
+          "population": 3565287
+        },
+        {
+          "cases": 159,
+          "state": "CT",
+          "country": "USA",
+          "url": "https://portal.ct.gov/Coronavirus",
+          "type": "table",
+          "aggregate": "county",
+          "ssl": true,
+          "rating": 0.4878048780487805,
+          "active": 159
+        },
+        {
+          "country": "USA",
+          "state": "CT",
+          "cases": 159,
+          "recovered": 0,
+          "deaths": 2,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "ssl": true,
+          "type": "list",
+          "rating": 0.7804878048780488,
+          "active": 157
         }
       ],
       "CO, USA": [
@@ -2771,48 +3409,6 @@
           "population": 6137428
         }
       ],
-      "LA, USA": [
-        {
-          "country": "USA",
-          "state": "LA",
-          "cases": 392,
-          "recovered": 0,
-          "deaths": 10,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "ssl": true,
-          "type": "list",
-          "rating": 0.7804878048780488,
-          "active": 382
-        },
-        {
-          "state": "LA",
-          "cases": 347,
-          "tested": 805,
-          "deaths": 8,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "rating": 0.6585365853658537,
-          "active": 339,
-          "coordinates": [
-            -91.53320699521313,
-            31.022399050426287
-          ],
-          "featureId": 439,
-          "population": 4648794
-        }
-      ],
       "KS, USA": [
         {
           "country": "USA",
@@ -2853,48 +3449,6 @@
           ],
           "featureId": 437,
           "population": 2913314
-        }
-      ],
-      "UT, USA": [
-        {
-          "country": "USA",
-          "state": "UT",
-          "cases": 80,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "ssl": true,
-          "type": "list",
-          "rating": 0.7804878048780488,
-          "active": 80
-        },
-        {
-          "state": "UT",
-          "cases": 78,
-          "tested": 1604,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "rating": 0.6585365853658537,
-          "active": 78,
-          "coordinates": [
-            -111.54443973955233,
-            39.49994305252983
-          ],
-          "featureId": 465,
-          "population": 3205958
         }
       ],
       "OK, USA": [
@@ -2978,48 +3532,6 @@
           ],
           "featureId": 432,
           "population": 1415872
-        }
-      ],
-      "CT, USA": [
-        {
-          "country": "USA",
-          "state": "CT",
-          "cases": 159,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "ssl": true,
-          "type": "list",
-          "rating": 0.7804878048780488,
-          "active": 157
-        },
-        {
-          "state": "CT",
-          "cases": 96,
-          "tested": 700,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "rating": 0.6585365853658537,
-          "active": 95,
-          "coordinates": [
-            -72.75935673202756,
-            41.52780529315321
-          ],
-          "featureId": 427,
-          "population": 3565287
         }
       ],
       "WI, USA": [
@@ -3561,48 +4073,6 @@
           "population": 3155070
         }
       ],
-      "PA, USA": [
-        {
-          "country": "USA",
-          "state": "PA",
-          "cases": 206,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "ssl": true,
-          "type": "list",
-          "rating": 0.7804878048780488,
-          "active": 205
-        },
-        {
-          "state": "PA",
-          "cases": 185,
-          "tested": 1793,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "rating": 0.6585365853658537,
-          "active": 184,
-          "coordinates": [
-            -77.60961308037935,
-            41.12951166463159
-          ],
-          "featureId": 459,
-          "population": 12801989
-        }
-      ],
       "FL, USA": [
         {
           "country": "USA",
@@ -4110,44 +4580,14 @@
     },
     "errors": [
       {
-        "name": "Alameda County, CA, USA",
-        "url": "http://www.acphd.org/2019-ncov.aspx",
-        "err": "TypeError: Cannot read property '_status' of null"
-      },
-      {
-        "name": "CT, USA",
-        "url": "https://portal.ct.gov/Coronavirus",
-        "err": "TypeError: Cannot read property 'replace' of undefined"
-      },
-      {
         "name": "IA, USA",
         "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
-        "err": "Error: Invalid data: contains no case data"
-      },
-      {
-        "name": "LA, USA",
-        "url": "https://opendata.arcgis.com/datasets/79e1165ecb95496589d39faa25a83ad4_0.csv",
-        "err": "TypeError: Cannot read property 'replace' of undefined"
-      },
-      {
-        "name": "PA, USA",
-        "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
-        "err": "Error: socket hang up"
-      },
-      {
-        "name": "SD, USA",
-        "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-        "err": "Error: Invalid data: scraper for SD, USA returned 0 rows"
-      },
-      {
-        "name": "UT, USA",
-        "url": "https://coronavirus.utah.gov/latest/",
-        "err": "Error: Invalid data: scraper for UT, USA returned 0 rows"
+        "err": "Error: Iowa is putting an image on their site, not data!"
       }
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 1194,
+    "numFeaturesFound": 1278,
     "missingFeatures": [
       "Channel Islands, GBR",
       "French Polynesia, FRA",
@@ -4199,13 +4639,41 @@
       "Baltimore City, MD, USA",
       "Total County, MS, USA",
       "Total Number of Positive Cases County, NY, USA",
+      "Adams, PA, USA",
+      "Allegheny, PA, USA",
+      "Beaver, PA, USA",
+      "Berks, PA, USA",
+      "Bucks, PA, USA",
+      "Chester, PA, USA",
+      "Cumberland, PA, USA",
+      "Delaware, PA, USA",
+      "Lackawanna, PA, USA",
+      "Lancaster, PA, USA",
+      "Lebanon, PA, USA",
+      "Lehigh, PA, USA",
+      "Luzerne, PA, USA",
+      "Monroe, PA, USA",
+      "Montgomery, PA, USA",
+      "Northampton, PA, USA",
+      "Philadelphia, PA, USA",
+      "Pike, PA, USA",
+      "Washington, PA, USA",
+      "Wayne, PA, USA",
+      "Westmoreland, PA, USA",
+      "York, PA, USA",
       "Residents of Other States/Countries County, TN, USA",
       "Unknown County, TN, USA",
-      "Grand Total County, TN, USA"
+      "Grand Total County, TN, USA",
+      "Bear River County, UT, USA",
+      "Central Utah County, UT, USA",
+      "Southeast Utah County, UT, USA",
+      "Southwest Utah County, UT, USA",
+      "TriCounty County, UT, USA",
+      "Weber-Morgan County, UT, USA"
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 966,
+    "numLocationsWithPopulation": 1050,
     "missingPopulations": [
       "THA",
       "MTQ",
@@ -4391,12 +4859,41 @@
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
       "Suburban Cook County, IL, USA",
+      "(unassigned), LA, USA",
       "Baltimore City, MD, USA",
       "Total County, MS, USA",
       "Total Number of Positive Cases County, NY, USA",
+      "Adams, PA, USA",
+      "Allegheny, PA, USA",
+      "Beaver, PA, USA",
+      "Berks, PA, USA",
+      "Bucks, PA, USA",
+      "Chester, PA, USA",
+      "Cumberland, PA, USA",
+      "Delaware, PA, USA",
+      "Lackawanna, PA, USA",
+      "Lancaster, PA, USA",
+      "Lebanon, PA, USA",
+      "Lehigh, PA, USA",
+      "Luzerne, PA, USA",
+      "Monroe, PA, USA",
+      "Montgomery, PA, USA",
+      "Northampton, PA, USA",
+      "Philadelphia, PA, USA",
+      "Pike, PA, USA",
+      "Washington, PA, USA",
+      "Wayne, PA, USA",
+      "Westmoreland, PA, USA",
+      "York, PA, USA",
       "Residents of Other States/Countries County, TN, USA",
       "Unknown County, TN, USA",
       "Grand Total County, TN, USA",
+      "Bear River County, UT, USA",
+      "Central Utah County, UT, USA",
+      "Southeast Utah County, UT, USA",
+      "Southwest Utah County, UT, USA",
+      "TriCounty County, UT, USA",
+      "Weber-Morgan County, UT, USA",
       "(unassigned), WA, USA"
     ]
   }

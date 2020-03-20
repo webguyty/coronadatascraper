@@ -95,6 +95,15 @@
     "ssl": true
   },
   {
+    "state": "LA",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
+    "type": "json",
+    "rating": 0.4634146341463415,
+    "ssl": true
+  },
+  {
     "state": "MD",
     "country": "USA",
     "aggregate": "county",
@@ -140,6 +149,15 @@
     "ssl": true
   },
   {
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "type": "table",
+    "aggregate": "county",
+    "rating": 0.43902439024390244,
+    "ssl": true
+  },
+  {
     "state": "DE",
     "country": "USA",
     "aggregate": "county",
@@ -175,11 +193,38 @@
     "ssl": true
   },
   {
+    "state": "PA",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+    "type": "table",
+    "rating": 0.43902439024390244,
+    "ssl": true
+  },
+  {
+    "state": "SD",
+    "country": "USA",
+    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
+    "type": "table",
+    "aggregate": "county",
+    "rating": 0.43902439024390244,
+    "ssl": true
+  },
+  {
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html",
     "type": "table",
     "aggregate": "county",
+    "rating": 0.43902439024390244,
+    "ssl": true
+  },
+  {
+    "state": "UT",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "type": "table",
     "rating": 0.43902439024390244,
     "ssl": true
   },
