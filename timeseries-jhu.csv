@@ -699,6 +699,32 @@ city,county,state,country,lat,long,population,url,2020-1-22,2020-1-23,2020-1-24,
 ,Wasco County,OR,USA,45.2632585,-121.0882365,26505,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
 ,Wheeler County,OR,USA,44.687605500000004,-120.0736875,1366,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
 ,Yamhill County,OR,USA,45.254474,-123.31725850000001,107002,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,1,2,2
+,Beaver County,UT,USA,38.3619385,-113.192927,6580,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Box Elder County,UT,USA,41.5005715,-112.957899,54950,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Cache County,UT,USA,41.6843775,-111.786214,127068,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Carbon County,UT,USA,39.640872,-110.56897649999999,20269,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Daggett County,UT,USA,40.832222,-109.524541,980,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Duchesne County,UT,USA,40.320004,-110.43572950000001,19964,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Emery County,UT,USA,39.1022945,-110.647614,10014,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Garfield County,UT,USA,37.84478,-111.30855199999999,5080,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Grand County,UT,USA,38.999826999999996,-109.6150085,9764,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Iron County,UT,USA,37.811655,-113.25971899999999,52775,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Juab County,UT,USA,39.663012,-112.81630949999999,11555,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Kane County,UT,USA,37.2718585,-111.7738475,7709,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Millard County,UT,USA,39.063857,-113.03217599999999,13006,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Morgan County,UT,USA,41.0769745,-111.549031,12045,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0.5,0,0,0,0,2
+,Piute County,UT,USA,38.32891,-112.14262249999999,1445,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Rich County,UT,USA,41.572086999999996,-111.278314,2464,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Salt Lake County,UT,USA,40.66808399999999,-111.9083075,1152633,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,14,0,2,2,2,31
+,San Juan County,UT,USA,37.748977499999995,-110.226921,15449,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Sanpete County,UT,USA,39.422766499999994,-111.63147599999999,30623,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Sevier County,UT,USA,38.7736525,-111.9083495,21539,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Tooele County,UT,USA,40.490421,-113.09571600000001,69907,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,1
+,Uintah County,UT,USA,40.160168,-109.54294300000001,35438,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Utah County,UT,USA,40.176925999999995,-111.5347685,622213,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,1,1,1,1,3
+,Wasatch County,UT,USA,40.294765,-111.25642,33240,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,3
+,Washington County,UT,USA,37.309175499999995,-113.476164,171700,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Wayne County,UT,USA,38.33013,-110.86878300000001,2690,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
 ,Anderson County,TX,USA,31.794265499999998,-95.656497,58057,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
 ,Andrews County,TX,USA,32.3045195,-102.6378665,18128,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
 ,Angelina County,TX,USA,31.276519999999998,-94.56648849999999,87092,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
@@ -946,32 +972,34 @@ city,county,state,country,lat,long,population,url,2020-1-22,2020-1-23,2020-1-24,
 ,Young County,TX,USA,33.174917,-98.68730199999999,18045,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
 ,Zapata County,TX,USA,26.945424000000003,-99.2040895,14190,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
 ,Zavala County,TX,USA,28.8659505,-99.76167849999999,11983,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Beaver County,UT,USA,38.3619385,-113.192927,6580,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Box Elder County,UT,USA,41.5005715,-112.957899,54950,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Cache County,UT,USA,41.6843775,-111.786214,127068,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Carbon County,UT,USA,39.640872,-110.56897649999999,20269,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Daggett County,UT,USA,40.832222,-109.524541,980,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Duchesne County,UT,USA,40.320004,-110.43572950000001,19964,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Emery County,UT,USA,39.1022945,-110.647614,10014,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Garfield County,UT,USA,37.84478,-111.30855199999999,5080,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Grand County,UT,USA,38.999826999999996,-109.6150085,9764,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Iron County,UT,USA,37.811655,-113.25971899999999,52775,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Juab County,UT,USA,39.663012,-112.81630949999999,11555,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Kane County,UT,USA,37.2718585,-111.7738475,7709,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Millard County,UT,USA,39.063857,-113.03217599999999,13006,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Morgan County,UT,USA,41.0769745,-111.549031,12045,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0.5,0,0,0,0,2
-,Piute County,UT,USA,38.32891,-112.14262249999999,1445,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Rich County,UT,USA,41.572086999999996,-111.278314,2464,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Salt Lake County,UT,USA,40.66808399999999,-111.9083075,1152633,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,14,0,2,2,2,31
-,San Juan County,UT,USA,37.748977499999995,-110.226921,15449,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Sanpete County,UT,USA,39.422766499999994,-111.63147599999999,30623,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Sevier County,UT,USA,38.7736525,-111.9083495,21539,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Tooele County,UT,USA,40.490421,-113.09571600000001,69907,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,1
-,Uintah County,UT,USA,40.160168,-109.54294300000001,35438,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Utah County,UT,USA,40.176925999999995,-111.5347685,622213,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,1,1,1,1,3
-,Wasatch County,UT,USA,40.294765,-111.25642,33240,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,3
-,Washington County,UT,USA,37.309175499999995,-113.476164,171700,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
-,Wayne County,UT,USA,38.33013,-110.86878300000001,2690,https://coronavirus-dashboard.utah.gov/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
+,Mason County,WA,USA,47.344863000000004,-123.153076,65507,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,1
+,Skamania County,WA,USA,45.967983000000004,-121.881879,11924,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Wahkiakum County,WA,USA,46.265129,-123.4704835,4426,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Columbia County,WA,USA,46.3118295,-117.92289099999999,4059,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,1,1,1
+,Garfield County,WA,USA,46.350524,-117.5460095,2247,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Stevens County,WA,USA,48.396499000000006,-117.91595799999999,45260,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Walla Walla County,WA,USA,46.303333499999994,-118.516355,60922,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Whitman County,WA,USA,46.838819,-117.64426,49791,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Yakima County,WA,USA,46.564808,-120.69510149999999,251446,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,4,4,4,5,7,7
+,Adams County,WA,USA,46.999704,-118.6641215,19759,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Asotin County,WA,USA,46.2288635,-117.1980595,22610,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Benton County,WA,USA,46.281031,-119.40769,201877,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Chelan County,WA,USA,47.905806999999996,-120.52038999999999,77036,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,2,2,2
+,Clallam County,WA,USA,48.12876,-123.825558,76737,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1
+,Cowlitz County,WA,USA,46.117914,-122.7288965,108987,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Douglas County,WA,USA,47.6852815,-119.6344735,42907,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Ferry County,WA,USA,48.4155455,-118.48731599999999,7649,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Franklin County,WA,USA,46.465897,-118.8288585,94347,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,2
+,Grays Harbor County,WA,USA,47.162482,-123.756045,73901,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,1,1,1
+,Island County,WA,USA,48.157794,-122.559821,84460,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,6,6,7,14,16,17
+,Klickitat County,WA,USA,45.825073,-120.739452,22107,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1,2
+,Lewis County,WA,USA,46.5893095,-122.3615475,79604,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,1,1
+,Lincoln County,WA,USA,47.609032,-118.399462,10740,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,1,1,1
+,Okanogan County,WA,USA,48.470757000000006,-119.85787099999999,42132,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Pacific County,WA,USA,46.517013500000004,-123.72830300000001,22036,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Pend Oreille County,WA,USA,48.5229615,-117.3308095,13602,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,San Juan County,WA,USA,48.570243500000004,-122.989615,17128,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
+,Spokane County,WA,USA,47.653568500000006,-117.431769,514631,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,3,3,4,4,9
 ,Adams County,WI,USA,43.945259500000006,-89.8114625,20348,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
 ,Ashland County,WI,USA,46.5293125,-90.6148065,15600,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
 ,Barron County,WI,USA,45.423232999999996,-91.8483795,45164,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
@@ -1042,34 +1070,6 @@ city,county,state,country,lat,long,population,url,2020-1-22,2020-1-23,2020-1-24,
 ,Waushara County,WI,USA,44.1139125,-89.2420865,24263,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,0,0,0,0
 ,Winnebago County,WI,USA,44.0685395,-88.644934,171020,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,1,1,3,3,3,5
 ,Wood County,WI,USA,44.466415999999995,-90.02142649999999,73055,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,0,0,1,1,1,1
-,Mason County,WA,USA,47.344863000000004,-123.153076,65507,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,1
-,Skamania County,WA,USA,45.967983000000004,-121.881879,11924,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Wahkiakum County,WA,USA,46.265129,-123.4704835,4426,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Columbia County,WA,USA,46.3118295,-117.92289099999999,4059,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,1,1,1
-,Garfield County,WA,USA,46.350524,-117.5460095,2247,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Stevens County,WA,USA,48.396499000000006,-117.91595799999999,45260,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Walla Walla County,WA,USA,46.303333499999994,-118.516355,60922,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Whitman County,WA,USA,46.838819,-117.64426,49791,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Yakima County,WA,USA,46.564808,-120.69510149999999,251446,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2,4,4,4,5,7,7
-,Adams County,WA,USA,46.999704,-118.6641215,19759,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Asotin County,WA,USA,46.2288635,-117.1980595,22610,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Benton County,WA,USA,46.281031,-119.40769,201877,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Chelan County,WA,USA,47.905806999999996,-120.52038999999999,77036,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,2,2,2
-,Clallam County,WA,USA,48.12876,-123.825558,76737,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,1
-,Cowlitz County,WA,USA,46.117914,-122.7288965,108987,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Douglas County,WA,USA,47.6852815,-119.6344735,42907,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Ferry County,WA,USA,48.4155455,-118.48731599999999,7649,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Franklin County,WA,USA,46.465897,-118.8288585,94347,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1,2
-,Grays Harbor County,WA,USA,47.162482,-123.756045,73901,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,1,1,1
-,Island County,WA,USA,48.157794,-122.559821,84460,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,6,6,7,14,16,17
-,Klickitat County,WA,USA,45.825073,-120.739452,22107,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1,2
-,Lewis County,WA,USA,46.5893095,-122.3615475,79604,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,1,1
-,Lincoln County,WA,USA,47.609032,-118.399462,10740,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,1,1,1
-,Okanogan County,WA,USA,48.470757000000006,-119.85787099999999,42132,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Pacific County,WA,USA,46.517013500000004,-123.72830300000001,22036,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Pend Oreille County,WA,USA,48.5229615,-117.3308095,13602,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,San Juan County,WA,USA,48.570243500000004,-122.989615,17128,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0
-,Spokane County,WA,USA,47.653568500000006,-117.431769,514631,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,3,3,3,4,4,9
 ,,TO,BRA,-9.258995252778703,-48.25017595025989,1572866,http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,,British Columbia,CAN,54.15716767014678,-126.56202337499991,5071000,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,73,73,103,186,186,271
 ,,Alberta,CAN,54.49628672664678,-115.00016854279502,4067175,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,39,39,74,97,97,146
@@ -1293,92 +1293,54 @@ city,county,state,country,lat,long,population,url,2020-1-22,2020-1-23,2020-1-24,
 ,Delaware County,NY,USA,42.183063,-74.92498599999999,44527,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1
 ,Herkimer County,NY,USA,43.460950999999994,-74.957551,61833,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,1
 ,Broome County,NY,USA,42.206783,-75.74488,191659,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1,2
-,Adams County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Allen County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Ashland County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Ashtabula County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Athens County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Auglaize County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Belmont County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Brown County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Butler County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Carroll County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Champaign County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Clark County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Clermont County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Allegany County,NY,USA,42.260023000000004,-78.0160695,46430,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,2,2,2,2
+,Bronx County,NY,USA,40.852098999999995,-73.849268,1432132,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Cattaraugus County,NY,USA,42.268868,-78.6846965,76840,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Cayuga County,NY,USA,43.0188725,-76.50282200000001,77145,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Chautauqua County,NY,USA,42.283974,-79.4114645,127939,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Chemung County,NY,USA,42.1469525,-76.75111749999999,84254,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Chenango County,NY,USA,42.470226499999995,-75.5928545,47536,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,2
 ,Clinton County,NY,USA,44.7202695,-73.680273,80695,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,2
-,Columbiana County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Coshocton County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Crawford County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Cuyahoga County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Darke County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Defiance County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Columbia County,NY,USA,42.243991,-73.6410765,59916,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Cortland County,NY,USA,42.599266,-76.0693465,47823,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Erie County,NY,USA,42.768297000000004,-78.79997900000001,919719,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,3,3,6,7,7,28
-,Fairfield County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Fayette County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Essex County,NY,USA,44.1456775,-73.8152195,37300,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1
 ,Franklin County,NY,USA,44.551286,-74.3179575,50293,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Fulton County,NY,USA,43.135968500000004,-74.43560049999999,53591,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
-,Gallia County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Geauga County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Genesee County,NY,USA,42.998157500000005,-78.18481299999999,57511,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
 ,Greene County,NY,USA,42.28041,-74.1565635,47491,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,2,2,2,2
-,Guernsey County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Hamilton County,NY,USA,43.667618000000004,-74.457387,4434,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,2
-,Hancock County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Hardin County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Harrison County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Henry County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Highland County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Hocking County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Holmes County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Huron County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Jackson County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Jefferson County,NY,USA,44.0357125,-75.906548,111755,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
-,Knox County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Lake County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Lawrence County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Licking County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Logan County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Lorain County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Lucas County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Kings County,NY,USA,40.6527265,-73.9378885,2582830,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Lewis County,NY,USA,43.8187055,-75.480347,26447,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Livingston County,NY,USA,42.729794,-77.77374599999999,63227,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Madison County,NY,USA,42.954504,-75.61647049999999,70795,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Mahoning County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Marion County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Medina County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Meigs County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Mercer County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Miami County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Montgomery County,NY,USA,42.910201,-74.4234035,49455,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1,1,1,2,2
-,Morgan County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Morrow County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Muskingum County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Noble County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Ottawa County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Paulding County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Perry County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Pickaway County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Pike County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Portage County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Preble County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Niagara County,NY,USA,43.197108,-78.76754700000001,210433,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
+,Oneida County,NY,USA,43.239273999999995,-75.4779605,229577,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2
+,Onondaga County,NY,USA,43.021398,-76.19769550000001,461809,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,2,2,5
+,Ontario County,NY,USA,42.808147000000005,-77.28751,109864,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,1,1,1,1
+,Orleans County,NY,USA,43.252562,-78.23101,40612,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Oswego County,NY,USA,43.431290000000004,-76.186661,117898,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Otsego County,NY,USA,42.611257,-75.022975,59749,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Putnam County,NY,USA,41.4244435,-73.7563255,98892,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2,2,2,2,5
-,Richland County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Ross County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Sandusky County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Scioto County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Queens County,NY,USA,40.6741685,-73.8316885,2278906,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Rensselaer County,NY,USA,42.711440499999995,-73.5247755,159442,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,4,6
+,Richmond County,NY,USA,40.572351999999995,-74.1546065,476179,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,St. Lawrence County,NY,USA,44.533125,-75.1928715,108047,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Schenectady County,NY,USA,42.834184,-74.0573495,155350,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,2,4,5,14,18
+,Schoharie County,NY,USA,42.5922875,-74.438129,31097,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
+,Schuyler County,NY,USA,42.3902555,-76.863253,17912,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,Seneca County,NY,USA,42.782786,-76.7822575,34300,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Shelby County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Stark County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Summit County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Trumbull County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Tuscarawas County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Union County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Van Wert County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Vinton County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Steuben County,NY,USA,42.289595500000004,-77.35747950000001,95796,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Sullivan County,NY,USA,41.7190175,-74.7567505,75498,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,3
+,Tioga County,NY,USA,42.2043415,-76.322135,48560,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,1,1,1
+,Tompkins County,NY,USA,42.445197500000006,-76.4683765,102793,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1,1,2,3,6
 ,Warren County,NY,USA,43.512905,-73.82637249999999,64265,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1
 ,Washington County,NY,USA,43.374883,-73.4390205,61197,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1,1
 ,Wayne County,NY,USA,43.178074499999994,-77.0391815,90064,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,1
-,Williams County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Wood County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
-,Wyandot County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
+,Wyoming County,NY,USA,42.694677,-78.2215535,40085,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,1,1,2
+,Yates County,NY,USA,42.611807999999996,-77.1284555,24841,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0
 ,(unassigned),WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,39,104,126,70,167,151
 ,,Prince Edward Island,CAN,46.49290599200006,-63.21041826049995,142907,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,2
 ,Adams County,CO,USA,39.87063,-104.3794855,511720,https://opendata.arcgis.com/datasets/dec84f18254341419c514af8f9e784ba_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,10,10
@@ -1448,9 +1410,6 @@ city,county,state,country,lat,long,population,url,2020-1-22,2020-1-23,2020-1-24,
 ,Cameron Parish,LA,USA,29.8158395,-93.27240900000001,6968,https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
 ,Iberia Parish,LA,USA,29.7982045,-91.632762,70941,https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,1
 ,(unassigned),LA,USA,,,,https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,0,0,0,2,4
-,Schenectady County,NY,USA,42.834184,-74.0573495,155350,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,4,5,14,18
-,Tioga County,NY,USA,42.2043415,-76.322135,48560,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1,1,1
-,Tompkins County,NY,USA,42.445197500000006,-76.4683765,102793,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,2,3,6
 ,Belmont County,OH,USA,40.011337999999995,-80.970149,67505,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,2,2
 ,Butler County,OH,USA,39.441655499999996,-84.5757445,382378,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,6,6,8,8
 ,Franklin County,OH,USA,39.9690415,-83.010875,1310300,https://coronavirus.ohio.gov/wps/portal/gov/covid-19/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,3,4,7,10
@@ -1883,12 +1842,12 @@ Bear River County,,UT,USA,39.49994305252983,-111.54443973955233,,https://coronav
 ,Wolverhampton,,GBR,52.58091227872865,-2.088510402932741,,https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,18,22,28
 ,Worcestershire,,GBR,52.20434611687975,-2.1993563498157016,575421,https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,5,8
 ,York,,GBR,53.94391693776643,-1.0799931502137383,,https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,4,5
-,Colusa County,CA,USA,39.169222000000005,-122.2913685,21627,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
-,Del Norte County,CA,USA,41.6909115,-123.88695,27828,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
-,Glenn County,CA,USA,39.5913755,-122.405772,28047,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
 ,Pea Patch County,DE,USA,,,,http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
 ,Reedy Island County,DE,USA,,,,http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
 ,DE/NJ County,DE,USA,,,,http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+,Colusa County,CA,USA,39.169222000000005,-122.2913685,21627,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+,Del Norte County,CA,USA,41.6909115,-123.88695,27828,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+,Glenn County,CA,USA,39.5913755,-122.405772,28047,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
 ,Escambia County,FL,USA,30.639738,-87.27711500000001,315534,https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1
 ,Lake County,FL,USA,28.810972999999997,-81.655052,356495,https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2,2
 ,Baker County,FL,USA,30.360368,-82.254514,28355,https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
@@ -1936,9 +1895,6 @@ Bear River County,,UT,USA,39.49994305252983,-111.54443973955233,,https://coronav
 ,Howard County,MD,USA,39.236219,-76.9419445,323196,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,8,16
 ,Talbot County,MD,USA,38.7587675,-76.122386,36968,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1
 ,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,21,34,50
-,Allegany County,NY,USA,42.260023000000004,-78.0160695,46430,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2
-,Onondaga County,NY,USA,43.021398,-76.19769550000001,461809,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,5
-,Ontario County,NY,USA,42.808147000000005,-77.28751,109864,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,1
 , County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,
 ,,,AUS,-27.17176685949994,133.43764789150003,23232413,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,454,565,709
 ,Mono County,CA,USA,38.088132,-118.73838749999999,14250,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -2057,9 +2013,6 @@ Bear River County,,UT,USA,39.49994305252983,-111.54443973955233,,https://coronav
 ,Washington County,MD,USA,39.5205695,-77.91450950000001,150926,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Wicomico County,MD,USA,38.3943725,-75.61925600000001,103195,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Worcester County,MD,USA,38.2230905,-75.3490465,51823,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Rensselaer County,NY,USA,42.711440499999995,-73.5247755,159442,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,6
-,Sullivan County,NY,USA,41.7190175,-74.7567505,75498,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,3
-,Wyoming County,NY,USA,42.694677,-78.2215535,40085,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2
 ,Allegheny,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,11,16
 ,Beaver,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2
 ,Bucks,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,9,12
@@ -2126,8 +2079,6 @@ Bear River County,,UT,USA,39.49994305252983,-111.54443973955233,,https://coronav
 ,Las Animas County,CO,USA,37.4051085,-104.1148525,14529,https://opendata.arcgis.com/datasets/dec84f18254341419c514af8f9e784ba_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Grand County,CO,USA,40.085187000000005,-106.14149,15503,https://opendata.arcgis.com/datasets/dec84f18254341419c514af8f9e784ba_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Middlesex County,CT,USA,41.4513225,-72.529236,162682,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3
-,Chenango County,NY,USA,42.470226499999995,-75.5928545,47536,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2
-,Essex County,NY,USA,44.1456775,-73.8152195,37300,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Total Number of Positive Cases County,NY,USA,,,,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2382,4152
 ,Berks,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Lackawanna,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2
@@ -2166,10 +2117,6 @@ Bear River County,,UT,USA,39.49994305252983,-111.54443973955233,,https://coronav
 ,Tulare County,CA,USA,36.266967,-118.7856615,465861,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
 ,Tuolumne County,CA,USA,38.033612500000004,-119.928327,54539,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Yuba County,CA,USA,39.2891885,-121.32262800000001,78041,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
-,Genesee County,NY,USA,42.998157500000005,-78.18481299999999,57511,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Niagara County,NY,USA,43.197108,-78.76754700000001,210433,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Oneida County,NY,USA,43.239273999999995,-75.4779605,229577,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
-,Schoharie County,NY,USA,42.5922875,-74.438129,31097,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Adams,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Lancaster,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Lebanon,PA,USA,,,,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1

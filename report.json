@@ -3,7 +3,7 @@
   "scrape": {
     "numCountries": 152,
     "numStates": 215,
-    "numCounties": 1753,
+    "numCounties": 1700,
     "numCities": 0,
     "numDuplicates": 134,
     "numErrors": 1,
@@ -85,7 +85,7 @@
             -121.962515,
             38.619189
           ],
-          "featureId": 660,
+          "featureId": 596,
           "population": 220408
         },
         {
@@ -132,7 +132,7 @@
             -119.1057185,
             34.058353
           ],
-          "featureId": 659,
+          "featureId": 595,
           "population": 850967
         },
         {
@@ -179,7 +179,7 @@
             -120.937052,
             37.606097500000004
           ],
-          "featureId": 653,
+          "featureId": 589,
           "population": 549815
         },
         {
@@ -226,7 +226,7 @@
             -122.946388,
             38.4810965
           ],
-          "featureId": 652,
+          "featureId": 588,
           "population": 499942
         },
         {
@@ -273,7 +273,7 @@
             -122.0001255,
             38.2871145
           ],
-          "featureId": 651,
+          "featureId": 587,
           "population": 446610
         },
         {
@@ -319,7 +319,7 @@
             -122.192699,
             40.7359105
           ],
-          "featureId": 648,
+          "featureId": 584,
           "population": 180040
         },
         {
@@ -366,7 +366,7 @@
             -121.94941800000001,
             37.0683515
           ],
-          "featureId": 647,
+          "featureId": 583,
           "population": 274255
         },
         {
@@ -412,7 +412,7 @@
             -121.70515,
             37.190824000000006
           ],
-          "featureId": 646,
+          "featureId": 582,
           "population": 1937570
         },
         {
@@ -460,7 +460,7 @@
             -120.0556245,
             34.503122000000005
           ],
-          "featureId": 645,
+          "featureId": 581,
           "population": 446527
         },
         {
@@ -507,7 +507,7 @@
             -120.40954099999999,
             35.3481785
           ],
-          "featureId": 643,
+          "featureId": 579,
           "population": 284010
         },
         {
@@ -545,7 +545,7 @@
             -121.2534915,
             37.891017500000004
           ],
-          "featureId": 642,
+          "featureId": 578,
           "population": 752660
         },
         {
@@ -592,7 +592,7 @@
             -116.83848499999999,
             33.01959050000001
           ],
-          "featureId": 640,
+          "featureId": 576,
           "population": 3343364
         },
         {
@@ -640,7 +640,7 @@
             -115.96848299999999,
             34.840230000000005
           ],
-          "featureId": 639,
+          "featureId": 575,
           "population": 2171603
         },
         {
@@ -687,7 +687,7 @@
             -121.1202815,
             36.595779
           ],
-          "featureId": 638,
+          "featureId": 574,
           "population": 61537
         },
         {
@@ -736,7 +736,7 @@
             -121.444773,
             38.377659
           ],
-          "featureId": 637,
+          "featureId": 573,
           "population": 1540975
         },
         {
@@ -784,7 +784,7 @@
             -116.05561750000001,
             33.752829500000004
           ],
-          "featureId": 636,
+          "featureId": 572,
           "population": 2450758
         },
         {
@@ -832,7 +832,7 @@
             -117.76484500000001,
             33.66652
           ],
-          "featureId": 633,
+          "featureId": 569,
           "population": 3185968
         },
         {
@@ -879,7 +879,7 @@
             -121.0962855,
             36.351338
           ],
-          "featureId": 630,
+          "featureId": 566,
           "population": 435594
         },
         {
@@ -917,7 +917,7 @@
             -118.73838749999999,
             38.088132
           ],
-          "featureId": 629,
+          "featureId": 565,
           "population": 14250
         },
         {
@@ -966,7 +966,7 @@
             -120.649022,
             37.1868725
           ],
-          "featureId": 627,
+          "featureId": 563,
           "population": 274765
         },
         {
@@ -1015,7 +1015,7 @@
             -123.422765,
             39.380249
           ],
-          "featureId": 626,
+          "featureId": 562,
           "population": 87606
         },
         {
@@ -1062,7 +1062,7 @@
             -122.731167,
             38.071675
           ],
-          "featureId": 624,
+          "featureId": 560,
           "population": 259666
         },
         {
@@ -1109,7 +1109,7 @@
             -119.7828125,
             37.273546499999995
           ],
-          "featureId": 623,
+          "featureId": 559,
           "population": 157672
         },
         {
@@ -1156,7 +1156,7 @@
             -118.29563049999999,
             33.8115605
           ],
-          "featureId": 622,
+          "featureId": 558,
           "population": 10105518
         },
         {
@@ -1204,7 +1204,7 @@
             -119.8948375,
             36.139044999999996
           ],
-          "featureId": 619,
+          "featureId": 555,
           "population": 151366
         },
         {
@@ -1251,7 +1251,7 @@
             -118.9051705,
             35.294389
           ],
-          "featureId": 618,
+          "featureId": 554,
           "population": 896764
         },
         {
@@ -1309,7 +1309,7 @@
             -122.405772,
             39.5913755
           ],
-          "featureId": 614,
+          "featureId": 550,
           "population": 28047
         }
       ],
@@ -1357,7 +1357,7 @@
             -123.88695,
             41.6909115
           ],
-          "featureId": 611,
+          "featureId": 547,
           "population": 27828
         }
       ],
@@ -1405,7 +1405,7 @@
             -121.983341,
             37.9092535
           ],
-          "featureId": 610,
+          "featureId": 546,
           "population": 1150215
         }
       ],
@@ -1451,7 +1451,7 @@
             -122.2913685,
             39.169222000000005
           ],
-          "featureId": 609,
+          "featureId": 545,
           "population": 21627
         }
       ],
@@ -1498,7 +1498,7 @@
             -120.507724,
             38.170645500000006
           ],
-          "featureId": 608,
+          "featureId": 544,
           "population": 45602
         }
       ],
@@ -1545,7 +1545,7 @@
             -121.57306299999999,
             39.723763
           ],
-          "featureId": 607,
+          "featureId": 543,
           "population": 231256
         }
       ],
@@ -1592,7 +1592,7 @@
             -121.9024445,
             37.6801065
           ],
-          "featureId": 604,
+          "featureId": 540,
           "population": 1666753
         }
       ],
@@ -2774,7 +2774,7 @@
             -119.26717119749563,
             37.26560485570404
           ],
-          "featureId": 662,
+          "featureId": 598,
           "population": 39512223
         },
         {
@@ -4633,7 +4633,7 @@
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 1969,
+    "numFeaturesFound": 1988,
     "missingFeatures": [
       "Channel Islands, GBR",
       "French Polynesia, FRA",
@@ -4685,78 +4685,6 @@
       "Baltimore City, MD, USA",
       "Total County, MS, USA",
       "Total Number of Positive Cases County, NY, USA",
-      "Adams County, NY, USA",
-      "Allen County, NY, USA",
-      "Ashland County, NY, USA",
-      "Ashtabula County, NY, USA",
-      "Athens County, NY, USA",
-      "Auglaize County, NY, USA",
-      "Belmont County, NY, USA",
-      "Brown County, NY, USA",
-      "Butler County, NY, USA",
-      "Carroll County, NY, USA",
-      "Champaign County, NY, USA",
-      "Clark County, NY, USA",
-      "Clermont County, NY, USA",
-      "Columbiana County, NY, USA",
-      "Coshocton County, NY, USA",
-      "Crawford County, NY, USA",
-      "Cuyahoga County, NY, USA",
-      "Darke County, NY, USA",
-      "Defiance County, NY, USA",
-      "Fairfield County, NY, USA",
-      "Fayette County, NY, USA",
-      "Gallia County, NY, USA",
-      "Geauga County, NY, USA",
-      "Guernsey County, NY, USA",
-      "Hancock County, NY, USA",
-      "Hardin County, NY, USA",
-      "Harrison County, NY, USA",
-      "Henry County, NY, USA",
-      "Highland County, NY, USA",
-      "Hocking County, NY, USA",
-      "Holmes County, NY, USA",
-      "Huron County, NY, USA",
-      "Jackson County, NY, USA",
-      "Knox County, NY, USA",
-      "Lake County, NY, USA",
-      "Lawrence County, NY, USA",
-      "Licking County, NY, USA",
-      "Logan County, NY, USA",
-      "Lorain County, NY, USA",
-      "Lucas County, NY, USA",
-      "Mahoning County, NY, USA",
-      "Marion County, NY, USA",
-      "Medina County, NY, USA",
-      "Meigs County, NY, USA",
-      "Mercer County, NY, USA",
-      "Miami County, NY, USA",
-      "Morgan County, NY, USA",
-      "Morrow County, NY, USA",
-      "Muskingum County, NY, USA",
-      "Noble County, NY, USA",
-      "Ottawa County, NY, USA",
-      "Paulding County, NY, USA",
-      "Perry County, NY, USA",
-      "Pickaway County, NY, USA",
-      "Pike County, NY, USA",
-      "Portage County, NY, USA",
-      "Preble County, NY, USA",
-      "Richland County, NY, USA",
-      "Ross County, NY, USA",
-      "Sandusky County, NY, USA",
-      "Scioto County, NY, USA",
-      "Shelby County, NY, USA",
-      "Stark County, NY, USA",
-      "Summit County, NY, USA",
-      "Trumbull County, NY, USA",
-      "Tuscarawas County, NY, USA",
-      "Union County, NY, USA",
-      "Van Wert County, NY, USA",
-      "Vinton County, NY, USA",
-      "Williams County, NY, USA",
-      "Wood County, NY, USA",
-      "Wyandot County, NY, USA",
       "Adams, PA, USA",
       "Allegheny, PA, USA",
       "Beaver, PA, USA",
@@ -4786,7 +4714,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 1741,
+    "numLocationsWithPopulation": 1760,
     "missingPopulations": [
       "THA",
       "MTQ",
@@ -4976,78 +4904,6 @@
       "Baltimore City, MD, USA",
       "Total County, MS, USA",
       "Total Number of Positive Cases County, NY, USA",
-      "Adams County, NY, USA",
-      "Allen County, NY, USA",
-      "Ashland County, NY, USA",
-      "Ashtabula County, NY, USA",
-      "Athens County, NY, USA",
-      "Auglaize County, NY, USA",
-      "Belmont County, NY, USA",
-      "Brown County, NY, USA",
-      "Butler County, NY, USA",
-      "Carroll County, NY, USA",
-      "Champaign County, NY, USA",
-      "Clark County, NY, USA",
-      "Clermont County, NY, USA",
-      "Columbiana County, NY, USA",
-      "Coshocton County, NY, USA",
-      "Crawford County, NY, USA",
-      "Cuyahoga County, NY, USA",
-      "Darke County, NY, USA",
-      "Defiance County, NY, USA",
-      "Fairfield County, NY, USA",
-      "Fayette County, NY, USA",
-      "Gallia County, NY, USA",
-      "Geauga County, NY, USA",
-      "Guernsey County, NY, USA",
-      "Hancock County, NY, USA",
-      "Hardin County, NY, USA",
-      "Harrison County, NY, USA",
-      "Henry County, NY, USA",
-      "Highland County, NY, USA",
-      "Hocking County, NY, USA",
-      "Holmes County, NY, USA",
-      "Huron County, NY, USA",
-      "Jackson County, NY, USA",
-      "Knox County, NY, USA",
-      "Lake County, NY, USA",
-      "Lawrence County, NY, USA",
-      "Licking County, NY, USA",
-      "Logan County, NY, USA",
-      "Lorain County, NY, USA",
-      "Lucas County, NY, USA",
-      "Mahoning County, NY, USA",
-      "Marion County, NY, USA",
-      "Medina County, NY, USA",
-      "Meigs County, NY, USA",
-      "Mercer County, NY, USA",
-      "Miami County, NY, USA",
-      "Morgan County, NY, USA",
-      "Morrow County, NY, USA",
-      "Muskingum County, NY, USA",
-      "Noble County, NY, USA",
-      "Ottawa County, NY, USA",
-      "Paulding County, NY, USA",
-      "Perry County, NY, USA",
-      "Pickaway County, NY, USA",
-      "Pike County, NY, USA",
-      "Portage County, NY, USA",
-      "Preble County, NY, USA",
-      "Richland County, NY, USA",
-      "Ross County, NY, USA",
-      "Sandusky County, NY, USA",
-      "Scioto County, NY, USA",
-      "Shelby County, NY, USA",
-      "Stark County, NY, USA",
-      "Summit County, NY, USA",
-      "Trumbull County, NY, USA",
-      "Tuscarawas County, NY, USA",
-      "Union County, NY, USA",
-      "Van Wert County, NY, USA",
-      "Vinton County, NY, USA",
-      "Williams County, NY, USA",
-      "Wood County, NY, USA",
-      "Wyandot County, NY, USA",
       "Adams, PA, USA",
       "Allegheny, PA, USA",
       "Beaver, PA, USA",

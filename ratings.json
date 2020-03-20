@@ -47,16 +47,6 @@
     "ssl": true
   },
   {
-    "state": "CO",
-    "country": "USA",
-    "aggregate": "county",
-    "priority": 1,
-    "url": "https://opendata.arcgis.com/datasets/dec84f18254341419c514af8f9e784ba_0.csv",
-    "type": "csv",
-    "rating": 0.4634146341463415,
-    "ssl": true
-  },
-  {
     "rating": 0.4634146341463415,
     "state": "CA",
     "country": "USA",
@@ -73,6 +63,16 @@
         "github": "HarrietRowan"
       }
     ]
+  },
+  {
+    "state": "CO",
+    "country": "USA",
+    "aggregate": "county",
+    "priority": 1,
+    "url": "https://opendata.arcgis.com/datasets/dec84f18254341419c514af8f9e784ba_0.csv",
+    "type": "csv",
+    "rating": 0.4634146341463415,
+    "ssl": true
   },
   {
     "state": "FL",
