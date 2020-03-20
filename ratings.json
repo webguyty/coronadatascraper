@@ -177,9 +177,9 @@
   {
     "state": "NY",
     "country": "USA",
-    "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "type": "table",
     "aggregate": "county",
+    "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
     "rating": 0.43902439024390244,
     "ssl": true
   },
@@ -274,28 +274,6 @@
     "ssl": true
   },
   {
-    "state": "WY",
-    "country": "USA",
-    "aggregate": "county",
-    "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/",
-    "type": "paragraph",
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "USA",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "rating": 0.3902439024390244,
-    "ssl": true
-  },
-  {
     "rating": 0.36585365853658536,
     "country": "ESP",
     "type": "csv",
@@ -346,6 +324,28 @@
     "rating": 0.2926829268292683,
     "county": "Woodford County",
     "type": "json"
+  },
+  {
+    "state": "WY",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/",
+    "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "USA",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
+    ],
+    "rating": 0.2682926829268293,
+    "ssl": true
   },
   {
     "rating": 0.17073170731707318,
