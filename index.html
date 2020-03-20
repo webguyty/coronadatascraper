@@ -9,7 +9,7 @@
   <meta name="twitter:title" content="Corona Data Scraper">
   <meta name="twitter:creator" content="@lazdnet">
   <meta name="twitter:image" content="https://blog.lazd.net/coronadatascraper/thumb.png">
-  <meta name="twitter:description" content="COVID-19 Coronavirus data scraped from reliable sources">
+  <meta name="twitter:description" content="COVID-19 Coronavirus data scraped from government and curated data sources.">
   <meta name="viewport" content="initial-scale=1">
 
   <link rel="stylesheet" type="text/css" href="spectrum-css.css">
@@ -22,7 +22,9 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.1.0/papaparse.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-interpolate/1.3.0/d3-interpolate.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-color/1.2.1/d3-color.js"></script>
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-scale/1.0.7/d3-scale.js" integrity="sha256-Jh0lqqRNJeZse1FL952+xDfdXLuP5GUFb3PqfdjjGYE=" crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3-array.v2.min.js"></script>
+  
   <script src="https://unpkg.com/@adobe/focus-ring-polyfill@0.1.5/index.js"></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -164,6 +166,7 @@
               <ul>
                 <li><a class="spectrum-Link" href="https://blog.lazd.net/coronaglobe" target="_blank"><strong>Coronaglobe</strong></a> A rate-adjusted choropleth 3D globe</li>
                 <li><a class="spectrum-Link" href="https://public.tableau.com/profile/stevenzhang#!/vizhome/semilogplotsforcoronavirusliveupdates/specificregioncomparisons?publish=yes" target="_blank"><strong>Semilog plots</strong></a> by Steven Zhang</li>
+                <li><a class="spectrum-Link" href="https://colab.research.google.com/drive/1w-YaCRkhw2Zxwhz4BCiazIdKyRvG3JFZ" target="_blank"><strong>Quickstart plotting Jupyter notebook</strong></a> by Jason Curtis</li>
               </ul>
             </nav>
 
@@ -186,19 +189,18 @@
             <p><a class="spectrum-Link" target="_blank" href="https://blog.lazd.net">blog</a> • <a class="spectrum-Link" target="_blank" href="https://github.com/lazd">github</a> • <a class="spectrum-Link" target="_blank" href="https://twitter.com/lazdnet">twitter</a> • <a class="spectrum-Link" target="_blank" href="https://www.patreon.com/lazd">patreon</a></p>
           </div>
         </div>
-        
+
         <div class="cds-Sources" hidden>
           <div class="spectrum-Site-page">
-            <h1 class="spectrum-Heading spectrum-Heading--L">Sources</h1>
-            <p class="spectrum-Body spectrum-Body--L">Corona Data Scraper pulls from a variety of official sources. Sources are rated based on how machine-readable, complete, and granular the data is.</p>
+            <h1 class="spectrum-Heading spectrum-Heading--L">About the data sources</h1>
+            <p class="spectrum-Body spectrum-Body--L">Corona Data Scraper pulls information from a variety of openly available world government data sources and curated datasets.</p>
 
             <h2 class="spectrum-Heading spectrum-Heading--M">Ratings have nothing to do with the accuracy of the data</h2>
-            <p class="spectrum-Body spectrum-Body--L">We only choose official sources for data, so it's up to the source to be honest and accurate.</p>
-            <p class="spectrum-Body spectrum-Body--L">The goal of offering these ratings is to make government agencies account for their data practices. We need complete, real-time, machine-readible data to inform decision making -- press releases do not cut it!</p>
+            <p class="spectrum-Body spectrum-Body--L">The ratings for the data sources here are based on how machine-readable, complete, and granular their data is — not on the accuracy or reliability of the information. We’re using a rating system like this because we’re trying to make governments more accountable for their data practices.</p>
+            <p class="spectrum-Body spectrum-Body--L"><a class="spectrum-Link" href="https://github.com/lazd/coronadatascraper/blob/master/lib/rating.js" target="_blank">Take a look at the code</a> to learn more about how the rating system works.</p>
 
-            <h2 class="spectrum-Heading spectrum-Heading--M">Does your source's rating look bad?</h2>
-            <p class="spectrum-Body spectrum-Body--L">Let's get those grades up! <a class="spectrum-Link" href="https://join.slack.com/t/sars-cov-2covid-19/shared_invite/zt-cr6ln0ph-6eDATfSUNDtFK3mlQxqYKw" target="_blank">Reach out to us on on Slack</a> or <a class="spectrum-Link" href="https://github.com/lazd/coronadatascraper/issues">file an issue on Github</a> and we can help you improve it!</p>
-            <p class="spectrum-Body spectrum-Body--L">Wanna know exactly how the ratings work? <a class="spectrum-Link" href="https://github.com/lazd/coronadatascraper/blob/master/lib/rating.js" target="_blank">Look at the code</a></p>
+            <h2 class="spectrum-Heading spectrum-Heading--M">Questions about a source’s rating?</h2>
+            <p class="spectrum-Body spectrum-Body--L">We’d like to hear from you and help you make your source more complete. <a class="spectrum-Link" href="https://join.slack.com/t/sars-cov-2covid-19/shared_invite/zt-cr6ln0ph-6eDATfSUNDtFK3mlQxqYKw" target="_blank">Reach out to us on on Slack</a> or <a class="spectrum-Link" href="https://github.com/lazd/coronadatascraper/issues">file an issue on Github</a>.</p>
 
             <ol class="cds-Sources-list">
             </ol>
