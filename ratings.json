@@ -1,59 +1,48 @@
 [
   {
-    "rating": 0.5609756097560976,
-    "country": "BRA",
-    "type": "json",
-    "timeseries": true,
-    "aggregate": "county",
-    "priority": 1,
-    "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-20",
-    "maintainers": [
-      {
-        "name": "Felipe Roberto",
-        "email": "contato@feliperoberto.com.br",
-        "github": "feliperoberto",
-        "country": "BRA",
-        "flag": "🇧🇷"
-      }
-    ]
-  },
-  {
-    "rating": 0.5365853658536586,
     "country": "FRA",
-    "type": "csv",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
     "timeseries": true,
-    "aggregate": "state",
-    "ssl": true,
     "priority": 1,
-    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv"
+    "aggregate": "state",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.5365853658536586
   },
   {
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "timeseries": true,
     "aggregate": "state",
-    "rating": 0.5365853658536586,
     "type": "csv",
-    "ssl": true
+    "ssl": true,
+    "rating": 0.5365853658536586
   },
   {
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "aggregate": "state",
     "priority": -1,
-    "rating": 0.4878048780487805,
-    "country": "NIC",
+    "country": "ZWE",
+    "ssl": true,
     "type": "list",
-    "ssl": true
+    "rating": 0.4878048780487805
   },
   {
-    "rating": 0.4634146341463415,
-    "state": "CA",
+    "state": "AZ",
     "country": "USA",
+    "url": "https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
     "type": "csv",
     "aggregate": "county",
     "ssl": true,
+    "rating": 0.4634146341463415
+  },
+  {
+    "state": "CA",
+    "country": "USA",
     "priority": 1,
+    "type": "csv",
+    "aggregate": "county",
     "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
     "curators": [
       {
@@ -62,27 +51,9 @@
         "twitter": "@hattierowan",
         "github": "HarrietRowan"
       }
-    ]
-  },
-  {
-    "state": "CO",
-    "country": "USA",
-    "aggregate": "county",
-    "priority": 1,
-    "url": "https://opendata.arcgis.com/datasets/dec84f18254341419c514af8f9e784ba_0.csv",
-    "type": "csv",
-    "rating": 0.4634146341463415,
-    "ssl": true
-  },
-  {
-    "state": "FL",
-    "country": "USA",
-    "priority": 1,
-    "aggregate": "county",
-    "type": "csv",
-    "url": "https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv",
-    "rating": 0.4634146341463415,
-    "ssl": true
+    ],
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "country": "USA",
@@ -90,9 +61,9 @@
     "priority": 1,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "aggregate": "county",
-    "rating": 0.4634146341463415,
     "type": "csv",
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "state": "LA",
@@ -100,8 +71,8 @@
     "aggregate": "county",
     "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
     "type": "json",
-    "rating": 0.4634146341463415,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "state": "MD",
@@ -109,26 +80,26 @@
     "aggregate": "county",
     "type": "csv",
     "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
-    "rating": 0.4634146341463415,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
     "state": "NC",
     "aggregate": "county",
-    "rating": 0.4634146341463415,
     "type": "csv",
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "country": "USA",
     "state": "NJ",
     "aggregate": "county",
     "url": "https://opendata.arcgis.com/datasets/84737ef7f760486293b6afa536f028e0_0.csv",
-    "rating": 0.4634146341463415,
     "type": "csv",
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "state": "WI",
@@ -136,17 +107,8 @@
     "aggregate": "county",
     "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
     "type": "json",
-    "rating": 0.4634146341463415,
-    "ssl": true
-  },
-  {
-    "country": "CHE",
-    "county": "Zurich",
-    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv",
-    "timeseries": true,
-    "rating": 0.43902439024390244,
-    "type": "csv",
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4634146341463415
   },
   {
     "state": "CT",
@@ -154,8 +116,8 @@
     "url": "https://portal.ct.gov/Coronavirus",
     "type": "table",
     "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "DE",
@@ -171,8 +133,8 @@
     "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "type": "table",
     "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "NY",
@@ -180,8 +142,17 @@
     "type": "table",
     "aggregate": "county",
     "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
+  },
+  {
+    "state": "OK",
+    "country": "USA",
+    "type": "table",
+    "aggregate": "county",
+    "url": "https://coronavirus.health.ok.gov/",
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "OR",
@@ -189,8 +160,8 @@
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "PA",
@@ -198,8 +169,8 @@
     "aggregate": "county",
     "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
     "type": "table",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "SD",
@@ -207,8 +178,8 @@
     "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
     "type": "table",
     "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "TN",
@@ -216,8 +187,8 @@
     "url": "https://www.tn.gov/health/cedep/ncov.html",
     "type": "table",
     "aggregate": "county",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "state": "UT",
@@ -225,16 +196,16 @@
     "aggregate": "county",
     "url": "https://coronavirus-dashboard.utah.gov/",
     "type": "table",
-    "rating": 0.43902439024390244,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.43902439024390244
   },
   {
     "country": "GBR",
     "url": "https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data",
     "aggregate": "county",
     "type": "csv",
-    "rating": 0.4146341463414634,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.4146341463414634
   },
   {
     "state": "AL",
@@ -249,9 +220,9 @@
     "country": "USA",
     "aggregate": "county",
     "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-    "rating": 0.4146341463414634,
+    "ssl": true,
     "type": "list",
-    "ssl": true
+    "rating": 0.4146341463414634
   },
   {
     "state": "TX",
@@ -259,7 +230,6 @@
     "url": "https://www.dshs.state.tx.us/news/updates.shtm",
     "type": "table",
     "aggregate": "county",
-    "ssl": false,
     "certValidation": false,
     "rating": 0.4146341463414634
   },
@@ -270,34 +240,17 @@
     "type": "table",
     "headless": true,
     "aggregate": "county",
-    "rating": 0.3902439024390244,
-    "ssl": true
-  },
-  {
-    "rating": 0.36585365853658536,
-    "country": "ESP",
-    "type": "csv",
-    "aggregate": "state",
     "ssl": true,
-    "priority": 1,
-    "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv"
+    "rating": 0.3902439024390244
   },
   {
-    "country": "USA",
-    "url": "https://covidtracking.com/api/states",
-    "type": "json",
-    "curators": [
-      {
-        "name": "The COVID Tracking Project",
-        "url": "https://covidtracking.com/",
-        "twitter": "@COVID19Tracking",
-        "github": "COVID19Tracking"
-      }
-    ],
-    "aggregate": "state",
+    "country": "ESP",
+    "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
     "priority": 1,
-    "rating": 0.36585365853658536,
-    "ssl": true
+    "aggregate": "state",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.36585365853658536
   },
   {
     "country": "AUS",
@@ -305,25 +258,419 @@
     "type": "table",
     "priority": 1,
     "aggregate": "state",
-    "rating": 0.34146341463414637,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.34146341463414637
   },
   {
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "aggregate": "state",
-    "rating": 0.34146341463414637,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.34146341463414637
   },
   {
-    "state": "IL",
+    "county": "Monterey County",
+    "state": "CA",
     "country": "USA",
-    "priority": 1,
-    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
-    "rating": 0.2926829268292683,
-    "county": "Woodford County",
-    "type": "json"
+    "url": "https://www.co.monterey.ca.us/government/departments-a-h/administrative-office/office-of-emergency-services/response/covid-19",
+    "type": "table",
+    "ssl": true,
+    "rating": 0.2926829268292683
+  },
+  {
+    "state": "GA",
+    "country": "USA",
+    "url": "https://dph.georgia.gov/covid-19-daily-status-report",
+    "type": "table",
+    "county": "Wilkinson County",
+    "ssl": true,
+    "rating": 0.2926829268292683
+  },
+  {
+    "county": "Butte County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.buttecounty.net/publichealth",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Calaveras County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://covid19.calaverasgov.us/",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Contra Costa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.coronavirus.cchealth.org/",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Fresno County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Glenn County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Kern County",
+    "state": "CA",
+    "country": "USA",
+    "url": " https://kernpublichealth.com/2019-novel-coronavirus/",
+    "type": "table",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Kings County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Madera County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.maderacounty.com/government/public-health/health-updates/corona-virus",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Marin County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://coronavirus.marinhhs.org/surveillance",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Mendocino County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.mendocinocounty.org/community/novel-coronavirus",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Merced County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Mono County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://monocovid19-monomammoth.hub.arcgis.com/",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Placer County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Riverside County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.rivcoph.org/coronavirus",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Sacramento County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "San Benito County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "San Diego County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "San Joaquin County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://www.sjcphs.org/coronavirus.aspx#res",
+    "type": "table",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "San Mateo County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.smchealth.org/coronavirus",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Santa Clara County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Sonoma County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Yolo County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.2682926829268293
   },
   {
     "state": "WY",
@@ -344,15 +691,166 @@
         "flag": "🇺🇸"
       }
     ],
-    "rating": 0.2682926829268293,
-    "ssl": true
+    "ssl": true,
+    "rating": 0.2682926829268293
   },
   {
-    "rating": 0.17073170731707318,
-    "country": "DEU",
-    "type": "json",
+    "county": "Colusa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.countyofcolusa.org/99/Public-Health",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "Del Norte County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "Los Angeles County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "Orange County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "San Bernardino County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://wp.sbcounty.gov/dph/coronavirus/",
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "Santa Cruz County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "Solano County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "county": "Stanislaus County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
+    "type": "list",
+    "rating": 0.24390243902439024
+  },
+  {
+    "country": "AUS",
+    "state": "Australian Capital Territory",
+    "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
+    "type": "table",
+    "priority": 1,
     "ssl": true,
+    "rating": 0.1951219512195122
+  },
+  {
+    "state": "IL",
+    "country": "USA",
+    "priority": 1,
+    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
+    "type": "json",
+    "rating": 0.1951219512195122
+  },
+  {
+    "country": "DEU",
     "url": "https://covid19-germany.appspot.com/now",
+    "type": "json",
     "curators": [
       {
         "name": "Dr. Jan-Philip Gehrcke",
@@ -364,6 +862,89 @@
         "name": "Berliner Morgenpost",
         "description": "Aggregated data from individual ministries of health in Germany"
       }
-    ]
+    ],
+    "ssl": true,
+    "rating": 0.17073170731707318
+  },
+  {
+    "county": "San Francisco County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
+    "type": "paragraph",
+    "ssl": true,
+    "rating": 0.12195121951219512
+  },
+  {
+    "county": "San Luis Obispo County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.emergencyslo.org/en/covid19.aspx",
+    "type": "paragraph",
+    "ssl": true,
+    "rating": 0.12195121951219512
+  },
+  {
+    "county": "Santa Barbara County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://publichealthsbc.org",
+    "type": "paragraph",
+    "ssl": true,
+    "rating": 0.12195121951219512
+  },
+  {
+    "county": "Ventura County",
+    "state": "CA",
+    "country": "USA",
+    "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.vcemergency.com",
+    "ssl": true,
+    "rating": 0.12195121951219512
+  },
+  {
+    "county": "Alameda County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.acphd.org/2019-ncov.aspx",
+    "headless": true,
+    "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "rating": 0.04878048780487805
   }
 ]
