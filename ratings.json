@@ -56,6 +56,26 @@
     "rating": 0.4634146341463415
   },
   {
+    "state": "CO",
+    "country": "USA",
+    "aggregate": "county",
+    "priority": 1,
+    "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.4634146341463415
+  },
+  {
+    "state": "FL",
+    "country": "USA",
+    "priority": 1,
+    "aggregate": "county",
+    "type": "json",
+    "url": "https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile",
+    "ssl": true,
+    "rating": 0.4634146341463415
+  },
+  {
     "country": "USA",
     "state": "IN",
     "priority": 1,
@@ -111,6 +131,15 @@
     "rating": 0.4634146341463415
   },
   {
+    "country": "CHE",
+    "county": "Zurich",
+    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
+    "timeseries": true,
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.43902439024390244
+  },
+  {
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus",
@@ -125,6 +154,28 @@
     "aggregate": "county",
     "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
     "type": "csv",
+    "rating": 0.43902439024390244
+  },
+  {
+    "state": "MO",
+    "country": "USA",
+    "type": "table",
+    "aggregate": "county",
+    "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
+    "source": {
+      "name": "Missouri Department of Health and Senior Services"
+    },
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "url": "https://amitechsolutions.com",
+        "github": "paulboal",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "ssl": true,
     "rating": 0.43902439024390244
   },
   {
@@ -151,6 +202,19 @@
     "type": "table",
     "aggregate": "county",
     "url": "https://coronavirus.health.ok.gov/",
+    "source": {
+      "name": "Oklahoma State Deparment of Health"
+    },
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "url": "https://amitechsolutions.com",
+        "github": "paulboal",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "ssl": true,
     "rating": 0.43902439024390244
   },
@@ -216,6 +280,16 @@
     "rating": 0.4146341463414634
   },
   {
+    "state": "IA",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": true,
+    "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.4146341463414634
+  },
+  {
     "state": "OH",
     "country": "USA",
     "aggregate": "county",
@@ -253,6 +327,23 @@
     "rating": 0.36585365853658536
   },
   {
+    "country": "USA",
+    "url": "https://covidtracking.com/api/states",
+    "type": "json",
+    "curators": [
+      {
+        "name": "The COVID Tracking Project",
+        "url": "https://covidtracking.com/",
+        "twitter": "@COVID19Tracking",
+        "github": "COVID19Tracking"
+      }
+    ],
+    "aggregate": "state",
+    "priority": 1,
+    "ssl": true,
+    "rating": 0.36585365853658536
+  },
+  {
     "country": "AUS",
     "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
     "type": "table",
@@ -274,6 +365,24 @@
     "state": "CA",
     "country": "USA",
     "url": "https://www.co.monterey.ca.us/government/departments-a-h/administrative-office/office-of-emergency-services/response/covid-19",
+    "type": "table",
+    "ssl": true,
+    "rating": 0.2926829268292683
+  },
+  {
+    "county": "Shasta County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.co.shasta.ca.us/covid-19/overview",
     "type": "table",
     "ssl": true,
     "rating": 0.2926829268292683
@@ -946,5 +1055,13 @@
       }
     ],
     "rating": 0.04878048780487805
+  },
+  {
+    "state": "DC",
+    "country": "USA",
+    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+    "type": "paragraph",
+    "ssl": true,
+    "rating": 0.024390243902439025
   }
 ]
