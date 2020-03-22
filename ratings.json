@@ -23,7 +23,7 @@
     "timeseries": true,
     "aggregate": "state",
     "priority": -1,
-    "country": "ZWE",
+    "country": "UGA",
     "ssl": true,
     "type": "list",
     "rating": 0.4878048780487805
@@ -104,6 +104,15 @@
     "rating": 0.4634146341463415
   },
   {
+    "state": "MT",
+    "country": "USA",
+    "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true",
+    "type": "json",
+    "aggregate": "county",
+    "ssl": true,
+    "rating": 0.4634146341463415
+  },
+  {
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
     "state": "NC",
@@ -118,6 +127,15 @@
     "aggregate": "county",
     "url": "https://opendata.arcgis.com/datasets/84737ef7f760486293b6afa536f028e0_0.csv",
     "type": "csv",
+    "ssl": true,
+    "rating": 0.4634146341463415
+  },
+  {
+    "state": "SC",
+    "country": "USA",
+    "url": "https://services2.arcgis.com/XZg2efAbaieYAXmu/arcgis/rest/services/COVID19_County_View/FeatureServer/0/query?f=json&where=Confirmed%20%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Confirmed%20desc&resultOffset=0&resultRecordCount=1000&cacheHint=true",
+    "type": "json",
+    "aggregate": "county",
     "ssl": true,
     "rating": 0.4634146341463415
   },
@@ -140,20 +158,47 @@
     "rating": 0.43902439024390244
   },
   {
-    "state": "CT",
+    "state": "DE",
     "country": "USA",
-    "url": "https://portal.ct.gov/Coronavirus",
+    "aggregate": "county",
+    "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
+    "type": "csv",
+    "rating": 0.43902439024390244
+  },
+  {
+    "state": "ID",
+    "country": "USA",
+    "url": "https://coronavirus.idaho.gov",
     "type": "table",
     "aggregate": "county",
     "ssl": true,
     "rating": 0.43902439024390244
   },
   {
-    "state": "DE",
+    "state": "ME",
     "country": "USA",
+    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
+    "type": "table",
     "aggregate": "county",
-    "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
-    "type": "csv",
+    "ssl": true,
+    "rating": 0.43902439024390244
+  },
+  {
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "type": "table",
+    "aggregate": "county",
+    "ssl": true,
+    "rating": 0.43902439024390244
+  },
+  {
+    "state": "MN",
+    "country": "USA",
+    "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+    "type": "table",
+    "aggregate": "county",
+    "ssl": true,
     "rating": 0.43902439024390244
   },
   {
@@ -290,6 +335,38 @@
     "rating": 0.4146341463414634
   },
   {
+    "country": "USA",
+    "state": "KY",
+    "priority": 1,
+    "url": "https://datawrapper.dwcdn.net/BbowM/23/",
+    "source": {
+      "name": "Kentucky Cabinet for Health and Family Services",
+      "url": "https://www.kentucky.com/news/coronavirus/article241309406.html"
+    },
+    "maintainers": [
+      {
+        "name": "Jordan Holt",
+        "email": "jordholt@gmail.com",
+        "github": "DatJord",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "aggregate": "county",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.4146341463414634
+  },
+  {
+    "state": "MA",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-21-2020/download",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.4146341463414634
+  },
+  {
     "state": "OH",
     "country": "USA",
     "aggregate": "county",
@@ -308,6 +385,15 @@
     "rating": 0.4146341463414634
   },
   {
+    "state": "WV",
+    "country": "USA",
+    "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+    "type": "list",
+    "aggregate": "county",
+    "ssl": true,
+    "rating": 0.4146341463414634
+  },
+  {
     "state": "WA",
     "country": "USA",
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
@@ -323,23 +409,6 @@
     "priority": 1,
     "aggregate": "state",
     "type": "csv",
-    "ssl": true,
-    "rating": 0.36585365853658536
-  },
-  {
-    "country": "USA",
-    "url": "https://covidtracking.com/api/states",
-    "type": "json",
-    "curators": [
-      {
-        "name": "The COVID Tracking Project",
-        "url": "https://covidtracking.com/",
-        "twitter": "@COVID19Tracking",
-        "github": "COVID19Tracking"
-      }
-    ],
-    "aggregate": "state",
-    "priority": 1,
     "ssl": true,
     "rating": 0.36585365853658536
   },
@@ -1055,6 +1124,24 @@
       }
     ],
     "rating": 0.04878048780487805
+  },
+  {
+    "country": "AUS",
+    "state": "Queensland",
+    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
+    "type": "paragraph",
+    "priority": 1,
+    "ssl": true,
+    "rating": 0.024390243902439025
+  },
+  {
+    "country": "AUS",
+    "state": "Victoria",
+    "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
+    "type": "paragraph",
+    "priority": 1,
+    "ssl": true,
+    "rating": 0.024390243902439025
   },
   {
     "state": "DC",

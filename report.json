@@ -1,116 +1,76 @@
 {
-  "date": "2020-3-20",
   "scrape": {
-    "numCountries": 159,
-    "numStates": 189,
-    "numCounties": 2212,
+    "numCountries": 162,
+    "numStates": 187,
+    "numCounties": 2725,
     "numCities": 0,
-    "numDuplicates": 137,
-    "numErrors": 1,
+    "numDuplicates": 94,
+    "numErrors": 3,
     "crosscheckReports": {
       "UT, USA": [
         {
-          "tested": 2147,
-          "cases": 112,
+          "tested": 2560,
+          "cases": 136,
           "state": "UT",
           "country": "USA",
-          "aggregate": "county",
           "url": "https://coronavirus-dashboard.utah.gov/",
-          "type": "table",
-          "active": 112,
-          "rating": 0.43902439024390244
-        },
-        {
-          "state": "UT",
-          "cases": 112,
-          "tested": 2147,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 112,
-          "rating": 0.36585365853658536,
+          "active": 136,
+          "rating": 0.43902439024390244,
           "coordinates": [
             -111.54443973955233,
             39.49994305252983
           ],
-          "featureId": 443,
+          "featureId": 2787,
           "population": 3205958
         },
         {
           "country": "USA",
           "state": "UT",
-          "cases": 78,
+          "cases": 136,
           "recovered": 0,
           "deaths": 0,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 78,
+          "active": 136,
           "rating": 0.4878048780487805
         }
       ],
       "TN, USA": [
         {
           "countyName": "(unassigned)",
-          "cases": 0,
+          "cases": 10,
           "state": "TN",
           "country": "USA",
           "url": "https://www.tn.gov/health/cedep/ncov.html",
-          "type": "table",
-          "aggregate": "county",
-          "active": 0,
-          "rating": 0.43902439024390244
-        },
-        {
-          "state": "TN",
-          "cases": 228,
-          "tested": 791,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 228,
-          "rating": 0.36585365853658536,
+          "active": 10,
+          "rating": 0.43902439024390244,
           "coordinates": [
             -85.98153690830165,
             35.837455259602535
           ],
-          "featureId": 441,
+          "featureId": 2469,
           "population": 6829174
         },
         {
           "country": "USA",
           "state": "TN",
-          "cases": 233,
+          "cases": 371,
           "recovered": 0,
-          "deaths": 0,
+          "deaths": 1,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 233,
+          "active": 370,
           "rating": 0.4878048780487805
         }
       ],
       "Yolo County, CA, USA": [
         {
           "county": "Yolo County",
-          "cases": 5,
+          "cases": 6,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -123,17 +83,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 5,
+          "active": 6,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.962515,
             38.619189
           ],
-          "featureId": 589,
+          "featureId": 559,
           "population": 220408
         },
         {
-          "cases": 5,
+          "cases": 6,
           "county": "Yolo County",
           "state": "CA",
           "country": "USA",
@@ -147,14 +107,14 @@
             }
           ],
           "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
-          "active": 5,
+          "active": 6,
           "rating": 0.2682926829268293
         }
       ],
       "Ventura County, CA, USA": [
         {
           "county": "Ventura County",
-          "cases": 17,
+          "cases": 19,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -167,17 +127,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 17,
+          "active": 19,
           "rating": 0.4634146341463415,
           "coordinates": [
             -119.1057185,
             34.058353
           ],
-          "featureId": 588,
+          "featureId": 558,
           "population": 850967
         },
         {
-          "cases": 19,
+          "cases": 26,
           "county": "Ventura County",
           "state": "CA",
           "country": "USA",
@@ -192,7 +152,7 @@
             }
           ],
           "url": "https://www.vcemergency.com",
-          "active": 19,
+          "active": 26,
           "rating": 0.12195121951219512
         }
       ],
@@ -218,7 +178,7 @@
             -120.937052,
             37.606097500000004
           ],
-          "featureId": 582,
+          "featureId": 552,
           "population": 549815
         },
         {
@@ -243,9 +203,8 @@
       "Sonoma County, CA, USA": [
         {
           "county": "Sonoma County",
-          "cases": 9,
-          "tested": 196,
-          "deaths": 0,
+          "cases": 21,
+          "deaths": 1,
           "state": "CA",
           "country": "USA",
           "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
@@ -257,13 +216,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 9,
+          "active": 20,
           "rating": 0.4634146341463415,
           "coordinates": [
             -122.946388,
             38.4810965
           ],
-          "featureId": 581,
+          "featureId": 551,
           "population": 499942
         },
         {
@@ -288,7 +247,7 @@
       "Solano County, CA, USA": [
         {
           "county": "Solano County",
-          "cases": 10,
+          "cases": 14,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -301,17 +260,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 10,
+          "active": 14,
           "rating": 0.4634146341463415,
           "coordinates": [
             -122.0001255,
             38.2871145
           ],
-          "featureId": 580,
+          "featureId": 550,
           "population": 446610
         },
         {
-          "cases": 13,
+          "cases": 14,
           "county": "Solano County",
           "state": "CA",
           "country": "USA",
@@ -325,7 +284,7 @@
             }
           ],
           "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
-          "active": 13,
+          "active": 14,
           "rating": 0.24390243902439024
         }
       ],
@@ -351,7 +310,7 @@
             -122.192699,
             40.7359105
           ],
-          "featureId": 577,
+          "featureId": 547,
           "population": 180040
         },
         {
@@ -377,7 +336,7 @@
       "Santa Cruz County, CA, USA": [
         {
           "county": "Santa Cruz County",
-          "cases": 14,
+          "cases": 15,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -390,13 +349,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 14,
+          "active": 15,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.94941800000001,
             37.0683515
           ],
-          "featureId": 576,
+          "featureId": 546,
           "population": 274255
         },
         {
@@ -418,55 +377,11 @@
           "rating": 0.24390243902439024
         }
       ],
-      "Santa Clara County, CA, USA": [
-        {
-          "county": "Santa Clara County",
-          "cases": 189,
-          "deaths": 6,
-          "state": "CA",
-          "country": "USA",
-          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
-          "curators": [
-            {
-              "name": "Harriet Rowan",
-              "email": "hattierowan@gmail.com",
-              "twitter": "@hattierowan",
-              "github": "HarrietRowan"
-            }
-          ],
-          "active": 183,
-          "rating": 0.4634146341463415,
-          "coordinates": [
-            -121.70515,
-            37.190824000000006
-          ],
-          "featureId": 575,
-          "population": 1937570
-        },
-        {
-          "cases": 196,
-          "deaths": 8,
-          "county": "Santa Clara County",
-          "state": "CA",
-          "country": "USA",
-          "maintainers": [
-            {
-              "name": "John Bencina",
-              "github": "jbencina",
-              "country": "USA",
-              "state": "CA",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
-          "active": 188,
-          "rating": 0.2682926829268293
-        }
-      ],
       "Santa Barbara County, CA, USA": [
         {
           "county": "Santa Barbara County",
-          "cases": 8,
+          "cases": 9,
+          "tested": 214,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -479,17 +394,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 8,
+          "active": 9,
           "rating": 0.4634146341463415,
           "coordinates": [
             -120.0556245,
             34.503122000000005
           ],
-          "featureId": 574,
+          "featureId": 544,
           "population": 446527
         },
         {
-          "cases": 9,
+          "cases": 13,
           "county": "Santa Barbara County",
           "state": "CA",
           "country": "USA",
@@ -504,14 +419,14 @@
           ],
           "url": "https://publichealthsbc.org",
           "type": "paragraph",
-          "active": 9,
+          "active": 13,
           "rating": 0.12195121951219512
         }
       ],
       "San Luis Obispo County, CA, USA": [
         {
           "county": "San Luis Obispo County",
-          "cases": 6,
+          "cases": 21,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -524,30 +439,30 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 6,
+          "active": 21,
           "rating": 0.4634146341463415,
           "coordinates": [
             -120.40954099999999,
             35.3481785
           ],
-          "featureId": 572,
+          "featureId": 542,
           "population": 284010
         },
         {
-          "cases": 16,
+          "cases": 0,
           "county": "San Luis Obispo County",
           "state": "CA",
           "country": "USA",
           "url": "https://www.emergencyslo.org/en/covid19.aspx",
           "type": "paragraph",
-          "active": 16,
+          "active": 0,
           "rating": 0.12195121951219512
         }
       ],
       "San Joaquin County, CA, USA": [
         {
           "county": "San Joaquin County",
-          "cases": 17,
+          "cases": 29,
           "deaths": 2,
           "state": "CA",
           "country": "USA",
@@ -560,17 +475,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 15,
+          "active": 27,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.2534915,
             37.891017500000004
           ],
-          "featureId": 571,
+          "featureId": 541,
           "population": 752660
         },
         {
-          "cases": 25,
+          "cases": 31,
           "deaths": 2,
           "county": "San Joaquin County",
           "state": "CA",
@@ -586,14 +501,14 @@
           ],
           "url": "http://www.sjcphs.org/coronavirus.aspx#res",
           "type": "table",
-          "active": 23,
+          "active": 29,
           "rating": 0.2682926829268293
         }
       ],
       "San Diego County, CA, USA": [
         {
           "county": "San Diego County",
-          "cases": 89,
+          "cases": 131,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -606,13 +521,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 89,
+          "active": 131,
           "rating": 0.4634146341463415,
           "coordinates": [
             -116.83848499999999,
             33.01959050000001
           ],
-          "featureId": 569,
+          "featureId": 539,
           "population": 3343364
         },
         {
@@ -638,7 +553,7 @@
       "San Bernardino County, CA, USA": [
         {
           "county": "San Bernardino County",
-          "cases": 5,
+          "cases": 10,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -651,17 +566,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 5,
+          "active": 10,
           "rating": 0.4634146341463415,
           "coordinates": [
             -115.96848299999999,
             34.840230000000005
           ],
-          "featureId": 568,
+          "featureId": 538,
           "population": 2171603
         },
         {
-          "cases": 9,
+          "cases": 10,
           "county": "San Bernardino County",
           "state": "CA",
           "country": "USA",
@@ -675,7 +590,7 @@
             }
           ],
           "url": "http://wp.sbcounty.gov/dph/coronavirus/",
-          "active": 9,
+          "active": 10,
           "rating": 0.24390243902439024
         }
       ],
@@ -684,7 +599,7 @@
           "county": "San Benito County",
           "cases": 5,
           "recovered": 2,
-          "deaths": 1,
+          "deaths": 2,
           "state": "CA",
           "country": "USA",
           "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
@@ -696,13 +611,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 2,
+          "active": 1,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.1202815,
             36.595779
           ],
-          "featureId": 567,
+          "featureId": 537,
           "population": 61537
         },
         {
@@ -726,56 +641,11 @@
           "rating": 0.2682926829268293
         }
       ],
-      "Sacramento County, CA, USA": [
-        {
-          "county": "Sacramento County",
-          "cases": 45,
-          "deaths": 3,
-          "state": "CA",
-          "country": "USA",
-          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
-          "curators": [
-            {
-              "name": "Harriet Rowan",
-              "email": "hattierowan@gmail.com",
-              "twitter": "@hattierowan",
-              "github": "HarrietRowan"
-            }
-          ],
-          "active": 42,
-          "rating": 0.4634146341463415,
-          "coordinates": [
-            -121.444773,
-            38.377659
-          ],
-          "featureId": 566,
-          "population": 1540975
-        },
-        {
-          "cases": 53,
-          "deaths": 3,
-          "county": "Sacramento County",
-          "state": "CA",
-          "country": "USA",
-          "maintainers": [
-            {
-              "name": "John Bencina",
-              "github": "jbencina",
-              "country": "USA",
-              "state": "CA",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
-          "active": 50,
-          "rating": 0.2682926829268293
-        }
-      ],
       "Riverside County, CA, USA": [
         {
           "county": "Riverside County",
-          "cases": 22,
-          "deaths": 3,
+          "cases": 28,
+          "deaths": 4,
           "state": "CA",
           "country": "USA",
           "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
@@ -787,17 +657,17 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 19,
+          "active": 24,
           "rating": 0.4634146341463415,
           "coordinates": [
             -116.05561750000001,
             33.752829500000004
           ],
-          "featureId": 565,
+          "featureId": 535,
           "population": 2450758
         },
         {
-          "cases": 28,
+          "cases": 30,
           "county": "Riverside County",
           "state": "CA",
           "country": "USA",
@@ -811,15 +681,15 @@
             }
           ],
           "url": "https://www.rivcoph.org/coronavirus",
-          "active": 28,
+          "active": 30,
           "rating": 0.2682926829268293
         }
       ],
       "Orange County, CA, USA": [
         {
           "county": "Orange County",
-          "cases": 53,
-          "tested": 589,
+          "cases": 78,
+          "tested": 1244,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -832,13 +702,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 53,
+          "active": 78,
           "rating": 0.4634146341463415,
           "coordinates": [
             -117.76484500000001,
             33.66652
           ],
-          "featureId": 562,
+          "featureId": 532,
           "population": 3185968
         },
         {
@@ -864,7 +734,8 @@
       "Monterey County, CA, USA": [
         {
           "county": "Monterey County",
-          "cases": 2,
+          "cases": 7,
+          "tested": 202,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -877,31 +748,31 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 2,
+          "active": 7,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.0962855,
             36.351338
           ],
-          "featureId": 559,
+          "featureId": 529,
           "population": 435594
         },
         {
-          "cases": 5,
+          "cases": 7,
           "county": "Monterey County",
           "state": "CA",
           "country": "USA",
           "url": "https://www.co.monterey.ca.us/government/departments-a-h/administrative-office/office-of-emergency-services/response/covid-19",
           "type": "table",
-          "active": 5,
+          "active": 7,
           "rating": 0.2926829268292683
         }
       ],
       "Mono County, CA, USA": [
         {
           "county": "Mono County",
-          "cases": 0,
-          "tested": 32,
+          "cases": 1,
+          "tested": 36,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -914,18 +785,18 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 0,
+          "active": 1,
           "rating": 0.4634146341463415,
           "coordinates": [
             -118.73838749999999,
             38.088132
           ],
-          "featureId": 558,
+          "featureId": 528,
           "population": 14250
         },
         {
           "cases": 0,
-          "tested": 36,
+          "tested": 0,
           "county": "Mono County",
           "state": "CA",
           "country": "USA",
@@ -966,7 +837,7 @@
             -120.649022,
             37.1868725
           ],
-          "featureId": 556,
+          "featureId": 526,
           "population": 274765
         },
         {
@@ -1012,7 +883,7 @@
             -123.422765,
             39.380249
           ],
-          "featureId": 555,
+          "featureId": 525,
           "population": 87606
         },
         {
@@ -1037,7 +908,8 @@
       "Marin County, CA, USA": [
         {
           "county": "Marin County",
-          "cases": 25,
+          "cases": 38,
+          "tested": 357,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1050,13 +922,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 25,
+          "active": 38,
           "rating": 0.4634146341463415,
           "coordinates": [
             -122.731167,
             38.071675
           ],
-          "featureId": 553,
+          "featureId": 523,
           "population": 259666
         },
         {
@@ -1081,7 +953,8 @@
       "Madera County, CA, USA": [
         {
           "county": "Madera County",
-          "cases": 3,
+          "cases": 2,
+          "recovered": 1,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1094,13 +967,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 3,
+          "active": 1,
           "rating": 0.4634146341463415,
           "coordinates": [
             -119.7828125,
             37.273546499999995
           ],
-          "featureId": 552,
+          "featureId": 522,
           "population": 157672
         },
         {
@@ -1125,7 +998,7 @@
       "Los Angeles County, CA, USA": [
         {
           "county": "Los Angeles County",
-          "cases": 231,
+          "cases": 292,
           "deaths": 2,
           "state": "CA",
           "country": "USA",
@@ -1138,18 +1011,18 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 229,
+          "active": 290,
           "rating": 0.4634146341463415,
           "coordinates": [
             -118.29563049999999,
             33.8115605
           ],
-          "featureId": 551,
+          "featureId": 521,
           "population": 10105518
         },
         {
-          "cases": 292,
-          "deaths": 2,
+          "cases": 351,
+          "deaths": 4,
           "county": "Los Angeles County",
           "state": "CA",
           "country": "USA",
@@ -1163,7 +1036,7 @@
             }
           ],
           "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
-          "active": 290,
+          "active": 347,
           "rating": 0.24390243902439024
         }
       ],
@@ -1171,7 +1044,7 @@
         {
           "county": "Kings County",
           "cases": 0,
-          "tested": 66,
+          "tested": 67,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1190,7 +1063,7 @@
             -119.8948375,
             36.139044999999996
           ],
-          "featureId": 548,
+          "featureId": 518,
           "population": 151366
         },
         {
@@ -1215,7 +1088,7 @@
       "Kern County, CA, USA": [
         {
           "county": "Kern County",
-          "cases": 3,
+          "cases": 4,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1228,24 +1101,24 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 3,
+          "active": 4,
           "rating": 0.4634146341463415,
           "coordinates": [
             -118.9051705,
             35.294389
           ],
-          "featureId": 547,
+          "featureId": 517,
           "population": 896764
         },
         {
-          "cases": 4,
-          "tested": 360,
+          "cases": 5,
+          "tested": 387,
           "county": "Kern County",
           "state": "CA",
           "country": "USA",
           "url": " https://kernpublichealth.com/2019-novel-coronavirus/",
           "type": "table",
-          "active": 4,
+          "active": 5,
           "rating": 0.2682926829268293
         }
       ],
@@ -1289,7 +1162,7 @@
             -122.405772,
             39.5913755
           ],
-          "featureId": 543,
+          "featureId": 513,
           "population": 28047
         }
       ],
@@ -1315,7 +1188,7 @@
         },
         {
           "county": "Fresno County",
-          "cases": 3,
+          "cases": 6,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1328,13 +1201,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 3,
+          "active": 6,
           "rating": 0.4634146341463415,
           "coordinates": [
             -119.6396585,
             36.7464615
           ],
-          "featureId": 542,
+          "featureId": 512,
           "population": 994400
         }
       ],
@@ -1361,7 +1234,7 @@
         {
           "county": "Del Norte County",
           "cases": 0,
-          "tested": 26,
+          "tested": 28,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1380,13 +1253,13 @@
             -123.88695,
             41.6909115
           ],
-          "featureId": 540,
+          "featureId": 510,
           "population": 27828
         }
       ],
       "Contra Costa County, CA, USA": [
         {
-          "cases": 46,
+          "cases": 51,
           "deaths": 0,
           "county": "Contra Costa County",
           "state": "CA",
@@ -1401,12 +1274,12 @@
               "flag": "🇺🇸"
             }
           ],
-          "active": 46,
+          "active": 51,
           "rating": 0.2682926829268293
         },
         {
           "county": "Contra Costa County",
-          "cases": 42,
+          "cases": 51,
           "deaths": 1,
           "state": "CA",
           "country": "USA",
@@ -1419,13 +1292,13 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 41,
+          "active": 50,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.983341,
             37.9092535
           ],
-          "featureId": 539,
+          "featureId": 509,
           "population": 1150215
         }
       ],
@@ -1469,7 +1342,7 @@
             -122.2913685,
             39.169222000000005
           ],
-          "featureId": 538,
+          "featureId": 508,
           "population": 21627
         }
       ],
@@ -1513,13 +1386,13 @@
             -120.507724,
             38.170645500000006
           ],
-          "featureId": 537,
+          "featureId": 507,
           "population": 45602
         }
       ],
       "Butte County, CA, USA": [
         {
-          "cases": 0,
+          "cases": 1,
           "county": "Butte County",
           "state": "CA",
           "country": "USA",
@@ -1533,7 +1406,7 @@
               "flag": "🇺🇸"
             }
           ],
-          "active": 0,
+          "active": 1,
           "rating": 0.2682926829268293
         },
         {
@@ -1557,13 +1430,13 @@
             -121.57306299999999,
             39.723763
           ],
-          "featureId": 536,
+          "featureId": 506,
           "population": 231256
         }
       ],
       "Alameda County, CA, USA": [
         {
-          "cases": 45,
+          "cases": 65,
           "county": "Alameda County",
           "state": "CA",
           "country": "USA",
@@ -1579,12 +1452,12 @@
               "flag": "🇺🇸"
             }
           ],
-          "active": 45,
+          "active": 65,
           "rating": 0.04878048780487805
         },
         {
           "county": "Alameda County",
-          "cases": 38,
+          "cases": 70,
           "deaths": 0,
           "state": "CA",
           "country": "USA",
@@ -1597,47 +1470,247 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 38,
+          "active": 70,
           "rating": 0.4634146341463415,
           "coordinates": [
             -121.9024445,
             37.6801065
           ],
-          "featureId": 533,
+          "featureId": 503,
           "population": 1666753
+        }
+      ],
+      "Victoria, AUS": [
+        {
+          "state": "Victoria",
+          "cases": 229,
+          "country": "AUS",
+          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+          "active": 229,
+          "rating": 0.34146341463414637,
+          "coordinates": [
+            145.4695804428331,
+            -36.537788791607284
+          ],
+          "featureId": 219,
+          "population": 6594804
+        },
+        {
+          "state": "Victoria",
+          "cases": 296,
+          "country": "AUS",
+          "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
+          "type": "paragraph",
+          "priority": 1,
+          "active": 296,
+          "rating": 0.024390243902439025
+        },
+        {
+          "country": "AUS",
+          "cases": 229,
+          "recovered": 8,
+          "deaths": 0,
+          "coordinates": [
+            144.9631,
+            -37.8136
+          ],
+          "state": "Victoria",
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 221,
+          "rating": 0.4878048780487805
+        }
+      ],
+      "Australian Capital Territory, AUS": [
+        {
+          "state": "Australian Capital Territory",
+          "cases": 9,
+          "country": "AUS",
+          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+          "active": 9,
+          "rating": 0.34146341463414637,
+          "coordinates": [
+            149.06023522322693,
+            -35.53036325446061
+          ],
+          "featureId": 213,
+          "population": 426709
+        },
+        {
+          "state": "Australian Capital Territory",
+          "cases": 19,
+          "country": "AUS",
+          "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
+          "type": "table",
+          "priority": 1,
+          "active": 19,
+          "rating": 0.1951219512195122
+        },
+        {
+          "country": "AUS",
+          "cases": 9,
+          "recovered": 0,
+          "deaths": 0,
+          "coordinates": [
+            149.0124,
+            -35.4735
+          ],
+          "state": "Australian Capital Territory",
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 9,
+          "rating": 0.4878048780487805
+        }
+      ],
+      "Guadeloupe, FRA": [
+        {
+          "country": "FRA",
+          "cases": 53,
+          "recovered": 0,
+          "deaths": 0,
+          "coordinates": [
+            -61.5833,
+            16.25
+          ],
+          "state": "Guadeloupe",
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 53,
+          "rating": 0.4878048780487805
+        },
+        {
+          "state": "Guadeloupe",
+          "cases": 56,
+          "deaths": 0,
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "country": "FRA",
+          "active": 56,
+          "rating": 0.5365853658536586,
+          "coordinates": [
+            -61.49286861849993,
+            16.196804103500057
+          ],
+          "featureId": 249
+        }
+      ],
+      "Mayotte, FRA": [
+        {
+          "country": "FRA",
+          "cases": 7,
+          "recovered": 0,
+          "deaths": 0,
+          "coordinates": [
+            45.1662,
+            -12.8275
+          ],
+          "state": "Mayotte",
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 7,
+          "rating": 0.4878048780487805
+        },
+        {
+          "state": "Mayotte",
+          "cases": 11,
+          "deaths": 0,
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "country": "FRA",
+          "active": 11,
+          "rating": 0.5365853658536586,
+          "coordinates": [
+            45.150157097500085,
+            -12.856052341999913
+          ],
+          "featureId": 252
+        }
+      ],
+      "AL, USA": [
+        {
+          "country": "USA",
+          "state": "AL",
+          "cases": 131,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 131,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 131,
+          "state": "AL",
+          "country": "USA",
+          "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+          "active": 131,
+          "rating": 0.4146341463414634,
+          "coordinates": [
+            -86.69343876373793,
+            32.6211173120505
+          ],
+          "featureId": 486,
+          "population": 4903185
+        }
+      ],
+      "FRA": [
+        {
+          "country": "FRA",
+          "cases": 14282,
+          "recovered": 12,
+          "deaths": 562,
+          "coordinates": [
+            2.2137,
+            46.2276
+          ],
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 13708,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 14459,
+          "country": "FRA",
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "active": 14459,
+          "rating": 0.5365853658536586,
+          "coordinates": [
+            -2.9882706369999426,
+            14.862000781359463
+          ],
+          "featureId": 256,
+          "population": 67106161
         }
       ],
       "WY, USA": [
         {
-          "state": "WY",
-          "cases": 19,
-          "tested": 350,
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 19,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -107.55199589229656,
-            42.999967466625236
-          ],
-          "featureId": 449,
-          "population": 578759
+          "state": "WY",
+          "cases": 23,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 23,
+          "rating": 0.4878048780487805
         },
         {
-          "cases": 22,
+          "cases": 24,
           "state": "WY",
           "country": "USA",
-          "aggregate": "county",
           "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/",
-          "type": "paragraph",
           "maintainers": [
             {
               "name": "Larry Davis",
@@ -1651,659 +1724,268 @@
               "flag": "🇺🇸"
             }
           ],
-          "active": 22,
-          "rating": 0.2682926829268293
-        },
+          "active": 24,
+          "rating": 0.2682926829268293,
+          "coordinates": [
+            -107.55199589229656,
+            42.999967466625236
+          ],
+          "featureId": 3009,
+          "population": 578759
+        }
+      ],
+      "WV, USA": [
         {
           "country": "USA",
-          "state": "WY",
-          "cases": 19,
+          "state": "WV",
+          "cases": 8,
           "recovered": 0,
           "deaths": 0,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 19,
+          "active": 8,
           "rating": 0.4878048780487805
-        }
-      ],
-      "WI, USA": [
+        },
         {
-          "state": "WI",
-          "cases": 206,
-          "tested": 3661,
-          "deaths": 3,
+          "cases": 12,
+          "state": "WV",
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 203,
-          "rating": 0.36585365853658536,
+          "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+          "active": 12,
+          "rating": 0.4146341463414634,
           "coordinates": [
-            -89.56690985655462,
-            44.89991863863423
+            -80.1829407161911,
+            38.92806805344787
           ],
-          "featureId": 447,
-          "population": 5822434
-        },
-        {
-          "tested": 3661,
-          "cases": 206,
-          "state": "WI",
-          "country": "USA",
-          "aggregate": "county",
-          "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
-          "type": "json",
-          "active": 206,
-          "rating": 0.4634146341463415
-        },
-        {
-          "country": "USA",
-          "state": "WI",
-          "cases": 207,
-          "recovered": 0,
-          "deaths": 3,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 204,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "WA, USA": [
-        {
-          "state": "WA",
-          "cases": 1376,
-          "tested": 20712,
-          "deaths": 74,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 1302,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -120.80671709265283,
-            47.27941361449236
-          ],
-          "featureId": 446,
-          "population": 7614893
-        },
-        {
-          "cases": 1522,
-          "deaths": 82,
-          "state": "WA",
-          "country": "USA",
-          "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-          "type": "table",
-          "headless": true,
-          "aggregate": "county",
-          "active": 1440,
-          "rating": 0.3902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "WA",
-          "cases": 1524,
-          "recovered": 0,
-          "deaths": 83,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 1441,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "TX, USA": [
-        {
-          "state": "TX",
-          "cases": 194,
-          "tested": 5277,
-          "deaths": 5,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 189,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -100.0884705015624,
-            31.177528238191037
-          ],
-          "featureId": 442,
-          "population": 28995881
-        },
-        {
-          "cases": 175,
-          "state": "TX",
-          "country": "USA",
-          "url": "https://www.dshs.state.tx.us/news/updates.shtm",
-          "type": "table",
-          "aggregate": "county",
-          "certValidation": false,
-          "active": 175,
-          "rating": 0.4146341463414634
-        },
-        {
-          "country": "USA",
-          "state": "TX",
-          "cases": 394,
-          "recovered": 0,
-          "deaths": 5,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 389,
-          "rating": 0.4878048780487805
+          "featureId": 2985,
+          "population": 1792147
         }
       ],
       "SD, USA": [
         {
+          "country": "USA",
           "state": "SD",
           "cases": 14,
-          "tested": 947,
+          "recovered": 0,
           "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
           "active": 13,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -100.2551086848679,
-            44.230179869105655
-          ],
-          "featureId": 440,
-          "population": 884659
+          "rating": 0.4878048780487805
         },
         {
           "cases": 14,
           "state": "SD",
           "country": "USA",
           "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-          "type": "table",
-          "aggregate": "county",
           "active": 14,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "SD",
-          "cases": 14,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 13,
-          "rating": 0.4878048780487805
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -100.2551086848679,
+            44.230179869105655
+          ],
+          "featureId": 2377,
+          "population": 884659
         }
       ],
-      "PA, USA": [
-        {
-          "state": "PA",
-          "cases": 268,
-          "tested": 2842,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 267,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -77.60961308037935,
-            41.12951166463159
-          ],
-          "featureId": 437,
-          "population": 12801989
-        },
-        {
-          "cases": 268,
-          "deaths": 1,
-          "tested": 2574,
-          "state": "PA",
-          "country": "USA",
-          "aggregate": "county",
-          "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
-          "type": "table",
-          "active": 267,
-          "rating": 0.43902439024390244
-        },
+      "MT, USA": [
         {
           "country": "USA",
-          "state": "PA",
-          "cases": 303,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 302,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "OR, USA": [
-        {
-          "state": "OR",
-          "cases": 114,
-          "tested": 2550,
-          "deaths": 3,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 111,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -120.50533834262885,
-            44.11740471870206
-          ],
-          "featureId": 436,
-          "population": 4217737
-        },
-        {
-          "cases": 114,
-          "deaths": 3,
-          "state": "OR",
-          "country": "USA",
-          "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-          "type": "table",
-          "aggregate": "county",
-          "active": 111,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "OR",
-          "cases": 114,
-          "recovered": 0,
-          "deaths": 3,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 111,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "OK, USA": [
-        {
-          "state": "OK",
-          "cases": 49,
-          "tested": 961,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 48,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -98.71994022800911,
-            35.32361248602737
-          ],
-          "featureId": 435,
-          "population": 3956971
-        },
-        {
-          "cases": 49,
-          "state": "OK",
-          "country": "USA",
-          "type": "table",
-          "aggregate": "county",
-          "url": "https://coronavirus.health.ok.gov/",
-          "source": {
-            "name": "Oklahoma State Deparment of Health"
-          },
-          "maintainers": [
-            {
-              "name": "Paul Boal",
-              "email": "paul.boal@amitechsolutions.com",
-              "url": "https://amitechsolutions.com",
-              "github": "paulboal",
-              "country": "USA",
-              "flag": "🇺🇸"
-            }
-          ],
-          "active": 49,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "OK",
-          "cases": 49,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 48,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "OH, USA": [
-        {
-          "state": "OH",
-          "cases": 169,
-          "tested": 309,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 168,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -82.67188114679749,
-            40.36645852284252
-          ],
-          "featureId": 434,
-          "population": 11689100
-        },
-        {
-          "cases": 169,
-          "state": "OH",
-          "country": "USA",
-          "aggregate": "county",
-          "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-          "active": 169,
-          "rating": 0.4146341463414634
-        },
-        {
-          "country": "USA",
-          "state": "OH",
-          "cases": 173,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 171,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "NY, USA": [
-        {
-          "state": "NY",
-          "cases": 7102,
-          "tested": 32427,
-          "deaths": 35,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 7067,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -75.8409706677239,
-            42.76080525150005
-          ],
-          "featureId": 433,
-          "population": 19453561
-        },
-        {
-          "cases": 14204,
-          "state": "NY",
-          "country": "USA",
-          "type": "table",
-          "aggregate": "county",
-          "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
-          "active": 14204,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "NY",
-          "cases": 8310,
-          "recovered": 0,
-          "deaths": 42,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 8268,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "NJ, USA": [
-        {
-          "state": "NJ",
-          "cases": 890,
-          "tested": 1240,
-          "deaths": 11,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 879,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -74.71937008349994,
-            40.14601558652788
-          ],
-          "featureId": 430,
-          "population": 8882190
-        },
-        {
-          "cases": 634,
-          "country": "USA",
-          "state": "NJ",
-          "aggregate": "county",
-          "url": "https://opendata.arcgis.com/datasets/84737ef7f760486293b6afa536f028e0_0.csv",
-          "active": 634,
-          "rating": 0.4634146341463415
-        },
-        {
-          "country": "USA",
-          "state": "NJ",
-          "cases": 890,
-          "recovered": 0,
-          "deaths": 11,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 879,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "NC, USA": [
-        {
-          "state": "NC",
-          "cases": 137,
-          "tested": 3233,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 137,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -80.02322978144363,
-            35.24607653682786
-          ],
-          "featureId": 426,
-          "population": 10488084
-        },
-        {
-          "cases": 137,
-          "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-          "country": "USA",
-          "state": "NC",
-          "aggregate": "county",
-          "active": 137,
-          "rating": 0.4634146341463415
-        },
-        {
-          "country": "USA",
-          "state": "NC",
-          "cases": 172,
+          "state": "MT",
+          "cases": 21,
           "recovered": 0,
           "deaths": 0,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 172,
+          "active": 21,
           "rating": 0.4878048780487805
+        },
+        {
+          "cases": 27,
+          "state": "MT",
+          "country": "USA",
+          "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true",
+          "active": 27,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -110.04412235741086,
+            46.70905513463874
+          ],
+          "featureId": 1868,
+          "population": 1068778
         }
       ],
       "MS, USA": [
         {
-          "state": "MS",
-          "cases": 80,
-          "tested": 775,
-          "deaths": 1,
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 79,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -89.87338261081882,
-            32.59642655665229
-          ],
-          "featureId": 424,
-          "population": 2976149
+          "state": "MS",
+          "cases": 140,
+          "recovered": 0,
+          "deaths": 1,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 139,
+          "rating": 0.4878048780487805
         },
         {
           "cases": 2,
           "state": "MS",
           "country": "USA",
           "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-          "type": "table",
-          "aggregate": "county",
           "active": 2,
-          "rating": 0.43902439024390244
-        },
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -89.87338261081882,
+            32.59642655665229
+          ],
+          "featureId": 1811,
+          "population": 2976149
+        }
+      ],
+      "MI, USA": [
         {
           "country": "USA",
-          "state": "MS",
-          "cases": 80,
+          "state": "MI",
+          "cases": 788,
           "recovered": 0,
-          "deaths": 1,
+          "deaths": 5,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 79,
+          "active": 783,
           "rating": 0.4878048780487805
+        },
+        {
+          "cases": 787,
+          "deaths": 5,
+          "state": "MI",
+          "country": "USA",
+          "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+          "active": 782,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -86.2800539156174,
+            44.99773029893432
+          ],
+          "featureId": 1525,
+          "population": 9986857
+        }
+      ],
+      "ME, USA": [
+        {
+          "country": "USA",
+          "state": "ME",
+          "cases": 70,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 70,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 70,
+          "recovered": 3,
+          "state": "ME",
+          "country": "USA",
+          "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
+          "active": 67,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -69.03113847999994,
+            45.261826073000044
+          ],
+          "featureId": 1441,
+          "population": 1344212
+        }
+      ],
+      "ID, USA": [
+        {
+          "country": "USA",
+          "state": "ID",
+          "cases": 36,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 36,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 42,
+          "state": "ID",
+          "country": "USA",
+          "url": "https://coronavirus.idaho.gov",
+          "active": 42,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -114.12702030654191,
+            45.49602738420207
+          ],
+          "featureId": 1003,
+          "population": 1787065
+        }
+      ],
+      "DE, USA": [
+        {
+          "country": "USA",
+          "state": "DE",
+          "cases": 45,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 45,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 45,
+          "state": "DE",
+          "country": "USA",
+          "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
+          "active": 45,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -75.41630955251765,
+            39.14564123795276
+          ],
+          "featureId": 631,
+          "population": 973764
         }
       ],
       "MO, USA": [
         {
-          "state": "MO",
-          "cases": 47,
-          "tested": 416,
-          "deaths": 1,
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 46,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -92.44567264977294,
-            38.30249432230511
-          ],
-          "featureId": 423,
-          "population": 6137428
+          "state": "MO",
+          "cases": 74,
+          "recovered": 0,
+          "deaths": 3,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 71,
+          "rating": 0.4878048780487805
         },
         {
-          "cases": 69,
+          "cases": 128,
           "state": "MO",
           "country": "USA",
-          "type": "table",
-          "aggregate": "county",
           "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
           "source": {
             "name": "Missouri Department of Health and Senior Services"
@@ -2318,594 +2000,713 @@
               "flag": "🇺🇸"
             }
           ],
-          "active": 69,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "MO",
-          "cases": 53,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 51,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "MD, USA": [
-        {
-          "state": "MD",
-          "cases": 149,
-          "tested": 243,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 148,
-          "rating": 0.36585365853658536,
+          "active": 128,
+          "rating": 0.43902439024390244,
           "coordinates": [
-            -77.28591288692019,
-            38.84687414823583
+            -92.44567264977294,
+            38.30249432230511
           ],
-          "featureId": 419,
-          "population": 6045680
-        },
-        {
-          "cases": 149,
-          "state": "MD",
-          "country": "USA",
-          "aggregate": "county",
-          "type": "csv",
-          "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
-          "active": 149,
-          "rating": 0.4634146341463415
-        },
-        {
-          "country": "USA",
-          "state": "MD",
-          "cases": 149,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 148,
-          "rating": 0.4878048780487805
+          "featureId": 1629,
+          "population": 6137428
         }
       ],
       "LA, USA": [
         {
-          "state": "LA",
-          "cases": 479,
-          "tested": 1047,
-          "deaths": 12,
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 467,
-          "rating": 0.36585365853658536,
+          "state": "LA",
+          "cases": 585,
+          "recovered": 0,
+          "deaths": 16,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 569,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 763,
+          "deaths": 20,
+          "state": "LA",
+          "country": "USA",
+          "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
+          "active": 743,
+          "rating": 0.4634146341463415,
           "coordinates": [
             -91.53320699521313,
             31.022399050426287
           ],
-          "featureId": 417,
+          "featureId": 1385,
           "population": 4648794
-        },
-        {
-          "cases": 537,
-          "deaths": 14,
-          "state": "LA",
-          "country": "USA",
-          "aggregate": "county",
-          "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
-          "type": "json",
-          "active": 523,
-          "rating": 0.4634146341463415
-        },
-        {
-          "country": "USA",
-          "state": "LA",
-          "cases": 538,
-          "recovered": 0,
-          "deaths": 14,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 524,
-          "rating": 0.4878048780487805
         }
       ],
-      "IN, USA": [
-        {
-          "state": "IN",
-          "cases": 79,
-          "tested": 554,
-          "deaths": 2,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "type": "json",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "priority": 1,
-          "active": 77,
-          "rating": 0.36585365853658536
-        },
-        {
-          "cases": 79,
-          "deaths": 3,
-          "country": "USA",
-          "state": "IN",
-          "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-          "active": 76,
-          "rating": 0.4634146341463415,
-          "coordinates": [
-            -86.41467899783746,
-            39.774149595877134
-          ],
-          "featureId": 1187,
-          "population": 6732219
-        },
+      "OK, USA": [
         {
           "country": "USA",
-          "state": "IN",
-          "cases": 86,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 84,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "IL, USA": [
-        {
-          "state": "IL",
-          "cases": 590,
-          "tested": 4286,
-          "deaths": 5,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 585,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -89.26887859227318,
-            39.74570721281759
-          ],
-          "featureId": 414,
-          "population": 12671821
-        },
-        {
-          "cases": 105,
-          "state": "IL",
-          "country": "USA",
-          "priority": 1,
-          "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
-          "active": 105,
-          "rating": 0.1951219512195122
-        },
-        {
-          "country": "USA",
-          "state": "IL",
-          "cases": 585,
-          "recovered": 0,
-          "deaths": 5,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 580,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "IA, USA": [
-        {
-          "state": "IA",
-          "cases": 45,
-          "tested": 687,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 45,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -93.38911747419203,
-            41.94023846253498
-          ],
-          "featureId": 412,
-          "population": 3155070
-        },
-        {
-          "cases": 45,
-          "state": "IA",
-          "country": "USA",
-          "aggregate": "county",
-          "headless": true,
-          "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
-          "type": "csv",
-          "active": 45,
-          "rating": 0.4146341463414634
-        },
-        {
-          "country": "USA",
-          "state": "IA",
-          "cases": 45,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 45,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "GA, USA": [
-        {
-          "state": "GA",
-          "cases": 420,
-          "tested": 2386,
-          "deaths": 13,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 407,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -83.22068258120515,
-            32.68249920507424
-          ],
-          "featureId": 410,
-          "population": 10617423
-        },
-        {
-          "cases": 485,
-          "state": "GA",
-          "country": "USA",
-          "url": "https://dph.georgia.gov/covid-19-daily-status-report",
-          "type": "table",
-          "active": 485,
-          "rating": 0.1951219512195122
-        },
-        {
-          "country": "USA",
-          "state": "GA",
-          "cases": 420,
-          "recovered": 0,
-          "deaths": 13,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 407,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "FL, USA": [
-        {
-          "state": "FL",
-          "cases": 520,
-          "tested": 3416,
-          "deaths": 10,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "type": "json",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "priority": 1,
-          "active": 510,
-          "rating": 0.36585365853658536
-        },
-        {
-          "tested": 7367,
-          "cases": 563,
-          "deaths": 11,
-          "state": "FL",
-          "country": "USA",
-          "url": "https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile",
-          "active": 552,
-          "rating": 0.4634146341463415,
-          "coordinates": [
-            -83.82965067998012,
-            28.060753542550117
-          ],
-          "featureId": 734,
-          "population": 21477737
-        },
-        {
-          "country": "USA",
-          "state": "FL",
-          "cases": 563,
-          "recovered": 0,
-          "deaths": 10,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 553,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "DE, USA": [
-        {
-          "state": "DE",
-          "cases": 38,
-          "tested": 74,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 38,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -75.41630955251765,
-            39.14564123795276
-          ],
-          "featureId": 409,
-          "population": 973764
-        },
-        {
-          "cases": 39,
-          "state": "DE",
-          "country": "USA",
-          "aggregate": "county",
-          "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
-          "type": "csv",
-          "active": 39,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "DE",
-          "cases": 38,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 38,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "DC, USA": [
-        {
-          "state": "DC",
-          "cases": 71,
-          "tested": 573,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 70,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -77.0145477695639,
-            38.899451555326564
-          ],
-          "featureId": 408,
-          "population": 705749
-        },
-        {
-          "cases": 77,
-          "tested": 0,
-          "state": "DC",
-          "country": "USA",
-          "url": "https://coronavirus.dc.gov/page/coronavirus-data",
-          "type": "paragraph",
-          "active": 77,
-          "rating": 0.024390243902439025
-        },
-        {
-          "country": "USA",
-          "state": "DC",
-          "cases": 71,
+          "state": "OK",
+          "cases": 53,
           "recovered": 0,
           "deaths": 1,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 70,
+          "active": 52,
           "rating": 0.4878048780487805
-        }
-      ],
-      "CT, USA": [
+        },
         {
-          "state": "CT",
-          "cases": 194,
-          "tested": 798,
-          "deaths": 3,
+          "cases": 53,
+          "state": "OK",
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
+          "url": "https://coronavirus.health.ok.gov/",
+          "source": {
+            "name": "Oklahoma State Deparment of Health"
+          },
+          "maintainers": [
             {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
+              "name": "Paul Boal",
+              "email": "paul.boal@amitechsolutions.com",
+              "url": "https://amitechsolutions.com",
+              "github": "paulboal",
+              "country": "USA",
+              "flag": "🇺🇸"
             }
           ],
-          "active": 191,
-          "rating": 0.36585365853658536,
+          "active": 53,
+          "rating": 0.43902439024390244,
           "coordinates": [
-            -72.75935673202756,
-            41.52780529315321
+            -98.71994022800911,
+            35.32361248602737
           ],
-          "featureId": 407,
-          "population": 3565287
-        },
-        {
-          "cases": 194,
-          "state": "CT",
-          "country": "USA",
-          "url": "https://portal.ct.gov/Coronavirus",
-          "type": "table",
-          "aggregate": "county",
-          "active": 194,
-          "rating": 0.43902439024390244
-        },
-        {
-          "country": "USA",
-          "state": "CT",
-          "cases": 194,
-          "recovered": 0,
-          "deaths": 3,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 191,
-          "rating": 0.4878048780487805
+          "featureId": 2154,
+          "population": 3956971
         }
       ],
-      "CO, USA": [
-        {
-          "state": "CO",
-          "cases": 277,
-          "tested": 2952,
-          "deaths": 3,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "type": "json",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "priority": 1,
-          "active": 274,
-          "rating": 0.36585365853658536
-        },
-        {
-          "cases": 343,
-          "population": "5695430",
-          "state": "CO",
-          "country": "USA",
-          "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
-          "active": 343,
-          "rating": 0.4634146341463415,
-          "coordinates": [
-            -105.54309696705135,
-            38.99982098225249
-          ],
-          "featureId": 656
-        },
+      "WI, USA": [
         {
           "country": "USA",
-          "state": "CO",
-          "cases": 363,
+          "state": "WI",
+          "cases": 282,
           "recovered": 0,
           "deaths": 4,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 359,
+          "active": 278,
           "rating": 0.4878048780487805
+        },
+        {
+          "tested": 4909,
+          "cases": 281,
+          "state": "WI",
+          "country": "USA",
+          "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
+          "active": 281,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -89.56690985655462,
+            44.89991863863423
+          ],
+          "featureId": 2886,
+          "population": 5822434
+        }
+      ],
+      "OH, USA": [
+        {
+          "country": "USA",
+          "state": "OH",
+          "cases": 248,
+          "recovered": 0,
+          "deaths": 3,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 245,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 247,
+          "state": "OH",
+          "country": "USA",
+          "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
+          "active": 247,
+          "rating": 0.4146341463414634,
+          "coordinates": [
+            -82.67188114679749,
+            40.36645852284252
+          ],
+          "featureId": 2084,
+          "population": 11689100
+        }
+      ],
+      "MN, USA": [
+        {
+          "country": "USA",
+          "state": "MN",
+          "cases": 138,
+          "recovered": 0,
+          "deaths": 1,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 137,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 136,
+          "state": "MN",
+          "country": "USA",
+          "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+          "active": 136,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -93.36252550514794,
+            46.434810139826055
+          ],
+          "featureId": 1613,
+          "population": 5639632
+        }
+      ],
+      "DC, USA": [
+        {
+          "country": "USA",
+          "state": "DC",
+          "cases": 77,
+          "recovered": 0,
+          "deaths": 1,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 76,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 98,
+          "tested": 1055,
+          "state": "DC",
+          "country": "USA",
+          "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+          "active": 98,
+          "rating": 0.024390243902439025,
+          "coordinates": [
+            -77.0145477695639,
+            38.899451555326564
+          ],
+          "featureId": 627,
+          "population": 705749
+        }
+      ],
+      "KY, USA": [
+        {
+          "country": "USA",
+          "state": "KY",
+          "cases": 87,
+          "recovered": 0,
+          "deaths": 3,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 84,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 77,
+          "deaths": 3,
+          "recovered": 2,
+          "country": "USA",
+          "state": "KY",
+          "url": "https://datawrapper.dwcdn.net/BbowM/23/",
+          "source": {
+            "name": "Kentucky Cabinet for Health and Family Services",
+            "url": "https://www.kentucky.com/news/coronavirus/article241309406.html"
+          },
+          "maintainers": [
+            {
+              "name": "Jordan Holt",
+              "email": "jordholt@gmail.com",
+              "github": "DatJord",
+              "country": "USA",
+              "flag": "🇺🇸"
+            }
+          ],
+          "active": 72,
+          "rating": 0.4146341463414634,
+          "coordinates": [
+            -85.69484257237679,
+            37.820719419565535
+          ],
+          "featureId": 1320,
+          "population": 4467673
+        }
+      ],
+      "IN, USA": [
+        {
+          "country": "USA",
+          "state": "IN",
+          "cases": 128,
+          "recovered": 0,
+          "deaths": 4,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 124,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 126,
+          "deaths": 4,
+          "country": "USA",
+          "state": "IN",
+          "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+          "active": 122,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -86.41467899783746,
+            39.774149595877134
+          ],
+          "featureId": 1199,
+          "population": 6732219
+        }
+      ],
+      "AZ, USA": [
+        {
+          "country": "USA",
+          "state": "AZ",
+          "cases": 118,
+          "recovered": 0,
+          "deaths": 1,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 117,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 104,
+          "state": "AZ",
+          "country": "USA",
+          "url": "https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
+          "active": 104,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -111.93299895849756,
+            34.165156819218375
+          ],
+          "featureId": 502,
+          "population": 7278717
+        }
+      ],
+      "SC, USA": [
+        {
+          "country": "USA",
+          "state": "SC",
+          "cases": 171,
+          "recovered": 0,
+          "deaths": 3,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 168,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 173,
+          "deaths": 3,
+          "state": "SC",
+          "country": "USA",
+          "url": "https://services2.arcgis.com/XZg2efAbaieYAXmu/arcgis/rest/services/COVID19_County_View/FeatureServer/0/query?f=json&where=Confirmed%20%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Confirmed%20desc&resultOffset=0&resultRecordCount=1000&cacheHint=true",
+          "active": 170,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -80.96432271741013,
+            33.619274050261765
+          ],
+          "featureId": 2369,
+          "population": 5148714
+        }
+      ],
+      "NC, USA": [
+        {
+          "country": "USA",
+          "state": "NC",
+          "cases": 253,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 253,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 184,
+          "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
+          "country": "USA",
+          "state": "NC",
+          "active": 184,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -80.02322978144363,
+            35.24607653682786
+          ],
+          "featureId": 1969,
+          "population": 10488084
+        }
+      ],
+      "MD, USA": [
+        {
+          "country": "USA",
+          "state": "MD",
+          "cases": 193,
+          "recovered": 0,
+          "deaths": 2,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 191,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 190,
+          "state": "MD",
+          "country": "USA",
+          "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
+          "active": 190,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -77.28591288692019,
+            38.84687414823583
+          ],
+          "featureId": 1424,
+          "population": 6045680
+        }
+      ],
+      "IA, USA": [
+        {
+          "country": "USA",
+          "state": "IA",
+          "cases": 68,
+          "recovered": 0,
+          "deaths": 0,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 68,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 68,
+          "state": "IA",
+          "country": "USA",
+          "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
+          "active": 68,
+          "rating": 0.4146341463414634,
+          "coordinates": [
+            -93.38911747419203,
+            41.94023846253498
+          ],
+          "featureId": 958,
+          "population": 3155070
+        }
+      ],
+      "PA, USA": [
+        {
+          "country": "USA",
+          "state": "PA",
+          "cases": 396,
+          "recovered": 0,
+          "deaths": 2,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 394,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 2,
+          "deaths": 2,
+          "tested": 3766,
+          "state": "PA",
+          "country": "USA",
+          "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+          "active": 0,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -77.60961308037935,
+            41.12951166463159
+          ],
+          "featureId": 2283,
+          "population": 12801989
+        }
+      ],
+      "IL, USA": [
+        {
+          "country": "USA",
+          "state": "IL",
+          "cases": 753,
+          "recovered": 0,
+          "deaths": 6,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 747,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 105,
+          "state": "IL",
+          "country": "USA",
+          "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
+          "active": 105,
+          "rating": 0.1951219512195122,
+          "coordinates": [
+            -89.26887859227318,
+            39.74570721281759
+          ],
+          "featureId": 1106,
+          "population": 12671821
+        }
+      ],
+      "TX, USA": [
+        {
+          "country": "USA",
+          "state": "TX",
+          "cases": 581,
+          "recovered": 0,
+          "deaths": 5,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 576,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 221,
+          "state": "TX",
+          "country": "USA",
+          "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+          "certValidation": false,
+          "active": 221,
+          "rating": 0.4146341463414634,
+          "coordinates": [
+            -100.0884705015624,
+            31.177528238191037
+          ],
+          "featureId": 2786,
+          "population": 28995881
+        }
+      ],
+      "OR, USA": [
+        {
+          "country": "USA",
+          "state": "OR",
+          "cases": 114,
+          "recovered": 0,
+          "deaths": 5,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 109,
+          "rating": 0.4878048780487805
+        },
+        {
+          "deaths": 2338,
+          "cases": 137,
+          "state": "OR",
+          "country": "USA",
+          "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+          "active": -2201,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -120.50533834262885,
+            44.11740471870206
+          ],
+          "featureId": 2254,
+          "population": 4217737
+        }
+      ],
+      "NJ, USA": [
+        {
+          "country": "USA",
+          "state": "NJ",
+          "cases": 1327,
+          "recovered": 0,
+          "deaths": 16,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 1311,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 634,
+          "country": "USA",
+          "state": "NJ",
+          "url": "https://opendata.arcgis.com/datasets/84737ef7f760486293b6afa536f028e0_0.csv",
+          "active": 634,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -74.71937008349994,
+            40.14601558652788
+          ],
+          "featureId": 1991,
+          "population": 8882190
+        }
+      ],
+      "FL, USA": [
+        {
+          "country": "USA",
+          "state": "FL",
+          "cases": 659,
+          "recovered": 0,
+          "deaths": 13,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 646,
+          "rating": 0.4878048780487805
+        },
+        {
+          "tested": 9338,
+          "cases": 763,
+          "deaths": 12,
+          "state": "FL",
+          "country": "USA",
+          "url": "https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile",
+          "active": 751,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -83.82965067998012,
+            28.060753542550117
+          ],
+          "featureId": 698,
+          "population": 21477737
+        }
+      ],
+      "CO, USA": [
+        {
+          "country": "USA",
+          "state": "CO",
+          "cases": 390,
+          "recovered": 0,
+          "deaths": 4,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 386,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 474,
+          "population": "5695430",
+          "state": "CO",
+          "country": "USA",
+          "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
+          "active": 474,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            -105.54309696705135,
+            38.99982098225249
+          ],
+          "featureId": 626
+        }
+      ],
+      "GA, USA": [
+        {
+          "country": "USA",
+          "state": "GA",
+          "cases": 507,
+          "recovered": 0,
+          "deaths": 14,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 493,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 555,
+          "state": "GA",
+          "country": "USA",
+          "url": "https://dph.georgia.gov/covid-19-daily-status-report",
+          "active": 555,
+          "rating": 0.1951219512195122,
+          "coordinates": [
+            -83.22068258120515,
+            32.68249920507424
+          ],
+          "featureId": 756,
+          "population": 10617423
+        }
+      ],
+      "MA, USA": [
+        {
+          "country": "USA",
+          "state": "MA",
+          "cases": 525,
+          "recovered": 0,
+          "deaths": 1,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "aggregate": "state",
+          "priority": -1,
+          "active": 524,
+          "rating": 0.4878048780487805
+        },
+        {
+          "cases": 427,
+          "death": 1,
+          "state": "MA",
+          "country": "USA",
+          "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-21-2020/download",
+          "active": 427,
+          "rating": 0.4146341463414634,
+          "coordinates": [
+            -71.72305888370983,
+            42.12038082106261
+          ],
+          "featureId": 1398,
+          "population": 6892503
         }
       ],
       "CA, USA": [
         {
-          "state": "CA",
-          "cases": 1063,
-          "tested": 11487,
-          "deaths": 20,
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "type": "json",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
+          "state": "CA",
+          "cases": 1364,
+          "recovered": 0,
+          "deaths": 24,
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
           "aggregate": "state",
-          "priority": 1,
-          "active": 1043,
-          "rating": 0.36585365853658536
+          "priority": -1,
+          "active": 1340,
+          "rating": 0.4878048780487805
         },
         {
-          "cases": 1049,
-          "deaths": 20,
-          "tested": 1169,
-          "recovered": 3,
+          "cases": 1410,
+          "deaths": 25,
+          "tested": 2456,
+          "recovered": 4,
           "state": "CA",
           "country": "USA",
           "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
@@ -2917,1172 +2718,73 @@
               "github": "HarrietRowan"
             }
           ],
-          "active": 1026,
+          "active": 1381,
           "rating": 0.4634146341463415,
           "coordinates": [
             -119.26717119749563,
             37.26560485570404
           ],
-          "featureId": 591,
+          "featureId": 561,
           "population": 39512223
-        },
-        {
-          "country": "USA",
-          "state": "CA",
-          "cases": 1177,
-          "recovered": 0,
-          "deaths": 23,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 1154,
-          "rating": 0.4878048780487805
         }
       ],
-      "AZ, USA": [
-        {
-          "state": "AZ",
-          "cases": 65,
-          "tested": 377,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 65,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -111.93299895849756,
-            34.165156819218375
-          ],
-          "featureId": 406,
-          "population": 7278717
-        },
-        {
-          "cases": 63,
-          "state": "AZ",
-          "country": "USA",
-          "url": "https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
-          "type": "csv",
-          "aggregate": "county",
-          "active": 63,
-          "rating": 0.4634146341463415
-        },
+      "NY, USA": [
         {
           "country": "USA",
-          "state": "AZ",
-          "cases": 78,
+          "state": "NY",
+          "cases": 11710,
           "recovered": 0,
-          "deaths": 0,
+          "deaths": 60,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 78,
+          "active": 11650,
           "rating": 0.4878048780487805
+        },
+        {
+          "cases": 10356,
+          "state": "NY",
+          "country": "USA",
+          "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
+          "active": 10356,
+          "rating": 0.43902439024390244,
+          "coordinates": [
+            -75.8409706677239,
+            42.76080525150005
+          ],
+          "featureId": 2035,
+          "population": 19453561
         }
       ],
-      "AL, USA": [
-        {
-          "state": "AL",
-          "cases": 81,
-          "tested": 109,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 81,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -86.69343876373793,
-            32.6211173120505
-          ],
-          "featureId": 404,
-          "population": 4903185
-        },
-        {
-          "cases": 106,
-          "state": "AL",
-          "country": "USA",
-          "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-          "type": "table",
-          "aggregate": "county",
-          "active": 106,
-          "rating": 0.4146341463414634
-        },
+      "WA, USA": [
         {
           "country": "USA",
-          "state": "AL",
-          "cases": 83,
+          "state": "WA",
+          "cases": 1793,
           "recovered": 0,
-          "deaths": 0,
+          "deaths": 94,
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 83,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "Australian Capital Territory, AUS": [
-        {
-          "state": "Australian Capital Territory",
-          "cases": 6,
-          "country": "AUS",
-          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 6,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            149.06023522322693,
-            -35.53036325446061
-          ],
-          "featureId": 197,
-          "population": 426709
-        },
-        {
-          "state": "Australian Capital Territory",
-          "cases": 9,
-          "country": "AUS",
-          "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
-          "type": "table",
-          "priority": 1,
-          "active": 9,
-          "rating": 0.1951219512195122
-        },
-        {
-          "country": "AUS",
-          "cases": 6,
-          "recovered": 0,
-          "deaths": 0,
-          "coordinates": [
-            149.0124,
-            -35.4735
-          ],
-          "state": "Australian Capital Territory",
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 6,
-          "rating": 0.4878048780487805
-        }
-      ],
-      "VI, USA": [
-        {
-          "country": "USA",
-          "state": "VI",
-          "cases": 3,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 3,
+          "active": 1699,
           "rating": 0.4878048780487805
         },
         {
-          "state": "VI",
-          "cases": 3,
-          "tested": 3,
-          "deaths": 0,
+          "cases": 1786,
+          "deaths": 92,
+          "state": "WA",
           "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 3,
-          "rating": 0.36585365853658536
-        }
-      ],
-      "Guadeloupe, FRA": [
-        {
-          "country": "FRA",
-          "cases": 45,
-          "recovered": 0,
-          "deaths": 0,
+          "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+          "active": 1694,
+          "rating": 0.3902439024390244,
           "coordinates": [
-            -61.5833,
-            16.25
+            -120.80671709265283,
+            47.27941361449236
           ],
-          "state": "Guadeloupe",
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 45,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "Guadeloupe",
-          "cases": 51,
-          "deaths": 0,
-          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-          "country": "FRA",
-          "active": 51,
-          "rating": 0.5365853658536586,
-          "coordinates": [
-            -61.49286861849993,
-            16.196804103500057
-          ],
-          "featureId": 233
-        }
-      ],
-      "Mayotte, FRA": [
-        {
-          "country": "FRA",
-          "cases": 6,
-          "recovered": 0,
-          "deaths": 0,
-          "coordinates": [
-            45.1662,
-            -12.8275
-          ],
-          "state": "Mayotte",
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 6,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "Mayotte",
-          "cases": 7,
-          "deaths": 0,
-          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-          "country": "FRA",
-          "active": 7,
-          "rating": 0.5365853658536586,
-          "coordinates": [
-            45.150157097500085,
-            -12.856052341999913
-          ],
-          "featureId": 236
-        }
-      ],
-      "GU, USA": [
-        {
-          "country": "USA",
-          "state": "GU",
-          "cases": 14,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 14,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "GU",
-          "cases": 14,
-          "tested": 100,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 14,
-          "rating": 0.36585365853658536
-        }
-      ],
-      "PR, USA": [
-        {
-          "country": "USA",
-          "state": "PR",
-          "cases": 14,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 14,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "PR",
-          "cases": 14,
-          "tested": 180,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 14,
-          "rating": 0.36585365853658536,
-          "population": 3193694
-        }
-      ],
-      "FRA": [
-        {
-          "country": "FRA",
-          "cases": 12612,
-          "recovered": 12,
-          "deaths": 450,
-          "coordinates": [
-            2.2137,
-            46.2276
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 12150,
-          "rating": 0.4878048780487805
-        },
-        {
-          "cases": 12609,
-          "country": "FRA",
-          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-          "active": 12609,
-          "rating": 0.5365853658536586,
-          "coordinates": [
-            -2.9882706369999426,
-            14.862000781359463
-          ],
-          "featureId": 240,
-          "population": 67106161
-        }
-      ],
-      "WV, USA": [
-        {
-          "country": "USA",
-          "state": "WV",
-          "cases": 7,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 7,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "WV",
-          "cases": 7,
-          "tested": 239,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 7,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -80.1829407161911,
-            38.92806805344787
-          ],
-          "featureId": 448,
-          "population": 1792147
-        }
-      ],
-      "ND, USA": [
-        {
-          "country": "USA",
-          "state": "ND",
-          "cases": 19,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 19,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "ND",
-          "cases": 20,
-          "tested": 820,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 20,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -100.3019580214955,
-            47.46721085597658
-          ],
-          "featureId": 427,
-          "population": 762062
-        }
-      ],
-      "NM, USA": [
-        {
-          "country": "USA",
-          "state": "NM",
-          "cases": 43,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 43,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "NM",
-          "cases": 43,
-          "tested": 3814,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 43,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -106.02383427161152,
-            34.16360001562739
-          ],
-          "featureId": 431,
-          "population": 2096829
-        }
-      ],
-      "MT, USA": [
-        {
-          "country": "USA",
-          "state": "MT",
-          "cases": 15,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 15,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "MT",
-          "cases": 16,
-          "tested": 947,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 16,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -110.04412235741086,
-            46.70905513463874
-          ],
-          "featureId": 425,
-          "population": 1068778
-        }
-      ],
-      "MI, USA": [
-        {
-          "country": "USA",
-          "state": "MI",
-          "cases": 552,
-          "recovered": 0,
-          "deaths": 3,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 549,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "MI",
-          "cases": 549,
-          "tested": 2618,
-          "deaths": 3,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 546,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -86.2800539156174,
-            44.99773029893432
-          ],
-          "featureId": 421,
-          "population": 9986857
-        }
-      ],
-      "ME, USA": [
-        {
-          "country": "USA",
-          "state": "ME",
-          "cases": 56,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 56,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "ME",
-          "cases": 57,
-          "tested": 2321,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 57,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -69.03113847999994,
-            45.261826073000044
-          ],
-          "featureId": 420,
-          "population": 1344212
-        }
-      ],
-      "ID, USA": [
-        {
-          "country": "USA",
-          "state": "ID",
-          "cases": 23,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 23,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "ID",
-          "cases": 23,
-          "tested": 613,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 23,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -114.12702030654191,
-            45.49602738420207
-          ],
-          "featureId": 413,
-          "population": 1787065
-        }
-      ],
-      "AR, USA": [
-        {
-          "country": "USA",
-          "state": "AR",
-          "cases": 96,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 96,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "AR",
-          "cases": 96,
-          "tested": 650,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 96,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -92.142816204804,
-            34.755387388617066
-          ],
-          "featureId": 405,
-          "population": 3017804
-        }
-      ],
-      "AK, USA": [
-        {
-          "country": "USA",
-          "state": "AK",
-          "cases": 12,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 12,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "AK",
-          "cases": 12,
-          "tested": 698,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 12,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            0.7835596040000752,
-            61.51689280800005
-          ],
-          "featureId": 403,
-          "population": 731545
-        }
-      ],
-      "VT, USA": [
-        {
-          "country": "USA",
-          "state": "VT",
-          "cases": 29,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 27,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "VT",
-          "cases": 29,
-          "tested": 808,
-          "deaths": 2,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 27,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -72.47219594044931,
-            43.87150381198679
-          ],
-          "featureId": 445,
-          "population": 623989
-        }
-      ],
-      "KS, USA": [
-        {
-          "country": "USA",
-          "state": "KS",
-          "cases": 44,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 43,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "KS",
-          "cases": 44,
-          "tested": 461,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 43,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -98.33450321689992,
-            38.49995525967745
-          ],
-          "featureId": 415,
-          "population": 2913314
-        }
-      ],
-      "HI, USA": [
-        {
-          "country": "USA",
-          "state": "HI",
-          "cases": 26,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 26,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "HI",
-          "cases": 26,
-          "tested": 159,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 26,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -157.30113772849992,
-            20.58419053050008
-          ],
-          "featureId": 411,
-          "population": 1415872
-        }
-      ],
-      "RI, USA": [
-        {
-          "country": "USA",
-          "state": "RI",
-          "cases": 54,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 54,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "RI",
-          "cases": 54,
-          "tested": 848,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 54,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -71.48453225865693,
-            41.66332011094793
-          ],
-          "featureId": 438,
-          "population": 1059361
-        }
-      ],
-      "NE, USA": [
-        {
-          "country": "USA",
-          "state": "NE",
-          "cases": 37,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 37,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "NE",
-          "cases": 32,
-          "tested": 272,
-          "deaths": 0,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 32,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -99.68549198596634,
-            41.50023602157509
-          ],
-          "featureId": 428,
-          "population": 1934408
-        }
-      ],
-      "MN, USA": [
-        {
-          "country": "USA",
-          "state": "MN",
-          "cases": 115,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 115,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "MN",
-          "cases": 115,
-          "tested": 3856,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 115,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -93.36252550514794,
-            46.434810139826055
-          ],
-          "featureId": 422,
-          "population": 5639632
-        }
-      ],
-      "NH, USA": [
-        {
-          "country": "USA",
-          "state": "NH",
-          "cases": 44,
-          "recovered": 0,
-          "deaths": 0,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 44,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "NH",
-          "cases": 44,
-          "tested": 1420,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 44,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -71.64192281532604,
-            44.002575579129676
-          ],
-          "featureId": 429,
-          "population": 1359711
-        }
-      ],
-      "NV, USA": [
-        {
-          "country": "USA",
-          "state": "NV",
-          "cases": 114,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 113,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "NV",
-          "cases": 109,
-          "tested": 2098,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 108,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -117.02047733760901,
-            38.50182293528022
-          ],
-          "featureId": 432,
-          "population": 3080156
-        }
-      ],
-      "KY, USA": [
-        {
-          "country": "USA",
-          "state": "KY",
-          "cases": 47,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 45,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "KY",
-          "cases": 47,
-          "tested": 639,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 46,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -85.69484257237679,
-            37.820719419565535
-          ],
-          "featureId": 416,
-          "population": 4467673
-        }
-      ],
-      "VA, USA": [
-        {
-          "country": "USA",
-          "state": "VA",
-          "cases": 122,
-          "recovered": 0,
-          "deaths": 2,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 120,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "VA",
-          "cases": 114,
-          "tested": 2325,
-          "deaths": 2,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 112,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -79.76028754243612,
-            37.99530438119223
-          ],
-          "featureId": 444,
-          "population": 8535519
-        }
-      ],
-      "SC, USA": [
-        {
-          "country": "USA",
-          "state": "SC",
-          "cases": 126,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 125,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "SC",
-          "cases": 81,
-          "tested": 914,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 80,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -80.96432271741013,
-            33.619274050261765
-          ],
-          "featureId": 439,
-          "population": 5148714
-        }
-      ],
-      "MA, USA": [
-        {
-          "country": "USA",
-          "state": "MA",
-          "cases": 413,
-          "recovered": 0,
-          "deaths": 1,
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 412,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "MA",
-          "cases": 413,
-          "tested": 4091,
-          "deaths": 1,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 412,
-          "rating": 0.36585365853658536,
-          "coordinates": [
-            -71.72305888370983,
-            42.12038082106261
-          ],
-          "featureId": 418,
-          "population": 6892503
+          "featureId": 2856,
+          "population": 7614893
         }
       ],
       "Northern Territory, AUS": [
@@ -4105,23 +2807,23 @@
         },
         {
           "state": "Northern Territory",
-          "cases": 2,
+          "cases": 4,
           "country": "AUS",
           "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 2,
+          "active": 4,
           "rating": 0.34146341463414637,
           "coordinates": [
             133.50015133877957,
             -18.516157321898987
           ],
-          "featureId": 199,
+          "featureId": 215,
           "population": 245869
         }
       ],
       "Tasmania, AUS": [
         {
           "country": "AUS",
-          "cases": 10,
+          "cases": 16,
           "recovered": 3,
           "deaths": 0,
           "coordinates": [
@@ -4133,28 +2835,28 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 7,
+          "active": 13,
           "rating": 0.4878048780487805
         },
         {
           "state": "Tasmania",
-          "cases": 8,
+          "cases": 9,
           "country": "AUS",
           "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 8,
+          "active": 9,
           "rating": 0.34146341463414637,
           "coordinates": [
             146.16134687600004,
             -41.60023365649994
           ],
-          "featureId": 202,
+          "featureId": 218,
           "population": 534281
         }
       ],
       "Western Australia, AUS": [
         {
           "country": "AUS",
-          "cases": 64,
+          "cases": 90,
           "recovered": 0,
           "deaths": 1,
           "coordinates": [
@@ -4166,28 +2868,28 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 63,
+          "active": 89,
           "rating": 0.4878048780487805
         },
         {
           "state": "Western Australia",
-          "cases": 64,
+          "cases": 90,
           "country": "AUS",
           "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 64,
+          "active": 90,
           "rating": 0.34146341463414637,
           "coordinates": [
             120.95978010457588,
             -24.407891534499925
           ],
-          "featureId": 204,
+          "featureId": 220,
           "population": 2621680
         }
       ],
       "South Australia, AUS": [
         {
           "country": "AUS",
-          "cases": 50,
+          "cases": 67,
           "recovered": 3,
           "deaths": 0,
           "coordinates": [
@@ -4199,30 +2901,30 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 47,
+          "active": 64,
           "rating": 0.4878048780487805
         },
         {
           "state": "South Australia",
-          "cases": 50,
+          "cases": 67,
           "country": "AUS",
           "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 50,
+          "active": 67,
           "rating": 0.34146341463414637,
           "coordinates": [
             135.0000995213503,
             -32.035240980898976
           ],
-          "featureId": 201,
+          "featureId": 217,
           "population": 1751693
         }
       ],
       "ESP": [
         {
           "country": "ESP",
-          "cases": 20410,
-          "recovered": 1588,
-          "deaths": 1043,
+          "cases": 25374,
+          "recovered": 2125,
+          "deaths": 1375,
           "coordinates": [
             -4,
             40
@@ -4231,31 +2933,31 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 17779,
+          "active": 21874,
           "rating": 0.4878048780487805
         },
         {
-          "cases": 19980,
-          "recovered": 1578,
-          "deaths": 982,
+          "cases": 24926,
+          "recovered": 2125,
+          "deaths": 1326,
           "country": "ESP",
           "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
-          "active": 17420,
+          "active": 21475,
           "rating": 0.36585365853658536,
           "coordinates": [
             -6.849639452499929,
             35.73847077050007
           ],
-          "featureId": 232,
+          "featureId": 248,
           "population": 48958159
         }
       ],
       "DEU": [
         {
           "country": "DEU",
-          "cases": 19848,
-          "recovered": 180,
-          "deaths": 67,
+          "cases": 22213,
+          "recovered": 233,
+          "deaths": 84,
           "coordinates": [
             9,
             51
@@ -4264,14 +2966,14 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 19601,
+          "active": 21896,
           "rating": 0.4878048780487805
         },
         {
           "country": "DEU",
-          "cases": 19848,
-          "deaths": 68,
-          "recovered": 180,
+          "cases": 22364,
+          "deaths": 84,
+          "recovered": 239,
           "coordinates": [
             10.473758178500105,
             51.09924480150008
@@ -4290,15 +2992,15 @@
               "description": "Aggregated data from individual ministries of health in Germany"
             }
           ],
-          "active": 19600,
+          "active": 22041,
           "rating": 0.17073170731707318,
-          "featureId": 219
+          "featureId": 235
         }
       ],
       "Queensland, AUS": [
         {
           "country": "AUS",
-          "cases": 184,
+          "cases": 221,
           "recovered": 8,
           "deaths": 0,
           "coordinates": [
@@ -4310,61 +3012,28 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 176,
+          "active": 213,
           "rating": 0.4878048780487805
         },
         {
           "state": "Queensland",
-          "cases": 184,
+          "cases": 221,
           "country": "AUS",
           "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 184,
+          "active": 221,
           "rating": 0.34146341463414637,
           "coordinates": [
             145.75436445400004,
             -19.64674041161055
           ],
-          "featureId": 200,
+          "featureId": 216,
           "population": 5095100
-        }
-      ],
-      "Victoria, AUS": [
-        {
-          "country": "AUS",
-          "cases": 121,
-          "recovered": 8,
-          "deaths": 0,
-          "coordinates": [
-            144.9631,
-            -37.8136
-          ],
-          "state": "Victoria",
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "aggregate": "state",
-          "priority": -1,
-          "active": 113,
-          "rating": 0.4878048780487805
-        },
-        {
-          "state": "Victoria",
-          "cases": 178,
-          "country": "AUS",
-          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 178,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            145.4695804428331,
-            -36.537788791607284
-          ],
-          "featureId": 203,
-          "population": 6594804
         }
       ],
       "New South Wales, AUS": [
         {
           "country": "AUS",
-          "cases": 353,
+          "cases": 436,
           "recovered": 4,
           "deaths": 6,
           "coordinates": [
@@ -4376,21 +3045,21 @@
           "timeseries": true,
           "aggregate": "state",
           "priority": -1,
-          "active": 343,
+          "active": 426,
           "rating": 0.4878048780487805
         },
         {
           "state": "New South Wales",
-          "cases": 382,
+          "cases": 469,
           "country": "AUS",
           "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 382,
+          "active": 469,
           "rating": 0.34146341463414637,
           "coordinates": [
             147.3153664483503,
             -32.82977854599065
           ],
-          "featureId": 198,
+          "featureId": 214,
           "population": 8089526
         }
       ]
@@ -4400,14 +3069,27 @@
         "name": "BRA",
         "url": "http://plataforma.saude.gov.br/novocoronavirus/resources/scripts/database.js?v=2020-03-21",
         "err": "TypeError: Cannot read property 'text' of null"
+      },
+      {
+        "name": "USA",
+        "url": "https://covidtracking.com/api/states",
+        "err": "TypeError: Cannot read property 'replace' of null"
+      },
+      {
+        "name": "CT, USA",
+        "url": "https://portal.ct.gov/Coronavirus",
+        "err": "Error: Invalid data: contains no case data"
       }
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 2501,
+    "numFeaturesFound": 3013,
     "missingFeatures": [
       "Channel Islands, GBR",
       "French Polynesia, FRA",
+      "PR, USA",
+      "GU, USA",
+      "VI, USA",
       "Reunion, FRA",
       "Aruba, NLD",
       "New Caledonia, FRA",
@@ -4428,7 +3110,7 @@
       "Bourgogne-Franche-Comté, FRA",
       "Normandie, FRA",
       "Hauts-de-France, FRA",
-      "Grand Est, FRA",
+      "Grand-Est, FRA",
       "Nouvelle-Aquitaine, FRA",
       "Occitanie, FRA",
       "Auvergne-Rhône-Alpes, FRA",
@@ -4441,38 +3123,36 @@
       "Kingston upon Hull, City of, GBR",
       "St. Helens, GBR",
       "Wirral, GBR",
-      "PR, USA",
-      "AS, USA",
-      "GU, USA",
-      "MP, USA",
-      "VI, USA",
       "Pea Patch County, DE, USA",
       "Reedy Island County, DE, USA",
       "DE/NJ County, DE, USA",
       "Dade County, FL, USA",
+      "Unknown County, FL, USA",
       "Unknown County, GA, USA",
       "Obrien County, IA, USA",
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
       "Suburban Cook County, IL, USA",
+      "Dukes and Nantucket County, MA, USA",
       "Baltimore City, MD, USA",
+      "Filmore County, MN, USA",
       "Total County, MS, USA",
-      "Total Number of Positive Cases County, NY, USA",
       "Oglala Lakota County, SD, USA",
-      "Out Of Tn County, TN, USA",
-      " County, TN, USA"
+      " County, TN, USA",
+      "Out Of Tn County, TN, USA"
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 2297,
+    "numLocationsWithPopulation": 2810,
     "missingPopulations": [
-      "THA",
       "MTQ",
       "St Martin, FRA",
       "Channel Islands, GBR",
       "French Polynesia, FRA",
       "French Guiana, FRA",
+      "GU, USA",
       "Curacao, NLD",
+      "VI, USA",
       "Cayman Islands, GBR",
       "Reunion, FRA",
       "Aruba, NLD",
@@ -4516,7 +3196,7 @@
       "Bourgogne-Franche-Comté, FRA",
       "Normandie, FRA",
       "Hauts-de-France, FRA",
-      "Grand Est, FRA",
+      "Grand-Est, FRA",
       "Pays de la Loire, FRA",
       "Bretagne, FRA",
       "Nouvelle-Aquitaine, FRA",
@@ -4640,27 +3320,27 @@
       "Wokingham, GBR",
       "Wolverhampton, GBR",
       "York, GBR",
-      "AS, USA",
-      "GU, USA",
-      "MP, USA",
-      "VI, USA",
       "Walker County, AL, USA",
       "Pea Patch County, DE, USA",
       "Reedy Island County, DE, USA",
       "DE/NJ County, DE, USA",
       "Dade County, FL, USA",
+      "Unknown County, FL, USA",
       "Unknown County, GA, USA",
       "Obrien County, IA, USA",
       "Illinois County, IL, USA",
       "Chicago County, IL, USA",
       "Suburban Cook County, IL, USA",
       "(unassigned), LA, USA",
+      "Dukes and Nantucket County, MA, USA",
       "Baltimore City, MD, USA",
+      "(unassigned), ME, USA",
+      "(unassigned), MI, USA",
+      "Filmore County, MN, USA",
       "(unassigned), MO, USA",
       "Total County, MS, USA",
-      "Total Number of Positive Cases County, NY, USA",
-      "Out Of Tn County, TN, USA",
       " County, TN, USA",
+      "Out Of Tn County, TN, USA",
       "Bear River County, UT, USA",
       "(unassigned), WA, USA"
     ]
