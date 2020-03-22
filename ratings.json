@@ -1,32 +1,13 @@
 [
   {
-    "country": "FRA",
-    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-    "timeseries": true,
-    "priority": 1,
-    "aggregate": "state",
-    "type": "csv",
-    "ssl": true,
-    "rating": 0.5365853658536586
-  },
-  {
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "timeseries": true,
     "aggregate": "state",
+    "priority": 1,
     "type": "csv",
     "ssl": true,
     "rating": 0.5365853658536586
-  },
-  {
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "timeseries": true,
-    "aggregate": "state",
-    "priority": -1,
-    "country": "UGA",
-    "ssl": true,
-    "type": "list",
-    "rating": 0.4878048780487805
   },
   {
     "state": "AZ",
@@ -149,6 +130,15 @@
     "rating": 0.4634146341463415
   },
   {
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "timeseries": true,
+    "priority": -1,
+    "aggregate": "country",
+    "ssl": true,
+    "type": "list",
+    "rating": 0.43902439024390244
+  },
+  {
     "country": "CHE",
     "county": "Zurich",
     "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
@@ -166,12 +156,30 @@
     "rating": 0.43902439024390244
   },
   {
+    "state": "GA",
+    "country": "USA",
+    "url": "https://dph.georgia.gov/covid-19-daily-status-report",
+    "type": "table",
+    "aggregate": "county",
+    "ssl": true,
+    "rating": 0.43902439024390244
+  },
+  {
     "state": "ID",
     "country": "USA",
     "url": "https://coronavirus.idaho.gov",
     "type": "table",
     "aggregate": "county",
     "ssl": true,
+    "rating": 0.43902439024390244
+  },
+  {
+    "state": "IL",
+    "country": "USA",
+    "priority": 1,
+    "aggregate": "county",
+    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
+    "type": "json",
     "rating": 0.43902439024390244
   },
   {
@@ -338,6 +346,7 @@
     "country": "USA",
     "state": "KY",
     "priority": 1,
+    "aggregate": "county",
     "url": "https://datawrapper.dwcdn.net/BbowM/23/",
     "source": {
       "name": "Kentucky Cabinet for Health and Family Services",
@@ -352,7 +361,6 @@
         "flag": "🇺🇸"
       }
     ],
-    "aggregate": "county",
     "ssl": true,
     "type": "list",
     "rating": 0.4146341463414634
@@ -404,15 +412,6 @@
     "rating": 0.3902439024390244
   },
   {
-    "country": "ESP",
-    "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
-    "priority": 1,
-    "aggregate": "state",
-    "type": "csv",
-    "ssl": true,
-    "rating": 0.36585365853658536
-  },
-  {
     "country": "AUS",
     "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
     "type": "table",
@@ -426,6 +425,15 @@
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "aggregate": "state",
+    "ssl": true,
+    "rating": 0.34146341463414637
+  },
+  {
+    "country": "FRA",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
     "ssl": true,
     "rating": 0.34146341463414637
   },
@@ -453,15 +461,6 @@
     ],
     "url": "https://www.co.shasta.ca.us/covid-19/overview",
     "type": "table",
-    "ssl": true,
-    "rating": 0.2926829268292683
-  },
-  {
-    "state": "GA",
-    "country": "USA",
-    "url": "https://dph.georgia.gov/covid-19-daily-status-report",
-    "type": "table",
-    "county": "Wilkinson County",
     "ssl": true,
     "rating": 0.2926829268292683
   },
@@ -1018,14 +1017,6 @@
     "rating": 0.1951219512195122
   },
   {
-    "state": "IL",
-    "country": "USA",
-    "priority": 1,
-    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
-    "type": "json",
-    "rating": 0.1951219512195122
-  },
-  {
     "country": "DEU",
     "url": "https://covid19-germany.appspot.com/now",
     "type": "json",
@@ -1041,6 +1032,14 @@
         "description": "Aggregated data from individual ministries of health in Germany"
       }
     ],
+    "ssl": true,
+    "rating": 0.17073170731707318
+  },
+  {
+    "country": "ESP",
+    "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
+    "priority": 1,
+    "type": "csv",
     "ssl": true,
     "rating": 0.17073170731707318
   },

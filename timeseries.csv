@@ -832,57 +832,57 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,,IND,1281935911,21.151850284000083,82.74863427400004,https://github.com/CSSEGISandData/COVID-19,194,4,15,175,,1.2435897435897436,2020-03-19
 ,,,IND,1281935911,21.151850284000083,82.74863427400004,https://github.com/CSSEGISandData/COVID-19,244,5,20,219,,1.2577319587628866,2020-03-20
 ,,,IND,1281935911,21.151850284000083,82.74863427400004,https://github.com/CSSEGISandData/COVID-19,330,4,23,303,,1.3524590163934427,2020-03-21
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,,2020-01-31
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-02-01
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-02-02
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-02-03
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-02-04
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-02-05
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-02-06
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1.5,2020-02-07
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-08
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-09
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-10
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-11
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-12
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-13
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-14
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-15
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-16
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-17
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-18
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-19
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-02-20
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,20,1,,19,,6.666666666666667,2020-02-21
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,62,2,1,59,,3.1,2020-02-22
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,155,3,2,150,,2.5,2020-02-23
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,229,7,1,221,,1.4774193548387098,2020-02-24
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,322,10,1,311,,1.4061135371179039,2020-02-25
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,453,12,3,438,,1.406832298136646,2020-02-26
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,655,17,45,593,,1.445916114790287,2020-02-27
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,888,21,46,821,,1.3557251908396946,2020-02-28
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,1128,29,46,1053,,1.2702702702702702,2020-02-29
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,1694,34,83,1577,,1.50177304964539,2020-03-01
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2036,52,149,1835,,1.2018890200708383,2020-03-02
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,2502,79,160,2263,,1.2288801571709234,2020-03-03
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3089,107,276,2706,,1.2346123101518784,2020-03-04
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,3858,148,414,3296,,1.2489478795726772,2020-03-05
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,4636,197,523,3916,,1.2016588906169,2020-03-06
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,5883,233,589,5061,,1.2689818809318378,2020-03-07
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,7375,366,622,6387,,1.2536121026687064,2020-03-08
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,9172,463,724,7985,,1.2436610169491524,2020-03-09
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,10149,631,724,8794,,1.1065198430004362,2020-03-10
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,12462,827,1045,10590,,1.22790422701744,2020-03-11
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,12462,827,1045,10590,,1,2020-03-12
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,17660,1266,1439,14955,,1.41710800834537,2020-03-13
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,21157,1441,1966,17750,,1.1980181200453002,2020-03-14
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,24747,1809,2335,20603,,1.1696837925981944,2020-03-15
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,27980,2158,2749,23073,,1.1306420980320846,2020-03-16
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,31506,2503,2941,26062,,1.1260185847033595,2020-03-17
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,35713,2978,4025,28710,,1.1335301212467466,2020-03-18
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,41035,3405,4440,33190,,1.1490213647691316,2020-03-19
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,47021,4032,4440,38549,,1.145875472157914,2020-03-20
-,,,ITA,62137802,41.826061709500074,12.56007714450007,https://github.com/CSSEGISandData/COVID-19,53578,4825,6072,42681,,1.1394483315965207,2020-03-21
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,,2020-01-31
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,1,2020-02-01
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,1,2020-02-02
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,1,2020-02-03
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,1,2020-02-04
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,1,2020-02-05
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2,,,2,,1,2020-02-06
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1.5,2020-02-07
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-08
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-09
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-10
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-11
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-12
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-13
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-14
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-15
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-16
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-17
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-18
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-19
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3,,,3,,1,2020-02-20
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,20,1,,19,,6.666666666666667,2020-02-21
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,62,2,1,59,,3.1,2020-02-22
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,155,3,2,150,,2.5,2020-02-23
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,229,7,1,221,,1.4774193548387098,2020-02-24
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,322,10,1,311,,1.4061135371179039,2020-02-25
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,400,12,3,385,,1.2422360248447204,2020-02-26
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,650,17,45,588,,1.625,2020-02-27
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,888,21,46,821,,1.366153846153846,2020-02-28
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,1128,29,50,1049,,1.2702702702702702,2020-02-29
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,1694,34,83,1577,,1.50177304964539,2020-03-01
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2036,52,149,1835,,1.2018890200708383,2020-03-02
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,2502,79,160,2263,,1.2288801571709234,2020-03-03
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3089,107,276,2706,,1.2346123101518784,2020-03-04
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3858,148,414,3296,,1.2489478795726772,2020-03-05
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,4636,197,523,3916,,1.2016588906169,2020-03-06
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,5883,233,589,5061,,1.2689818809318378,2020-03-07
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,7375,366,622,6387,,1.2536121026687064,2020-03-08
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,9172,463,724,7985,,1.2436610169491524,2020-03-09
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,10149,631,1004,8514,,1.1065198430004362,2020-03-10
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,12462,827,1045,10590,,1.22790422701744,2020-03-11
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,15113,1016,1258,12839,,1.2127266891349704,2020-03-12
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,17660,1266,1439,14955,,1.1685304042876994,2020-03-13
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,21157,1441,1966,17750,,1.1980181200453002,2020-03-14
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,24747,1809,2335,20603,,1.1696837925981944,2020-03-15
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,27980,2158,2749,23073,,1.1306420980320846,2020-03-16
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,31506,2503,2941,26062,,1.1260185847033595,2020-03-17
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,35713,2978,4025,28710,,1.1335301212467466,2020-03-18
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,41035,3405,4440,33190,,1.1490213647691316,2020-03-19
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,47021,4032,5129,37860,,1.145875472157914,2020-03-20
+,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,53578,4825,6072,42681,,1.1394483315965207,2020-03-21
 ,,,SWE,9960487,62.191185204500094,17.635630730000088,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-01-31
 ,,,SWE,9960487,62.191185204500094,17.635630730000088,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-02-01
 ,,,SWE,9960487,62.191185204500094,17.635630730000088,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-02-02
@@ -2753,9 +2753,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,2,103,,1.1290322580645162,2020-03-16
 ,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,,105,,1,2020-03-17
 ,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,,105,,1,2020-03-18
-,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,426,4,,422,3151,4.057142857142857,2020-03-19
-,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,590,5,,585,4286,1.3849765258215962,2020-03-20
-,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,,105,,0.17796610169491525,2020-03-21
+,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,,105,,1,2020-03-19
+,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,,105,,1,2020-03-20
+,,IL,USA,12671821,39.74570721281759,-89.26887859227318,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,105,,,105,,1,2020-03-21
 ,,PA,USA,12801989,41.12951166463159,-77.60961308037935,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,12,,,12,,,2020-03-10
 ,,PA,USA,12801989,41.12951166463159,-77.60961308037935,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,16,,,16,,1.3333333333333333,2020-03-11
 ,,PA,USA,12801989,41.12951166463159,-77.60961308037935,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,22,,,22,,1.375,2020-03-12
@@ -2818,10 +2818,16 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,SC,USA,5148714,33.619274050261765,-80.96432271741013,https://services2.arcgis.com/XZg2efAbaieYAXmu/arcgis/rest/services/COVID19_County_View/FeatureServer/0/query?f=json&where=Confirmed%20%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Confirmed%20desc&resultOffset=0&resultRecordCount=1000&cacheHint=true,173,3,,170,,2.1358024691358026,2020-03-21
 ,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,7,,,7,,,2020-03-10
 ,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,9,,,9,,1.2857142857142858,2020-03-11
-,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,26,,,26,,,2020-03-13
-,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,154,,,154,503,,2020-03-19
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,18,,,18,,2,2020-03-12
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,26,,,26,,1.4444444444444444,2020-03-13
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,22,,,22,,0.8461538461538461,2020-03-14
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,25,,,25,,1.1363636363636365,2020-03-15
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,34,,,34,,1.36,2020-03-16
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,52,,,52,,1.5294117647058822,2020-03-17
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,74,,,74,,1.4230769230769231,2020-03-18
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,154,,,154,503,2.081081081081081,2020-03-19
 ,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,228,,,228,791,1.4805194805194806,2020-03-20
-,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,10,,,10,,0.043859649122807015,2020-03-21
+,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,371,,,371,,1.6271929824561404,2020-03-21
 ,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://github.com/CSSEGISandData/COVID-19,7,,,7,,,2020-03-10
 ,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://github.com/CSSEGISandData/COVID-19,9,,,9,,1.2857142857142858,2020-03-11
 ,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://github.com/CSSEGISandData/COVID-19,17,,,17,,1.8888888888888888,2020-03-12
@@ -3177,13 +3183,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,,2020-03-12
 ,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",6,,,6,,6,2020-03-13
 ,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",6,,,6,,1,2020-03-14
-,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",10,,,10,,1.6666666666666667,2020-03-15
-,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",24,,,24,,2.4,2020-03-16
-,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",42,,,42,,1.75,2020-03-17
-,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",68,,,68,,1.619047619047619,2020-03-18
-,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",50,,,50,602,0.7352941176470589,2020-03-19
+,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",8,,,8,,1.3333333333333333,2020-03-15
+,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",12,,,12,,1.5,2020-03-16
+,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",21,,,21,,1.75,2020-03-17
+,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",34,,,34,,1.619047619047619,2020-03-18
+,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",50,,,50,602,1.4705882352941178,2020-03-19
 ,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",80,1,,79,775,1.6,2020-03-20
-,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",2,,,2,,0.025,2020-03-21
+,,MS,USA,2976149,32.59642655665229,-89.87338261081882,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,0.0125,2020-03-21
 ,,MT,USA,1068778,46.70905513463874,-110.04412235741086,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,,2020-03-11
 ,,MT,USA,1068778,46.70905513463874,-110.04412235741086,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,1,2020-03-12
 ,,MT,USA,1068778,46.70905513463874,-110.04412235741086,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,1,2020-03-13
@@ -6841,12 +6847,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,1,,,1,,1,2020-03-09
 ,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,1,,,1,,1,2020-03-10
 ,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,5,,,5,,5,2020-03-11
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,10,,,10,,,2020-03-14
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,14,,,14,,1.4,2020-03-15
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,18,,,18,,1.2857142857142858,2020-03-16
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,21,,,21,,1.1666666666666667,2020-03-17
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,24,,,24,,1.1428571428571428,2020-03-18
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,30,,,30,,1.25,2020-03-19
+,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,30,,,30,,,2020-03-19
 ,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,35,,,35,,1.1666666666666667,2020-03-20
 ,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,47,,,47,,1.3428571428571427,2020-03-21
 ,New York County,NY,USA,,40.7128,-74.006,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-02
@@ -9506,8 +9507,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Monroe County,MS,USA,35564,33.8697745,-88.4618815,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,1,2020-03-19
 ,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,,2020-03-13
 ,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,1,2020-03-14
-,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",2,,,2,,2,2020-03-15
-,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",2,,,2,,1,2020-03-16
+,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",2,,,2,,,2020-03-16
 ,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",2,,,2,,1,2020-03-17
 ,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",4,,,4,,2,2020-03-18
 ,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",7,,,7,,1.75,2020-03-19
@@ -9575,6 +9575,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,1,2020-03-19
 ,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,4,,2,2020-03-20
 ,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,94,,-90,,1,2020-03-21
+,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,27,,,27,,,2020-03-19
+,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,40,,,40,,1.4814814814814814,2020-03-20
+,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,69,,,69,,1.725,2020-03-21
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,,2020-03-13
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,1,2020-03-14
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,1,2020-03-15
@@ -12340,12 +12343,6 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Talbot County,MD,USA,36968,38.7587675,-76.122386,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,1,,,1,,1,2020-03-19
 ,Talbot County,MD,USA,36968,38.7587675,-76.122386,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,1,,,1,,1,2020-03-20
 ,Talbot County,MD,USA,36968,38.7587675,-76.122386,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,1,,,1,,1,2020-03-21
-,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",12,,,12,,,2020-03-16
-,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",21,,,21,,1.75,2020-03-17
-,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",34,,,34,,1.619047619047619,2020-03-18
-,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",50,,,50,,1.4705882352941178,2020-03-19
-,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,0.02,2020-03-20
-,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,1,2020-03-21
 ,,,AUS,23232413,-27.17176685949994,133.43764789150003,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers,454,,,454,,,2020-03-17
 ,,,AUS,23232413,-27.17176685949994,133.43764789150003,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers,565,,,565,,1.2444933920704846,2020-03-18
 ,,,AUS,23232413,-27.17176685949994,133.43764789150003,https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers,709,,,709,,1.2548672566371681,2020-03-19
@@ -12656,8 +12653,8 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Turner County,GA,USA,7912,31.711033,-83.62759,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,1,2020-03-21
 ,Whitfield County,GA,USA,104062,34.8018615,-84.989664,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,,2020-03-20
 ,Whitfield County,GA,USA,104062,34.8018615,-84.989664,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,1,2020-03-21
-,Unknown County,GA,USA,,,,https://dph.georgia.gov/covid-19-daily-status-report,31,,,31,,,2020-03-20
-,Unknown County,GA,USA,,,,https://dph.georgia.gov/covid-19-daily-status-report,37,,,37,,1.1935483870967742,2020-03-21
+,(unassigned),GA,USA,,,,https://dph.georgia.gov/covid-19-daily-status-report,31,,,31,,,2020-03-20
+,(unassigned),GA,USA,,,,https://dph.georgia.gov/covid-19-daily-status-report,37,,,37,,1.1935483870967742,2020-03-21
 ,Baldwin County,GA,USA,44823,33.057617,-83.23696699999999,https://dph.georgia.gov/covid-19-daily-status-report,2,,,2,,,2020-03-21
 ,Lincoln County,GA,USA,7915,33.810833,-82.43205,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,,2020-03-21
 ,Lumpkin County,GA,USA,32955,34.5781895,-84.0119525,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,,2020-03-21
@@ -12722,12 +12719,10 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Payne County,OK,USA,82040,36.093742000000006,-96.9876145,https://coronavirus.health.ok.gov/,1,,,1,,1,2020-03-21
 ,Washington County,OK,USA,51843,36.711448000000004,-95.89391549999999,https://coronavirus.health.ok.gov/,1,,,1,,,2020-03-20
 ,Washington County,OK,USA,51843,36.711448000000004,-95.89391549999999,https://coronavirus.health.ok.gov/,1,,,1,,1,2020-03-21
-,Out Of Tn County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,40,,,40,,,2020-03-20
-,Out Of Tn County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,59,,,59,,1.475,2020-03-21
 ,,,HKG,7191503,22.41313304250005,114.21021569100003,https://github.com/CSSEGISandData/COVID-19,273,4,98,171,,,2020-03-21
 ,,,MAC,601969,22.13420237850005,113.55058841250002,https://github.com/CSSEGISandData/COVID-19,18,,10,8,,,2020-03-21
 ,,,FRO,50730,62.08268870650005,-6.9691055979999135,https://github.com/CSSEGISandData/COVID-19,92,,,92,,,2020-03-21
-,Unknown County,FL,USA,,,,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,7,,2020-03-21
+,(unassigned),FL,USA,,,,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,7,,2020-03-21
 ,Kootenai County,ID,USA,161505,47.678798,-116.682741,https://coronavirus.idaho.gov,3,,,3,,,2020-03-21
 ,Canyon County,ID,USA,223499,43.5852035,-116.7501815,https://coronavirus.idaho.gov,1,,,1,,,2020-03-21
 ,Ada County,ID,USA,469966,43.4598845,-116.24404999999999,https://coronavirus.idaho.gov,11,,,11,,,2020-03-21

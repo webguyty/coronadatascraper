@@ -26375,7 +26375,7 @@ return d[d.length-1];};return ", funcName].join("");
   let map$1;
 
   const noCasesColor = '#ffffff';
-  const noPopulationDataColor = '#eaeaea';
+  const noPopulationDataColor = 'rgba(0,0,0,0)';
 
   const outlineColorHighlight = 'rgb(0,0,0)';
   const outlineColor = 'rgba(0, 0, 0, 0.3)';
@@ -26701,24 +26701,33 @@ return d[d.length-1];};return ", funcName].join("");
       htmlString += `</div>`;
       return htmlString;
     }
-    const countryFeatures = {
+
+    const countyFeatures = {
       type: 'FeatureCollection',
       features: data.features.features.filter(function(feature) {
-        return isCountry(data.locations[feature.properties.locationId]);
+        return isCounty(data.locations[feature.properties.locationId]);
       })
     };
 
     const stateFeatures = {
       type: 'FeatureCollection',
       features: data.features.features.filter(function(feature) {
-        return isState(data.locations[feature.properties.locationId]);
+        const location = data.locations[feature.properties.locationId];
+        if (location && !location.county && location.aggregate === 'county') {
+          return false;
+        }
+        return isState(location);
       })
     };
 
-    const countyFeatures = {
+    const countryFeatures = {
       type: 'FeatureCollection',
       features: data.features.features.filter(function(feature) {
-        return isCounty(data.locations[feature.properties.locationId]);
+        const location = data.locations[feature.properties.locationId];
+        if (location && location.country && !location.state && location.aggregate === 'state') {
+          return false;
+        }
+        return isCountry(location);
       })
     };
 
@@ -26832,7 +26841,13 @@ return d[d.length-1];};return ", funcName].join("");
     createLegend(chartDataMin, chartDataMax);
   }
 
+  let rendered = false;
   function showMap() {
+    if (rendered) {
+      return;
+    }
+    rendered = true;
+
     document.body.classList.add('is-editing');
 
     map$1 = new mapboxgl.Map({
