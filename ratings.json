@@ -152,7 +152,17 @@
   },
   {
     "maintainers": [
-      null
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "USA",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
     ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
@@ -1274,6 +1284,17 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
     "sources": [
       {
@@ -1446,6 +1467,17 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
     "sources": [
       {
@@ -1464,6 +1496,17 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
     "sources": [
       {

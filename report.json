@@ -39,7 +39,17 @@
           "recovered": 0,
           "deaths": 1,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -1880,7 +1890,17 @@
           ],
           "state": "Mayotte",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -1948,6 +1968,17 @@
           "state": "Victoria",
           "cases": 296,
           "country": "AUS",
+          "maintainers": [
+            {
+              "name": "Cameron Chamberlain",
+              "email": "corona@camjc.com",
+              "github": "camjc",
+              "country": "AUS",
+              "state": "Victoria",
+              "city": "Melbourne",
+              "flag": "🇦🇺"
+            }
+          ],
           "sources": [
             {
               "description": "Victoria State Government Health and Human Services Department",
@@ -1980,7 +2011,17 @@
           ],
           "state": "Victoria",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2018,6 +2059,17 @@
           "state": "Queensland",
           "cases": 259,
           "country": "AUS",
+          "maintainers": [
+            {
+              "name": "Cameron Chamberlain",
+              "email": "corona@camjc.com",
+              "github": "camjc",
+              "country": "AUS",
+              "state": "Victoria",
+              "city": "Melbourne",
+              "flag": "🇦🇺"
+            }
+          ],
           "sources": [
             {
               "description": "QLD Government Health Department",
@@ -2050,7 +2102,17 @@
           ],
           "state": "Queensland",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2089,6 +2151,17 @@
           "cases": 19,
           "tested": 2414,
           "country": "AUS",
+          "maintainers": [
+            {
+              "name": "Cameron Chamberlain",
+              "email": "corona@camjc.com",
+              "github": "camjc",
+              "country": "AUS",
+              "state": "Victoria",
+              "city": "Melbourne",
+              "flag": "🇦🇺"
+            }
+          ],
           "sources": [
             {
               "description": "ACT Government Health Department",
@@ -2121,7 +2194,17 @@
           ],
           "state": "Australian Capital Territory",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2146,7 +2229,17 @@
           ],
           "state": "Guadeloupe",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2184,7 +2277,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2225,7 +2328,17 @@
             46.2276
           ],
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2263,7 +2376,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2314,7 +2437,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2352,7 +2485,17 @@
           "recovered": 0,
           "deaths": 1,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2390,7 +2533,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2428,7 +2581,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2466,7 +2629,17 @@
           "recovered": 0,
           "deaths": 1,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2505,7 +2678,17 @@
           "recovered": 0,
           "deaths": 9,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2544,7 +2727,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2583,7 +2776,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2621,7 +2824,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2659,7 +2872,17 @@
           "recovered": 0,
           "deaths": 3,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2712,7 +2935,17 @@
           "recovered": 0,
           "deaths": 20,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2751,7 +2984,17 @@
           "recovered": 0,
           "deaths": 2,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2804,7 +3047,17 @@
           "recovered": 0,
           "deaths": 5,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2843,7 +3096,17 @@
           "recovered": 0,
           "deaths": 4,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2882,7 +3145,17 @@
           "recovered": 0,
           "deaths": 3,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2920,7 +3193,17 @@
           "recovered": 0,
           "deaths": 1,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -2958,7 +3241,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3002,7 +3295,17 @@
           "recovered": 0,
           "deaths": 2,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3041,7 +3344,17 @@
           "recovered": 0,
           "deaths": 3,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3096,7 +3409,17 @@
           "recovered": 0,
           "deaths": 6,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3135,7 +3458,17 @@
           "recovered": 0,
           "deaths": 2,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3173,7 +3506,17 @@
           "recovered": 0,
           "deaths": 2,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3211,7 +3554,17 @@
           "recovered": 0,
           "deaths": 3,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3250,7 +3603,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3288,7 +3651,17 @@
           "recovered": 0,
           "deaths": 3,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3326,7 +3699,17 @@
           "recovered": 0,
           "deaths": 0,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3364,7 +3747,17 @@
           "recovered": 0,
           "deaths": 3,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3404,7 +3797,17 @@
           "recovered": 0,
           "deaths": 9,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3442,7 +3845,17 @@
           "recovered": 0,
           "deaths": 6,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3480,7 +3893,17 @@
           "recovered": 0,
           "deaths": 4,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3520,7 +3943,17 @@
           "recovered": 0,
           "deaths": 20,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3558,7 +3991,17 @@
           "recovered": 0,
           "deaths": 13,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3598,7 +4041,17 @@
           "recovered": 0,
           "deaths": 6,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3636,7 +4089,17 @@
           "recovered": 0,
           "deaths": 23,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3674,7 +4137,17 @@
           "recovered": 0,
           "deaths": 5,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3719,7 +4192,17 @@
           "recovered": 0,
           "deaths": 30,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3768,7 +4251,17 @@
           "recovered": 0,
           "deaths": 117,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3806,7 +4299,17 @@
           "recovered": 0,
           "deaths": 95,
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3849,7 +4352,17 @@
           ],
           "state": "Northern Territory",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3898,7 +4411,17 @@
           ],
           "state": "Tasmania",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3947,7 +4470,17 @@
           ],
           "state": "Western Australia",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -3996,7 +4529,17 @@
           ],
           "state": "South Australia",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -4044,7 +4587,17 @@
             40
           ],
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,
@@ -4087,7 +4640,17 @@
           ],
           "state": "New South Wales",
           "maintainers": [
-            null
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
           ],
           "url": "https://github.com/CSSEGISandData/COVID-19",
           "timeseries": true,

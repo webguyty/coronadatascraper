@@ -9443,18 +9443,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6257,20,,6237,,1.2587004626835647,2020-03-20
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6740,24,,6716,,1.0771935432315807,2020-03-21
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7361,32,,7329,,1.0921364985163204,2020-03-22
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,27,,,27,,,2020-03-11
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,31,,,31,,1.1481481481481481,2020-03-12
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,48,,1.5483870967741935,2020-03-13
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,60,,,60,,1.25,2020-03-14
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,103,,,103,,1.7166666666666666,2020-03-15
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,123,,,123,,1.1941747572815533,2020-03-16
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,145,1,,144,,1.1788617886178863,2020-03-17
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,196,1,,195,,1.3517241379310345,2020-03-18
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,253,,,253,,1.2908163265306123,2020-03-19
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,321,1,,320,,1.2687747035573123,2020-03-20
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,383,1,,382,,1.1931464174454829,2020-03-21
-,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,436,1,,435,,1.1383812010443863,2020-03-22
 ,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,25,,,25,,,2020-03-11
 ,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,52,,,52,,2.08,2020-03-12
 ,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,102,,,102,,1.9615384615384615,2020-03-13
@@ -9467,6 +9455,18 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,890,1,,889,,1.1882510013351135,2020-03-20
 ,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1062,2,,1060,,1.193258426966292,2020-03-21
 ,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1149,2,,1147,,1.0819209039548023,2020-03-22
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,27,,,27,,,2020-03-11
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,31,,,31,,1.1481481481481481,2020-03-12
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,48,,1.5483870967741935,2020-03-13
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,60,,,60,,1.25,2020-03-14
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,103,,,103,,1.7166666666666666,2020-03-15
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,123,,,123,,1.1941747572815533,2020-03-16
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,145,1,,144,,1.1788617886178863,2020-03-17
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,196,1,,195,,1.3517241379310345,2020-03-18
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,253,,,253,,1.2908163265306123,2020-03-19
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,321,1,,320,,1.2687747035573123,2020-03-20
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,383,1,,382,,1.1931464174454829,2020-03-21
+,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,436,1,,435,,1.1383812010443863,2020-03-22
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,14,,,14,,,2020-03-11
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,14,,,14,,1,2020-03-12
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,40,,,40,,2.857142857142857,2020-03-13
@@ -11816,20 +11816,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,1,2020-03-20
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,1,2020-03-21
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,1,2020-03-22
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,7,,,7,,1.75,2020-03-17
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,11,,,11,,1.5714285714285714,2020-03-18
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,18,,,18,,1.6363636363636365,2020-03-19
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,54,1,,53,,,2020-03-22
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,8,,,8,,2,2020-03-17
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,10,,,10,,1.25,2020-03-18
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,23,,,23,,2.3,2020-03-19
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,29,,,29,,,2020-03-22
 ,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,6,,,6,,,2020-03-14
 ,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,10,,,10,,,2020-03-18
 ,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,10,,,10,,1,2020-03-19
@@ -11860,6 +11846,20 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,15,,,15,,1.6666666666666667,2020-03-20
 ,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,21,,,21,,1.4,2020-03-21
 ,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,21,,,21,,1,2020-03-22
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,7,,,7,,1.75,2020-03-17
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,11,,,11,,1.5714285714285714,2020-03-18
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,18,,,18,,1.6363636363636365,2020-03-19
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,54,1,,53,,,2020-03-22
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,8,,,8,,2,2020-03-17
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,10,,,10,,1.25,2020-03-18
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,23,,,23,,2.3,2020-03-19
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,29,,,29,,,2020-03-22
 ,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,,,2020-03-14
 ,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,2,,,2,,2,2020-03-15
 ,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,3,,,3,,1.5,2020-03-16
@@ -14475,6 +14475,51 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,York County,ME,USA,206229,43.436986,-70.6693605,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,8,,,8,,1,2020-03-22
 ,(unassigned),ME,USA,,,,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,3,,,3,,,2020-03-21
 ,(unassigned),ME,USA,,,,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,8,,,8,,2.6666666666666665,2020-03-22
+,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
+,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1.3333333333333333,2020-03-22
+,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
+,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,,2020-03-21
+,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,11,,,11,,1.5714285714285714,2020-03-22
+,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
+,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,1,2020-03-22
+,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,52,,,52,,,2020-03-21
+,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,57,,,57,,1.0961538461538463,2020-03-22
+,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,5,,,5,,,2020-03-21
+,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,8,,,8,,1.6,2020-03-22
+,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
+,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,6,,,6,,2,2020-03-22
+,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
+,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
+,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
+,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1,2020-03-22
+,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
+,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
+,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,1.75,2020-03-22
+,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
+,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1,2020-03-22
+,Cass County,MN,USA,29519,46.8792245,-94.280568,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-22
 ,Barry County,MI,USA,61157,42.595316499999996,-85.30858649999999,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-21
 ,Barry County,MI,USA,61157,42.595316499999996,-85.30858649999999,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,1,2020-03-22
 ,Bay County,MI,USA,103923,43.7379655,-83.9334715,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-21
@@ -14532,51 +14577,6 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Gladwin County,MI,USA,25337,43.987674,-84.38710549999999,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-22
 ,Grand Traverse County,MI,USA,92573,44.751678,-85.5753445,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-22
 ,Roscommon County,MI,USA,23884,44.3357755,-84.611917,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-22
-,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
-,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1.3333333333333333,2020-03-22
-,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
-,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,,2020-03-21
-,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,11,,,11,,1.5714285714285714,2020-03-22
-,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
-,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,1,2020-03-22
-,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,52,,,52,,,2020-03-21
-,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,57,,,57,,1.0961538461538463,2020-03-22
-,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,5,,,5,,,2020-03-21
-,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,8,,,8,,1.6,2020-03-22
-,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
-,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,6,,,6,,2,2020-03-22
-,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
-,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
-,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
-,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1,2020-03-22
-,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
-,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
-,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,1.75,2020-03-22
-,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
-,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1,2020-03-22
-,Cass County,MN,USA,29519,46.8792245,-94.280568,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-22
 ,Broadwater County,MT,USA,6085,46.30766,-111.4225565,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,,2020-03-21
 ,Broadwater County,MT,USA,6085,46.30766,-111.4225565,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,1,2020-03-22
 ,Flathead County,MT,USA,102106,48.2988765,-113.94934699999999,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,2,,,2,,,2020-03-21
