@@ -2730,7 +2730,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,WA,USA,7614893,47.27941361449236,-120.80671709265283,https://www.doh.wa.gov/Emergencies/Coronavirus,1187,66,,1121,17105,1,2020-03-19
 ,,WA,USA,7614893,47.27941361449236,-120.80671709265283,https://www.doh.wa.gov/Emergencies/Coronavirus,1376,74,,1302,20712,1.1592249368155012,2020-03-20
 ,,WA,USA,7614893,47.27941361449236,-120.80671709265283,https://www.doh.wa.gov/Emergencies/Coronavirus,1786,92,,1694,,1.2979651162790697,2020-03-21
-,,WA,USA,7614893,47.27941361449236,-120.80671709265283,https://www.doh.wa.gov/Emergencies/Coronavirus,1786,92,,1694,,1,2020-03-22
+,,WA,USA,7614893,47.27941361449236,-120.80671709265283,https://www.doh.wa.gov/Emergencies/Coronavirus,1989,93,,1896,,1.1136618141097425,2020-03-22
 ,,NY,USA,19453561,42.76080525150005,-75.8409706677239,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,173,,,173,,,2020-03-10
 ,,NY,USA,19453561,42.76080525150005,-75.8409706677239,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,220,,,220,,1.2716763005780347,2020-03-11
 ,,NY,USA,19453561,42.76080525150005,-75.8409706677239,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,328,,,328,,1.490909090909091,2020-03-12
@@ -5984,7 +5984,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,12,,,12,,1.3333333333333333,2020-03-19
 ,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,12,,,12,,1,2020-03-20
 ,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,15,,,15,,1.25,2020-03-21
-,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,15,,,15,,1,2020-03-22
+,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,18,,,18,,1.2,2020-03-22
 ,Solano County,CA,USA,446610,38.2871145,-122.0001255,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,3,,,3,,,2020-03-10
 ,Solano County,CA,USA,446610,38.2871145,-122.0001255,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,3,,,3,,1,2020-03-11
 ,Solano County,CA,USA,446610,38.2871145,-122.0001255,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,6,,,6,,,2020-03-13
@@ -6746,7 +6746,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,4,3,,1,,1,2020-03-19
 ,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,6,3,,3,,1.5,2020-03-20
 ,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,9,3,,6,,1.5,2020-03-21
-,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,9,3,,6,,1,2020-03-22
+,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,10,3,,7,,1.1111111111111112,2020-03-22
 ,Cobb County,GA,USA,756865,33.911453,-84.55718949999999,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,,2020-03-07
 ,Cobb County,GA,USA,756865,33.911453,-84.55718949999999,https://dph.georgia.gov/covid-19-daily-status-report,1,,,1,,1,2020-03-08
 ,Cobb County,GA,USA,756865,33.911453,-84.55718949999999,https://dph.georgia.gov/covid-19-daily-status-report,3,,,3,,3,2020-03-09
@@ -6810,7 +6810,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,1,2020-03-19
 ,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,1,2020-03-20
 ,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,1,2020-03-21
-,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,1,2020-03-22
+,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,6,,,6,,1.5,2020-03-22
 ,Klamath County,OR,USA,67653,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-07
 ,Klamath County,OR,USA,67653,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-08
 ,Klamath County,OR,USA,67653,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-09
@@ -6855,7 +6855,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,75,1,,74,,1.3392857142857142,2020-03-19
 ,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,83,1,,82,,1.1066666666666667,2020-03-20
 ,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,95,1,,94,,1.144578313253012,2020-03-21
-,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,95,1,,94,,1,2020-03-22
+,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,107,1,,106,,1.1263157894736842,2020-03-22
 ,Tulsa County,OK,USA,648360,36.139793,-96.029769,https://coronavirus.health.ok.gov/,1,,,1,,,2020-03-07
 ,Tulsa County,OK,USA,648360,36.139793,-96.029769,https://coronavirus.health.ok.gov/,1,,,1,,1,2020-03-08
 ,Tulsa County,OK,USA,648360,36.139793,-96.029769,https://coronavirus.health.ok.gov/,1,,,1,,1,2020-03-09
@@ -7115,7 +7115,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,8,1,,7,,1,2020-03-19
 ,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,8,1,,7,,1,2020-03-20
 ,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,11,1,,10,,1.375,2020-03-21
-,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,11,1,,10,,1,2020-03-22
+,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,18,1,,17,,1.6363636363636365,2020-03-22
 ,Santa Rosa County,FL,USA,179349,30.669196499999998,-87.047978,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,,,2020-03-05
 ,Santa Rosa County,FL,USA,179349,30.669196499999998,-87.047978,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,,1,2020-03-06
 ,Santa Rosa County,FL,USA,179349,30.669196499999998,-87.047978,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,,1,2020-03-07
@@ -7638,7 +7638,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,348,7,,341,,1.1225806451612903,2020-03-19
 ,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,385,8,,377,,1.1063218390804597,2020-03-20
 ,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,447,10,,437,,1.161038961038961,2020-03-21
-,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,447,10,,437,,1,2020-03-22
+,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,480,10,,470,,1.0738255033557047,2020-03-22
 ,Humboldt County,CA,USA,136373,40.733564,-123.9078155,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,1,,,1,,,2020-02-21
 ,Humboldt County,CA,USA,136373,40.733564,-123.9078155,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,1,,,1,,1,2020-02-22
 ,Humboldt County,CA,USA,136373,40.733564,-123.9078155,https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master,1,,,1,,1,2020-02-23
@@ -7891,7 +7891,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,693,60,,633,,1.2330960854092528,2020-03-19
 ,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,793,67,,726,,1.1443001443001444,2020-03-20
 ,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,934,74,,860,,1.1778058007566203,2020-03-21
-,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,934,74,,860,,1,2020-03-22
+,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,1040,75,,965,,1.113490364025696,2020-03-22
 ,Cook County,IL,USA,5180493,41.811950499999995,-87.893711,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,1,,,1,,,2020-01-24
 ,Cook County,IL,USA,5180493,41.811950499999995,-87.893711,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,1,,,1,,1,2020-01-25
 ,Cook County,IL,USA,5180493,41.811950499999995,-87.893711,http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json,1,,,1,,1,2020-01-26
@@ -7956,7 +7956,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,18,,,18,,1.2857142857142858,2020-03-19
 ,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,25,,,25,,1.3888888888888888,2020-03-20
 ,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,28,,,28,,1.12,2020-03-21
-,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,28,,,28,,1,2020-03-22
+,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,33,,,33,,1.1785714285714286,2020-03-22
 ,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-11
 ,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-13
 ,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,3,,3,2020-03-14
@@ -7967,7 +7967,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,6,,,6,,1,2020-03-19
 ,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,6,,,6,,1,2020-03-20
 ,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,9,,,9,,1.5,2020-03-21
-,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,9,,,9,,1,2020-03-22
+,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,11,,,11,,1.2222222222222223,2020-03-22
 ,Whatcom County,WA,USA,225685,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-11
 ,Whatcom County,WA,USA,225685,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-13
 ,Whatcom County,WA,USA,225685,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,2,2020-03-14
@@ -9443,18 +9443,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6257,20,,6237,,1.2587004626835647,2020-03-20
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6740,24,,6716,,1.0771935432315807,2020-03-21
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7361,32,,7329,,1.0921364985163204,2020-03-22
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,25,,,25,,,2020-03-11
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,52,,,52,,2.08,2020-03-12
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,102,,,102,,1.9615384615384615,2020-03-13
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,121,,,121,,1.1862745098039216,2020-03-14
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,168,,1.3884297520661157,2020-03-15
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,325,,,325,,1.9345238095238095,2020-03-16
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,435,,,435,,1.3384615384615384,2020-03-17
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,603,,,603,,1.3862068965517242,2020-03-18
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,749,,,749,,1.24212271973466,2020-03-19
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,890,1,,889,,1.1882510013351135,2020-03-20
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1062,2,,1060,,1.193258426966292,2020-03-21
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1149,2,,1147,,1.0819209039548023,2020-03-22
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,27,,,27,,,2020-03-11
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,31,,,31,,1.1481481481481481,2020-03-12
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,48,,1.5483870967741935,2020-03-13
@@ -9467,6 +9455,18 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,321,1,,320,,1.2687747035573123,2020-03-20
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,383,1,,382,,1.1931464174454829,2020-03-21
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,436,1,,435,,1.1383812010443863,2020-03-22
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,25,,,25,,,2020-03-11
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,52,,,52,,2.08,2020-03-12
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,102,,,102,,1.9615384615384615,2020-03-13
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,121,,,121,,1.1862745098039216,2020-03-14
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,168,,1.3884297520661157,2020-03-15
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,325,,,325,,1.9345238095238095,2020-03-16
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,435,,,435,,1.3384615384615384,2020-03-17
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,603,,,603,,1.3862068965517242,2020-03-18
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,749,,,749,,1.24212271973466,2020-03-19
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,890,1,,889,,1.1882510013351135,2020-03-20
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1062,2,,1060,,1.193258426966292,2020-03-21
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1149,2,,1147,,1.0819209039548023,2020-03-22
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,14,,,14,,,2020-03-11
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,14,,,14,,1,2020-03-12
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,40,,,40,,2.857142857142857,2020-03-13
@@ -10459,35 +10459,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,40,,,40,,1.4814814814814814,2020-03-20
 ,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,69,,,69,,1.725,2020-03-21
 ,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,112,,,112,,1.6231884057971016,2020-03-22
-,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,0.5,,,0.5,,,2020-03-14
-,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,2,,,2,,,2020-03-19
-,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,3,,,3,,1.5,2020-03-20
-,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,3,,,3,,1,2020-03-21
-,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,3,,,3,,1,2020-03-22
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,14,,,14,,,2020-03-14
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,2,,,2,,,2020-03-16
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-17
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-18
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,31,,,31,,15.5,2020-03-19
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,46,,,46,,1.4838709677419355,2020-03-20
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,60,,,60,,1.3043478260869565,2020-03-21
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,60,,,60,,1,2020-03-22
-,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,1,,,1,,,2020-03-19
-,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,2,,,2,,2,2020-03-20
-,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-21
-,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-22
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,,2020-03-15
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,1,2020-03-16
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,1,2020-03-17
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,1,2020-03-18
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,3,,,3,,3,2020-03-19
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,3,,,3,,1,2020-03-20
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,4,,,4,,1.3333333333333333,2020-03-21
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,4,,,4,,1,2020-03-22
-,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,3,,,3,,,2020-03-19
-,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,4,,,4,,1.3333333333333333,2020-03-20
-,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,7,,,7,,1.75,2020-03-21
-,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,7,,,7,,1,2020-03-22
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,,2020-03-13
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,1,2020-03-14
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,1,2020-03-15
@@ -10663,6 +10634,35 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Williamson County,TX,USA,566719,30.654515500000002,-97.6025525,https://www.dshs.state.tx.us/news/updates.shtm,8,,,8,,4,2020-03-20
 ,Williamson County,TX,USA,566719,30.654515500000002,-97.6025525,https://www.dshs.state.tx.us/news/updates.shtm,8,,,8,,1,2020-03-21
 ,Williamson County,TX,USA,566719,30.654515500000002,-97.6025525,https://www.dshs.state.tx.us/news/updates.shtm,9,,,9,,1.125,2020-03-22
+,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,0.5,,,0.5,,,2020-03-14
+,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,2,,,2,,,2020-03-19
+,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,3,,,3,,1.5,2020-03-20
+,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,3,,,3,,1,2020-03-21
+,Morgan County,UT,USA,12045,41.0769745,-111.549031,https://coronavirus-dashboard.utah.gov/,3,,,3,,1,2020-03-22
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,14,,,14,,,2020-03-14
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,2,,,2,,,2020-03-16
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-17
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-18
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,31,,,31,,15.5,2020-03-19
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,46,,,46,,1.4838709677419355,2020-03-20
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,60,,,60,,1.3043478260869565,2020-03-21
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus-dashboard.utah.gov/,60,,,60,,1,2020-03-22
+,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,1,,,1,,,2020-03-19
+,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,2,,,2,,2,2020-03-20
+,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-21
+,Tooele County,UT,USA,69907,40.490421,-113.09571600000001,https://coronavirus-dashboard.utah.gov/,2,,,2,,1,2020-03-22
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,,2020-03-15
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,1,2020-03-16
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,1,2020-03-17
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,1,,,1,,1,2020-03-18
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,3,,,3,,3,2020-03-19
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,3,,,3,,1,2020-03-20
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,4,,,4,,1.3333333333333333,2020-03-21
+,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus-dashboard.utah.gov/,4,,,4,,1,2020-03-22
+,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,3,,,3,,,2020-03-19
+,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,4,,,4,,1.3333333333333333,2020-03-20
+,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,7,,,7,,1.75,2020-03-21
+,Wasatch County,UT,USA,33240,40.294765,-111.25642,https://coronavirus-dashboard.utah.gov/,7,,,7,,1,2020-03-22
 ,Mason County,WA,USA,65507,47.344863000000004,-123.153076,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-18
 ,Mason County,WA,USA,65507,47.344863000000004,-123.153076,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-19
 ,Mason County,WA,USA,65507,47.344863000000004,-123.153076,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-20
@@ -10680,6 +10680,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Columbia County,WA,USA,4059,46.3118295,-117.92289099999999,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-22
 ,Stevens County,WA,USA,45260,48.396499000000006,-117.91595799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-21
 ,Stevens County,WA,USA,45260,48.396499000000006,-117.91595799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-22
+,Walla Walla County,WA,USA,60922,46.303333499999994,-118.516355,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-22
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,,2020-03-13
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,2,2020-03-14
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,1,2020-03-15
@@ -10689,7 +10690,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,7,,,7,,1,2020-03-19
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,10,,,10,,1.4285714285714286,2020-03-20
 ,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,13,,,13,,1.3,2020-03-21
-,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,13,,,13,,1,2020-03-22
+,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,16,,,16,,1.2307692307692308,2020-03-22
 ,Chelan County,WA,USA,77036,47.905806999999996,-120.52038999999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,,2020-03-17
 ,Chelan County,WA,USA,77036,47.905806999999996,-120.52038999999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-18
 ,Chelan County,WA,USA,77036,47.905806999999996,-120.52038999999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-19
@@ -10699,15 +10700,15 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Clallam County,WA,USA,76737,48.12876,-123.825558,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-19
 ,Clallam County,WA,USA,76737,48.12876,-123.825558,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-20
 ,Clallam County,WA,USA,76737,48.12876,-123.825558,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,2,2020-03-21
-,Clallam County,WA,USA,76737,48.12876,-123.825558,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-22
+,Clallam County,WA,USA,76737,48.12876,-123.825558,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,4,,2,2020-03-22
 ,Cowlitz County,WA,USA,108987,46.117914,-122.7288965,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-20
 ,Cowlitz County,WA,USA,108987,46.117914,-122.7288965,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,2,2020-03-21
-,Cowlitz County,WA,USA,108987,46.117914,-122.7288965,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-22
+,Cowlitz County,WA,USA,108987,46.117914,-122.7288965,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,3,,1.5,2020-03-22
 ,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-18
 ,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,2,2020-03-19
 ,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-20
 ,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-21
-,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,1,2020-03-22
+,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,3,,1.5,2020-03-22
 ,Grays Harbor County,WA,USA,73901,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-13
 ,Grays Harbor County,WA,USA,73901,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-14
 ,Grays Harbor County,WA,USA,73901,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-15
@@ -10727,7 +10728,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,17,1,,16,,1.0625,2020-03-19
 ,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,19,1,,18,,1.1176470588235294,2020-03-20
 ,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,19,1,,18,,1,2020-03-21
-,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,19,1,,18,,1,2020-03-22
+,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,21,1,,20,,1.105263157894737,2020-03-22
 ,Klickitat County,WA,USA,22107,45.825073,-120.739452,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-17
 ,Klickitat County,WA,USA,22107,45.825073,-120.739452,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-18
 ,Klickitat County,WA,USA,22107,45.825073,-120.739452,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,2,2020-03-19
@@ -10759,7 +10760,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Spokane County,WA,USA,514631,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,9,,,9,,2.25,2020-03-19
 ,Spokane County,WA,USA,514631,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,11,,,11,,1.2222222222222223,2020-03-20
 ,Spokane County,WA,USA,514631,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,16,,,16,,1.4545454545454546,2020-03-21
-,Spokane County,WA,USA,514631,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,16,,,16,,1,2020-03-22
+,Spokane County,WA,USA,514631,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,20,,,20,,1.25,2020-03-22
 ,Bayfield County,WI,USA,15042,46.5779685,-91.1523555,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,1,,,1,,,2020-03-19
 ,Bayfield County,WI,USA,15042,46.5779685,-91.1523555,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,1,,,1,,1,2020-03-20
 ,Bayfield County,WI,USA,15042,46.5779685,-91.1523555,https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=,1,,,1,,1,2020-03-21
@@ -11805,7 +11806,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,(unassigned),WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,151,,,151,,0.9041916167664671,2020-03-19
 ,(unassigned),WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,133,,,133,,0.8807947019867549,2020-03-20
 ,(unassigned),WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,147,,,147,,1.105263157894737,2020-03-21
-,(unassigned),WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,147,,,147,,1,2020-03-22
+,(unassigned),WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,165,,,165,,1.1224489795918366,2020-03-22
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,,2020-03-14
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-15
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-16
@@ -11815,6 +11816,20 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,1,2020-03-20
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,1,2020-03-21
 ,,Prince Edward Island,CAN,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,1,2020-03-22
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,7,,,7,,1.75,2020-03-17
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,11,,,11,,1.5714285714285714,2020-03-18
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,18,,,18,,1.6363636363636365,2020-03-19
+,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,54,1,,53,,,2020-03-22
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,8,,,8,,2,2020-03-17
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,10,,,10,,1.25,2020-03-18
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,23,,,23,,2.3,2020-03-19
+,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,29,,,29,,,2020-03-22
 ,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,6,,,6,,,2020-03-14
 ,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,10,,,10,,,2020-03-18
 ,Adams County,CO,USA,511720,39.87063,-104.3794855,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,10,,,10,,1,2020-03-19
@@ -11845,20 +11860,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,15,,,15,,1.6666666666666667,2020-03-20
 ,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,21,,,21,,1.4,2020-03-21
 ,Weld County,CO,USA,314288,40.5011525,-104.315327,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,21,,,21,,1,2020-03-22
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,7,,,7,,1.75,2020-03-17
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,11,,,11,,1.5714285714285714,2020-03-18
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,18,,,18,,1.6363636363636365,2020-03-19
-,Hartford County,CT,USA,892697,41.7926935,-72.71937700000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,54,1,,53,,,2020-03-22
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,1,,,1,,,2020-03-14
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,3,,,3,,3,2020-03-15
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,4,,,4,,1.3333333333333333,2020-03-16
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,8,,,8,,2,2020-03-17
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,10,,,10,,1.25,2020-03-18
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,23,,,23,,2.3,2020-03-19
-,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf,29,,,29,,,2020-03-22
 ,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,1,,,1,,,2020-03-14
 ,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,2,,,2,,2,2020-03-15
 ,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_Testing/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=true&spatialRel=esriSpatialRelIntersects&maxAllowableOffset=4891&geometry=%7B%22xmin%22%3A-10018754.1713954%2C%22ymin%22%3A2504688.542850271%2C%22xmax%22%3A-7514065.628547024%2C%22ymax%22%3A5009377.085698649%2C%22spatialReference%22%3A%7B%22wkid%22%3A102100%2C%22latestWkid%22%3A3857%7D%7D&geometryType=esriGeometryEnvelope&inSR=102100&outFields=*&outSR=102100&resultType=tile,3,,,3,,1.5,2020-03-16
@@ -14474,51 +14475,6 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,York County,ME,USA,206229,43.436986,-70.6693605,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,8,,,8,,1,2020-03-22
 ,(unassigned),ME,USA,,,,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,3,,,3,,,2020-03-21
 ,(unassigned),ME,USA,,,,https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml,8,,,8,,2.6666666666666665,2020-03-22
-,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
-,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1.3333333333333333,2020-03-22
-,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
-,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,,2020-03-21
-,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,11,,,11,,1.5714285714285714,2020-03-22
-,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
-,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,1,2020-03-22
-,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,52,,,52,,,2020-03-21
-,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,57,,,57,,1.0961538461538463,2020-03-22
-,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,5,,,5,,,2020-03-21
-,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,8,,,8,,1.6,2020-03-22
-,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
-,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,6,,,6,,2,2020-03-22
-,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
-,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
-,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
-,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1,2020-03-22
-,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
-,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
-,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
-,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
-,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
-,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,1.75,2020-03-22
-,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
-,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1,2020-03-22
-,Cass County,MN,USA,29519,46.8792245,-94.280568,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-22
 ,Barry County,MI,USA,61157,42.595316499999996,-85.30858649999999,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-21
 ,Barry County,MI,USA,61157,42.595316499999996,-85.30858649999999,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,1,2020-03-22
 ,Bay County,MI,USA,103923,43.7379655,-83.9334715,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-21
@@ -14576,6 +14532,51 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Gladwin County,MI,USA,25337,43.987674,-84.38710549999999,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-22
 ,Grand Traverse County,MI,USA,92573,44.751678,-85.5753445,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-22
 ,Roscommon County,MI,USA,23884,44.3357755,-84.611917,"https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",1,,,1,,,2020-03-22
+,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Benton County,MN,USA,40545,45.6906045,-94.0563,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
+,Blue Earth County,MN,USA,67427,44.056197,-94.069746,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1.3333333333333333,2020-03-22
+,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Chisago County,MN,USA,55922,45.5132505,-92.894288,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Clay County,MN,USA,63955,46.890294,-96.50343649999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
+,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,,2020-03-21
+,Dakota County,MN,USA,425423,44.6957595,-93.03082850000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,11,,,11,,1.5714285714285714,2020-03-22
+,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Dodge County,MN,USA,20822,44.0225965,-92.862189,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,2,2020-03-22
+,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Filmore County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,1,2020-03-22
+,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,52,,,52,,,2020-03-21
+,Hennepin County,MN,USA,1259428,45.0161545,-93.47295299999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,57,,,57,,1.0961538461538463,2020-03-22
+,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Jackson County,MN,USA,9911,43.6741695,-95.1544385,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,5,,,5,,,2020-03-21
+,Martin County,MN,USA,19785,43.6742145,-94.550839,https://www.health.state.mn.us/diseases/coronavirus/situation.html,8,,,8,,1.6,2020-03-22
+,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
+,Mower County,MN,USA,40011,43.674059,-92.749236,https://www.health.state.mn.us/diseases/coronavirus/situation.html,6,,,6,,2,2020-03-22
+,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Nicollet County,MN,USA,34220,44.3060845,-94.354921,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
+,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Renville County,MN,USA,14612,44.674182,-94.9903095,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Rice County,MN,USA,66523,44.369966,-93.28235749999999,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Scott County,MN,USA,147381,44.678084999999996,-93.59428700000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
+,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
+,Stearns County,MN,USA,159256,45.529002500000004,-94.5935915,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,1,2020-03-22
+,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,St. Louis County,MN,USA,199754,47.640367,-92.444011,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,2,,,2,,,2020-03-21
+,Steele County,MN,USA,36803,44.022418,-93.22627600000001,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1.5,2020-03-22
+,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Wabasha County,MN,USA,21645,44.2810725,-92.204632,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-21
+,Waseca County,MN,USA,18691,44.0221665,-93.587268,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,1,2020-03-22
+,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,4,,,4,,,2020-03-21
+,Washington County,MN,USA,259201,45.021316999999996,-92.8805245,https://www.health.state.mn.us/diseases/coronavirus/situation.html,7,,,7,,1.75,2020-03-22
+,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,,2020-03-21
+,Wright County,MN,USA,136349,45.2004125,-93.8893675,https://www.health.state.mn.us/diseases/coronavirus/situation.html,3,,,3,,1,2020-03-22
+,Cass County,MN,USA,29519,46.8792245,-94.280568,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,1,,,2020-03-22
 ,Broadwater County,MT,USA,6085,46.30766,-111.4225565,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,,2020-03-21
 ,Broadwater County,MT,USA,6085,46.30766,-111.4225565,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,1,,,1,,1,2020-03-22
 ,Flathead County,MT,USA,102106,48.2988765,-113.94934699999999,https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true,2,,,2,,,2020-03-21

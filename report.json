@@ -3818,12 +3818,12 @@
           "rating": 0.4634146341463415
         },
         {
-          "cases": 1786,
-          "deaths": 92,
+          "cases": 1989,
+          "deaths": 93,
           "state": "WA",
           "country": "USA",
           "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-          "active": 1694,
+          "active": 1896,
           "rating": 0.36585365853658536,
           "coordinates": [
             -120.80671709265283,

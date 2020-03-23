@@ -2108,7 +2108,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1470,
+    "featureId": 1453,
     "population": 6045680,
     "name": "MD, USA"
   },
@@ -2967,7 +2967,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1446,
+    "featureId": 1470,
     "population": 1344212,
     "name": "ME, USA"
   },
@@ -4797,7 +4797,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1462,
+    "featureId": 1445,
     "population": 909308,
     "name": "Prince George's County, MD, USA"
   },
@@ -5362,7 +5362,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1458,
+    "featureId": 1441,
     "population": 253956,
     "name": "Harford County, MD, USA"
   },
@@ -6568,7 +6568,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1461,
+    "featureId": 1444,
     "population": 1052567,
     "name": "Montgomery County, MD, USA"
   },
@@ -7345,7 +7345,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2914,
+    "featureId": 2915,
     "population": 225685,
     "name": "Whatcom County, WA, USA"
   },
@@ -9240,45 +9240,6 @@
   },
   {
     "coordinates": [
-      7.295141232392936,
-      49.90656550694859
-    ],
-    "population": 4070000.0000000005,
-    "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
-    "sources": [
-      {
-        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
-        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
-        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
-      }
-    ],
-    "curators": [
-      {
-        "name": "Dr. Jan-Philip Gehrcke",
-        "email": "jgehrcke@googlemail.com",
-        "url": "https://gehrcke.de",
-        "github": "jgehrcke"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Dr. Jan-Philip Gehrcke",
-        "email": "jgehrcke@googlemail.com",
-        "url": "https://gehrcke.de",
-        "github": "jgehrcke"
-      }
-    ],
-    "country": "DEU",
-    "state": "DE-RP",
-    "rating": 0.36585365853658536,
-    "tz": [
-      "Europe/Berlin"
-    ],
-    "featureId": 288,
-    "name": "DE-RP, DEU"
-  },
-  {
-    "coordinates": [
       9.942393425500086,
       54.138866681898854
     ],
@@ -9315,6 +9276,45 @@
     ],
     "featureId": 289,
     "name": "DE-SH, DEU"
+  },
+  {
+    "coordinates": [
+      7.295141232392936,
+      49.90656550694859
+    ],
+    "population": 4070000.0000000005,
+    "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "country": "DEU",
+    "state": "DE-RP",
+    "rating": 0.36585365853658536,
+    "tz": [
+      "Europe/Berlin"
+    ],
+    "featureId": 288,
+    "name": "DE-RP, DEU"
   },
   {
     "coordinates": [
@@ -9469,7 +9469,7 @@
     "tz": [
       "Europe/Berlin"
     ],
-    "featureId": 434,
+    "featureId": 293,
     "name": "DE-TH, DEU"
   },
   {
@@ -13910,448 +13910,6 @@
     "name": "(unassigned), TN, USA"
   },
   {
-    "county": "Beaver County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -113.192927,
-      38.3619385
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2873,
-    "population": 6580,
-    "name": "Beaver County, UT, USA"
-  },
-  {
-    "county": "Box Elder County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -112.957899,
-      41.5005715
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2874,
-    "population": 54950,
-    "name": "Box Elder County, UT, USA"
-  },
-  {
-    "county": "Cache County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.786214,
-      41.6843775
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2875,
-    "population": 127068,
-    "name": "Cache County, UT, USA"
-  },
-  {
-    "county": "Carbon County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -110.56897649999999,
-      39.640872
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2876,
-    "population": 20269,
-    "name": "Carbon County, UT, USA"
-  },
-  {
-    "county": "Daggett County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -109.524541,
-      40.832222
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2868,
-    "population": 980,
-    "name": "Daggett County, UT, USA"
-  },
-  {
-    "county": "Duchesne County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -110.43572950000001,
-      40.320004
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2867,
-    "population": 19964,
-    "name": "Duchesne County, UT, USA"
-  },
-  {
-    "county": "Emery County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -110.647614,
-      39.1022945
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2877,
-    "population": 10014,
-    "name": "Emery County, UT, USA"
-  },
-  {
-    "county": "Garfield County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.30855199999999,
-      37.84478
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2878,
-    "population": 5080,
-    "name": "Garfield County, UT, USA"
-  },
-  {
-    "county": "Grand County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -109.6150085,
-      38.999826999999996
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2879,
-    "population": 9764,
-    "name": "Grand County, UT, USA"
-  },
-  {
-    "county": "Iron County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -113.25971899999999,
-      37.811655
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2880,
-    "population": 52775,
-    "name": "Iron County, UT, USA"
-  },
-  {
-    "county": "Juab County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -112.81630949999999,
-      39.663012
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2881,
-    "population": 11555,
-    "name": "Juab County, UT, USA"
-  },
-  {
-    "county": "Kane County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.7738475,
-      37.2718585
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2882,
-    "population": 7709,
-    "name": "Kane County, UT, USA"
-  },
-  {
-    "county": "Millard County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -113.03217599999999,
-      39.063857
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2883,
-    "population": 13006,
-    "name": "Millard County, UT, USA"
-  },
-  {
-    "county": "Morgan County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.549031,
-      41.0769745
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2872,
-    "population": 12045,
-    "name": "Morgan County, UT, USA"
-  },
-  {
-    "county": "Piute County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -112.14262249999999,
-      38.32891
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2884,
-    "population": 1445,
-    "name": "Piute County, UT, USA"
-  },
-  {
-    "county": "Rich County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.278314,
-      41.572086999999996
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2885,
-    "population": 2464,
-    "name": "Rich County, UT, USA"
-  },
-  {
-    "county": "Salt Lake County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.9083075,
-      40.66808399999999
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2862,
-    "population": 1152633,
-    "name": "Salt Lake County, UT, USA"
-  },
-  {
-    "county": "San Juan County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -110.226921,
-      37.748977499999995
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2863,
-    "population": 15449,
-    "name": "San Juan County, UT, USA"
-  },
-  {
-    "county": "Sanpete County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.63147599999999,
-      39.422766499999994
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2886,
-    "population": 30623,
-    "name": "Sanpete County, UT, USA"
-  },
-  {
-    "county": "Sevier County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.9083495,
-      38.7736525
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2887,
-    "population": 21539,
-    "name": "Sevier County, UT, USA"
-  },
-  {
-    "county": "Tooele County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -113.09571600000001,
-      40.490421
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2865,
-    "population": 69907,
-    "name": "Tooele County, UT, USA"
-  },
-  {
-    "county": "Uintah County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -109.54294300000001,
-      40.160168
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2866,
-    "population": 35438,
-    "name": "Uintah County, UT, USA"
-  },
-  {
-    "county": "Utah County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.5347685,
-      40.176925999999995
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2869,
-    "population": 622213,
-    "name": "Utah County, UT, USA"
-  },
-  {
-    "county": "Wasatch County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -111.25642,
-      40.294765
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2870,
-    "population": 33240,
-    "name": "Wasatch County, UT, USA"
-  },
-  {
-    "county": "Washington County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -113.476164,
-      37.309175499999995
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2888,
-    "population": 171700,
-    "name": "Washington County, UT, USA"
-  },
-  {
-    "county": "Wayne County",
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -110.86878300000001,
-      38.33013
-    ],
-    "tz": [
-      "America/Denver"
-    ],
-    "featureId": 2889,
-    "population": 2690,
-    "name": "Wayne County, UT, USA"
-  },
-  {
     "county": "Anderson County",
     "state": "TX",
     "country": "USA",
@@ -18551,6 +18109,448 @@
     "name": "Zavala County, TX, USA"
   },
   {
+    "county": "Beaver County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -113.192927,
+      38.3619385
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2873,
+    "population": 6580,
+    "name": "Beaver County, UT, USA"
+  },
+  {
+    "county": "Box Elder County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -112.957899,
+      41.5005715
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2874,
+    "population": 54950,
+    "name": "Box Elder County, UT, USA"
+  },
+  {
+    "county": "Cache County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.786214,
+      41.6843775
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2875,
+    "population": 127068,
+    "name": "Cache County, UT, USA"
+  },
+  {
+    "county": "Carbon County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -110.56897649999999,
+      39.640872
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2876,
+    "population": 20269,
+    "name": "Carbon County, UT, USA"
+  },
+  {
+    "county": "Daggett County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -109.524541,
+      40.832222
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2868,
+    "population": 980,
+    "name": "Daggett County, UT, USA"
+  },
+  {
+    "county": "Duchesne County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -110.43572950000001,
+      40.320004
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2867,
+    "population": 19964,
+    "name": "Duchesne County, UT, USA"
+  },
+  {
+    "county": "Emery County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -110.647614,
+      39.1022945
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2877,
+    "population": 10014,
+    "name": "Emery County, UT, USA"
+  },
+  {
+    "county": "Garfield County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.30855199999999,
+      37.84478
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2878,
+    "population": 5080,
+    "name": "Garfield County, UT, USA"
+  },
+  {
+    "county": "Grand County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -109.6150085,
+      38.999826999999996
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2879,
+    "population": 9764,
+    "name": "Grand County, UT, USA"
+  },
+  {
+    "county": "Iron County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -113.25971899999999,
+      37.811655
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2880,
+    "population": 52775,
+    "name": "Iron County, UT, USA"
+  },
+  {
+    "county": "Juab County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -112.81630949999999,
+      39.663012
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2881,
+    "population": 11555,
+    "name": "Juab County, UT, USA"
+  },
+  {
+    "county": "Kane County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.7738475,
+      37.2718585
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2882,
+    "population": 7709,
+    "name": "Kane County, UT, USA"
+  },
+  {
+    "county": "Millard County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -113.03217599999999,
+      39.063857
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2883,
+    "population": 13006,
+    "name": "Millard County, UT, USA"
+  },
+  {
+    "county": "Morgan County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.549031,
+      41.0769745
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2872,
+    "population": 12045,
+    "name": "Morgan County, UT, USA"
+  },
+  {
+    "county": "Piute County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -112.14262249999999,
+      38.32891
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2884,
+    "population": 1445,
+    "name": "Piute County, UT, USA"
+  },
+  {
+    "county": "Rich County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.278314,
+      41.572086999999996
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2885,
+    "population": 2464,
+    "name": "Rich County, UT, USA"
+  },
+  {
+    "county": "Salt Lake County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.9083075,
+      40.66808399999999
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2862,
+    "population": 1152633,
+    "name": "Salt Lake County, UT, USA"
+  },
+  {
+    "county": "San Juan County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -110.226921,
+      37.748977499999995
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2863,
+    "population": 15449,
+    "name": "San Juan County, UT, USA"
+  },
+  {
+    "county": "Sanpete County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.63147599999999,
+      39.422766499999994
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2886,
+    "population": 30623,
+    "name": "Sanpete County, UT, USA"
+  },
+  {
+    "county": "Sevier County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.9083495,
+      38.7736525
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2887,
+    "population": 21539,
+    "name": "Sevier County, UT, USA"
+  },
+  {
+    "county": "Tooele County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -113.09571600000001,
+      40.490421
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2865,
+    "population": 69907,
+    "name": "Tooele County, UT, USA"
+  },
+  {
+    "county": "Uintah County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -109.54294300000001,
+      40.160168
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2866,
+    "population": 35438,
+    "name": "Uintah County, UT, USA"
+  },
+  {
+    "county": "Utah County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.5347685,
+      40.176925999999995
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2869,
+    "population": 622213,
+    "name": "Utah County, UT, USA"
+  },
+  {
+    "county": "Wasatch County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -111.25642,
+      40.294765
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2870,
+    "population": 33240,
+    "name": "Wasatch County, UT, USA"
+  },
+  {
+    "county": "Washington County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -113.476164,
+      37.309175499999995
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2888,
+    "population": 171700,
+    "name": "Washington County, UT, USA"
+  },
+  {
+    "county": "Wayne County",
+    "state": "UT",
+    "country": "USA",
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -110.86878300000001,
+      38.33013
+    ],
+    "tz": [
+      "America/Denver"
+    ],
+    "featureId": 2889,
+    "population": 2690,
+    "name": "Wayne County, UT, USA"
+  },
+  {
     "county": "Mason County",
     "state": "WA",
     "country": "USA",
@@ -18580,7 +18580,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2916,
+    "featureId": 2917,
     "population": 11924,
     "name": "Skamania County, WA, USA"
   },
@@ -18597,7 +18597,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2917,
+    "featureId": 2918,
     "population": 4426,
     "name": "Wahkiakum County, WA, USA"
   },
@@ -18631,7 +18631,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2918,
+    "featureId": 2919,
     "population": 2247,
     "name": "Garfield County, WA, USA"
   },
@@ -18665,7 +18665,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2919,
+    "featureId": 2914,
     "population": 60922,
     "name": "Walla Walla County, WA, USA"
   },
@@ -18699,7 +18699,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2915,
+    "featureId": 2916,
     "population": 251446,
     "name": "Yakima County, WA, USA"
   },
@@ -24991,6 +24991,40 @@
     "name": "Prince Edward Island, CAN"
   },
   {
+    "county": "Hartford County",
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf",
+    "rating": 0.14634146341463414,
+    "coordinates": [
+      -72.71937700000001,
+      41.7926935
+    ],
+    "tz": [
+      "America/New_York"
+    ],
+    "featureId": 648,
+    "population": 892697,
+    "name": "Hartford County, CT, USA"
+  },
+  {
+    "county": "New Haven County",
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf",
+    "rating": 0.14634146341463414,
+    "coordinates": [
+      -72.93228500000001,
+      41.4056375
+    ],
+    "tz": [
+      "America/New_York"
+    ],
+    "featureId": 651,
+    "population": 857620,
+    "name": "New Haven County, CT, USA"
+  },
+  {
     "county": "Adams County",
     "state": "CO",
     "country": "USA",
@@ -25074,40 +25108,6 @@
     ],
     "featureId": 622,
     "name": "Weld County, CO, USA"
-  },
-  {
-    "county": "Hartford County",
-    "state": "CT",
-    "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf",
-    "rating": 0.14634146341463414,
-    "coordinates": [
-      -72.71937700000001,
-      41.7926935
-    ],
-    "tz": [
-      "America/New_York"
-    ],
-    "featureId": 648,
-    "population": 892697,
-    "name": "Hartford County, CT, USA"
-  },
-  {
-    "county": "New Haven County",
-    "state": "CT",
-    "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf",
-    "rating": 0.14634146341463414,
-    "coordinates": [
-      -72.93228500000001,
-      41.4056375
-    ],
-    "tz": [
-      "America/New_York"
-    ],
-    "featureId": 651,
-    "population": 857620,
-    "name": "New Haven County, CT, USA"
   },
   {
     "county": "Orange County",
@@ -31485,7 +31485,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1448,
+    "featureId": 1431,
     "population": 576031,
     "name": "Anne Arundel County, MD, USA"
   },
@@ -31510,7 +31510,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1449,
+    "featureId": 1432,
     "population": 828431,
     "name": "Baltimore County, MD, USA"
   },
@@ -31527,7 +31527,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1452,
+    "featureId": 1435,
     "population": 168429,
     "name": "Carroll County, MD, USA"
   },
@@ -31544,7 +31544,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1454,
+    "featureId": 1437,
     "population": 161503,
     "name": "Charles County, MD, USA"
   },
@@ -31790,7 +31790,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 293,
+    "featureId": 294,
     "name": "Barking and Dagenham, England, GBR"
   },
   {
@@ -31806,7 +31806,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 294,
+    "featureId": 295,
     "name": "Barnet, England, GBR"
   },
   {
@@ -31822,7 +31822,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 295,
+    "featureId": 296,
     "name": "Barnsley, England, GBR"
   },
   {
@@ -31838,7 +31838,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 296,
+    "featureId": 297,
     "name": "Bath and North East Somerset, England, GBR"
   },
   {
@@ -31854,7 +31854,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 297,
+    "featureId": 298,
     "name": "Bedford, England, GBR"
   },
   {
@@ -31870,7 +31870,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 298,
+    "featureId": 299,
     "name": "Bexley, England, GBR"
   },
   {
@@ -31886,7 +31886,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 299,
+    "featureId": 300,
     "name": "Birmingham, England, GBR"
   },
   {
@@ -31902,7 +31902,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 300,
+    "featureId": 301,
     "name": "Blackburn with Darwen, England, GBR"
   },
   {
@@ -31918,7 +31918,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 301,
+    "featureId": 302,
     "name": "Blackpool, England, GBR"
   },
   {
@@ -31934,7 +31934,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 302,
+    "featureId": 303,
     "name": "Bolton, England, GBR"
   },
   {
@@ -31958,7 +31958,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 303,
+    "featureId": 304,
     "name": "Bracknell Forest, England, GBR"
   },
   {
@@ -31974,7 +31974,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 304,
+    "featureId": 305,
     "name": "Bradford, England, GBR"
   },
   {
@@ -31990,7 +31990,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 305,
+    "featureId": 306,
     "name": "Brent, England, GBR"
   },
   {
@@ -32006,7 +32006,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 306,
+    "featureId": 307,
     "name": "Brighton and Hove, England, GBR"
   },
   {
@@ -32030,7 +32030,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 307,
+    "featureId": 308,
     "name": "Bromley, England, GBR"
   },
   {
@@ -32046,7 +32046,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 308,
+    "featureId": 309,
     "population": 781167,
     "name": "Buckinghamshire, England, GBR"
   },
@@ -32063,7 +32063,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 309,
+    "featureId": 310,
     "name": "Bury, England, GBR"
   },
   {
@@ -32079,7 +32079,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 310,
+    "featureId": 311,
     "name": "Calderdale, England, GBR"
   },
   {
@@ -32095,7 +32095,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 311,
+    "featureId": 312,
     "population": 830279,
     "name": "Cambridgeshire, England, GBR"
   },
@@ -32112,7 +32112,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 312,
+    "featureId": 313,
     "name": "Camden, England, GBR"
   },
   {
@@ -32128,7 +32128,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 313,
+    "featureId": 314,
     "name": "Central Bedfordshire, England, GBR"
   },
   {
@@ -32144,7 +32144,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 314,
+    "featureId": 315,
     "name": "Cheshire East, England, GBR"
   },
   {
@@ -32160,7 +32160,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 315,
+    "featureId": 316,
     "name": "Cheshire West and Chester, England, GBR"
   },
   {
@@ -32184,7 +32184,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 316,
+    "featureId": 317,
     "name": "County Durham, England, GBR"
   },
   {
@@ -32200,7 +32200,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 317,
+    "featureId": 318,
     "name": "Coventry, England, GBR"
   },
   {
@@ -32216,7 +32216,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 318,
+    "featureId": 319,
     "name": "Croydon, England, GBR"
   },
   {
@@ -32232,7 +32232,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 319,
+    "featureId": 320,
     "population": 497874,
     "name": "Cumbria, England, GBR"
   },
@@ -32249,7 +32249,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 320,
+    "featureId": 321,
     "name": "Darlington, England, GBR"
   },
   {
@@ -32265,7 +32265,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 321,
+    "featureId": 322,
     "name": "Derby, England, GBR"
   },
   {
@@ -32281,7 +32281,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 322,
+    "featureId": 323,
     "population": 1032267,
     "name": "Derbyshire, England, GBR"
   },
@@ -32298,7 +32298,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 323,
+    "featureId": 324,
     "population": 1159832,
     "name": "Devon, England, GBR"
   },
@@ -32315,7 +32315,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 324,
+    "featureId": 325,
     "name": "Doncaster, England, GBR"
   },
   {
@@ -32331,7 +32331,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 325,
+    "featureId": 326,
     "population": 759768,
     "name": "Dorset, England, GBR"
   },
@@ -32348,7 +32348,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 326,
+    "featureId": 327,
     "name": "Dudley, England, GBR"
   },
   {
@@ -32364,7 +32364,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 327,
+    "featureId": 328,
     "name": "Ealing, England, GBR"
   },
   {
@@ -32380,7 +32380,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 328,
+    "featureId": 329,
     "population": 594825,
     "name": "East Riding of Yorkshire, England, GBR"
   },
@@ -32397,7 +32397,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 329,
+    "featureId": 330,
     "population": 820842,
     "name": "East Sussex, England, GBR"
   },
@@ -32414,7 +32414,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 330,
+    "featureId": 331,
     "name": "Enfield, England, GBR"
   },
   {
@@ -32430,7 +32430,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 331,
+    "featureId": 332,
     "population": 1773154,
     "name": "Essex, England, GBR"
   },
@@ -32447,7 +32447,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 332,
+    "featureId": 333,
     "name": "Gateshead, England, GBR"
   },
   {
@@ -32463,7 +32463,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 333,
+    "featureId": 334,
     "population": 882888,
     "name": "Gloucestershire, England, GBR"
   },
@@ -32480,7 +32480,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 334,
+    "featureId": 335,
     "name": "Greenwich, England, GBR"
   },
   {
@@ -32504,7 +32504,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 335,
+    "featureId": 336,
     "name": "Halton, England, GBR"
   },
   {
@@ -32520,7 +32520,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 336,
+    "featureId": 337,
     "name": "Hammersmith and Fulham, England, GBR"
   },
   {
@@ -32536,7 +32536,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 337,
+    "featureId": 338,
     "population": 1800511,
     "name": "Hampshire, England, GBR"
   },
@@ -32553,7 +32553,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 338,
+    "featureId": 339,
     "name": "Haringey, England, GBR"
   },
   {
@@ -32569,7 +32569,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 339,
+    "featureId": 340,
     "name": "Harrow, England, GBR"
   },
   {
@@ -32585,7 +32585,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 340,
+    "featureId": 341,
     "name": "Hartlepool, England, GBR"
   },
   {
@@ -32601,7 +32601,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 341,
+    "featureId": 342,
     "name": "Havering, England, GBR"
   },
   {
@@ -32625,7 +32625,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 342,
+    "featureId": 343,
     "population": 1154766,
     "name": "Hertfordshire, England, GBR"
   },
@@ -32642,7 +32642,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 343,
+    "featureId": 344,
     "name": "Hillingdon, England, GBR"
   },
   {
@@ -32658,7 +32658,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 344,
+    "featureId": 345,
     "name": "Hounslow, England, GBR"
   },
   {
@@ -32674,7 +32674,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 345,
+    "featureId": 346,
     "population": 139105,
     "name": "Isle of Wight, England, GBR"
   },
@@ -32691,7 +32691,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 346,
+    "featureId": 347,
     "name": "Islington, England, GBR"
   },
   {
@@ -32707,7 +32707,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 347,
+    "featureId": 348,
     "name": "Kensington and Chelsea, England, GBR"
   },
   {
@@ -32723,7 +32723,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 348,
+    "featureId": 349,
     "population": 1784369,
     "name": "Kent, England, GBR"
   },
@@ -32748,7 +32748,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 349,
+    "featureId": 350,
     "name": "Kingston upon Thames, England, GBR"
   },
   {
@@ -32764,7 +32764,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 350,
+    "featureId": 351,
     "name": "Kirklees, England, GBR"
   },
   {
@@ -32780,7 +32780,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 351,
+    "featureId": 352,
     "name": "Knowsley, England, GBR"
   },
   {
@@ -32796,7 +32796,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 352,
+    "featureId": 353,
     "name": "Lambeth, England, GBR"
   },
   {
@@ -32812,7 +32812,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 353,
+    "featureId": 354,
     "population": 1471979,
     "name": "Lancashire, England, GBR"
   },
@@ -32829,7 +32829,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 354,
+    "featureId": 355,
     "name": "Leeds, England, GBR"
   },
   {
@@ -32845,7 +32845,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 355,
+    "featureId": 356,
     "name": "Leicester, England, GBR"
   },
   {
@@ -32861,7 +32861,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 356,
+    "featureId": 357,
     "population": 1005558,
     "name": "Leicestershire, England, GBR"
   },
@@ -32878,7 +32878,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 357,
+    "featureId": 358,
     "name": "Lewisham, England, GBR"
   },
   {
@@ -32894,7 +32894,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 358,
+    "featureId": 359,
     "population": 1060567,
     "name": "Lincolnshire, England, GBR"
   },
@@ -32911,7 +32911,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 359,
+    "featureId": 360,
     "name": "Liverpool, England, GBR"
   },
   {
@@ -32927,7 +32927,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 360,
+    "featureId": 361,
     "name": "Luton, England, GBR"
   },
   {
@@ -32943,7 +32943,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 361,
+    "featureId": 362,
     "name": "Manchester, England, GBR"
   },
   {
@@ -32959,7 +32959,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 362,
+    "featureId": 363,
     "name": "Medway, England, GBR"
   },
   {
@@ -32975,7 +32975,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 363,
+    "featureId": 364,
     "name": "Merton, England, GBR"
   },
   {
@@ -32991,7 +32991,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 364,
+    "featureId": 365,
     "name": "Middlesbrough, England, GBR"
   },
   {
@@ -33007,7 +33007,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 365,
+    "featureId": 366,
     "name": "Milton Keynes, England, GBR"
   },
   {
@@ -33023,7 +33023,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 366,
+    "featureId": 367,
     "name": "Newcastle upon Tyne, England, GBR"
   },
   {
@@ -33039,7 +33039,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 367,
+    "featureId": 368,
     "name": "Newham, England, GBR"
   },
   {
@@ -33055,7 +33055,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 368,
+    "featureId": 369,
     "population": 877710,
     "name": "Norfolk, England, GBR"
   },
@@ -33072,7 +33072,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 369,
+    "featureId": 370,
     "name": "North East Lincolnshire, England, GBR"
   },
   {
@@ -33088,7 +33088,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 370,
+    "featureId": 371,
     "name": "North Lincolnshire, England, GBR"
   },
   {
@@ -33104,7 +33104,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 371,
+    "featureId": 372,
     "name": "North Somerset, England, GBR"
   },
   {
@@ -33120,7 +33120,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 372,
+    "featureId": 373,
     "name": "North Tyneside, England, GBR"
   },
   {
@@ -33136,7 +33136,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 373,
+    "featureId": 374,
     "population": 1080136,
     "name": "North Yorkshire, England, GBR"
   },
@@ -33153,7 +33153,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 374,
+    "featureId": 375,
     "population": 714392,
     "name": "Northamptonshire, England, GBR"
   },
@@ -33170,7 +33170,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 375,
+    "featureId": 376,
     "population": 315987,
     "name": "Northumberland, England, GBR"
   },
@@ -33187,7 +33187,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 376,
+    "featureId": 377,
     "name": "Nottingham, England, GBR"
   },
   {
@@ -33203,7 +33203,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 377,
+    "featureId": 378,
     "population": 1115658,
     "name": "Nottinghamshire, England, GBR"
   },
@@ -33220,7 +33220,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 378,
+    "featureId": 379,
     "name": "Oldham, England, GBR"
   },
   {
@@ -33236,7 +33236,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 379,
+    "featureId": 380,
     "population": 672516,
     "name": "Oxfordshire, England, GBR"
   },
@@ -33253,7 +33253,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 380,
+    "featureId": 381,
     "name": "Peterborough, England, GBR"
   },
   {
@@ -33269,7 +33269,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 381,
+    "featureId": 382,
     "name": "Plymouth, England, GBR"
   },
   {
@@ -33285,7 +33285,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 382,
+    "featureId": 383,
     "name": "Portsmouth, England, GBR"
   },
   {
@@ -33301,7 +33301,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 383,
+    "featureId": 384,
     "name": "Reading, England, GBR"
   },
   {
@@ -33317,7 +33317,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 384,
+    "featureId": 385,
     "name": "Redbridge, England, GBR"
   },
   {
@@ -33333,7 +33333,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 385,
+    "featureId": 386,
     "name": "Redcar and Cleveland, England, GBR"
   },
   {
@@ -33349,7 +33349,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 386,
+    "featureId": 387,
     "name": "Richmond upon Thames, England, GBR"
   },
   {
@@ -33365,7 +33365,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 387,
+    "featureId": 388,
     "name": "Rochdale, England, GBR"
   },
   {
@@ -33381,7 +33381,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 388,
+    "featureId": 389,
     "name": "Rotherham, England, GBR"
   },
   {
@@ -33397,7 +33397,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 389,
+    "featureId": 390,
     "population": 38022,
     "name": "Rutland, England, GBR"
   },
@@ -33414,7 +33414,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 390,
+    "featureId": 391,
     "name": "Salford, England, GBR"
   },
   {
@@ -33430,7 +33430,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 391,
+    "featureId": 392,
     "name": "Sandwell, England, GBR"
   },
   {
@@ -33446,7 +33446,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 392,
+    "featureId": 393,
     "name": "Sefton, England, GBR"
   },
   {
@@ -33462,7 +33462,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 393,
+    "featureId": 394,
     "name": "Sheffield, England, GBR"
   },
   {
@@ -33478,7 +33478,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 394,
+    "featureId": 395,
     "population": 479561,
     "name": "Shropshire, England, GBR"
   },
@@ -33495,7 +33495,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 395,
+    "featureId": 396,
     "name": "Slough, England, GBR"
   },
   {
@@ -33511,7 +33511,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 396,
+    "featureId": 397,
     "name": "Solihull, England, GBR"
   },
   {
@@ -33527,7 +33527,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 397,
+    "featureId": 398,
     "population": 931784,
     "name": "Somerset, England, GBR"
   },
@@ -33544,7 +33544,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 398,
+    "featureId": 399,
     "name": "South Gloucestershire, England, GBR"
   },
   {
@@ -33560,7 +33560,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 399,
+    "featureId": 400,
     "name": "South Tyneside, England, GBR"
   },
   {
@@ -33576,7 +33576,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 400,
+    "featureId": 401,
     "name": "Southampton, England, GBR"
   },
   {
@@ -33592,7 +33592,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 401,
+    "featureId": 402,
     "name": "Southend-on-Sea, England, GBR"
   },
   {
@@ -33608,7 +33608,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 402,
+    "featureId": 403,
     "name": "Southwark, England, GBR"
   },
   {
@@ -33632,7 +33632,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 403,
+    "featureId": 404,
     "population": 1111192,
     "name": "Staffordshire, England, GBR"
   },
@@ -33649,7 +33649,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 404,
+    "featureId": 405,
     "name": "Stockport, England, GBR"
   },
   {
@@ -33665,7 +33665,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 405,
+    "featureId": 406,
     "name": "Stockton-on-Tees, England, GBR"
   },
   {
@@ -33681,7 +33681,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 406,
+    "featureId": 407,
     "name": "Stoke-on-Trent, England, GBR"
   },
   {
@@ -33697,7 +33697,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 407,
+    "featureId": 408,
     "population": 738512,
     "name": "Suffolk, England, GBR"
   },
@@ -33714,7 +33714,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 408,
+    "featureId": 409,
     "name": "Sunderland, England, GBR"
   },
   {
@@ -33730,7 +33730,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 409,
+    "featureId": 410,
     "population": 1161256,
     "name": "Surrey, England, GBR"
   },
@@ -33747,7 +33747,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 410,
+    "featureId": 411,
     "name": "Sutton, England, GBR"
   },
   {
@@ -33763,7 +33763,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 411,
+    "featureId": 412,
     "name": "Swindon, England, GBR"
   },
   {
@@ -33779,7 +33779,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 412,
+    "featureId": 413,
     "name": "Tameside, England, GBR"
   },
   {
@@ -33795,7 +33795,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 413,
+    "featureId": 414,
     "name": "Telford and Wrekin, England, GBR"
   },
   {
@@ -33811,7 +33811,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 414,
+    "featureId": 415,
     "name": "Thurrock, England, GBR"
   },
   {
@@ -33827,7 +33827,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 415,
+    "featureId": 416,
     "name": "Torbay, England, GBR"
   },
   {
@@ -33843,7 +33843,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 416,
+    "featureId": 417,
     "name": "Tower Hamlets, England, GBR"
   },
   {
@@ -33859,7 +33859,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 417,
+    "featureId": 418,
     "name": "Trafford, England, GBR"
   },
   {
@@ -33875,7 +33875,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 418,
+    "featureId": 419,
     "name": "Wakefield, England, GBR"
   },
   {
@@ -33891,7 +33891,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 419,
+    "featureId": 420,
     "name": "Walsall, England, GBR"
   },
   {
@@ -33907,7 +33907,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 420,
+    "featureId": 421,
     "name": "Waltham Forest, England, GBR"
   },
   {
@@ -33923,7 +33923,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 421,
+    "featureId": 422,
     "name": "Wandsworth, England, GBR"
   },
   {
@@ -33939,7 +33939,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 422,
+    "featureId": 423,
     "name": "Warrington, England, GBR"
   },
   {
@@ -33955,7 +33955,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 423,
+    "featureId": 424,
     "population": 551594,
     "name": "Warwickshire, England, GBR"
   },
@@ -33972,7 +33972,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 424,
+    "featureId": 425,
     "name": "West Berkshire, England, GBR"
   },
   {
@@ -33988,7 +33988,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 425,
+    "featureId": 426,
     "population": 828398,
     "name": "West Sussex, England, GBR"
   },
@@ -34005,7 +34005,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 426,
+    "featureId": 427,
     "name": "Westminster, England, GBR"
   },
   {
@@ -34021,7 +34021,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 427,
+    "featureId": 428,
     "name": "Wigan, England, GBR"
   },
   {
@@ -34037,7 +34037,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 428,
+    "featureId": 429,
     "population": 698942,
     "name": "Wiltshire, England, GBR"
   },
@@ -34054,7 +34054,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 429,
+    "featureId": 430,
     "name": "Windsor and Maidenhead, England, GBR"
   },
   {
@@ -34078,7 +34078,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 430,
+    "featureId": 431,
     "name": "Wokingham, England, GBR"
   },
   {
@@ -34094,7 +34094,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 431,
+    "featureId": 432,
     "name": "Wolverhampton, England, GBR"
   },
   {
@@ -34110,7 +34110,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 432,
+    "featureId": 433,
     "population": 575421,
     "name": "Worcestershire, England, GBR"
   },
@@ -34127,7 +34127,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 433,
+    "featureId": 434,
     "name": "York, England, GBR"
   },
   {
@@ -35051,7 +35051,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1459,
+    "featureId": 1442,
     "population": 323196,
     "name": "Howard County, MD, USA"
   },
@@ -35068,7 +35068,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1466,
+    "featureId": 1449,
     "population": 36968,
     "name": "Talbot County, MD, USA"
   },
@@ -36873,7 +36873,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1447,
+    "featureId": 1430,
     "population": 70975,
     "name": "Allegany County, MD, USA"
   },
@@ -36890,7 +36890,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1450,
+    "featureId": 1433,
     "population": 92003,
     "name": "Calvert County, MD, USA"
   },
@@ -36907,7 +36907,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1451,
+    "featureId": 1434,
     "population": 33304,
     "name": "Caroline County, MD, USA"
   },
@@ -36924,7 +36924,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1453,
+    "featureId": 1436,
     "population": 102826,
     "name": "Cecil County, MD, USA"
   },
@@ -36941,7 +36941,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1455,
+    "featureId": 1438,
     "population": 31998,
     "name": "Dorchester County, MD, USA"
   },
@@ -36958,7 +36958,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1456,
+    "featureId": 1439,
     "population": 255648,
     "name": "Frederick County, MD, USA"
   },
@@ -36975,7 +36975,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1457,
+    "featureId": 1440,
     "population": 29163,
     "name": "Garrett County, MD, USA"
   },
@@ -36992,7 +36992,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1460,
+    "featureId": 1443,
     "population": 19383,
     "name": "Kent County, MD, USA"
   },
@@ -37009,7 +37009,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1463,
+    "featureId": 1446,
     "population": 50251,
     "name": "Queen Anne's County, MD, USA"
   },
@@ -37026,7 +37026,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1464,
+    "featureId": 1447,
     "population": 25675,
     "name": "Somerset County, MD, USA"
   },
@@ -37043,7 +37043,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1465,
+    "featureId": 1448,
     "population": 112664,
     "name": "St. Mary's County, MD, USA"
   },
@@ -37060,7 +37060,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1467,
+    "featureId": 1450,
     "population": 150926,
     "name": "Washington County, MD, USA"
   },
@@ -37077,7 +37077,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1468,
+    "featureId": 1451,
     "population": 103195,
     "name": "Wicomico County, MD, USA"
   },
@@ -37094,7 +37094,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1469,
+    "featureId": 1452,
     "population": 51823,
     "name": "Worcester County, MD, USA"
   },
@@ -54236,7 +54236,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1430,
+    "featureId": 1454,
     "population": 107679,
     "name": "Androscoggin County, ME, USA"
   },
@@ -54253,7 +54253,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1431,
+    "featureId": 1455,
     "population": 67111,
     "name": "Aroostook County, ME, USA"
   },
@@ -54270,7 +54270,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1432,
+    "featureId": 1456,
     "population": 293557,
     "name": "Cumberland County, ME, USA"
   },
@@ -54287,7 +54287,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1433,
+    "featureId": 1457,
     "population": 29897,
     "name": "Franklin County, ME, USA"
   },
@@ -54304,7 +54304,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1434,
+    "featureId": 1458,
     "population": 54811,
     "name": "Hancock County, ME, USA"
   },
@@ -54321,7 +54321,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1435,
+    "featureId": 1459,
     "population": 122083,
     "name": "Kennebec County, ME, USA"
   },
@@ -54338,7 +54338,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1436,
+    "featureId": 1460,
     "population": 39771,
     "name": "Knox County, ME, USA"
   },
@@ -54355,7 +54355,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1437,
+    "featureId": 1461,
     "population": 34342,
     "name": "Lincoln County, ME, USA"
   },
@@ -54372,7 +54372,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1438,
+    "featureId": 1462,
     "population": 57618,
     "name": "Oxford County, ME, USA"
   },
@@ -54389,7 +54389,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1439,
+    "featureId": 1463,
     "population": 151096,
     "name": "Penobscot County, ME, USA"
   },
@@ -54406,7 +54406,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1440,
+    "featureId": 1464,
     "population": 16800,
     "name": "Piscataquis County, ME, USA"
   },
@@ -54423,7 +54423,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1441,
+    "featureId": 1465,
     "population": 35634,
     "name": "Sagadahoc County, ME, USA"
   },
@@ -54440,7 +54440,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1442,
+    "featureId": 1466,
     "population": 50592,
     "name": "Somerset County, ME, USA"
   },
@@ -54457,7 +54457,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1443,
+    "featureId": 1467,
     "population": 39694,
     "name": "Waldo County, ME, USA"
   },
@@ -54474,7 +54474,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1444,
+    "featureId": 1468,
     "population": 31490,
     "name": "Washington County, ME, USA"
   },
@@ -54491,7 +54491,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1445,
+    "featureId": 1469,
     "population": 206229,
     "name": "York County, ME, USA"
   },
@@ -54502,6 +54502,1391 @@
     "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
     "rating": 0.4146341463414634,
     "name": "(unassigned), ME, USA"
+  },
+  {
+    "county": "Barry County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.30858649999999,
+      42.595316499999996
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1472,
+    "population": 61157,
+    "name": "Barry County, MI, USA"
+  },
+  {
+    "county": "Bay County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.9334715,
+      43.7379655
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1473,
+    "population": 103923,
+    "name": "Bay County, MI, USA"
+  },
+  {
+    "county": "Berrien County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.523884,
+      42.001413
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1474,
+    "population": 154141,
+    "name": "Berrien County, MI, USA"
+  },
+  {
+    "county": "Calhoun County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.004518,
+      42.245943
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1475,
+    "population": 134487,
+    "name": "Calhoun County, MI, USA"
+  },
+  {
+    "county": "Charlevoix County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.217248,
+      45.472348499999995
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1476,
+    "population": 26244,
+    "name": "Charlevoix County, MI, USA"
+  },
+  {
+    "county": "Clare County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.847423,
+      43.9889575
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1477,
+    "population": 30757,
+    "name": "Clare County, MI, USA"
+  },
+  {
+    "county": "Clinton County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.600372,
+      42.9443655
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1478,
+    "population": 79332,
+    "name": "Clinton County, MI, USA"
+  },
+  {
+    "county": "Eaton County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.837324,
+      42.596106
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1479,
+    "population": 109826,
+    "name": "Eaton County, MI, USA"
+  },
+  {
+    "county": "Genesee County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.69271749999999,
+      43.001976
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1481,
+    "population": 406892,
+    "name": "Genesee County, MI, USA"
+  },
+  {
+    "county": "Ingham County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.371737,
+      42.5993115
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1484,
+    "population": 292735,
+    "name": "Ingham County, MI, USA"
+  },
+  {
+    "county": "Jackson County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.424632,
+      42.24753
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1485,
+    "population": 158823,
+    "name": "Jackson County, MI, USA"
+  },
+  {
+    "county": "Kent County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.55014399999999,
+      43.031205
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1486,
+    "population": 653786,
+    "name": "Kent County, MI, USA"
+  },
+  {
+    "county": "Leelanau County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.8417115,
+      45.109002000000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1487,
+    "population": 21764,
+    "name": "Leelanau County, MI, USA"
+  },
+  {
+    "county": "Livingston County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.9114985,
+      42.603706
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1488,
+    "population": 191224,
+    "name": "Livingston County, MI, USA"
+  },
+  {
+    "county": "Macomb County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -82.905366,
+      42.672347
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1489,
+    "population": 874759,
+    "name": "Macomb County, MI, USA"
+  },
+  {
+    "county": "Midland County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.387429,
+      43.647220000000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1490,
+    "population": 83209,
+    "name": "Midland County, MI, USA"
+  },
+  {
+    "county": "Monroe County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.4776985,
+      41.9089625
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1491,
+    "population": 150439,
+    "name": "Monroe County, MI, USA"
+  },
+  {
+    "county": "Montcalm County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.19892150000001,
+      43.29352
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1492,
+    "population": 63968,
+    "name": "Montcalm County, MI, USA"
+  },
+  {
+    "county": "Otsego County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.6121395,
+      45.0284825
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1494,
+    "population": 24665,
+    "name": "Otsego County, MI, USA"
+  },
+  {
+    "county": "Ottawa County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.027247,
+      42.986729999999994
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1495,
+    "population": 290494,
+    "name": "Ottawa County, MI, USA"
+  },
+  {
+    "county": "Saginaw County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.032567,
+      43.3486755
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1497,
+    "population": 190800,
+    "name": "Saginaw County, MI, USA"
+  },
+  {
+    "county": "St. Clair County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -82.704611,
+      42.8437715
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1498,
+    "population": 159337,
+    "name": "St. Clair County, MI, USA"
+  },
+  {
+    "county": "Tuscola County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.40159700000001,
+      43.475171
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1499,
+    "population": 52516,
+    "name": "Tuscola County, MI, USA"
+  },
+  {
+    "county": "Washtenaw County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.8356795,
+      42.2533715
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1500,
+    "population": 370963,
+    "name": "Washtenaw County, MI, USA"
+  },
+  {
+    "county": "Wexford County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.57759300000001,
+      44.338583
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1502,
+    "population": 33466,
+    "name": "Wexford County, MI, USA"
+  },
+  {
+    "county": "(unassigned)",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "name": "(unassigned), MI, USA"
+  },
+  {
+    "county": "Alcona County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.5809385,
+      44.683653500000005
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1503,
+    "population": 10362,
+    "name": "Alcona County, MI, USA"
+  },
+  {
+    "county": "Alger County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.4905835,
+      46.4248025
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1504,
+    "population": 9097,
+    "name": "Alger County, MI, USA"
+  },
+  {
+    "county": "Allegan County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.908542,
+      42.5937585
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1471,
+    "population": 117327,
+    "name": "Allegan County, MI, USA"
+  },
+  {
+    "county": "Alpena County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.5781675,
+      45.031782500000006
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1505,
+    "population": 28360,
+    "name": "Alpena County, MI, USA"
+  },
+  {
+    "county": "Antrim County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.1447795,
+      45.0099685
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1506,
+    "population": 23365,
+    "name": "Antrim County, MI, USA"
+  },
+  {
+    "county": "Arenac County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.865801,
+      44.0370185
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1507,
+    "population": 15041,
+    "name": "Arenac County, MI, USA"
+  },
+  {
+    "county": "Baraga County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -88.3353905,
+      46.693308
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1508,
+    "population": 8320,
+    "name": "Baraga County, MI, USA"
+  },
+  {
+    "county": "Benzie County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.03707449999999,
+      44.645680999999996
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1509,
+    "population": 17753,
+    "name": "Benzie County, MI, USA"
+  },
+  {
+    "county": "Branch County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.05937800000001,
+      41.915917
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1510,
+    "population": 43622,
+    "name": "Branch County, MI, USA"
+  },
+  {
+    "county": "Cass County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.99314150000001,
+      41.9152675
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1511,
+    "population": 51653,
+    "name": "Cass County, MI, USA"
+  },
+  {
+    "county": "Cheboygan County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.469315,
+      45.493323000000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1512,
+    "population": 25413,
+    "name": "Cheboygan County, MI, USA"
+  },
+  {
+    "county": "Chippewa County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.355547,
+      46.3427035
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1513,
+    "population": 37517,
+    "name": "Chippewa County, MI, USA"
+  },
+  {
+    "county": "Crawford County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.61078599999999,
+      44.68263
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1514,
+    "population": 13901,
+    "name": "Crawford County, MI, USA"
+  },
+  {
+    "county": "Delta County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.91375550000001,
+      45.8505825
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1515,
+    "population": 35857,
+    "name": "Delta County, MI, USA"
+  },
+  {
+    "county": "Dickinson County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -87.876012,
+      45.984474500000005
+    ],
+    "tz": [
+      "America/Menominee"
+    ],
+    "featureId": 1516,
+    "population": 25383,
+    "name": "Dickinson County, MI, USA"
+  },
+  {
+    "county": "Emmet County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.9260625,
+      45.5302615
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1480,
+    "population": 33308,
+    "name": "Emmet County, MI, USA"
+  },
+  {
+    "county": "Gladwin County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.38710549999999,
+      43.987674
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1482,
+    "population": 25337,
+    "name": "Gladwin County, MI, USA"
+  },
+  {
+    "county": "Gogebic County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -89.704362,
+      46.431578
+    ],
+    "tz": [
+      "America/Menominee"
+    ],
+    "featureId": 1517,
+    "population": 15096,
+    "name": "Gogebic County, MI, USA"
+  },
+  {
+    "county": "Grand Traverse County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.5753445,
+      44.751678
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1483,
+    "population": 92573,
+    "name": "Grand Traverse County, MI, USA"
+  },
+  {
+    "county": "Gratiot County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.6068785,
+      43.292048
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1518,
+    "population": 40599,
+    "name": "Gratiot County, MI, USA"
+  },
+  {
+    "county": "Hillsdale County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.59345350000001,
+      41.8847725
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1519,
+    "population": 45749,
+    "name": "Hillsdale County, MI, USA"
+  },
+  {
+    "county": "Houghton County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -88.60939400000001,
+      46.852900500000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1520,
+    "population": 36219,
+    "name": "Houghton County, MI, USA"
+  },
+  {
+    "county": "Huron County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.036831,
+      43.869062
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1521,
+    "population": 31166,
+    "name": "Huron County, MI, USA"
+  },
+  {
+    "county": "Ionia County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.074701,
+      42.9443645
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1522,
+    "population": 64210,
+    "name": "Ionia County, MI, USA"
+  },
+  {
+    "county": "Iosco County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.60212200000001,
+      44.33676
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1523,
+    "population": 25081,
+    "name": "Iosco County, MI, USA"
+  },
+  {
+    "county": "Iron County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -88.55390349999999,
+      46.1704445
+    ],
+    "tz": [
+      "America/Menominee"
+    ],
+    "featureId": 1524,
+    "population": 11117,
+    "name": "Iron County, MI, USA"
+  },
+  {
+    "county": "Isabella County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.847423,
+      43.640612000000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1525,
+    "population": 70562,
+    "name": "Isabella County, MI, USA"
+  },
+  {
+    "county": "Kalamazoo County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.528989,
+      42.24538
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1526,
+    "population": 264870,
+    "name": "Kalamazoo County, MI, USA"
+  },
+  {
+    "county": "Kalkaska County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.0906545,
+      44.6853385
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1527,
+    "population": 17824,
+    "name": "Kalkaska County, MI, USA"
+  },
+  {
+    "county": "Keweenaw County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -88.48283649999999,
+      47.695378500000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1528,
+    "population": 2113,
+    "name": "Keweenaw County, MI, USA"
+  },
+  {
+    "county": "Lake County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.8022135,
+      43.991350999999995
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1529,
+    "population": 11881,
+    "name": "Lake County, MI, USA"
+  },
+  {
+    "county": "Lapeer County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.22219000000001,
+      43.1037405
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1530,
+    "population": 88028,
+    "name": "Lapeer County, MI, USA"
+  },
+  {
+    "county": "Lenawee County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.06322349999999,
+      41.8945275
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1531,
+    "population": 98266,
+    "name": "Lenawee County, MI, USA"
+  },
+  {
+    "county": "Luce County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.551432,
+      46.500167
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1532,
+    "population": 6283,
+    "name": "Luce County, MI, USA"
+  },
+  {
+    "county": "Mackinac County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.9897935,
+      45.9836895
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1533,
+    "population": 10787,
+    "name": "Mackinac County, MI, USA"
+  },
+  {
+    "county": "Manistee County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.1023345,
+      44.341237500000005
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1534,
+    "population": 24528,
+    "name": "Manistee County, MI, USA"
+  },
+  {
+    "county": "Marquette County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -87.6167435,
+      46.44878
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1535,
+    "population": 66516,
+    "name": "Marquette County, MI, USA"
+  },
+  {
+    "county": "Mason County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.276313,
+      43.997147999999996
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1536,
+    "population": 29100,
+    "name": "Mason County, MI, USA"
+  },
+  {
+    "county": "Mecosta County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.3237175,
+      43.640912
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1537,
+    "population": 43545,
+    "name": "Mecosta County, MI, USA"
+  },
+  {
+    "county": "Menominee County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -87.576249,
+      45.5403475
+    ],
+    "tz": [
+      "America/Menominee"
+    ],
+    "featureId": 1538,
+    "population": 22983,
+    "name": "Menominee County, MI, USA"
+  },
+  {
+    "county": "Missaukee County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.09466649999999,
+      44.336839
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1539,
+    "population": 15113,
+    "name": "Missaukee County, MI, USA"
+  },
+  {
+    "county": "Montmorency County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.1259955,
+      45.0285455
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1540,
+    "population": 9265,
+    "name": "Montmorency County, MI, USA"
+  },
+  {
+    "county": "Muskegon County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.12632149999999,
+      43.295346499999994
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1541,
+    "population": 173588,
+    "name": "Muskegon County, MI, USA"
+  },
+  {
+    "county": "Newaygo County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.8009415,
+      43.5543185
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1542,
+    "population": 48892,
+    "name": "Newaygo County, MI, USA"
+  },
+  {
+    "county": "Oceana County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.2894,
+      43.643426500000004
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1543,
+    "population": 26625,
+    "name": "Oceana County, MI, USA"
+  },
+  {
+    "county": "Ogemaw County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.12731,
+      44.3347555
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1544,
+    "population": 20952,
+    "name": "Ogemaw County, MI, USA"
+  },
+  {
+    "county": "Ontonagon County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -89.3762965,
+      46.6825815
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1545,
+    "population": 5795,
+    "name": "Ontonagon County, MI, USA"
+  },
+  {
+    "county": "Osceola County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.325797,
+      43.989397
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1546,
+    "population": 23341,
+    "name": "Osceola County, MI, USA"
+  },
+  {
+    "county": "Oscoda County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.12919550000001,
+      44.68184050000001
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1547,
+    "population": 8276,
+    "name": "Oscoda County, MI, USA"
+  },
+  {
+    "county": "Presque Isle County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -83.8168815,
+      45.41277
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1548,
+    "population": 12738,
+    "name": "Presque Isle County, MI, USA"
+  },
+  {
+    "county": "Roscommon County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.611917,
+      44.3357755
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1496,
+    "population": 23884,
+    "name": "Roscommon County, MI, USA"
+  },
+  {
+    "county": "St. Joseph County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -85.5417565,
+      41.915301
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1549,
+    "population": 61043,
+    "name": "St. Joseph County, MI, USA"
+  },
+  {
+    "county": "Sanilac County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -82.81177650000001,
+      43.422268
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1550,
+    "population": 41182,
+    "name": "Sanilac County, MI, USA"
+  },
+  {
+    "county": "Schoolcraft County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.24026649999999,
+      46.131350999999995
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1551,
+    "population": 8068,
+    "name": "Schoolcraft County, MI, USA"
+  },
+  {
+    "county": "Shiawassee County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -84.1452045,
+      42.95428
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1552,
+    "population": 68192,
+    "name": "Shiawassee County, MI, USA"
+  },
+  {
+    "county": "Van Buren County",
+    "state": "MI",
+    "country": "USA",
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
+    "rating": 0.4146341463414634,
+    "coordinates": [
+      -86.0639115,
+      42.244997999999995
+    ],
+    "tz": [
+      "America/Detroit"
+    ],
+    "featureId": 1553,
+    "population": 75448,
+    "name": "Van Buren County, MI, USA"
   },
   {
     "county": "Benton County",
@@ -55921,1391 +57306,6 @@
     "featureId": 1641,
     "population": 9795,
     "name": "Yellow Medicine County, MN, USA"
-  },
-  {
-    "county": "Barry County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.30858649999999,
-      42.595316499999996
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1472,
-    "population": 61157,
-    "name": "Barry County, MI, USA"
-  },
-  {
-    "county": "Bay County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.9334715,
-      43.7379655
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1473,
-    "population": 103923,
-    "name": "Bay County, MI, USA"
-  },
-  {
-    "county": "Berrien County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.523884,
-      42.001413
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1474,
-    "population": 154141,
-    "name": "Berrien County, MI, USA"
-  },
-  {
-    "county": "Calhoun County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.004518,
-      42.245943
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1475,
-    "population": 134487,
-    "name": "Calhoun County, MI, USA"
-  },
-  {
-    "county": "Charlevoix County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.217248,
-      45.472348499999995
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1476,
-    "population": 26244,
-    "name": "Charlevoix County, MI, USA"
-  },
-  {
-    "county": "Clare County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.847423,
-      43.9889575
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1477,
-    "population": 30757,
-    "name": "Clare County, MI, USA"
-  },
-  {
-    "county": "Clinton County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.600372,
-      42.9443655
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1478,
-    "population": 79332,
-    "name": "Clinton County, MI, USA"
-  },
-  {
-    "county": "Eaton County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.837324,
-      42.596106
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1479,
-    "population": 109826,
-    "name": "Eaton County, MI, USA"
-  },
-  {
-    "county": "Genesee County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.69271749999999,
-      43.001976
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1481,
-    "population": 406892,
-    "name": "Genesee County, MI, USA"
-  },
-  {
-    "county": "Ingham County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.371737,
-      42.5993115
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1484,
-    "population": 292735,
-    "name": "Ingham County, MI, USA"
-  },
-  {
-    "county": "Jackson County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.424632,
-      42.24753
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1485,
-    "population": 158823,
-    "name": "Jackson County, MI, USA"
-  },
-  {
-    "county": "Kent County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.55014399999999,
-      43.031205
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1486,
-    "population": 653786,
-    "name": "Kent County, MI, USA"
-  },
-  {
-    "county": "Leelanau County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.8417115,
-      45.109002000000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1487,
-    "population": 21764,
-    "name": "Leelanau County, MI, USA"
-  },
-  {
-    "county": "Livingston County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.9114985,
-      42.603706
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1488,
-    "population": 191224,
-    "name": "Livingston County, MI, USA"
-  },
-  {
-    "county": "Macomb County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -82.905366,
-      42.672347
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1489,
-    "population": 874759,
-    "name": "Macomb County, MI, USA"
-  },
-  {
-    "county": "Midland County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.387429,
-      43.647220000000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1490,
-    "population": 83209,
-    "name": "Midland County, MI, USA"
-  },
-  {
-    "county": "Monroe County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.4776985,
-      41.9089625
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1491,
-    "population": 150439,
-    "name": "Monroe County, MI, USA"
-  },
-  {
-    "county": "Montcalm County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.19892150000001,
-      43.29352
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1492,
-    "population": 63968,
-    "name": "Montcalm County, MI, USA"
-  },
-  {
-    "county": "Otsego County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.6121395,
-      45.0284825
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1494,
-    "population": 24665,
-    "name": "Otsego County, MI, USA"
-  },
-  {
-    "county": "Ottawa County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.027247,
-      42.986729999999994
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1495,
-    "population": 290494,
-    "name": "Ottawa County, MI, USA"
-  },
-  {
-    "county": "Saginaw County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.032567,
-      43.3486755
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1497,
-    "population": 190800,
-    "name": "Saginaw County, MI, USA"
-  },
-  {
-    "county": "St. Clair County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -82.704611,
-      42.8437715
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1498,
-    "population": 159337,
-    "name": "St. Clair County, MI, USA"
-  },
-  {
-    "county": "Tuscola County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.40159700000001,
-      43.475171
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1499,
-    "population": 52516,
-    "name": "Tuscola County, MI, USA"
-  },
-  {
-    "county": "Washtenaw County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.8356795,
-      42.2533715
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1500,
-    "population": 370963,
-    "name": "Washtenaw County, MI, USA"
-  },
-  {
-    "county": "Wexford County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.57759300000001,
-      44.338583
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1502,
-    "population": 33466,
-    "name": "Wexford County, MI, USA"
-  },
-  {
-    "county": "(unassigned)",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "name": "(unassigned), MI, USA"
-  },
-  {
-    "county": "Alcona County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.5809385,
-      44.683653500000005
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1503,
-    "population": 10362,
-    "name": "Alcona County, MI, USA"
-  },
-  {
-    "county": "Alger County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.4905835,
-      46.4248025
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1504,
-    "population": 9097,
-    "name": "Alger County, MI, USA"
-  },
-  {
-    "county": "Allegan County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.908542,
-      42.5937585
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1471,
-    "population": 117327,
-    "name": "Allegan County, MI, USA"
-  },
-  {
-    "county": "Alpena County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.5781675,
-      45.031782500000006
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1505,
-    "population": 28360,
-    "name": "Alpena County, MI, USA"
-  },
-  {
-    "county": "Antrim County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.1447795,
-      45.0099685
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1506,
-    "population": 23365,
-    "name": "Antrim County, MI, USA"
-  },
-  {
-    "county": "Arenac County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.865801,
-      44.0370185
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1507,
-    "population": 15041,
-    "name": "Arenac County, MI, USA"
-  },
-  {
-    "county": "Baraga County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -88.3353905,
-      46.693308
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1508,
-    "population": 8320,
-    "name": "Baraga County, MI, USA"
-  },
-  {
-    "county": "Benzie County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.03707449999999,
-      44.645680999999996
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1509,
-    "population": 17753,
-    "name": "Benzie County, MI, USA"
-  },
-  {
-    "county": "Branch County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.05937800000001,
-      41.915917
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1510,
-    "population": 43622,
-    "name": "Branch County, MI, USA"
-  },
-  {
-    "county": "Cass County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.99314150000001,
-      41.9152675
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1511,
-    "population": 51653,
-    "name": "Cass County, MI, USA"
-  },
-  {
-    "county": "Cheboygan County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.469315,
-      45.493323000000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1512,
-    "population": 25413,
-    "name": "Cheboygan County, MI, USA"
-  },
-  {
-    "county": "Chippewa County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.355547,
-      46.3427035
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1513,
-    "population": 37517,
-    "name": "Chippewa County, MI, USA"
-  },
-  {
-    "county": "Crawford County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.61078599999999,
-      44.68263
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1514,
-    "population": 13901,
-    "name": "Crawford County, MI, USA"
-  },
-  {
-    "county": "Delta County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.91375550000001,
-      45.8505825
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1515,
-    "population": 35857,
-    "name": "Delta County, MI, USA"
-  },
-  {
-    "county": "Dickinson County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -87.876012,
-      45.984474500000005
-    ],
-    "tz": [
-      "America/Menominee"
-    ],
-    "featureId": 1516,
-    "population": 25383,
-    "name": "Dickinson County, MI, USA"
-  },
-  {
-    "county": "Emmet County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.9260625,
-      45.5302615
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1480,
-    "population": 33308,
-    "name": "Emmet County, MI, USA"
-  },
-  {
-    "county": "Gladwin County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.38710549999999,
-      43.987674
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1482,
-    "population": 25337,
-    "name": "Gladwin County, MI, USA"
-  },
-  {
-    "county": "Gogebic County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -89.704362,
-      46.431578
-    ],
-    "tz": [
-      "America/Menominee"
-    ],
-    "featureId": 1517,
-    "population": 15096,
-    "name": "Gogebic County, MI, USA"
-  },
-  {
-    "county": "Grand Traverse County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.5753445,
-      44.751678
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1483,
-    "population": 92573,
-    "name": "Grand Traverse County, MI, USA"
-  },
-  {
-    "county": "Gratiot County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.6068785,
-      43.292048
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1518,
-    "population": 40599,
-    "name": "Gratiot County, MI, USA"
-  },
-  {
-    "county": "Hillsdale County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.59345350000001,
-      41.8847725
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1519,
-    "population": 45749,
-    "name": "Hillsdale County, MI, USA"
-  },
-  {
-    "county": "Houghton County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -88.60939400000001,
-      46.852900500000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1520,
-    "population": 36219,
-    "name": "Houghton County, MI, USA"
-  },
-  {
-    "county": "Huron County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.036831,
-      43.869062
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1521,
-    "population": 31166,
-    "name": "Huron County, MI, USA"
-  },
-  {
-    "county": "Ionia County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.074701,
-      42.9443645
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1522,
-    "population": 64210,
-    "name": "Ionia County, MI, USA"
-  },
-  {
-    "county": "Iosco County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.60212200000001,
-      44.33676
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1523,
-    "population": 25081,
-    "name": "Iosco County, MI, USA"
-  },
-  {
-    "county": "Iron County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -88.55390349999999,
-      46.1704445
-    ],
-    "tz": [
-      "America/Menominee"
-    ],
-    "featureId": 1524,
-    "population": 11117,
-    "name": "Iron County, MI, USA"
-  },
-  {
-    "county": "Isabella County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.847423,
-      43.640612000000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1525,
-    "population": 70562,
-    "name": "Isabella County, MI, USA"
-  },
-  {
-    "county": "Kalamazoo County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.528989,
-      42.24538
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1526,
-    "population": 264870,
-    "name": "Kalamazoo County, MI, USA"
-  },
-  {
-    "county": "Kalkaska County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.0906545,
-      44.6853385
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1527,
-    "population": 17824,
-    "name": "Kalkaska County, MI, USA"
-  },
-  {
-    "county": "Keweenaw County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -88.48283649999999,
-      47.695378500000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1528,
-    "population": 2113,
-    "name": "Keweenaw County, MI, USA"
-  },
-  {
-    "county": "Lake County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.8022135,
-      43.991350999999995
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1529,
-    "population": 11881,
-    "name": "Lake County, MI, USA"
-  },
-  {
-    "county": "Lapeer County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.22219000000001,
-      43.1037405
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1530,
-    "population": 88028,
-    "name": "Lapeer County, MI, USA"
-  },
-  {
-    "county": "Lenawee County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.06322349999999,
-      41.8945275
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1531,
-    "population": 98266,
-    "name": "Lenawee County, MI, USA"
-  },
-  {
-    "county": "Luce County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.551432,
-      46.500167
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1532,
-    "population": 6283,
-    "name": "Luce County, MI, USA"
-  },
-  {
-    "county": "Mackinac County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.9897935,
-      45.9836895
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1533,
-    "population": 10787,
-    "name": "Mackinac County, MI, USA"
-  },
-  {
-    "county": "Manistee County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.1023345,
-      44.341237500000005
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1534,
-    "population": 24528,
-    "name": "Manistee County, MI, USA"
-  },
-  {
-    "county": "Marquette County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -87.6167435,
-      46.44878
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1535,
-    "population": 66516,
-    "name": "Marquette County, MI, USA"
-  },
-  {
-    "county": "Mason County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.276313,
-      43.997147999999996
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1536,
-    "population": 29100,
-    "name": "Mason County, MI, USA"
-  },
-  {
-    "county": "Mecosta County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.3237175,
-      43.640912
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1537,
-    "population": 43545,
-    "name": "Mecosta County, MI, USA"
-  },
-  {
-    "county": "Menominee County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -87.576249,
-      45.5403475
-    ],
-    "tz": [
-      "America/Menominee"
-    ],
-    "featureId": 1538,
-    "population": 22983,
-    "name": "Menominee County, MI, USA"
-  },
-  {
-    "county": "Missaukee County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.09466649999999,
-      44.336839
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1539,
-    "population": 15113,
-    "name": "Missaukee County, MI, USA"
-  },
-  {
-    "county": "Montmorency County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.1259955,
-      45.0285455
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1540,
-    "population": 9265,
-    "name": "Montmorency County, MI, USA"
-  },
-  {
-    "county": "Muskegon County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.12632149999999,
-      43.295346499999994
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1541,
-    "population": 173588,
-    "name": "Muskegon County, MI, USA"
-  },
-  {
-    "county": "Newaygo County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.8009415,
-      43.5543185
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1542,
-    "population": 48892,
-    "name": "Newaygo County, MI, USA"
-  },
-  {
-    "county": "Oceana County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.2894,
-      43.643426500000004
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1543,
-    "population": 26625,
-    "name": "Oceana County, MI, USA"
-  },
-  {
-    "county": "Ogemaw County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.12731,
-      44.3347555
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1544,
-    "population": 20952,
-    "name": "Ogemaw County, MI, USA"
-  },
-  {
-    "county": "Ontonagon County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -89.3762965,
-      46.6825815
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1545,
-    "population": 5795,
-    "name": "Ontonagon County, MI, USA"
-  },
-  {
-    "county": "Osceola County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.325797,
-      43.989397
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1546,
-    "population": 23341,
-    "name": "Osceola County, MI, USA"
-  },
-  {
-    "county": "Oscoda County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.12919550000001,
-      44.68184050000001
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1547,
-    "population": 8276,
-    "name": "Oscoda County, MI, USA"
-  },
-  {
-    "county": "Presque Isle County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -83.8168815,
-      45.41277
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1548,
-    "population": 12738,
-    "name": "Presque Isle County, MI, USA"
-  },
-  {
-    "county": "Roscommon County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.611917,
-      44.3357755
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1496,
-    "population": 23884,
-    "name": "Roscommon County, MI, USA"
-  },
-  {
-    "county": "St. Joseph County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -85.5417565,
-      41.915301
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1549,
-    "population": 61043,
-    "name": "St. Joseph County, MI, USA"
-  },
-  {
-    "county": "Sanilac County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -82.81177650000001,
-      43.422268
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1550,
-    "population": 41182,
-    "name": "Sanilac County, MI, USA"
-  },
-  {
-    "county": "Schoolcraft County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.24026649999999,
-      46.131350999999995
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1551,
-    "population": 8068,
-    "name": "Schoolcraft County, MI, USA"
-  },
-  {
-    "county": "Shiawassee County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -84.1452045,
-      42.95428
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1552,
-    "population": 68192,
-    "name": "Shiawassee County, MI, USA"
-  },
-  {
-    "county": "Van Buren County",
-    "state": "MI",
-    "country": "USA",
-    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
-    "rating": 0.4146341463414634,
-    "coordinates": [
-      -86.0639115,
-      42.244997999999995
-    ],
-    "tz": [
-      "America/Detroit"
-    ],
-    "featureId": 1553,
-    "population": 75448,
-    "name": "Van Buren County, MI, USA"
   },
   {
     "county": "Broadwater County",
