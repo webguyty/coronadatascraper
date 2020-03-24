@@ -23,6 +23,32 @@
     "rating": 0.43902439024390244
   },
   {
+    "state": "AR",
+    "country": "USA",
+    "url": "https://services.arcgis.com/PwY9ZuZRDiI5nXUB/ArcGIS/rest/services/ADH_COVID19_Positive_Test_Results/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
+    "type": "json",
+    "sources": [
+      {
+        "name": "Arkanas Department of Health",
+        "url": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "gitub": "aed3",
+        "county": "USA",
+        "flag": "us"
+      }
+    ],
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.43902439024390244
+  },
+  {
     "state": "AZ",
     "country": "USA",
     "url": "https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
@@ -127,6 +153,18 @@
     "rating": 0.43902439024390244
   },
   {
+    "state": "RI",
+    "country": "USA",
+    "priority": 1,
+    "type": "csv",
+    "aggregate": "county",
+    "url": "https://docs.google.com/spreadsheets/d/1n-zMS9Al94CPj_Tc3K7Adin-tN9x1RSjjx2UzJ4SV7Q/gviz/tq?tqx=out:csv&sheet=County+Data#gid=0",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "rating": 0.43902439024390244
+  },
+  {
     "state": "SC",
     "country": "USA",
     "url": "https://services2.arcgis.com/XZg2efAbaieYAXmu/arcgis/rest/services/COVID19_County_View/FeatureServer/0/query?f=json&where=Confirmed%20%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Confirmed%20desc&resultOffset=0&resultRecordCount=1000&cacheHint=true",
@@ -151,29 +189,6 @@
     "rating": 0.43902439024390244
   },
   {
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "USA",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "timeseries": true,
-    "priority": -1,
-    "type": "list",
-    "headless": false,
-    "certValidation": false,
-    "aggregate": "country",
-    "rating": 0.4146341463414634
-  },
-  {
     "country": "GBR",
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
@@ -181,6 +196,18 @@
     "type": "table",
     "timeseries": false,
     "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.4146341463414634
+  },
+  {
+    "state": "AK",
+    "country": "USA",
+    "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
+    "type": "table",
+    "headless": false,
+    "aggregate": "county",
+    "timeseries": false,
     "certValidation": false,
     "priority": 0,
     "rating": 0.4146341463414634
@@ -420,6 +447,27 @@
     "rating": 0.4146341463414634
   },
   {
+    "country": "USA",
+    "state": "HI",
+    "priority": 1,
+    "url": "https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/",
+    "maintainers": [
+      {
+        "name": "Jordan Holt",
+        "email": "jordholt@gmail.com",
+        "github": "Jord-Holt",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "aggregate": "county",
+    "timeseries": false,
+    "type": "list",
+    "headless": false,
+    "certValidation": false,
+    "rating": 0.3902439024390244
+  },
+  {
     "state": "IA",
     "country": "USA",
     "aggregate": "county",
@@ -436,11 +484,11 @@
     "country": "USA",
     "priority": 1,
     "aggregate": "county",
-    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults.json",
     "timeseries": false,
     "type": "list",
     "headless": false,
     "certValidation": false,
+    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults20200323.json",
     "rating": 0.3902439024390244
   },
   {
@@ -471,7 +519,7 @@
       {
         "name": "Jordan Holt",
         "email": "jordholt@gmail.com",
-        "github": "DatJord",
+        "github": "Jord-Holt",
         "country": "USA",
         "flag": "🇺🇸"
       }
@@ -531,6 +579,17 @@
     "rating": 0.3902439024390244
   },
   {
+    "country": "CHE",
+    "county": "Zurich",
+    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
+    "timeseries": true,
+    "type": "list",
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.36585365853658536
+  },
+  {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
     "timeseries": true,
@@ -577,6 +636,25 @@
     "rating": 0.36585365853658536
   },
   {
+    "country": "USA",
+    "url": "https://covidtracking.com/api/states",
+    "type": "json",
+    "curators": [
+      {
+        "name": "The COVID Tracking Project",
+        "url": "https://covidtracking.com/",
+        "twitter": "@COVID19Tracking",
+        "github": "COVID19Tracking"
+      }
+    ],
+    "aggregate": "state",
+    "priority": 1,
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "rating": 0.34146341463414637
+  },
+  {
     "aggregate": "state",
     "country": "AUS",
     "priority": 1,
@@ -597,6 +675,17 @@
   {
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "type": "table",
+    "aggregate": "state",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.3170731707317073
+  },
+  {
+    "country": "IND",
+    "url": "https://www.mohfw.gov.in/",
     "type": "table",
     "aggregate": "state",
     "timeseries": false,
@@ -667,6 +756,25 @@
     "certValidation": false,
     "priority": 0,
     "url": "https://www.co.shasta.ca.us/covid-19/overview",
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Clark County",
+    "state": "NV",
+    "country": "USA",
+    "url": "https://www.southernnevadahealthdistrict.org/coronavirus",
+    "sources": [
+      {
+        "name": "Southern Nevada Health District",
+        "url": "https://www.southernnevadahealthdistrict.org",
+        "description": "Southern Nevada health department"
+      }
+    ],
+    "type": "table",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
     "rating": 0.2682926829268293
   },
   {
@@ -1312,15 +1420,87 @@
     "rating": 0.17073170731707318
   },
   {
+    "country": "AUS",
+    "priority": 2,
+    "sources": [
+      {
+        "description": "NSW Government Health Department",
+        "name": "NSW Government Health",
+        "url": "https://www.health.nsw.gov.au"
+      }
+    ],
+    "state": "New South Wales",
+    "type": "table",
+    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "rating": 0.17073170731707318
+  },
+  {
+    "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "Nothern Territory Government Coronavirus site",
+        "name": "Nothern Territory Government Coronavirus site",
+        "url": "https://coronavirus.nt.gov.au"
+      }
+    ],
+    "state": "Northern Territory",
+    "type": "table",
+    "url": "https://coronavirus.nt.gov.au/",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "rating": 0.17073170731707318
+  },
+  {
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3222020.pdf",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3232020.pdf",
     "type": "pdf",
     "aggregate": "county",
     "timeseries": false,
     "headless": false,
     "certValidation": false,
     "priority": 0,
+    "rating": 0.14634146341463414
+  },
+  {
+    "state": "KS",
+    "country": "USA",
+    "type": "pdf",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "twitter": "paulboal",
+        "github": "paulboal",
+        "country": "USA",
+        "state": "MO",
+        "county": "St. Louis County",
+        "city": "St. Louis",
+        "flag": "🇺🇸"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_23_2020_.pdf",
     "rating": 0.14634146341463414
   },
   {
@@ -1338,7 +1518,7 @@
     "headless": false,
     "certValidation": false,
     "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-22-2020/download",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-23-2020/download",
     "rating": 0.14634146341463414
   },
   {
@@ -1353,6 +1533,26 @@
       }
     ],
     "type": "pdf",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.14634146341463414
+  },
+  {
+    "state": "VA",
+    "country": "USA",
+    "url": "https://public.tableau.com/views/VirginiaCOVID-19Dashboard/VirginiaCOVID-19Dashboard",
+    "type": "pdf",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "gitub": "aed3",
+        "county": "USA",
+        "flag": "us"
+      }
+    ],
     "timeseries": false,
     "headless": false,
     "certValidation": false,
@@ -1489,6 +1689,35 @@
     "state": "Queensland",
     "type": "paragraph",
     "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "rating": 0
+  },
+  {
+    "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "SA Government Health Department",
+        "name": "SA Health",
+        "url": "https://www.sahealth.sa.gov.au"
+      }
+    ],
+    "state": "South Australia",
+    "type": "paragraph",
+    "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
     "timeseries": false,
     "headless": false,
     "certValidation": false,
