@@ -189,6 +189,29 @@
     "rating": 0.43902439024390244
   },
   {
+    "maintainers": [
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "USA",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "timeseries": true,
+    "priority": -1,
+    "type": "list",
+    "headless": false,
+    "certValidation": false,
+    "aggregate": "country",
+    "rating": 0.4146341463414634
+  },
+  {
     "country": "GBR",
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
