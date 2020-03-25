@@ -6494,6 +6494,235 @@
     "population": 23232413
   },
   {
+    "state": "British Columbia",
+    "cases": 617,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 617,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -126.56202337499991,
+      54.15716767014678
+    ],
+    "tz": [
+      "America/Vancouver"
+    ],
+    "featureId": 210,
+    "population": 5071000
+  },
+  {
+    "state": "Alberta",
+    "cases": 358,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 358,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -115.00016854279502,
+      54.49628672664678
+    ],
+    "tz": [
+      "America/Edmonton"
+    ],
+    "featureId": 211,
+    "population": 4067175
+  },
+  {
+    "state": "Saskatchewan",
+    "cases": 72,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 72,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -105.6821561755884,
+      54.496338403094796
+    ],
+    "tz": [
+      "America/Regina"
+    ],
+    "featureId": 212,
+    "population": 1098352
+  },
+  {
+    "state": "Manitoba",
+    "cases": 11,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 11,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -95.4742987434922,
+      54.496368513369816
+    ],
+    "tz": [
+      "America/Winnipeg"
+    ],
+    "featureId": 213,
+    "population": 1278365
+  },
+  {
+    "state": "Ontario",
+    "cases": 588,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 588,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -84.7533750036988,
+      49.26501413726137
+    ],
+    "tz": [
+      "America/Toronto"
+    ],
+    "featureId": 214,
+    "population": 13448494
+  },
+  {
+    "state": "Quebec",
+    "cases": 221,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 221,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -68.38833574149993,
+      53.79378896700006
+    ],
+    "tz": [
+      "America/Toronto"
+    ],
+    "featureId": 215,
+    "population": 8164361
+  },
+  {
+    "state": "New Brunswick",
+    "cases": 18,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 18,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -66.43830941249992,
+      46.36274594300005
+    ],
+    "tz": [
+      "America/Moncton"
+    ],
+    "featureId": 216,
+    "population": 747101
+  },
+  {
+    "state": "Nova Scotia",
+    "cases": 51,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 51,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -63.021209276499945,
+      45.266872463000055
+    ],
+    "tz": [
+      "America/Halifax"
+    ],
+    "featureId": 217,
+    "population": 923598
+  },
+  {
+    "state": "Prince Edward Island",
+    "cases": 3,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 3,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -63.21041826049995,
+      46.49290599200006
+    ],
+    "tz": [
+      "America/Halifax"
+    ],
+    "featureId": 218,
+    "population": 142907
+  },
+  {
+    "state": "Newfoundland and Labrador",
+    "cases": 4,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 4,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -60.21844100481229,
+      53.46112743006114
+    ],
+    "tz": [
+      "America/Goose_Bay"
+    ],
+    "featureId": 219,
+    "population": 519716
+  },
+  {
+    "state": "Yukon",
+    "cases": 2,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 2,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -132.41233364551596,
+      64.82713023550005
+    ],
+    "tz": [
+      "America/Yellowknife"
+    ],
+    "featureId": 220,
+    "population": 35874
+  },
+  {
+    "state": "Northwest Territories",
+    "cases": 1,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 1,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -119.22198188100899,
+      69.38320119914675
+    ],
+    "tz": [
+      "America/Cambridge_Bay"
+    ],
+    "featureId": 221,
+    "population": 41786
+  },
+  {
+    "state": "Nunavut",
+    "cases": 0,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 0,
+    "rating": 0.3170731707317073,
+    "coordinates": [
+      -90.88314938052307,
+      67.52741120000007
+    ],
+    "tz": [
+      "America/Cambridge_Bay"
+    ],
+    "featureId": 222,
+    "population": 35944
+  },
+  {
+    "state": "Total",
+    "cases": 1959,
+    "country": "CAN",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
+    "active": 1959,
+    "rating": 0.3170731707317073
+  },
+  {
     "state": "AG",
     "cases": 266,
     "deaths": 2,
@@ -6509,7 +6738,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 210
+    "featureId": 223
   },
   {
     "state": "AI",
@@ -6526,7 +6755,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 211
+    "featureId": 224
   },
   {
     "state": "AR",
@@ -6544,7 +6773,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 212
+    "featureId": 225
   },
   {
     "state": "BE",
@@ -6562,7 +6791,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 213
+    "featureId": 226
   },
   {
     "state": "BL",
@@ -6580,7 +6809,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 214
+    "featureId": 227
   },
   {
     "state": "BS",
@@ -6598,7 +6827,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 215
+    "featureId": 228
   },
   {
     "state": "FR",
@@ -6616,7 +6845,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 216
+    "featureId": 229
   },
   {
     "state": "GE",
@@ -6634,7 +6863,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 217
+    "featureId": 230
   },
   {
     "state": "GL",
@@ -6651,7 +6880,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 218
+    "featureId": 231
   },
   {
     "state": "GR",
@@ -6669,7 +6898,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 219
+    "featureId": 232
   },
   {
     "state": "JU",
@@ -6686,7 +6915,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 220
+    "featureId": 233
   },
   {
     "state": "LU",
@@ -6703,7 +6932,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 221
+    "featureId": 234
   },
   {
     "state": "NE",
@@ -6721,7 +6950,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 222
+    "featureId": 235
   },
   {
     "state": "NW",
@@ -6738,7 +6967,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 223
+    "featureId": 236
   },
   {
     "state": "OW",
@@ -6755,7 +6984,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 224
+    "featureId": 237
   },
   {
     "state": "SG",
@@ -6773,7 +7002,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 225
+    "featureId": 238
   },
   {
     "state": "SH",
@@ -6790,7 +7019,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 226
+    "featureId": 239
   },
   {
     "state": "SO",
@@ -6807,7 +7036,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 227
+    "featureId": 240
   },
   {
     "state": "SZ",
@@ -6824,7 +7053,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 228
+    "featureId": 241
   },
   {
     "state": "TG",
@@ -6842,7 +7071,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 229
+    "featureId": 242
   },
   {
     "state": "TI",
@@ -6860,7 +7089,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 230
+    "featureId": 243
   },
   {
     "state": "UR",
@@ -6877,7 +7106,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 231
+    "featureId": 244
   },
   {
     "state": "VD",
@@ -6894,7 +7123,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 232
+    "featureId": 245
   },
   {
     "state": "VS",
@@ -6912,7 +7141,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 233
+    "featureId": 246
   },
   {
     "state": "ZG",
@@ -6929,7 +7158,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 234
+    "featureId": 247
   },
   {
     "state": "ZH",
@@ -6947,7 +7176,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 235
+    "featureId": 248
   },
   {
     "cases": 7630,
@@ -6963,7 +7192,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 236,
+    "featureId": 249,
     "population": 8236303
   },
   {
@@ -6975,235 +7204,6 @@
     "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
     "active": 1206,
     "rating": 0.36585365853658536
-  },
-  {
-    "state": "British Columbia",
-    "cases": 617,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 617,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -126.56202337499991,
-      54.15716767014678
-    ],
-    "tz": [
-      "America/Vancouver"
-    ],
-    "featureId": 237,
-    "population": 5071000
-  },
-  {
-    "state": "Alberta",
-    "cases": 358,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 358,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -115.00016854279502,
-      54.49628672664678
-    ],
-    "tz": [
-      "America/Edmonton"
-    ],
-    "featureId": 238,
-    "population": 4067175
-  },
-  {
-    "state": "Saskatchewan",
-    "cases": 72,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 72,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -105.6821561755884,
-      54.496338403094796
-    ],
-    "tz": [
-      "America/Regina"
-    ],
-    "featureId": 239,
-    "population": 1098352
-  },
-  {
-    "state": "Manitoba",
-    "cases": 11,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 11,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -95.4742987434922,
-      54.496368513369816
-    ],
-    "tz": [
-      "America/Winnipeg"
-    ],
-    "featureId": 240,
-    "population": 1278365
-  },
-  {
-    "state": "Ontario",
-    "cases": 588,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 588,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -84.7533750036988,
-      49.26501413726137
-    ],
-    "tz": [
-      "America/Toronto"
-    ],
-    "featureId": 241,
-    "population": 13448494
-  },
-  {
-    "state": "Quebec",
-    "cases": 221,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 221,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -68.38833574149993,
-      53.79378896700006
-    ],
-    "tz": [
-      "America/Toronto"
-    ],
-    "featureId": 242,
-    "population": 8164361
-  },
-  {
-    "state": "New Brunswick",
-    "cases": 18,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 18,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -66.43830941249992,
-      46.36274594300005
-    ],
-    "tz": [
-      "America/Moncton"
-    ],
-    "featureId": 243,
-    "population": 747101
-  },
-  {
-    "state": "Nova Scotia",
-    "cases": 51,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 51,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -63.021209276499945,
-      45.266872463000055
-    ],
-    "tz": [
-      "America/Halifax"
-    ],
-    "featureId": 244,
-    "population": 923598
-  },
-  {
-    "state": "Prince Edward Island",
-    "cases": 3,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 3,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -63.21041826049995,
-      46.49290599200006
-    ],
-    "tz": [
-      "America/Halifax"
-    ],
-    "featureId": 245,
-    "population": 142907
-  },
-  {
-    "state": "Newfoundland and Labrador",
-    "cases": 4,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 4,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -60.21844100481229,
-      53.46112743006114
-    ],
-    "tz": [
-      "America/Goose_Bay"
-    ],
-    "featureId": 246,
-    "population": 519716
-  },
-  {
-    "state": "Yukon",
-    "cases": 2,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 2,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -132.41233364551596,
-      64.82713023550005
-    ],
-    "tz": [
-      "America/Yellowknife"
-    ],
-    "featureId": 247,
-    "population": 35874
-  },
-  {
-    "state": "Northwest Territories",
-    "cases": 1,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 1,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -119.22198188100899,
-      69.38320119914675
-    ],
-    "tz": [
-      "America/Cambridge_Bay"
-    ],
-    "featureId": 248,
-    "population": 41786
-  },
-  {
-    "state": "Nunavut",
-    "cases": 0,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 0,
-    "rating": 0.3170731707317073,
-    "coordinates": [
-      -90.88314938052307,
-      67.52741120000007
-    ],
-    "tz": [
-      "America/Cambridge_Bay"
-    ],
-    "featureId": 249,
-    "population": 35944
-  },
-  {
-    "state": "Total",
-    "cases": 1959,
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "active": 1959,
-    "rating": 0.3170731707317073
   },
   {
     "state": "Andalucía",
@@ -7849,7 +7849,7 @@
     "deaths": 0,
     "recovered": 6,
     "state": "Guyane",
-    "population": 86504,
+    "population": 290691,
     "country": "FRA",
     "active": 17,
     "rating": 0.3170731707317073,

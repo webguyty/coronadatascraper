@@ -4068,7 +4068,7 @@
           "tz": [
             "Europe/Zurich"
           ],
-          "featureId": 236,
+          "featureId": 249,
           "population": 8236303
         }
       ],
@@ -4652,8 +4652,8 @@
       "Reunion, FRA",
       "Aruba, NLD",
       "Channel Islands, GBR",
-      "Zurich, CHE",
       "Total, CAN",
+      "Zurich, CHE",
       "Principado de Asturias, ESP",
       "Illes Balears, ESP",
       "Canarias, ESP",
@@ -4755,8 +4755,8 @@
       "Channel Islands, GBR",
       "Isle of Man, GBR",
       "Montserrat, GBR",
-      "Zurich, CHE",
       "Total, CAN",
+      "Zurich, CHE",
       "Andalucía, ESP",
       "Aragón, ESP",
       "Principado de Asturias, ESP",

@@ -10030,24 +10030,24 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Martinique,FRA,376480,14.636421259678,-61.019989787163496,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,44,1,,43,,1.1891891891891893,2020-03-22
 ,,Martinique,FRA,376480,14.636421259678,-61.019989787163496,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,53,1,,52,,1.2045454545454546,2020-03-23
 ,,Martinique,FRA,376480,14.636421259678,-61.019989787163496,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,57,,,57,,1.0754716981132075,2020-03-24
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,,2020-03-05
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-06
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-07
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,,2020-03-10
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-11
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.2,2020-03-12
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-03-13
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,3,4,,1.1666666666666667,2020-03-14
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,3,4,,1,2020-03-15
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.5714285714285714,2020-03-16
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-03-17
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-03-18
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,15,,,15,,1.3636363636363635,2020-03-19
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,15,,,15,,1,2020-03-20
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1.2,2020-03-21
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,19,,,19,,1.0555555555555556,2020-03-22
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,20,,,20,,1.0526315789473684,2020-03-23
-,,Guyane,FRA,86504,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,23,,6,17,,1.15,2020-03-24
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,,2020-03-05
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-06
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-07
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,,2020-03-10
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-11
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.2,2020-03-12
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-03-13
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,3,4,,1.1666666666666667,2020-03-14
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,3,4,,1,2020-03-15
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.5714285714285714,2020-03-16
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-03-17
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-03-18
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,15,,,15,,1.3636363636363635,2020-03-19
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,15,,,15,,1,2020-03-20
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1.2,2020-03-21
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,19,,,19,,1.0555555555555556,2020-03-22
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,20,,,20,,1.0526315789473684,2020-03-23
+,,Guyane,FRA,290691,3.93266119173895,-53.1138912280205,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,23,,6,17,,1.15,2020-03-24
 ,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-11
 ,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,4,,,4,,4,2020-03-12
 ,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1.25,2020-03-13
