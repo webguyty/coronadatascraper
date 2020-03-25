@@ -4,12 +4,12 @@
     "errors": []
   },
   "scrape": {
-    "numCountries": 180,
+    "numCountries": 169,
     "numStates": 259,
-    "numCounties": 2960,
+    "numCounties": 3213,
     "numCities": 0,
-    "numDuplicates": 155,
-    "numErrors": 7,
+    "numDuplicates": 104,
+    "numErrors": 6,
     "crosscheckReports": {
       "UT, USA": [
         {
@@ -51,37 +51,8 @@
           "tz": [
             "America/Denver"
           ],
-          "featureId": 367,
+          "featureId": 362,
           "population": 3205958
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "UT",
-          "cases": 181,
-          "recovered": 0,
-          "deaths": 1,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 180,
-          "rating": 0.4634146341463415
         }
       ],
       "Yolo County, CA, USA": [
@@ -109,7 +80,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 759,
+          "featureId": 754,
           "population": 220408
         },
         {
@@ -161,7 +132,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 758,
+          "featureId": 753,
           "population": 850967
         },
         {
@@ -213,7 +184,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 752,
+          "featureId": 747,
           "population": 549815
         },
         {
@@ -266,7 +237,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 751,
+          "featureId": 746,
           "population": 499942
         },
         {
@@ -318,7 +289,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 747,
+          "featureId": 742,
           "population": 180040
         },
         {
@@ -370,7 +341,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 746,
+          "featureId": 741,
           "population": 274255
         },
         {
@@ -423,7 +394,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 745,
+          "featureId": 740,
           "population": 1937570
         },
         {
@@ -477,7 +448,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 744,
+          "featureId": 739,
           "population": 446527
         },
         {
@@ -530,7 +501,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 742,
+          "featureId": 737,
           "population": 284010
         },
         {
@@ -573,7 +544,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 739,
+          "featureId": 734,
           "population": 3343364
         },
         {
@@ -627,7 +598,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 737,
+          "featureId": 732,
           "population": 61537
         },
         {
@@ -681,7 +652,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 735,
+          "featureId": 730,
           "population": 2450758
         },
         {
@@ -705,59 +676,6 @@
           "certValidation": false,
           "priority": 0,
           "active": 59,
-          "rating": 0.24390243902439024
-        }
-      ],
-      "Placer County, CA, USA": [
-        {
-          "county": "Placer County",
-          "cases": 26,
-          "deaths": 1,
-          "state": "CA",
-          "country": "USA",
-          "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
-          "curators": [
-            {
-              "name": "Harriet Rowan",
-              "email": "hattierowan@gmail.com",
-              "twitter": "@hattierowan",
-              "github": "HarrietRowan"
-            }
-          ],
-          "active": 25,
-          "rating": 0.43902439024390244,
-          "coordinates": [
-            -120.7434505,
-            39.0142165
-          ],
-          "tz": [
-            "America/Los_Angeles"
-          ],
-          "featureId": 733,
-          "population": 393149
-        },
-        {
-          "cases": 20,
-          "deaths": 1,
-          "county": "Placer County",
-          "state": "CA",
-          "country": "USA",
-          "maintainers": [
-            {
-              "name": "John Bencina",
-              "github": "jbencina",
-              "country": "USA",
-              "state": "CA",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
-          "timeseries": false,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "priority": 0,
-          "active": 19,
           "rating": 0.24390243902439024
         }
       ],
@@ -787,7 +705,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 732,
+          "featureId": 727,
           "population": 3185968
         },
         {
@@ -841,7 +759,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 729,
+          "featureId": 724,
           "population": 435594
         },
         {
@@ -885,7 +803,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 728,
+          "featureId": 723,
           "population": 14250
         },
         {
@@ -939,7 +857,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 726,
+          "featureId": 721,
           "population": 274765
         },
         {
@@ -994,7 +912,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 725,
+          "featureId": 720,
           "population": 87606
         },
         {
@@ -1047,7 +965,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 723,
+          "featureId": 718,
           "population": 259666
         },
         {
@@ -1100,7 +1018,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 722,
+          "featureId": 717,
           "population": 157672
         },
         {
@@ -1152,7 +1070,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 721,
+          "featureId": 716,
           "population": 10105518
         },
         {
@@ -1206,7 +1124,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 718,
+          "featureId": 713,
           "population": 151366
         },
         {
@@ -1282,7 +1200,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 713,
+          "featureId": 708,
           "population": 28047
         }
       ],
@@ -1335,7 +1253,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 712,
+          "featureId": 707,
           "population": 994400
         }
       ],
@@ -1389,7 +1307,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 710,
+          "featureId": 705,
           "population": 27828
         }
       ],
@@ -1442,7 +1360,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 709,
+          "featureId": 704,
           "population": 1150215
         }
       ],
@@ -1494,7 +1412,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 708,
+          "featureId": 703,
           "population": 21627
         }
       ],
@@ -1546,7 +1464,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 707,
+          "featureId": 702,
           "population": 45602
         }
       ],
@@ -1598,7 +1516,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 706,
+          "featureId": 701,
           "population": 231256
         }
       ],
@@ -1650,7 +1568,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 703,
+          "featureId": 698,
           "population": 1666753
         }
       ],
@@ -1678,7 +1596,7 @@
           "tz": [
             "America/Denver"
           ],
-          "featureId": 373,
+          "featureId": 368,
           "population": 578759
         },
         {
@@ -1707,35 +1625,6 @@
           "priority": 0,
           "active": 37,
           "rating": 0.24390243902439024
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "WY",
-          "cases": 24,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 24,
-          "rating": 0.4634146341463415
         }
       ],
       "WV, USA": [
@@ -1763,7 +1652,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 372,
+          "featureId": 367,
           "population": 1792147
         },
         {
@@ -1779,35 +1668,6 @@
           "priority": 0,
           "active": 39,
           "rating": 0.3902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "WV",
-          "cases": 12,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 12,
-          "rating": 0.4634146341463415
         }
       ],
       "WI, USA": [
@@ -1835,7 +1695,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 371,
+          "featureId": 366,
           "population": 5822434
         },
         {
@@ -1852,35 +1712,6 @@
           "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
           "active": 457,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "WI",
-          "cases": 381,
-          "recovered": 0,
-          "deaths": 4,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 377,
-          "rating": 0.4634146341463415
         }
       ],
       "WA, USA": [
@@ -1908,7 +1739,7 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 370,
+          "featureId": 365,
           "population": 7614893
         },
         {
@@ -1925,35 +1756,6 @@
           "priority": 0,
           "active": 2346,
           "rating": 0.36585365853658536
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "WA",
-          "cases": 1996,
-          "recovered": 0,
-          "deaths": 95,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 1901,
-          "rating": 0.4634146341463415
         }
       ],
       "VA, USA": [
@@ -1981,7 +1783,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 368,
+          "featureId": 363,
           "population": 8535519
         },
         {
@@ -2006,35 +1808,49 @@
           "priority": 0,
           "active": 283,
           "rating": 0.14634146341463414
-        },
+        }
+      ],
+      "TX, USA": [
         {
-          "aggregate": "state",
+          "state": "TX",
+          "deaths": 11,
+          "tested": 13235,
+          "cases": 715,
           "country": "USA",
-          "state": "VA",
-          "cases": 221,
-          "recovered": 0,
-          "deaths": 6,
-          "maintainers": [
+          "url": "https://covidtracking.com/api/states",
+          "curators": [
             {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
+              "name": "The COVID Tracking Project",
+              "url": "https://covidtracking.com/",
+              "twitter": "@COVID19Tracking",
+              "github": "COVID19Tracking"
             }
           ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
+          "active": 704,
+          "rating": 0.34146341463414637,
+          "coordinates": [
+            -100.0884705015624,
+            31.177528238191037
+          ],
+          "tz": [
+            "America/Chicago"
+          ],
+          "featureId": 361,
+          "population": 28995881
+        },
+        {
+          "cases": 715,
+          "state": "TX",
+          "country": "USA",
+          "aggregate": "county",
           "certValidation": false,
-          "active": 215,
-          "rating": 0.4634146341463415
+          "timeseries": false,
+          "type": "csv",
+          "headless": false,
+          "priority": 0,
+          "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
+          "active": 715,
+          "rating": 0.43902439024390244
         }
       ],
       "TN, USA": [
@@ -2062,7 +1878,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 365,
+          "featureId": 360,
           "population": 6829174
         },
         {
@@ -2078,35 +1894,6 @@
           "priority": 0,
           "active": 667,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "TN",
-          "cases": 505,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 503,
-          "rating": 0.4634146341463415
         }
       ],
       "SD, USA": [
@@ -2134,7 +1921,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 364,
+          "featureId": 359,
           "population": 884659
         },
         {
@@ -2150,35 +1937,6 @@
           "priority": 0,
           "active": 30,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "SD",
-          "cases": 21,
-          "recovered": 0,
-          "deaths": 1,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 20,
-          "rating": 0.4634146341463415
         }
       ],
       "SC, USA": [
@@ -2206,7 +1964,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 363,
+          "featureId": 358,
           "population": 5148714
         },
         {
@@ -2223,35 +1981,6 @@
           "priority": 0,
           "active": 335,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "SC",
-          "cases": 196,
-          "recovered": 0,
-          "deaths": 3,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 193,
-          "rating": 0.4634146341463415
         }
       ],
       "RI, USA": [
@@ -2292,37 +2021,8 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 2770,
+          "featureId": 2764,
           "population": 1059361
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "RI",
-          "cases": 83,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 83,
-          "rating": 0.4634146341463415
         }
       ],
       "PA, USA": [
@@ -2350,7 +2050,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 362,
+          "featureId": 357,
           "population": 12801989
         },
         {
@@ -2368,35 +2068,6 @@
           "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
           "active": 0,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "PA",
-          "cases": 509,
-          "recovered": 0,
-          "deaths": 3,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 506,
-          "rating": 0.4634146341463415
         }
       ],
       "OK, USA": [
@@ -2424,7 +2095,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 360,
+          "featureId": 355,
           "population": 3956971
         },
         {
@@ -2455,35 +2126,6 @@
           "priority": 0,
           "active": 106,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "OK",
-          "cases": 67,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 65,
-          "rating": 0.4634146341463415
         }
       ],
       "OH, USA": [
@@ -2511,7 +2153,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 359,
+          "featureId": 354,
           "population": 11689100
         },
         {
@@ -2527,35 +2169,6 @@
           "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
           "active": 564,
           "rating": 0.3902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "OH",
-          "cases": 355,
-          "recovered": 0,
-          "deaths": 3,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 352,
-          "rating": 0.4634146341463415
         }
       ],
       "NY, USA": [
@@ -2583,7 +2196,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 358,
+          "featureId": 353,
           "population": 19453561
         },
         {
@@ -2599,35 +2212,6 @@
           "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
           "active": 25663,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NY",
-          "cases": 15793,
-          "recovered": 0,
-          "deaths": 117,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 15676,
-          "rating": 0.4634146341463415
         }
       ],
       "NM, USA": [
@@ -2654,7 +2238,7 @@
           "tz": [
             "America/Denver"
           ],
-          "featureId": 356,
+          "featureId": 351,
           "population": 2096829
         },
         {
@@ -2670,35 +2254,6 @@
           "priority": 0,
           "active": 100,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NM",
-          "cases": 57,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 57,
-          "rating": 0.4634146341463415
         }
       ],
       "NJ, USA": [
@@ -2726,7 +2281,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 355,
+          "featureId": 350,
           "population": 8882190
         },
         {
@@ -2742,35 +2297,6 @@
           "url": "https://opendata.arcgis.com/datasets/84737ef7f760486293b6afa536f028e0_0.csv",
           "active": 634,
           "rating": 0.3902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NJ",
-          "cases": 1914,
-          "recovered": 0,
-          "deaths": 20,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 1894,
-          "rating": 0.4634146341463415
         }
       ],
       "NH, USA": [
@@ -2798,7 +2324,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 354,
+          "featureId": 349,
           "population": 1359711
         },
         {
@@ -2820,35 +2346,6 @@
           "priority": 0,
           "active": 108,
           "rating": 0.14634146341463414
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NH",
-          "cases": 65,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 65,
-          "rating": 0.4634146341463415
         }
       ],
       "NE, USA": [
@@ -2898,37 +2395,8 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 2287,
+          "featureId": 2282,
           "population": 1934408
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NE",
-          "cases": 51,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 51,
-          "rating": 0.4634146341463415
         }
       ],
       "NC, USA": [
@@ -2956,7 +2424,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 352,
+          "featureId": 347,
           "population": 10488084
         },
         {
@@ -2972,35 +2440,6 @@
           "priority": 0,
           "active": 398,
           "rating": 0.3902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NC",
-          "cases": 302,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 302,
-          "rating": 0.4634146341463415
         }
       ],
       "MT, USA": [
@@ -3027,7 +2466,7 @@
           "tz": [
             "America/Denver"
           ],
-          "featureId": 351,
+          "featureId": 346,
           "population": 1068778
         },
         {
@@ -3043,35 +2482,6 @@
           "priority": 0,
           "active": 51,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MT",
-          "cases": 31,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 31,
-          "rating": 0.4634146341463415
         }
       ],
       "MS, USA": [
@@ -3099,7 +2509,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 350,
+          "featureId": 345,
           "population": 2976149
         },
         {
@@ -3116,35 +2526,6 @@
           "priority": 0,
           "active": 319,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MS",
-          "cases": 207,
-          "recovered": 0,
-          "deaths": 1,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 206,
-          "rating": 0.4634146341463415
         }
       ],
       "MO, USA": [
@@ -3172,7 +2553,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 349,
+          "featureId": 344,
           "population": 6137428
         },
         {
@@ -3203,35 +2584,6 @@
           "priority": 0,
           "active": 255,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MO",
-          "cases": 100,
-          "recovered": 0,
-          "deaths": 3,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 97,
-          "rating": 0.4634146341463415
         }
       ],
       "MN, USA": [
@@ -3259,7 +2611,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 348,
+          "featureId": 343,
           "population": 5639632
         },
         {
@@ -3275,35 +2627,6 @@
           "priority": 0,
           "active": 262,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MN",
-          "cases": 169,
-          "recovered": 0,
-          "deaths": 1,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 168,
-          "rating": 0.4634146341463415
         }
       ],
       "MI, USA": [
@@ -3331,7 +2654,7 @@
           "tz": [
             "America/Detroit"
           ],
-          "featureId": 347,
+          "featureId": 342,
           "population": 9986857
         },
         {
@@ -3348,35 +2671,6 @@
           "priority": 0,
           "active": 1767,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MI",
-          "cases": 1037,
-          "recovered": 0,
-          "deaths": 9,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 1028,
-          "rating": 0.4634146341463415
         }
       ],
       "ME, USA": [
@@ -3403,7 +2697,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 346,
+          "featureId": 341,
           "population": 1344212
         },
         {
@@ -3420,35 +2714,6 @@
           "priority": 0,
           "active": 111,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "ME",
-          "cases": 89,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 89,
-          "rating": 0.4634146341463415
         }
       ],
       "MD, USA": [
@@ -3476,7 +2741,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 345,
+          "featureId": 340,
           "population": 6045680
         },
         {
@@ -3492,35 +2757,6 @@
           "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
           "active": 349,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MD",
-          "cases": 244,
-          "recovered": 0,
-          "deaths": 3,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 241,
-          "rating": 0.4634146341463415
         }
       ],
       "MA, USA": [
@@ -3548,7 +2784,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 344,
+          "featureId": 339,
           "population": 6892503
         },
         {
@@ -3571,35 +2807,6 @@
           "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-24-2020/download",
           "active": 1148,
           "rating": 0.14634146341463414
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "MA",
-          "cases": 646,
-          "recovered": 0,
-          "deaths": 5,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 641,
-          "rating": 0.4634146341463415
         }
       ],
       "LA, USA": [
@@ -3627,7 +2834,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 343,
+          "featureId": 338,
           "population": 4648794
         },
         {
@@ -3644,35 +2851,6 @@
           "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
           "active": 1342,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "LA",
-          "cases": 837,
-          "recovered": 0,
-          "deaths": 20,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 817,
-          "rating": 0.4634146341463415
         }
       ],
       "KY, USA": [
@@ -3731,37 +2909,8 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 1635,
+          "featureId": 1630,
           "population": 4467673
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "KY",
-          "cases": 99,
-          "recovered": 0,
-          "deaths": 3,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 96,
-          "rating": 0.4634146341463415
         }
       ],
       "KS, USA": [
@@ -3789,7 +2938,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 342,
+          "featureId": 337,
           "population": 2913314
         },
         {
@@ -3818,35 +2967,6 @@
           "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_24_2020_.pdf",
           "active": 82,
           "rating": 0.14634146341463414
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "KS",
-          "cases": 64,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 62,
-          "rating": 0.4634146341463415
         }
       ],
       "IN, USA": [
@@ -3889,37 +3009,8 @@
           "tz": [
             "America/Indiana/Indianapolis"
           ],
-          "featureId": 1409,
+          "featureId": 1404,
           "population": 6732219
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "IN",
-          "cases": 201,
-          "recovered": 0,
-          "deaths": 6,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 195,
-          "rating": 0.4634146341463415
         }
       ],
       "IL, USA": [
@@ -3961,37 +3052,8 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 1316,
+          "featureId": 1311,
           "population": 12671821
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "IL",
-          "cases": 1049,
-          "recovered": 0,
-          "deaths": 9,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 1040,
-          "rating": 0.4634146341463415
         }
       ],
       "ID, USA": [
@@ -4019,7 +3081,7 @@
           "tz": [
             "America/Boise"
           ],
-          "featureId": 341,
+          "featureId": 336,
           "population": 1787065
         },
         {
@@ -4035,35 +3097,6 @@
           "priority": 0,
           "active": 73,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "ID",
-          "cases": 42,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 42,
-          "rating": 0.4634146341463415
         }
       ],
       "IA, USA": [
@@ -4090,7 +3123,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 340,
+          "featureId": 335,
           "population": 3155070
         },
         {
@@ -4106,35 +3139,6 @@
           "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
           "active": 124,
           "rating": 0.3902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "IA",
-          "cases": 90,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 90,
-          "rating": 0.4634146341463415
         }
       ],
       "HI, USA": [
@@ -4186,37 +3190,8 @@
           "tz": [
             "Etc/GMT+10"
           ],
-          "featureId": 1070,
+          "featureId": 1065,
           "population": 1415872
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "HI",
-          "cases": 48,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 48,
-          "rating": 0.4634146341463415
         }
       ],
       "GA, USA": [
@@ -4244,7 +3219,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 339,
+          "featureId": 334,
           "population": 10617423
         },
         {
@@ -4260,35 +3235,6 @@
           "priority": 0,
           "active": 1097,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "GA",
-          "cases": 600,
-          "recovered": 0,
-          "deaths": 23,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 577,
-          "rating": 0.4634146341463415
         }
       ],
       "DE, USA": [
@@ -4316,7 +3262,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 338,
+          "featureId": 333,
           "population": 973764
         },
         {
@@ -4332,35 +3278,6 @@
           "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
           "active": 104,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "DE",
-          "cases": 47,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 47,
-          "rating": 0.4634146341463415
         }
       ],
       "DC, USA": [
@@ -4388,7 +3305,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 337,
+          "featureId": 332,
           "population": 705749
         },
         {
@@ -4404,35 +3321,6 @@
           "priority": 0,
           "active": 183,
           "rating": 0
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "DC",
-          "cases": 102,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 100,
-          "rating": 0.4634146341463415
         }
       ],
       "CT, USA": [
@@ -4460,7 +3348,7 @@
           "tz": [
             "America/New_York"
           ],
-          "featureId": 336,
+          "featureId": 331,
           "population": 3565287
         },
         {
@@ -4477,35 +3365,6 @@
           "priority": 0,
           "active": 606,
           "rating": 0.14634146341463414
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "CT",
-          "cases": 223,
-          "recovered": 0,
-          "deaths": 5,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 218,
-          "rating": 0.4634146341463415
         }
       ],
       "CO, USA": [
@@ -4548,36 +3407,7 @@
           "tz": [
             "America/Denver"
           ],
-          "featureId": 826
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "CO",
-          "cases": 476,
-          "recovered": 0,
-          "deaths": 6,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 470,
-          "rating": 0.4634146341463415
+          "featureId": 821
         }
       ],
       "CA, USA": [
@@ -4630,37 +3460,8 @@
           "tz": [
             "America/Los_Angeles"
           ],
-          "featureId": 761,
+          "featureId": 756,
           "population": 39512223
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "CA",
-          "cases": 1642,
-          "recovered": 0,
-          "deaths": 30,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 1612,
-          "rating": 0.4634146341463415
         }
       ],
       "AZ, USA": [
@@ -4688,7 +3489,7 @@
           "tz": [
             "America/Phoenix"
           ],
-          "featureId": 335,
+          "featureId": 330,
           "population": 7278717
         },
         {
@@ -4704,35 +3505,6 @@
           "priority": 0,
           "active": 326,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "AZ",
-          "cases": 152,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 150,
-          "rating": 0.4634146341463415
         }
       ],
       "AR, USA": [
@@ -4760,7 +3532,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 334,
+          "featureId": 329,
           "population": 3017804
         },
         {
@@ -4793,35 +3565,6 @@
           "priority": 0,
           "active": 220,
           "rating": 0.43902439024390244
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "AR",
-          "cases": 165,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 165,
-          "rating": 0.4634146341463415
         }
       ],
       "AL, USA": [
@@ -4849,7 +3592,7 @@
           "tz": [
             "America/Chicago"
           ],
-          "featureId": 333,
+          "featureId": 328,
           "population": 4903185
         },
         {
@@ -4865,35 +3608,6 @@
           "priority": 0,
           "active": 242,
           "rating": 0.4146341463414634
-        },
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "AL",
-          "cases": 138,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 138,
-          "rating": 0.4634146341463415
         }
       ],
       "AK, USA": [
@@ -4921,7 +3635,7 @@
           "tz": [
             "Etc/GMT"
           ],
-          "featureId": 332,
+          "featureId": 327,
           "population": 731545
         },
         {
@@ -4937,14 +3651,93 @@
           "priority": 0,
           "active": 42,
           "rating": 0.4146341463414634
+        }
+      ],
+      "La Réunion, FRA": [
+        {
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "cases": 94,
+          "state": "La Réunion",
+          "country": "FRA",
+          "active": 94,
+          "rating": 0.3170731707317073,
+          "coordinates": [
+            55.53996829500005,
+            -21.115329685499916
+          ],
+          "tz": [
+            "Indian/Reunion"
+          ],
+          "featureId": 276
+        }
+      ],
+      "Victoria, AUS": [
+        {
+          "state": "Victoria",
+          "cases": 411,
+          "aggregate": "state",
+          "country": "AUS",
+          "priority": 1,
+          "sources": [
+            {
+              "description": "Australian Government Department of Health",
+              "name": "Australian Government Department of Health",
+              "url": "https://www.health.gov.au/"
+            }
+          ],
+          "type": "table",
+          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+          "timeseries": false,
+          "headless": false,
+          "certValidation": false,
+          "active": 411,
+          "rating": 0.3170731707317073
+        },
+        {
+          "state": "Victoria",
+          "cases": 466,
+          "country": "AUS",
+          "maintainers": [
+            {
+              "name": "Cameron Chamberlain",
+              "email": "corona@camjc.com",
+              "github": "camjc",
+              "country": "AUS",
+              "state": "Victoria",
+              "city": "Melbourne",
+              "flag": "🇦🇺"
+            }
+          ],
+          "sources": [
+            {
+              "description": "Victoria State Government Health and Human Services Department",
+              "name": "Victoria State Government Health and Human Services",
+              "url": "https://www.dhhs.vic.gov.au"
+            }
+          ],
+          "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
+          "active": 466,
+          "rating": 0,
+          "coordinates": [
+            145.4695804428331,
+            -36.537788791607284
+          ],
+          "tz": [
+            "Australia/Melbourne"
+          ],
+          "featureId": 373,
+          "population": 6594804
         },
         {
           "aggregate": "state",
-          "country": "USA",
-          "state": "AK",
-          "cases": 21,
-          "recovered": 0,
+          "country": "AUS",
+          "cases": 411,
           "deaths": 0,
+          "coordinates": [
+            144.9631,
+            -37.8136
+          ],
+          "state": "Victoria",
           "maintainers": [
             {
               "name": "Larry Davis",
@@ -4964,26 +3757,8 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 21,
+          "active": 411,
           "rating": 0.4634146341463415
-        }
-      ],
-      "La Réunion, FRA": [
-        {
-          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-          "cases": 94,
-          "state": "La Réunion",
-          "country": "FRA",
-          "active": 94,
-          "rating": 0.3170731707317073,
-          "coordinates": [
-            55.53996829500005,
-            -21.115329685499916
-          ],
-          "tz": [
-            "Indian/Reunion"
-          ],
-          "featureId": 281
         }
       ],
       "Northern Territory, AUS": [
@@ -5040,14 +3815,13 @@
           "tz": [
             "Australia/Darwin"
           ],
-          "featureId": 377,
+          "featureId": 371,
           "population": 245869
         },
         {
           "aggregate": "state",
           "country": "AUS",
-          "cases": 3,
-          "recovered": 0,
+          "cases": 6,
           "deaths": 0,
           "coordinates": [
             130.8456,
@@ -5073,7 +3847,7 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 3,
+          "active": 6,
           "rating": 0.4634146341463415
         }
       ],
@@ -5121,15 +3895,14 @@
           "tz": [
             "Australia/Sydney"
           ],
-          "featureId": 376,
+          "featureId": 370,
           "population": 8089526
         },
         {
           "aggregate": "state",
           "country": "AUS",
-          "cases": 533,
-          "recovered": 4,
-          "deaths": 6,
+          "cases": 818,
+          "deaths": 7,
           "coordinates": [
             151.2093,
             -33.8688
@@ -5154,7 +3927,7 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 523,
+          "active": 811,
           "rating": 0.4634146341463415
         }
       ],
@@ -5213,14 +3986,13 @@
           "tz": [
             "Australia/Sydney"
           ],
-          "featureId": 375,
+          "featureId": 369,
           "population": 426709
         },
         {
           "aggregate": "state",
           "country": "AUS",
-          "cases": 19,
-          "recovered": 0,
+          "cases": 39,
           "deaths": 0,
           "coordinates": [
             149.0124,
@@ -5246,18 +4018,20 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 19,
+          "active": 39,
           "rating": 0.4634146341463415
         }
       ],
-      "VI, USA": [
+      "CHE": [
         {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "VI",
-          "cases": 0,
-          "recovered": 0,
-          "deaths": 0,
+          "aggregate": "country",
+          "country": "CHE",
+          "cases": 9877,
+          "deaths": 122,
+          "coordinates": [
+            8.2275,
+            46.8182
+          ],
           "maintainers": [
             {
               "name": "Larry Davis",
@@ -5277,40 +4051,191 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 0,
-          "rating": 0.4634146341463415
+          "active": 9755,
+          "rating": 0.4146341463414634
         },
         {
-          "state": "VI",
-          "deaths": 0,
-          "tested": 74,
-          "cases": 17,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
+          "cases": 7630,
+          "deaths": 131,
+          "country": "CHE",
+          "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
+          "active": 7499,
+          "rating": 0.2682926829268293,
+          "coordinates": [
+            8.258983805500094,
+            46.840811259500086
           ],
-          "active": 17,
-          "rating": 0.34146341463414637
+          "tz": [
+            "Europe/Zurich"
+          ],
+          "featureId": 236,
+          "population": 8236303
         }
       ],
-      "Guadeloupe, FRA": [
+      "ESP": [
+        {
+          "aggregate": "country",
+          "country": "ESP",
+          "cases": 39885,
+          "deaths": 2808,
+          "coordinates": [
+            -4,
+            40
+          ],
+          "maintainers": [
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
+          ],
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "priority": -1,
+          "type": "list",
+          "headless": false,
+          "certValidation": false,
+          "active": 37077,
+          "rating": 0.4146341463414634
+        },
+        {
+          "cases": 39673,
+          "recovered": 3771,
+          "deaths": 2696,
+          "country": "ESP",
+          "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
+          "active": 33206,
+          "rating": 0.0975609756097561,
+          "coordinates": [
+            -6.849639452499929,
+            35.73847077050007
+          ],
+          "tz": [
+            "Etc/GMT"
+          ],
+          "featureId": 262,
+          "population": 48958159
+        }
+      ],
+      "ITA": [
+        {
+          "aggregate": "country",
+          "country": "ITA",
+          "cases": 69176,
+          "deaths": 6820,
+          "coordinates": [
+            12,
+            43
+          ],
+          "maintainers": [
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
+          ],
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "priority": -1,
+          "type": "list",
+          "headless": false,
+          "certValidation": false,
+          "active": 62356,
+          "rating": 0.4146341463414634
+        },
+        {
+          "cases": 69176,
+          "recovered": 8326,
+          "deaths": 6820,
+          "country": "ITA",
+          "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+          "active": 54030,
+          "rating": 0.4634146341463415,
+          "coordinates": [
+            12.56007714450007,
+            41.826061709500074
+          ],
+          "tz": [
+            "Europe/Rome"
+          ],
+          "featureId": 326,
+          "population": 62137802
+        }
+      ],
+      "FRA": [
+        {
+          "aggregate": "country",
+          "country": "FRA",
+          "cases": 22304,
+          "deaths": 1100,
+          "coordinates": [
+            2.2137,
+            46.2276
+          ],
+          "maintainers": [
+            {
+              "name": "Larry Davis",
+              "email": "lazdnet@gmail.com",
+              "twitter": "lazdnet",
+              "github": "lazd",
+              "country": "USA",
+              "state": "CA",
+              "county": "San Francisco",
+              "city": "San Francisco",
+              "flag": "🇺🇸"
+            }
+          ],
+          "url": "https://github.com/CSSEGISandData/COVID-19",
+          "timeseries": true,
+          "priority": -1,
+          "type": "list",
+          "headless": false,
+          "certValidation": false,
+          "active": 21204,
+          "rating": 0.4146341463414634
+        },
+        {
+          "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+          "cases": 22300,
+          "deaths": 1100,
+          "recovered": 3281,
+          "country": "FRA",
+          "active": 17919,
+          "rating": 0.2682926829268293,
+          "coordinates": [
+            -2.9882706369999426,
+            14.862000781359463
+          ],
+          "tz": [
+            "Africa/Bamako"
+          ],
+          "featureId": 277,
+          "population": 67106161
+        }
+      ],
+      "Martinique, FRA": [
         {
           "aggregate": "state",
           "country": "FRA",
-          "cases": 0,
-          "recovered": 0,
-          "deaths": 0,
+          "cases": 57,
+          "deaths": 1,
           "coordinates": [
-            -61.5833,
-            16.25
+            -61.0242,
+            14.6415
           ],
-          "state": "Guadeloupe",
+          "state": "Martinique",
           "maintainers": [
             {
               "name": "Larry Davis",
@@ -5330,34 +4255,33 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 0,
+          "active": 56,
           "rating": 0.4634146341463415
         },
         {
           "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-          "cases": 73,
-          "deaths": 1,
-          "state": "Guadeloupe",
-          "population": 390253,
+          "cases": 57,
+          "deaths": 0,
+          "state": "Martinique",
+          "population": 376480,
           "country": "FRA",
-          "active": 72,
+          "active": 57,
           "rating": 0.3170731707317073,
           "coordinates": [
-            -61.404015738016,
-            16.176466312683498
+            -61.019989787163496,
+            14.636421259678
           ],
           "tz": [
-            "America/Guadeloupe"
+            "America/Martinique"
           ],
-          "featureId": 283
+          "featureId": 279
         }
       ],
       "Mayotte, FRA": [
         {
           "aggregate": "state",
           "country": "FRA",
-          "cases": 0,
-          "recovered": 0,
+          "cases": 36,
           "deaths": 0,
           "coordinates": [
             45.1662,
@@ -5383,14 +4307,14 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 0,
+          "active": 36,
           "rating": 0.4634146341463415
         },
         {
           "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
           "cases": 30,
           "state": "Mayotte",
-          "population": 376,
+          "population": 270372,
           "country": "FRA",
           "active": 30,
           "rating": 0.3170731707317073,
@@ -5401,119 +4325,20 @@
           "tz": [
             "Indian/Mayotte"
           ],
-          "featureId": 286
+          "featureId": 281
         }
       ],
-      "GU, USA": [
+      "Guadeloupe, FRA": [
         {
           "aggregate": "state",
-          "country": "USA",
-          "state": "GU",
-          "cases": 27,
-          "recovered": 0,
-          "deaths": 1,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 26,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "GU",
-          "deaths": 1,
-          "tested": 233,
-          "cases": 32,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 31,
-          "rating": 0.34146341463414637
-        }
-      ],
-      "PR, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "PR",
-          "cases": 23,
-          "recovered": 0,
-          "deaths": 1,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 22,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "PR",
-          "deaths": 2,
-          "tested": 349,
-          "cases": 39,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 37,
-          "rating": 0.34146341463414637,
-          "population": 3193694
-        }
-      ],
-      "FRA": [
-        {
-          "aggregate": "country",
           "country": "FRA",
-          "cases": 16018,
-          "recovered": 2200,
-          "deaths": 674,
+          "cases": 62,
+          "deaths": 1,
           "coordinates": [
-            2.2137,
-            46.2276
+            -61.5833,
+            16.25
           ],
+          "state": "Guadeloupe",
           "maintainers": [
             {
               "name": "Larry Davis",
@@ -5533,438 +4358,33 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 13144,
-          "rating": 0.4146341463414634
+          "active": 61,
+          "rating": 0.4634146341463415
         },
         {
           "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-          "cases": 22300,
-          "deaths": 1100,
-          "recovered": 3281,
+          "cases": 73,
+          "deaths": 1,
+          "state": "Guadeloupe",
+          "population": 390253,
           "country": "FRA",
-          "active": 17919,
-          "rating": 0.2682926829268293,
-          "coordinates": [
-            -2.9882706369999426,
-            14.862000781359463
-          ],
-          "tz": [
-            "Africa/Bamako"
-          ],
-          "featureId": 282,
-          "population": 67106161
-        }
-      ],
-      "ND, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "ND",
-          "cases": 28,
-          "recovered": 0,
-          "deaths": 0,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 28,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "ND",
-          "deaths": 0,
-          "tested": 1602,
-          "cases": 36,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 36,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            -100.3019580214955,
-            47.46721085597658
-          ],
-          "tz": [
-            "America/Chicago"
-          ],
-          "featureId": 353,
-          "population": 762062
-        }
-      ],
-      "VT, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "VT",
-          "cases": 52,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 50,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "VT",
-          "deaths": 7,
-          "tested": 1535,
-          "cases": 95,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 88,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            -72.47219594044931,
-            43.87150381198679
-          ],
-          "tz": [
-            "America/New_York"
-          ],
-          "featureId": 369,
-          "population": 623989
-        }
-      ],
-      "NV, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "NV",
-          "cases": 190,
-          "recovered": 0,
-          "deaths": 2,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 188,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "NV",
-          "deaths": 4,
-          "tested": 4232,
-          "cases": 278,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 274,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            -117.02047733760901,
-            38.50182293528022
-          ],
-          "tz": [
-            "America/Los_Angeles"
-          ],
-          "featureId": 357,
-          "population": 3080156
-        }
-      ],
-      "TX, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "TX",
-          "cases": 627,
-          "recovered": 0,
-          "deaths": 6,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 621,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "TX",
-          "deaths": 11,
-          "tested": 13235,
-          "cases": 715,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 704,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            -100.0884705015624,
-            31.177528238191037
-          ],
-          "tz": [
-            "America/Chicago"
-          ],
-          "featureId": 366,
-          "population": 28995881
-        }
-      ],
-      "OR, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "OR",
-          "cases": 161,
-          "recovered": 0,
-          "deaths": 4,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 157,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "OR",
-          "deaths": 8,
-          "tested": 4559,
-          "cases": 209,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "active": 201,
-          "rating": 0.34146341463414637,
-          "coordinates": [
-            -120.50533834262885,
-            44.11740471870206
-          ],
-          "tz": [
-            "America/Los_Angeles"
-          ],
-          "featureId": 361,
-          "population": 4217737
-        }
-      ],
-      "FL, USA": [
-        {
-          "aggregate": "state",
-          "country": "USA",
-          "state": "FL",
-          "cases": 830,
-          "recovered": 0,
-          "deaths": 13,
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 817,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "FL",
-          "deaths": 20,
-          "tested": 16046,
-          "cases": 1467,
-          "country": "USA",
-          "url": "https://covidtracking.com/api/states",
-          "type": "json",
-          "curators": [
-            {
-              "name": "The COVID Tracking Project",
-              "url": "https://covidtracking.com/",
-              "twitter": "@COVID19Tracking",
-              "github": "COVID19Tracking"
-            }
-          ],
-          "aggregate": "state",
-          "priority": 1,
-          "timeseries": false,
-          "headless": false,
-          "certValidation": false,
-          "active": 1447,
-          "rating": 0.34146341463414637
-        }
-      ],
-      "Tasmania, AUS": [
-        {
-          "aggregate": "state",
-          "country": "AUS",
-          "cases": 22,
-          "recovered": 3,
-          "deaths": 0,
-          "coordinates": [
-            145.9707,
-            -41.4545
-          ],
-          "state": "Tasmania",
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 19,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "Tasmania",
-          "cases": 26,
-          "country": "AUS",
-          "sources": [
-            {
-              "description": "Australian Government Department of Health",
-              "name": "Australian Government Department of Health",
-              "url": "https://www.health.gov.au/"
-            }
-          ],
-          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 26,
+          "active": 72,
           "rating": 0.3170731707317073,
           "coordinates": [
-            146.16134687600004,
-            -41.60023365649994
+            -61.404015738016,
+            16.176466312683498
           ],
           "tz": [
-            "Australia/Hobart"
+            "America/Guadeloupe"
           ],
-          "featureId": 211,
-          "population": 534281
+          "featureId": 278
         }
       ],
       "Western Australia, AUS": [
         {
           "aggregate": "state",
           "country": "AUS",
-          "cases": 120,
-          "recovered": 0,
+          "cases": 175,
           "deaths": 1,
           "coordinates": [
             115.8605,
@@ -5990,7 +4410,7 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 119,
+          "active": 174,
           "rating": 0.4634146341463415
         },
         {
@@ -6014,21 +4434,21 @@
           "tz": [
             "Australia/Perth"
           ],
-          "featureId": 213,
+          "featureId": 208,
           "population": 2621680
         }
       ],
-      "CHE": [
+      "Tasmania, AUS": [
         {
-          "aggregate": "country",
-          "country": "CHE",
-          "cases": 7245,
-          "recovered": 131,
-          "deaths": 98,
+          "aggregate": "state",
+          "country": "AUS",
+          "cases": 28,
+          "deaths": 0,
           "coordinates": [
-            8.2275,
-            46.8182
+            145.9707,
+            -41.4545
           ],
+          "state": "Tasmania",
           "maintainers": [
             {
               "name": "Larry Davis",
@@ -6048,33 +4468,39 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 7016,
-          "rating": 0.4146341463414634
+          "active": 28,
+          "rating": 0.4634146341463415
         },
         {
-          "cases": 7630,
-          "deaths": 131,
-          "country": "CHE",
-          "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
-          "active": 7499,
-          "rating": 0.2682926829268293,
+          "state": "Tasmania",
+          "cases": 26,
+          "country": "AUS",
+          "sources": [
+            {
+              "description": "Australian Government Department of Health",
+              "name": "Australian Government Department of Health",
+              "url": "https://www.health.gov.au/"
+            }
+          ],
+          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+          "active": 26,
+          "rating": 0.3170731707317073,
           "coordinates": [
-            8.258983805500094,
-            46.840811259500086
+            146.16134687600004,
+            -41.60023365649994
           ],
           "tz": [
-            "Europe/Zurich"
+            "Australia/Hobart"
           ],
-          "featureId": 254,
-          "population": 8236303
+          "featureId": 207,
+          "population": 534281
         }
       ],
       "South Australia, AUS": [
         {
           "aggregate": "state",
           "country": "AUS",
-          "cases": 100,
-          "recovered": 3,
+          "cases": 170,
           "deaths": 0,
           "coordinates": [
             138.6007,
@@ -6100,7 +4526,7 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 97,
+          "active": 170,
           "rating": 0.4634146341463415
         },
         {
@@ -6125,116 +4551,11 @@
           "rating": 0.3170731707317073
         }
       ],
-      "ESP": [
-        {
-          "aggregate": "country",
-          "country": "ESP",
-          "cases": 28768,
-          "recovered": 2575,
-          "deaths": 1772,
-          "coordinates": [
-            -4,
-            40
-          ],
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 24421,
-          "rating": 0.4146341463414634
-        },
-        {
-          "cases": 39673,
-          "recovered": 3771,
-          "deaths": 2696,
-          "country": "ESP",
-          "url": "https://opendata.arcgis.com/datasets/48fac2d7de0f43f9af938852e3748845_0.csv",
-          "active": 33206,
-          "rating": 0.0975609756097561,
-          "coordinates": [
-            -6.849639452499929,
-            35.73847077050007
-          ],
-          "tz": [
-            "Etc/GMT"
-          ],
-          "featureId": 267,
-          "population": 48958159
-        }
-      ],
-      "ITA": [
-        {
-          "aggregate": "country",
-          "country": "ITA",
-          "cases": 59138,
-          "recovered": 7024,
-          "deaths": 5476,
-          "coordinates": [
-            12,
-            43
-          ],
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 46638,
-          "rating": 0.4146341463414634
-        },
-        {
-          "cases": 69176,
-          "recovered": 8326,
-          "deaths": 6820,
-          "country": "ITA",
-          "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
-          "active": 54030,
-          "rating": 0.4634146341463415,
-          "coordinates": [
-            12.56007714450007,
-            41.826061709500074
-          ],
-          "tz": [
-            "Europe/Rome"
-          ],
-          "featureId": 331,
-          "population": 62137802
-        }
-      ],
       "Queensland, AUS": [
         {
           "aggregate": "state",
           "country": "AUS",
-          "cases": 221,
-          "recovered": 8,
+          "cases": 397,
           "deaths": 0,
           "coordinates": [
             153.4,
@@ -6260,7 +4581,7 @@
           "type": "list",
           "headless": false,
           "certValidation": false,
-          "active": 213,
+          "active": 397,
           "rating": 0.4634146341463415
         },
         {
@@ -6284,67 +4605,8 @@
           "tz": [
             "Australia/Brisbane"
           ],
-          "featureId": 210,
+          "featureId": 206,
           "population": 5095100
-        }
-      ],
-      "Victoria, AUS": [
-        {
-          "aggregate": "state",
-          "country": "AUS",
-          "cases": 296,
-          "recovered": 70,
-          "deaths": 0,
-          "coordinates": [
-            144.9631,
-            -37.8136
-          ],
-          "state": "Victoria",
-          "maintainers": [
-            {
-              "name": "Larry Davis",
-              "email": "lazdnet@gmail.com",
-              "twitter": "lazdnet",
-              "github": "lazd",
-              "country": "USA",
-              "state": "CA",
-              "county": "San Francisco",
-              "city": "San Francisco",
-              "flag": "🇺🇸"
-            }
-          ],
-          "url": "https://github.com/CSSEGISandData/COVID-19",
-          "timeseries": true,
-          "priority": -1,
-          "type": "list",
-          "headless": false,
-          "certValidation": false,
-          "active": 226,
-          "rating": 0.4634146341463415
-        },
-        {
-          "state": "Victoria",
-          "cases": 411,
-          "country": "AUS",
-          "sources": [
-            {
-              "description": "Australian Government Department of Health",
-              "name": "Australian Government Department of Health",
-              "url": "https://www.health.gov.au/"
-            }
-          ],
-          "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-          "active": 411,
-          "rating": 0.3170731707317073,
-          "coordinates": [
-            145.4695804428331,
-            -36.537788791607284
-          ],
-          "tz": [
-            "Australia/Melbourne"
-          ],
-          "featureId": 212,
-          "population": 6594804
         }
       ]
     },
@@ -6357,11 +4619,6 @@
       {
         "name": "Queensland, AUS",
         "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-        "err": "TypeError: Cannot read property 'groups' of null"
-      },
-      {
-        "name": "Victoria, AUS",
-        "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
         "err": "TypeError: Cannot read property 'groups' of null"
       },
       {
@@ -6380,23 +4637,23 @@
         "err": "TypeError: Cannot read property 'split' of null"
       },
       {
-        "name": "TX, USA",
-        "url": "https://www.dshs.state.tx.us/news/updates.shtm",
-        "err": "TypeError: $ is not a function"
+        "name": "Clark County, NV, USA",
+        "url": "https://www.southernnevadahealthdistrict.org/coronavirus",
+        "err": "TypeError: Cannot read property 'children' of undefined"
       }
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 3298,
+    "numFeaturesFound": 3543,
     "missingFeatures": [
-      "Channel Islands, GBR",
+      "Diamond Princess",
       "French Polynesia, FRA",
+      "New Caledonia, FRA",
       "Reunion, FRA",
       "Aruba, NLD",
-      "New Caledonia, FRA",
-      "GLP",
-      "Total, CAN",
+      "Channel Islands, GBR",
       "Zurich, CHE",
+      "Total, CAN",
       "Principado de Asturias, ESP",
       "Illes Balears, ESP",
       "Canarias, ESP",
@@ -6481,30 +4738,25 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 3045,
+    "numLocationsWithPopulation": 3292,
     "missingPopulations": [
-      "MTQ",
-      "St Martin, FRA",
-      "Channel Islands, GBR",
-      "French Polynesia, FRA",
-      "French Guiana, FRA",
-      "Curacao, NLD",
-      "Cayman Islands, GBR",
-      "Reunion, FRA",
-      "Aruba, NLD",
-      "Montserrat, GBR",
-      "Bahamas, The",
+      "Diamond Princess",
       "Greenland, DNK",
+      "French Guiana, FRA",
+      "French Polynesia, FRA",
       "New Caledonia, FRA",
-      "Bermuda, GBR",
+      "Reunion, FRA",
+      "St Martin, FRA",
+      "Aruba, NLD",
+      "Curacao, NLD",
       "Sint Maarten, NLD",
+      "Bermuda, GBR",
+      "Cayman Islands, GBR",
+      "Channel Islands, GBR",
       "Isle of Man, GBR",
-      "GLP",
-      "REU",
-      "GUF",
-      "MYT",
-      "Total, CAN",
+      "Montserrat, GBR",
       "Zurich, CHE",
+      "Total, CAN",
       "Andalucía, ESP",
       "Aragón, ESP",
       "Principado de Asturias, ESP",
@@ -6687,14 +4939,10 @@
   },
   "validate": {
     "errors": [
-      "Bahamas, The .country should NOT be longer than 3 characters",
-      "Cape Verde .country should NOT be longer than 3 characters",
-      "East Timor .country should NOT be longer than 3 characters",
+      "Diamond Princess .country should NOT be longer than 3 characters",
+      "US .country should NOT be shorter than 3 characters",
       "Syria .country should NOT be longer than 3 characters",
-      "GUM .deaths should be <= 0",
-      "PRI .deaths should be <= 0",
-      "Republic of the Congo .country should NOT be longer than 3 characters",
-      "The Gambia .country should NOT be longer than 3 characters",
+      "Laos .country should NOT be longer than 3 characters",
       "SO, CHE  should have required property 'cases'",
       "VD, CHE  should have required property 'cases'",
       "(unassigned), AR, USA .county should NOT be valid",

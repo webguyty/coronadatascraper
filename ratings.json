@@ -177,6 +177,18 @@
     "rating": 0.43902439024390244
   },
   {
+    "state": "TX",
+    "country": "USA",
+    "aggregate": "county",
+    "certValidation": false,
+    "timeseries": false,
+    "type": "csv",
+    "headless": false,
+    "priority": 0,
+    "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
+    "rating": 0.43902439024390244
+  },
+  {
     "state": "WI",
     "country": "USA",
     "aggregate": "county",
@@ -308,18 +320,6 @@
     "rating": 0.4146341463414634
   },
   {
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": false,
-    "priority": 0,
-    "rating": 0.4146341463414634
-  },
-  {
     "state": "MO",
     "country": "USA",
     "type": "table",
@@ -340,6 +340,18 @@
         "flag": "🇺🇸"
       }
     ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.4146341463414634
+  },
+  {
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "aggregate": "county",
     "timeseries": false,
     "headless": false,
     "certValidation": false,
@@ -798,25 +810,6 @@
     "certValidation": false,
     "priority": 0,
     "url": "https://www.co.shasta.ca.us/covid-19/overview",
-    "rating": 0.2682926829268293
-  },
-  {
-    "county": "Clark County",
-    "state": "NV",
-    "country": "USA",
-    "url": "https://www.southernnevadahealthdistrict.org/coronavirus",
-    "sources": [
-      {
-        "name": "Southern Nevada Health District",
-        "url": "https://www.southernnevadahealthdistrict.org",
-        "description": "Southern Nevada health department"
-      }
-    ],
-    "type": "table",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": false,
-    "priority": 0,
     "rating": 0.2682926829268293
   },
   {
@@ -1708,6 +1701,35 @@
     "state": "South Australia",
     "type": "paragraph",
     "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "rating": 0
+  },
+  {
+    "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "Victoria State Government Health and Human Services Department",
+        "name": "Victoria State Government Health and Human Services",
+        "url": "https://www.dhhs.vic.gov.au"
+      }
+    ],
+    "state": "Victoria",
+    "type": "paragraph",
+    "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
     "timeseries": false,
     "headless": false,
     "certValidation": false,
