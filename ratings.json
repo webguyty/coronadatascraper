@@ -308,6 +308,18 @@
     "rating": 0.4146341463414634
   },
   {
+    "state": "MS",
+    "country": "USA",
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
+    "type": "table",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.4146341463414634
+  },
+  {
     "state": "MO",
     "country": "USA",
     "type": "table",
@@ -328,18 +340,6 @@
         "flag": "🇺🇸"
       }
     ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": false,
-    "priority": 0,
-    "rating": 0.4146341463414634
-  },
-  {
-    "state": "MS",
-    "country": "USA",
-    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
-    "type": "table",
-    "aggregate": "county",
     "timeseries": false,
     "headless": false,
     "certValidation": false,
@@ -446,18 +446,6 @@
     "rating": 0.4146341463414634
   },
   {
-    "state": "TX",
-    "country": "USA",
-    "url": "https://www.dshs.state.tx.us/news/updates.shtm",
-    "type": "table",
-    "aggregate": "county",
-    "certValidation": false,
-    "timeseries": false,
-    "headless": false,
-    "priority": 0,
-    "rating": 0.4146341463414634
-  },
-  {
     "state": "UT",
     "country": "USA",
     "aggregate": "county",
@@ -511,7 +499,7 @@
     "type": "list",
     "headless": false,
     "certValidation": false,
-    "url": "http://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults20200323.json",
+    "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
     "rating": 0.3902439024390244
   },
   {
@@ -563,6 +551,26 @@
     "headless": false,
     "certValidation": false,
     "priority": 0,
+    "rating": 0.3902439024390244
+  },
+  {
+    "state": "NE",
+    "country": "USA",
+    "url": "https://www.lincoln.ne.gov/city/covid19/",
+    "type": "list",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "gitub": "aed3",
+        "county": "USA",
+        "flag": "us"
+      }
+    ],
+    "priority": 1,
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
     "rating": 0.3902439024390244
   },
   {
@@ -707,6 +715,17 @@
     "rating": 0.3170731707317073
   },
   {
+    "country": "FRA",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "timeseries": true,
+    "priority": 1,
+    "type": "list",
+    "headless": false,
+    "certValidation": false,
+    "state": "Mayotte",
+    "rating": 0.3170731707317073
+  },
+  {
     "country": "IND",
     "url": "https://www.mohfw.gov.in/",
     "type": "table",
@@ -718,8 +737,8 @@
     "rating": 0.3170731707317073
   },
   {
-    "country": "FRA",
-    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "CHE",
+    "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
     "timeseries": true,
     "priority": 1,
     "type": "list",
@@ -791,6 +810,25 @@
         "name": "Southern Nevada Health District",
         "url": "https://www.southernnevadahealthdistrict.org",
         "description": "Southern Nevada health department"
+      }
+    ],
+    "type": "table",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": false,
+    "priority": 0,
+    "rating": 0.2682926829268293
+  },
+  {
+    "county": "Washoe County",
+    "state": "NV",
+    "country": "USA",
+    "url": "https://www.washoecounty.us/health/programs-and-services/communicable-diseases-and-epidemiology/educational_materials/COVID-19.php",
+    "sources": [
+      {
+        "name": "Washoe County Health District",
+        "url": "https://www.washoecounty.us/health/",
+        "description": "Washoe County, Nevada health department"
       }
     ],
     "type": "table",
@@ -1200,27 +1238,6 @@
     "rating": 0.24390243902439024
   },
   {
-    "county": "San Bernardino County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "http://wp.sbcounty.gov/dph/coronavirus/",
-    "timeseries": false,
-    "type": "list",
-    "headless": false,
-    "certValidation": false,
-    "priority": 0,
-    "rating": 0.24390243902439024
-  },
-  {
     "county": "San Diego County",
     "state": "CA",
     "country": "USA",
@@ -1297,27 +1314,6 @@
       }
     ],
     "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
-    "timeseries": false,
-    "type": "list",
-    "headless": false,
-    "certValidation": false,
-    "priority": 0,
-    "rating": 0.24390243902439024
-  },
-  {
-    "county": "Solano County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
     "timeseries": false,
     "type": "list",
     "headless": false,
@@ -1492,7 +1488,7 @@
   {
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3232020.pdf",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3242020.pdf",
     "type": "pdf",
     "aggregate": "county",
     "timeseries": false,
@@ -1523,7 +1519,7 @@
     "headless": false,
     "certValidation": false,
     "priority": 0,
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_23_2020_.pdf",
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_24_2020_.pdf",
     "rating": 0.14634146341463414
   },
   {
@@ -1541,7 +1537,7 @@
     "headless": false,
     "certValidation": false,
     "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-23-2020/download",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-24-2020/download",
     "rating": 0.14634146341463414
   },
   {
@@ -1704,35 +1700,6 @@
     "priority": 2,
     "sources": [
       {
-        "description": "QLD Government Health Department",
-        "name": "QLD Government Health",
-        "url": "https://www.health.qld.gov.au"
-      }
-    ],
-    "state": "Queensland",
-    "type": "paragraph",
-    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": false,
-    "rating": 0
-  },
-  {
-    "country": "AUS",
-    "maintainers": [
-      {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "AUS",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
-      }
-    ],
-    "priority": 2,
-    "sources": [
-      {
         "description": "SA Government Health Department",
         "name": "SA Health",
         "url": "https://www.sahealth.sa.gov.au"
@@ -1741,35 +1708,6 @@
     "state": "South Australia",
     "type": "paragraph",
     "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": false,
-    "rating": 0
-  },
-  {
-    "country": "AUS",
-    "maintainers": [
-      {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "AUS",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
-      }
-    ],
-    "priority": 2,
-    "sources": [
-      {
-        "description": "Victoria State Government Health and Human Services Department",
-        "name": "Victoria State Government Health and Human Services",
-        "url": "https://www.dhhs.vic.gov.au"
-      }
-    ],
-    "state": "Victoria",
-    "type": "paragraph",
-    "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
     "timeseries": false,
     "headless": false,
     "certValidation": false,
