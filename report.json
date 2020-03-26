@@ -1466,7 +1466,9 @@
           "scraper": {},
           "timeseries": false,
           "certValidation": true,
-          "priority": 0
+          "priority": 0,
+          "cases": 2580,
+          "deaths": 123
         }
       ],
       "VA, USA": [

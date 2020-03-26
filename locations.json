@@ -528,7 +528,7 @@
     "tz": [
       "Etc/GMT"
     ],
-    "featureId": 290,
+    "featureId": 271,
     "population": 48958159,
     "name": "ESP"
   },
@@ -2801,7 +2801,7 @@
     "aggregate": "county",
     "country": "USA",
     "state": "WA",
-    "rating": 0.23529411764705882,
+    "rating": 0.35294117647058826,
     "coordinates": [
       -120.80671709265283,
       47.27941361449236
@@ -2908,7 +2908,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1691,
+    "featureId": 1626,
     "population": 6892503,
     "name": "MA, USA"
   },
@@ -3066,7 +3066,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2690,
+    "featureId": 2758,
     "population": 4217737,
     "name": "OR, USA"
   },
@@ -3164,7 +3164,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2735,
+    "featureId": 2698,
     "population": 12801989,
     "name": "PA, USA"
   },
@@ -3995,7 +3995,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1677,
+    "featureId": 1691,
     "population": 4648794,
     "name": "LA, USA"
   },
@@ -4653,7 +4653,7 @@
     "tz": [
       "Africa/Bamako"
     ],
-    "featureId": 265,
+    "featureId": 285,
     "population": 67106161,
     "name": "FRA"
   },
@@ -6167,11 +6167,11 @@
     ],
     "county": "Kitsap County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3389,
+    "featureId": 3404,
     "population": 269805,
     "name": "Kitsap County, WA, USA"
   },
@@ -6323,7 +6323,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1690,
+    "featureId": 1625,
     "population": 830839,
     "name": "Worcester County, MA, USA"
   },
@@ -6821,7 +6821,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2721,
+    "featureId": 2684,
     "population": 169507,
     "name": "Monroe County, PA, USA"
   },
@@ -6852,7 +6852,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2725,
+    "featureId": 2688,
     "population": 1584138,
     "name": "Philadelphia County, PA, USA"
   },
@@ -7038,7 +7038,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2691,
+    "featureId": 2654,
     "population": 102811,
     "name": "Adams County, PA, USA"
   },
@@ -7543,7 +7543,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1679,
+    "featureId": 1614,
     "population": 126348,
     "name": "Berkshire County, MA, USA"
   },
@@ -7605,7 +7605,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2663,
+    "featureId": 2731,
     "population": 110283,
     "name": "Douglas County, OR, USA"
   },
@@ -7791,11 +7791,11 @@
     ],
     "county": "Kittitas County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3416,
+    "featureId": 3405,
     "population": 47364,
     "name": "Kittitas County, WA, USA"
   },
@@ -7857,7 +7857,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2677,
+    "featureId": 2745,
     "population": 346868,
     "name": "Marion County, OR, USA"
   },
@@ -8188,7 +8188,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2722,
+    "featureId": 2685,
     "population": 828604,
     "name": "Montgomery County, PA, USA"
   },
@@ -8436,11 +8436,11 @@
     ],
     "county": "Clark County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3406,
+    "featureId": 3393,
     "population": 481857,
     "name": "Clark County, WA, USA"
   },
@@ -8591,7 +8591,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2668,
+    "featureId": 2736,
     "population": 219564,
     "name": "Jackson County, OR, USA"
   },
@@ -8618,11 +8618,11 @@
     ],
     "county": "Jefferson County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3414,
+    "featureId": 3402,
     "population": 31729,
     "name": "Jefferson County, WA, USA"
   },
@@ -8653,7 +8653,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2671,
+    "featureId": 2739,
     "population": 67653,
     "name": "Klamath County, OR, USA"
   },
@@ -8715,11 +8715,11 @@
     ],
     "county": "Pierce County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3423,
+    "featureId": 3411,
     "population": 891299,
     "name": "Pierce County, WA, USA"
   },
@@ -8876,7 +8876,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2707,
+    "featureId": 2670,
     "population": 564751,
     "name": "Delaware County, PA, USA"
   },
@@ -8990,7 +8990,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1686,
+    "featureId": 1621,
     "population": 1614714,
     "name": "Middlesex County, MA, USA"
   },
@@ -9121,7 +9121,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2732,
+    "featureId": 2695,
     "population": 51276,
     "name": "Wayne County, PA, USA"
   },
@@ -9271,11 +9271,11 @@
     ],
     "county": "Grant County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3411,
+    "featureId": 3399,
     "population": 97331,
     "name": "Grant County, WA, USA"
   },
@@ -9423,7 +9423,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1689,
+    "featureId": 1624,
     "population": 807252,
     "name": "Suffolk County, MA, USA"
   },
@@ -9660,7 +9660,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1687,
+    "featureId": 1622,
     "population": 705388,
     "name": "Norfolk County, MA, USA"
   },
@@ -9920,7 +9920,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2683,
+    "featureId": 2751,
     "population": 77516,
     "name": "Umatilla County, OR, USA"
   },
@@ -9982,7 +9982,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2687,
+    "featureId": 2755,
     "population": 597695,
     "name": "Washington County, OR, USA"
   },
@@ -10009,11 +10009,11 @@
     ],
     "county": "Snohomish County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3426,
+    "featureId": 3414,
     "population": 814901,
     "name": "Snohomish County, WA, USA"
   },
@@ -10187,11 +10187,11 @@
     ],
     "county": "King County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3415,
+    "featureId": 3403,
     "population": 2233163,
     "name": "King County, WA, USA"
   },
@@ -10249,11 +10249,11 @@
     ],
     "county": "Skagit County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3425,
+    "featureId": 3413,
     "population": 128206,
     "name": "Skagit County, WA, USA"
   },
@@ -10280,11 +10280,11 @@
     ],
     "county": "Thurston County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3396,
+    "featureId": 3417,
     "population": 286419,
     "name": "Thurston County, WA, USA"
   },
@@ -10311,11 +10311,11 @@
     ],
     "county": "Whatcom County",
     "state": "WA",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3398,
+    "featureId": 3419,
     "population": 225685,
     "name": "Whatcom County, WA, USA"
   },
@@ -10428,7 +10428,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1682,
+    "featureId": 1617,
     "population": 790638,
     "name": "Essex County, MA, USA"
   },
@@ -10800,7 +10800,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2679,
+    "featureId": 2747,
     "population": 811880,
     "name": "Multnomah County, OR, USA"
   },
@@ -10831,7 +10831,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2680,
+    "featureId": 2748,
     "population": 85234,
     "name": "Polk County, OR, USA"
   },
@@ -10862,7 +10862,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2662,
+    "featureId": 2730,
     "population": 191996,
     "name": "Deschutes County, OR, USA"
   },
@@ -10955,7 +10955,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2697,
+    "featureId": 2660,
     "population": 628195,
     "name": "Bucks County, PA, USA"
   },
@@ -15165,7 +15165,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 252,
+    "featureId": 272,
     "name": "Île-de-France, FRA"
   },
   {
@@ -15181,7 +15181,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 260,
+    "featureId": 280,
     "name": "Nouvelle-Aquitaine, FRA"
   },
   {
@@ -15197,7 +15197,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 262,
+    "featureId": 282,
     "name": "Auvergne-Rhône-Alpes, FRA"
   },
   {
@@ -15570,7 +15570,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 254,
+    "featureId": 274,
     "name": "Bourgogne-Franche-Comté, FRA"
   },
   {
@@ -15586,7 +15586,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 256,
+    "featureId": 276,
     "name": "Hauts-de-France, FRA"
   },
   {
@@ -15602,7 +15602,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 257,
+    "featureId": 277,
     "name": "Grand Est, FRA"
   },
   {
@@ -15658,7 +15658,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 271,
+    "featureId": 252,
     "population": 8446561,
     "name": "Andalucía, ESP"
   },
@@ -15708,7 +15708,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 272,
+    "featureId": 253,
     "population": 1324397,
     "name": "Aragón, ESP"
   },
@@ -15758,7 +15758,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 273,
+    "featureId": 254,
     "population": 1019993,
     "name": "Asturias, ESP"
   },
@@ -15808,7 +15808,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 274,
+    "featureId": 255,
     "population": 1198576,
     "name": "Baleares, ESP"
   },
@@ -15858,7 +15858,7 @@
     "tz": [
       "Etc/GMT+1"
     ],
-    "featureId": 275,
+    "featureId": 256,
     "population": 2220270,
     "name": "Canarias, ESP"
   },
@@ -15908,7 +15908,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 276,
+    "featureId": 257,
     "population": 581949,
     "name": "Cantabria, ESP"
   },
@@ -15958,7 +15958,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 277,
+    "featureId": 258,
     "population": 2038440,
     "name": "Castilla-La Mancha, ESP"
   },
@@ -16008,7 +16008,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 278,
+    "featureId": 259,
     "population": 2402877,
     "name": "Castilla y León, ESP"
   },
@@ -16058,7 +16058,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 279,
+    "featureId": 260,
     "population": 7609499,
     "name": "Cataluña, ESP"
   },
@@ -16108,7 +16108,7 @@
     "tz": [
       "Africa/Casablanca"
     ],
-    "featureId": 280,
+    "featureId": 261,
     "population": 84434,
     "name": "Ceuta, ESP"
   },
@@ -16158,7 +16158,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 281,
+    "featureId": 262,
     "population": 4998711,
     "name": "C. Valenciana, ESP"
   },
@@ -16208,7 +16208,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 282,
+    "featureId": 263,
     "population": 1062797,
     "name": "Extremadura, ESP"
   },
@@ -16258,7 +16258,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 283,
+    "featureId": 264,
     "population": 2698764,
     "name": "Galicia, ESP"
   },
@@ -16308,7 +16308,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 284,
+    "featureId": 265,
     "population": 6685471,
     "name": "Madrid, ESP"
   },
@@ -16358,7 +16358,7 @@
     "tz": [
       "Africa/Ceuta"
     ],
-    "featureId": 285,
+    "featureId": 266,
     "population": 84286,
     "name": "Melilla, ESP"
   },
@@ -16408,7 +16408,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 286,
+    "featureId": 267,
     "population": 1494442,
     "name": "Murcia, ESP"
   },
@@ -16458,7 +16458,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 287,
+    "featureId": 268,
     "population": 652526,
     "name": "Navarra, ESP"
   },
@@ -16508,7 +16508,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 288,
+    "featureId": 269,
     "population": 2181919,
     "name": "País Vasco, ESP"
   },
@@ -16558,7 +16558,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 289,
+    "featureId": 270,
     "population": 314487,
     "name": "La Rioja, ESP"
   },
@@ -16575,7 +16575,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 253,
+    "featureId": 273,
     "name": "Centre-Val de Loire, FRA"
   },
   {
@@ -16591,7 +16591,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 255,
+    "featureId": 275,
     "name": "Normandie, FRA"
   },
   {
@@ -16607,7 +16607,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 258,
+    "featureId": 278,
     "name": "Pays de la Loire, FRA"
   },
   {
@@ -16623,7 +16623,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 259,
+    "featureId": 279,
     "name": "Bretagne, FRA"
   },
   {
@@ -16639,7 +16639,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 261,
+    "featureId": 281,
     "name": "Occitanie, FRA"
   },
   {
@@ -16655,7 +16655,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 263,
+    "featureId": 283,
     "name": "Provence-Alpes-Côte d'Azur, FRA"
   },
   {
@@ -16671,7 +16671,7 @@
     "tz": [
       "Europe/Paris"
     ],
-    "featureId": 264,
+    "featureId": 284,
     "name": "Corse, FRA"
   },
   {
@@ -16687,7 +16687,7 @@
     "tz": [
       "America/Guadeloupe"
     ],
-    "featureId": 266,
+    "featureId": 286,
     "name": "Guadeloupe, FRA"
   },
   {
@@ -16703,7 +16703,7 @@
     "tz": [
       "America/Martinique"
     ],
-    "featureId": 267,
+    "featureId": 287,
     "name": "Martinique, FRA"
   },
   {
@@ -16719,7 +16719,7 @@
     "tz": [
       "America/Cayenne"
     ],
-    "featureId": 268,
+    "featureId": 288,
     "name": "Guyane, FRA"
   },
   {
@@ -16735,7 +16735,7 @@
     "tz": [
       "Indian/Reunion"
     ],
-    "featureId": 269,
+    "featureId": 289,
     "name": "La Réunion, FRA"
   },
   {
@@ -16751,7 +16751,7 @@
     "tz": [
       "Indian/Mayotte"
     ],
-    "featureId": 270,
+    "featureId": 290,
     "name": "Mayotte, FRA"
   },
   {
@@ -17295,18 +17295,18 @@
       }
     ],
     "country": "DEU",
-    "state": "DE-BY",
+    "state": "DE-BW",
     "coordinates": [
-      11.413003577447412,
-      48.895550522738404
+      8.994572383783805,
+      48.65924504322413
     ],
-    "population": 13000000,
+    "population": 11020000,
     "rating": 0.43137254901960786,
     "tz": [
       "Europe/Berlin"
     ],
     "featureId": 348,
-    "name": "DE-BY, DEU"
+    "name": "DE-BW, DEU"
   },
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
@@ -17334,18 +17334,18 @@
       }
     ],
     "country": "DEU",
-    "state": "DE-BW",
+    "state": "DE-BY",
     "coordinates": [
-      8.994572383783805,
-      48.65924504322413
+      11.413003577447412,
+      48.895550522738404
     ],
-    "population": 11020000,
+    "population": 13000000,
     "rating": 0.43137254901960786,
     "tz": [
       "Europe/Berlin"
     ],
     "featureId": 347,
-    "name": "DE-BW, DEU"
+    "name": "DE-BY, DEU"
   },
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
@@ -20024,7 +20024,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1620,
+    "featureId": 1634,
     "population": 98115,
     "name": "Lafourche Parish, LA, USA"
   },
@@ -20042,7 +20042,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1614,
+    "featureId": 1628,
     "population": 434051,
     "name": "Jefferson Parish, LA, USA"
   },
@@ -20060,7 +20060,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1613,
+    "featureId": 1627,
     "population": 391006,
     "name": "Orleans Parish, LA, USA"
   },
@@ -22544,7 +22544,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2654,
+    "featureId": 2722,
     "population": 16006,
     "name": "Baker County, OR, USA"
   },
@@ -22562,7 +22562,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2655,
+    "featureId": 2723,
     "population": 92101,
     "name": "Benton County, OR, USA"
   },
@@ -22580,7 +22580,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2656,
+    "featureId": 2724,
     "population": 416075,
     "name": "Clackamas County, OR, USA"
   },
@@ -22598,7 +22598,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2657,
+    "featureId": 2725,
     "population": 39764,
     "name": "Clatsop County, OR, USA"
   },
@@ -22616,7 +22616,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2658,
+    "featureId": 2726,
     "population": 52377,
     "name": "Columbia County, OR, USA"
   },
@@ -22634,7 +22634,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2659,
+    "featureId": 2727,
     "population": 64389,
     "name": "Coos County, OR, USA"
   },
@@ -22652,7 +22652,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2660,
+    "featureId": 2728,
     "population": 23867,
     "name": "Crook County, OR, USA"
   },
@@ -22670,7 +22670,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2661,
+    "featureId": 2729,
     "population": 22813,
     "name": "Curry County, OR, USA"
   },
@@ -22688,7 +22688,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2664,
+    "featureId": 2732,
     "population": 1894,
     "name": "Gilliam County, OR, USA"
   },
@@ -22706,7 +22706,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2665,
+    "featureId": 2733,
     "population": 7176,
     "name": "Grant County, OR, USA"
   },
@@ -22724,7 +22724,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2666,
+    "featureId": 2734,
     "population": 7329,
     "name": "Harney County, OR, USA"
   },
@@ -22742,7 +22742,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2667,
+    "featureId": 2735,
     "population": 23428,
     "name": "Hood River County, OR, USA"
   },
@@ -22760,7 +22760,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2669,
+    "featureId": 2737,
     "population": 24192,
     "name": "Jefferson County, OR, USA"
   },
@@ -22778,7 +22778,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2670,
+    "featureId": 2738,
     "population": 87393,
     "name": "Josephine County, OR, USA"
   },
@@ -22796,7 +22796,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2672,
+    "featureId": 2740,
     "population": 7879,
     "name": "Lake County, OR, USA"
   },
@@ -22814,7 +22814,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2673,
+    "featureId": 2741,
     "population": 379611,
     "name": "Lane County, OR, USA"
   },
@@ -22832,7 +22832,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2674,
+    "featureId": 2742,
     "population": 49388,
     "name": "Lincoln County, OR, USA"
   },
@@ -22850,7 +22850,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2675,
+    "featureId": 2743,
     "population": 127335,
     "name": "Linn County, OR, USA"
   },
@@ -22868,7 +22868,7 @@
     "tz": [
       "America/Boise"
     ],
-    "featureId": 2676,
+    "featureId": 2744,
     "population": 30725,
     "name": "Malheur County, OR, USA"
   },
@@ -22886,7 +22886,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2678,
+    "featureId": 2746,
     "population": 11372,
     "name": "Morrow County, OR, USA"
   },
@@ -22904,7 +22904,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2681,
+    "featureId": 2749,
     "population": 1708,
     "name": "Sherman County, OR, USA"
   },
@@ -22922,7 +22922,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2682,
+    "featureId": 2750,
     "population": 26787,
     "name": "Tillamook County, OR, USA"
   },
@@ -22940,7 +22940,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2684,
+    "featureId": 2752,
     "population": 26461,
     "name": "Union County, OR, USA"
   },
@@ -22958,7 +22958,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2685,
+    "featureId": 2753,
     "population": 7081,
     "name": "Wallowa County, OR, USA"
   },
@@ -22976,7 +22976,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2686,
+    "featureId": 2754,
     "population": 26505,
     "name": "Wasco County, OR, USA"
   },
@@ -22994,7 +22994,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2688,
+    "featureId": 2756,
     "population": 1366,
     "name": "Wheeler County, OR, USA"
   },
@@ -23012,7 +23012,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2689,
+    "featureId": 2757,
     "population": 107002,
     "name": "Yamhill County, OR, USA"
   },
@@ -23030,7 +23030,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2692,
+    "featureId": 2655,
     "population": 1218452,
     "name": "Allegheny County, PA, USA"
   },
@@ -23048,7 +23048,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2693,
+    "featureId": 2656,
     "population": 65263,
     "name": "Armstrong County, PA, USA"
   },
@@ -23066,7 +23066,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2694,
+    "featureId": 2657,
     "population": 164742,
     "name": "Beaver County, PA, USA"
   },
@@ -23084,7 +23084,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2736,
+    "featureId": 2699,
     "population": 48176,
     "name": "Bedford County, PA, USA"
   },
@@ -23102,7 +23102,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2695,
+    "featureId": 2658,
     "population": 420152,
     "name": "Berks County, PA, USA"
   },
@@ -23120,7 +23120,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2737,
+    "featureId": 2700,
     "population": 122492,
     "name": "Blair County, PA, USA"
   },
@@ -23138,7 +23138,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2696,
+    "featureId": 2659,
     "population": 60833,
     "name": "Bradford County, PA, USA"
   },
@@ -23156,7 +23156,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2698,
+    "featureId": 2661,
     "population": 187888,
     "name": "Butler County, PA, USA"
   },
@@ -23174,7 +23174,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2699,
+    "featureId": 2662,
     "population": 131730,
     "name": "Cambria County, PA, USA"
   },
@@ -23192,7 +23192,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2738,
+    "featureId": 2701,
     "population": 4492,
     "name": "Cameron County, PA, USA"
   },
@@ -23210,7 +23210,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2700,
+    "featureId": 2663,
     "population": 64227,
     "name": "Carbon County, PA, USA"
   },
@@ -23228,7 +23228,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2701,
+    "featureId": 2664,
     "population": 162805,
     "name": "Centre County, PA, USA"
   },
@@ -23246,7 +23246,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2702,
+    "featureId": 2665,
     "population": 522046,
     "name": "Chester County, PA, USA"
   },
@@ -23264,7 +23264,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2739,
+    "featureId": 2702,
     "population": 38779,
     "name": "Clarion County, PA, USA"
   },
@@ -23282,7 +23282,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2703,
+    "featureId": 2666,
     "population": 79388,
     "name": "Clearfield County, PA, USA"
   },
@@ -23300,7 +23300,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2740,
+    "featureId": 2703,
     "population": 38684,
     "name": "Clinton County, PA, USA"
   },
@@ -23318,7 +23318,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2704,
+    "featureId": 2667,
     "population": 65456,
     "name": "Columbia County, PA, USA"
   },
@@ -23336,7 +23336,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2741,
+    "featureId": 2704,
     "population": 85063,
     "name": "Crawford County, PA, USA"
   },
@@ -23354,7 +23354,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2705,
+    "featureId": 2668,
     "population": 251423,
     "name": "Cumberland County, PA, USA"
   },
@@ -23372,7 +23372,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2706,
+    "featureId": 2669,
     "population": 277097,
     "name": "Dauphin County, PA, USA"
   },
@@ -23390,7 +23390,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2742,
+    "featureId": 2705,
     "population": 30169,
     "name": "Elk County, PA, USA"
   },
@@ -23408,7 +23408,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2708,
+    "featureId": 2671,
     "population": 272061,
     "name": "Erie County, PA, USA"
   },
@@ -23426,7 +23426,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2709,
+    "featureId": 2672,
     "population": 130441,
     "name": "Fayette County, PA, USA"
   },
@@ -23444,7 +23444,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2743,
+    "featureId": 2706,
     "population": 7279,
     "name": "Forest County, PA, USA"
   },
@@ -23462,7 +23462,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2710,
+    "featureId": 2673,
     "population": 154835,
     "name": "Franklin County, PA, USA"
   },
@@ -23480,7 +23480,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2744,
+    "featureId": 2707,
     "population": 14523,
     "name": "Fulton County, PA, USA"
   },
@@ -23498,7 +23498,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2711,
+    "featureId": 2674,
     "population": 36506,
     "name": "Greene County, PA, USA"
   },
@@ -23516,7 +23516,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2745,
+    "featureId": 2708,
     "population": 45168,
     "name": "Huntingdon County, PA, USA"
   },
@@ -23534,7 +23534,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2746,
+    "featureId": 2709,
     "population": 84501,
     "name": "Indiana County, PA, USA"
   },
@@ -23552,7 +23552,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2747,
+    "featureId": 2710,
     "population": 43641,
     "name": "Jefferson County, PA, USA"
   },
@@ -23570,7 +23570,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2712,
+    "featureId": 2675,
     "population": 24704,
     "name": "Juniata County, PA, USA"
   },
@@ -23588,7 +23588,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2713,
+    "featureId": 2676,
     "population": 210793,
     "name": "Lackawanna County, PA, USA"
   },
@@ -23606,7 +23606,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2714,
+    "featureId": 2677,
     "population": 543557,
     "name": "Lancaster County, PA, USA"
   },
@@ -23624,7 +23624,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2715,
+    "featureId": 2678,
     "population": 86184,
     "name": "Lawrence County, PA, USA"
   },
@@ -23642,7 +23642,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2716,
+    "featureId": 2679,
     "population": 141314,
     "name": "Lebanon County, PA, USA"
   },
@@ -23660,7 +23660,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2717,
+    "featureId": 2680,
     "population": 368100,
     "name": "Lehigh County, PA, USA"
   },
@@ -23678,7 +23678,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2718,
+    "featureId": 2681,
     "population": 317646,
     "name": "Luzerne County, PA, USA"
   },
@@ -23696,7 +23696,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2719,
+    "featureId": 2682,
     "population": 113664,
     "name": "Lycoming County, PA, USA"
   },
@@ -23714,7 +23714,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2748,
+    "featureId": 2711,
     "population": 40968,
     "name": "McKean County, PA, USA"
   },
@@ -23732,7 +23732,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2720,
+    "featureId": 2683,
     "population": 110683,
     "name": "Mercer County, PA, USA"
   },
@@ -23750,7 +23750,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2749,
+    "featureId": 2712,
     "population": 46222,
     "name": "Mifflin County, PA, USA"
   },
@@ -23768,7 +23768,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2723,
+    "featureId": 2686,
     "population": 18240,
     "name": "Montour County, PA, USA"
   },
@@ -23786,7 +23786,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2724,
+    "featureId": 2687,
     "population": 304807,
     "name": "Northampton County, PA, USA"
   },
@@ -23804,7 +23804,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2750,
+    "featureId": 2713,
     "population": 91083,
     "name": "Northumberland County, PA, USA"
   },
@@ -23822,7 +23822,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2751,
+    "featureId": 2714,
     "population": 46139,
     "name": "Perry County, PA, USA"
   },
@@ -23840,7 +23840,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2726,
+    "featureId": 2689,
     "population": 55933,
     "name": "Pike County, PA, USA"
   },
@@ -23858,7 +23858,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2727,
+    "featureId": 2690,
     "population": 16622,
     "name": "Potter County, PA, USA"
   },
@@ -23876,7 +23876,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2728,
+    "featureId": 2691,
     "population": 142067,
     "name": "Schuylkill County, PA, USA"
   },
@@ -23894,7 +23894,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2752,
+    "featureId": 2715,
     "population": 40540,
     "name": "Snyder County, PA, USA"
   },
@@ -23912,7 +23912,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2729,
+    "featureId": 2692,
     "population": 73952,
     "name": "Somerset County, PA, USA"
   },
@@ -23930,7 +23930,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2753,
+    "featureId": 2716,
     "population": 6071,
     "name": "Sullivan County, PA, USA"
   },
@@ -23948,7 +23948,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2754,
+    "featureId": 2717,
     "population": 40589,
     "name": "Susquehanna County, PA, USA"
   },
@@ -23966,7 +23966,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2755,
+    "featureId": 2718,
     "population": 40763,
     "name": "Tioga County, PA, USA"
   },
@@ -23984,7 +23984,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2756,
+    "featureId": 2719,
     "population": 44785,
     "name": "Union County, PA, USA"
   },
@@ -24002,7 +24002,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2757,
+    "featureId": 2720,
     "population": 51266,
     "name": "Venango County, PA, USA"
   },
@@ -24020,7 +24020,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2730,
+    "featureId": 2693,
     "population": 39498,
     "name": "Warren County, PA, USA"
   },
@@ -24038,7 +24038,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2731,
+    "featureId": 2694,
     "population": 207346,
     "name": "Washington County, PA, USA"
   },
@@ -24056,7 +24056,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2733,
+    "featureId": 2696,
     "population": 350611,
     "name": "Westmoreland County, PA, USA"
   },
@@ -24074,7 +24074,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2758,
+    "featureId": 2721,
     "population": 27046,
     "name": "Wyoming County, PA, USA"
   },
@@ -24092,7 +24092,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2734,
+    "featureId": 2697,
     "population": 448273,
     "name": "York County, PA, USA"
   },
@@ -30591,7 +30591,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Mason County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -123.153076,
       47.344863000000004
@@ -30599,7 +30599,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3390,
+    "featureId": 3409,
     "population": 65507,
     "name": "Mason County, WA, USA"
   },
@@ -30617,7 +30617,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3391,
+    "featureId": 3422,
     "population": 11924,
     "name": "Skamania County, WA, USA"
   },
@@ -30635,7 +30635,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3392,
+    "featureId": 3423,
     "population": 4426,
     "name": "Wahkiakum County, WA, USA"
   },
@@ -30645,7 +30645,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Columbia County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -117.92289099999999,
       46.3118295
@@ -30653,7 +30653,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3393,
+    "featureId": 3394,
     "population": 4059,
     "name": "Columbia County, WA, USA"
   },
@@ -30671,7 +30671,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3394,
+    "featureId": 3424,
     "population": 2247,
     "name": "Garfield County, WA, USA"
   },
@@ -30681,7 +30681,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Stevens County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -117.91595799999999,
       48.396499000000006
@@ -30689,7 +30689,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3395,
+    "featureId": 3416,
     "population": 45260,
     "name": "Stevens County, WA, USA"
   },
@@ -30699,7 +30699,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Walla Walla County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -118.516355,
       46.303333499999994
@@ -30707,7 +30707,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3397,
+    "featureId": 3418,
     "population": 60922,
     "name": "Walla Walla County, WA, USA"
   },
@@ -30717,7 +30717,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Whitman County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -117.64426,
       46.838819
@@ -30725,7 +30725,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3399,
+    "featureId": 3420,
     "population": 49791,
     "name": "Whitman County, WA, USA"
   },
@@ -30735,7 +30735,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Yakima County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -120.69510149999999,
       46.564808
@@ -30743,7 +30743,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3400,
+    "featureId": 3421,
     "population": 251446,
     "name": "Yakima County, WA, USA"
   },
@@ -30753,7 +30753,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Adams County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -118.6641215,
       46.999704
@@ -30761,7 +30761,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3401,
+    "featureId": 3389,
     "population": 19759,
     "name": "Adams County, WA, USA"
   },
@@ -30779,7 +30779,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3402,
+    "featureId": 3425,
     "population": 22610,
     "name": "Asotin County, WA, USA"
   },
@@ -30789,7 +30789,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Benton County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -119.40769,
       46.281031
@@ -30797,7 +30797,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3403,
+    "featureId": 3390,
     "population": 201877,
     "name": "Benton County, WA, USA"
   },
@@ -30807,7 +30807,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Chelan County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -120.52038999999999,
       47.905806999999996
@@ -30815,7 +30815,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3404,
+    "featureId": 3391,
     "population": 77036,
     "name": "Chelan County, WA, USA"
   },
@@ -30825,7 +30825,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Clallam County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -123.825558,
       48.12876
@@ -30833,7 +30833,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3405,
+    "featureId": 3392,
     "population": 76737,
     "name": "Clallam County, WA, USA"
   },
@@ -30843,7 +30843,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Cowlitz County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -122.7288965,
       46.117914
@@ -30851,7 +30851,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3407,
+    "featureId": 3395,
     "population": 108987,
     "name": "Cowlitz County, WA, USA"
   },
@@ -30861,7 +30861,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Douglas County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -119.6344735,
       47.6852815
@@ -30869,7 +30869,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3408,
+    "featureId": 3396,
     "population": 42907,
     "name": "Douglas County, WA, USA"
   },
@@ -30879,7 +30879,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Ferry County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -118.48731599999999,
       48.4155455
@@ -30887,7 +30887,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3409,
+    "featureId": 3397,
     "population": 7649,
     "name": "Ferry County, WA, USA"
   },
@@ -30897,7 +30897,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Franklin County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -118.8288585,
       46.465897
@@ -30905,7 +30905,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3410,
+    "featureId": 3398,
     "population": 94347,
     "name": "Franklin County, WA, USA"
   },
@@ -30915,7 +30915,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Grays Harbor County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -123.756045,
       47.162482
@@ -30923,7 +30923,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3412,
+    "featureId": 3400,
     "population": 73901,
     "name": "Grays Harbor County, WA, USA"
   },
@@ -30933,7 +30933,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Island County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -122.559821,
       48.157794
@@ -30941,7 +30941,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3413,
+    "featureId": 3401,
     "population": 84460,
     "name": "Island County, WA, USA"
   },
@@ -30951,7 +30951,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Klickitat County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -120.739452,
       45.825073
@@ -30959,7 +30959,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3417,
+    "featureId": 3406,
     "population": 22107,
     "name": "Klickitat County, WA, USA"
   },
@@ -30969,7 +30969,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Lewis County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -122.3615475,
       46.5893095
@@ -30977,7 +30977,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3418,
+    "featureId": 3407,
     "population": 79604,
     "name": "Lewis County, WA, USA"
   },
@@ -30987,7 +30987,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Lincoln County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -118.399462,
       47.609032
@@ -30995,7 +30995,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3419,
+    "featureId": 3408,
     "population": 10740,
     "name": "Lincoln County, WA, USA"
   },
@@ -31005,7 +31005,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Okanogan County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -119.85787099999999,
       48.470757000000006
@@ -31013,7 +31013,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3420,
+    "featureId": 3410,
     "population": 42132,
     "name": "Okanogan County, WA, USA"
   },
@@ -31031,7 +31031,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3421,
+    "featureId": 3426,
     "population": 22036,
     "name": "Pacific County, WA, USA"
   },
@@ -31049,7 +31049,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3422,
+    "featureId": 3427,
     "population": 13602,
     "name": "Pend Oreille County, WA, USA"
   },
@@ -31059,7 +31059,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "San Juan County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -122.989615,
       48.570243500000004
@@ -31067,7 +31067,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3424,
+    "featureId": 3412,
     "population": 17128,
     "name": "San Juan County, WA, USA"
   },
@@ -31077,7 +31077,7 @@
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
     "county": "Spokane County",
-    "rating": 0.35294117647058826,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -117.431769,
       47.653568500000006
@@ -31085,7 +31085,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3427,
+    "featureId": 3415,
     "population": 514631,
     "name": "Spokane County, WA, USA"
   },
@@ -34084,7 +34084,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1619,
+    "featureId": 1633,
     "population": 46721,
     "name": "St. Bernard Parish, LA, USA"
   },
@@ -34102,7 +34102,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1621,
+    "featureId": 1635,
     "population": 52879,
     "name": "St. Charles Parish, LA, USA"
   },
@@ -34120,7 +34120,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1617,
+    "featureId": 1631,
     "population": 258111,
     "name": "St. Tammany Parish, LA, USA"
   },
@@ -34138,7 +34138,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1635,
+    "featureId": 1649,
     "population": 111021,
     "name": "Terrebonne Parish, LA, USA"
   },
@@ -34162,7 +34162,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1678,
+    "featureId": 1613,
     "population": 213413,
     "name": "Barnstable County, MA, USA"
   },
@@ -34186,7 +34186,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1680,
+    "featureId": 1615,
     "population": 564022,
     "name": "Bristol County, MA, USA"
   },
@@ -34210,7 +34210,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1683,
+    "featureId": 1618,
     "population": 70963,
     "name": "Franklin County, MA, USA"
   },
@@ -34234,7 +34234,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1684,
+    "featureId": 1619,
     "population": 470406,
     "name": "Hampden County, MA, USA"
   },
@@ -34258,7 +34258,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1685,
+    "featureId": 1620,
     "population": 161355,
     "name": "Hampshire County, MA, USA"
   },
@@ -34282,7 +34282,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1688,
+    "featureId": 1623,
     "population": 518132,
     "name": "Plymouth County, MA, USA"
   },
@@ -36498,7 +36498,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1637,
+    "featureId": 1651,
     "population": 27436,
     "name": "De Soto Parish, LA, USA"
   },
@@ -36516,7 +36516,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1616,
+    "featureId": 1630,
     "population": 43184,
     "name": "St. John the Baptist Parish, LA, USA"
   },
@@ -36534,7 +36534,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1671,
+    "featureId": 1685,
     "population": 24032,
     "name": "Sabine Parish, LA, USA"
   },
@@ -36552,7 +36552,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1641,
+    "featureId": 1655,
     "population": 133777,
     "name": "Tangipahoa Parish, LA, USA"
   },
@@ -36570,7 +36570,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1638,
+    "featureId": 1652,
     "population": 139567,
     "name": "Livingston Parish, LA, USA"
   },
@@ -36588,7 +36588,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1625,
+    "featureId": 1639,
     "population": 203112,
     "name": "Calcasieu Parish, LA, USA"
   },
@@ -36606,7 +36606,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1652,
+    "featureId": 1666,
     "population": 22330,
     "name": "Union Parish, LA, USA"
   },
@@ -36624,7 +36624,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1661,
+    "featureId": 1675,
     "population": 9960,
     "name": "Caldwell Parish, LA, USA"
   },
@@ -36642,7 +36642,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1673,
+    "featureId": 1687,
     "population": 4462,
     "name": "Tensas Parish, LA, USA"
   },
@@ -36660,7 +36660,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1655,
+    "featureId": 1669,
     "population": 15902,
     "name": "Jackson Parish, LA, USA"
   },
@@ -36678,7 +36678,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1654,
+    "featureId": 1668,
     "population": 22482,
     "name": "Grant Parish, LA, USA"
   },
@@ -36696,7 +36696,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1650,
+    "featureId": 1664,
     "population": 47196,
     "name": "Lincoln Parish, LA, USA"
   },
@@ -36714,7 +36714,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1656,
+    "featureId": 1670,
     "population": 31582,
     "name": "Jefferson Davis Parish, LA, USA"
   },
@@ -36732,7 +36732,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1634,
+    "featureId": 1648,
     "population": 242782,
     "name": "Lafayette Parish, LA, USA"
   },
@@ -36750,7 +36750,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1664,
+    "featureId": 1678,
     "population": 7037,
     "name": "East Carroll Parish, LA, USA"
   },
@@ -36768,7 +36768,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1665,
+    "featureId": 1679,
     "population": 19305,
     "name": "East Feliciana Parish, LA, USA"
   },
@@ -36786,7 +36786,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1622,
+    "featureId": 1636,
     "population": 32721,
     "name": "Iberville Parish, LA, USA"
   },
@@ -36804,7 +36804,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1658,
+    "featureId": 1672,
     "population": 20192,
     "name": "Richland Parish, LA, USA"
   },
@@ -36822,7 +36822,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1659,
+    "featureId": 1673,
     "population": 53621,
     "name": "St. Martin Parish, LA, USA"
   },
@@ -36840,7 +36840,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1647,
+    "featureId": 1661,
     "population": 15944,
     "name": "Claiborne Parish, LA, USA"
   },
@@ -36858,7 +36858,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1642,
+    "featureId": 1656,
     "population": 82764,
     "name": "St. Landry Parish, LA, USA"
   },
@@ -36876,7 +36876,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1669,
+    "featureId": 1683,
     "population": 21940,
     "name": "Pointe Coupee Parish, LA, USA"
   },
@@ -36894,7 +36894,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1667,
+    "featureId": 1681,
     "population": 14917,
     "name": "LaSalle Parish, LA, USA"
   },
@@ -36912,7 +36912,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1628,
+    "featureId": 1642,
     "population": 38798,
     "name": "Webster Parish, LA, USA"
   },
@@ -36930,7 +36930,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1624,
+    "featureId": 1638,
     "population": 21037,
     "name": "St. James Parish, LA, USA"
   },
@@ -36948,7 +36948,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1657,
+    "featureId": 1671,
     "population": 25398,
     "name": "Morehouse Parish, LA, USA"
   },
@@ -36966,7 +36966,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1623,
+    "featureId": 1637,
     "population": 130562,
     "name": "Rapides Parish, LA, USA"
   },
@@ -36984,7 +36984,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1639,
+    "featureId": 1653,
     "population": 40462,
     "name": "Avoyelles Parish, LA, USA"
   },
@@ -37002,7 +37002,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1660,
+    "featureId": 1674,
     "population": 14134,
     "name": "Winn Parish, LA, USA"
   },
@@ -37020,7 +37020,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1631,
+    "featureId": 1645,
     "population": 9608,
     "name": "Catahoula Parish, LA, USA"
   },
@@ -37038,7 +37038,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1646,
+    "featureId": 1660,
     "population": 22300,
     "name": "Assumption Parish, LA, USA"
   },
@@ -37056,7 +37056,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1632,
+    "featureId": 1646,
     "population": 242922,
     "name": "Caddo Parish, LA, USA"
   },
@@ -37074,7 +37074,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1629,
+    "featureId": 1643,
     "population": 46582,
     "name": "Washington Parish, LA, USA"
   },
@@ -37092,7 +37092,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1615,
+    "featureId": 1629,
     "population": 440956,
     "name": "East Baton Rouge Parish, LA, USA"
   },
@@ -37110,7 +37110,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1651,
+    "featureId": 1665,
     "population": 38659,
     "name": "Natchitoches Parish, LA, USA"
   },
@@ -37128,7 +37128,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1630,
+    "featureId": 1644,
     "population": 13308,
     "name": "Bienville Parish, LA, USA"
   },
@@ -37146,7 +37146,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1633,
+    "featureId": 1647,
     "population": 127185,
     "name": "Bossier Parish, LA, USA"
   },
@@ -37164,7 +37164,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1645,
+    "featureId": 1659,
     "population": 25605,
     "name": "Allen Parish, LA, USA"
   },
@@ -37182,7 +37182,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1626,
+    "featureId": 1640,
     "population": 154475,
     "name": "Ouachita Parish, LA, USA"
   },
@@ -37200,7 +37200,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1672,
+    "featureId": 1686,
     "population": 10262,
     "name": "St. Helena Parish, LA, USA"
   },
@@ -37218,7 +37218,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1676,
+    "featureId": 1690,
     "population": 15460,
     "name": "West Feliciana Parish, LA, USA"
   },
@@ -37236,7 +37236,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1675,
+    "featureId": 1689,
     "population": 10982,
     "name": "West Carroll Parish, LA, USA"
   },
@@ -37254,7 +37254,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1663,
+    "featureId": 1677,
     "population": 19572,
     "name": "Concordia Parish, LA, USA"
   },
@@ -37272,7 +37272,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1627,
+    "featureId": 1641,
     "population": 26427,
     "name": "West Baton Rouge Parish, LA, USA"
   },
@@ -37290,7 +37290,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1668,
+    "featureId": 1682,
     "population": 11161,
     "name": "Madison Parish, LA, USA"
   },
@@ -37308,7 +37308,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1618,
+    "featureId": 1632,
     "population": 124672,
     "name": "Ascension Parish, LA, USA"
   },
@@ -37326,7 +37326,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1644,
+    "featureId": 1658,
     "population": 62190,
     "name": "Acadia Parish, LA, USA"
   },
@@ -37344,7 +37344,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1643,
+    "featureId": 1657,
     "population": 37253,
     "name": "Beauregard Parish, LA, USA"
   },
@@ -37362,7 +37362,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1666,
+    "featureId": 1680,
     "population": 20156,
     "name": "Franklin Parish, LA, USA"
   },
@@ -37380,7 +37380,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1648,
+    "featureId": 1662,
     "population": 33443,
     "name": "Evangeline Parish, LA, USA"
   },
@@ -37398,7 +37398,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1653,
+    "featureId": 1667,
     "population": 48860,
     "name": "Vernon Parish, LA, USA"
   },
@@ -37416,7 +37416,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1670,
+    "featureId": 1684,
     "population": 8477,
     "name": "Red River Parish, LA, USA"
   },
@@ -37434,7 +37434,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1674,
+    "featureId": 1688,
     "population": 59830,
     "name": "Vermilion Parish, LA, USA"
   },
@@ -37452,7 +37452,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1636,
+    "featureId": 1650,
     "population": 23410,
     "name": "Plaquemines Parish, LA, USA"
   },
@@ -37470,7 +37470,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1640,
+    "featureId": 1654,
     "population": 49774,
     "name": "St. Mary Parish, LA, USA"
   },
@@ -37488,7 +37488,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1662,
+    "featureId": 1676,
     "population": 6968,
     "name": "Cameron Parish, LA, USA"
   },
@@ -37506,7 +37506,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1649,
+    "featureId": 1663,
     "population": 70941,
     "name": "Iberia Parish, LA, USA"
   },
@@ -63257,7 +63257,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1681,
+    "featureId": 1616,
     "population": 28679,
     "name": "Dukes and Nantucket County, MA, USA"
   },

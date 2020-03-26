@@ -478,6 +478,18 @@
     "rating": 0.43137254901960786
   },
   {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "type": "table",
+    "headless": true,
+    "aggregate": "county",
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.43137254901960786
+  },
+  {
     "country": "GBR",
     "state": "England",
     "url": "https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data",
@@ -806,18 +818,6 @@
     "url": "https://www.washoecounty.us/health/programs-and-services/communicable-diseases-and-epidemiology/educational_materials/COVID-19.php",
     "type": "table",
     "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.35294117647058826
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "type": "table",
-    "headless": true,
-    "aggregate": "county",
     "certValidation": true,
     "priority": 0,
     "ssl": true,

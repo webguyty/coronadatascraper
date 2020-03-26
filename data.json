@@ -77234,9 +77234,295 @@
     "country": "USA",
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
+    "county": "Adams County",
+    "cases": 1,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -118.6641215,
+      46.999704
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3389,
+    "population": 19759
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Benton County",
+    "cases": 10,
+    "deaths": 2,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -119.40769,
+      46.281031
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3390,
+    "population": 201877
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Chelan County",
+    "cases": 10,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -120.52038999999999,
+      47.905806999999996
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3391,
+    "population": 77036
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Clallam County",
+    "cases": 4,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -123.825558,
+      48.12876
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3392,
+    "population": 76737
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Clark County",
+    "cases": 16,
+    "deaths": 4,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.5203415,
+      45.80125099999999
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3393,
+    "population": 481857
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Columbia County",
+    "cases": 1,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -117.92289099999999,
+      46.3118295
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3394,
+    "population": 4059
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Cowlitz County",
+    "cases": 3,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.7288965,
+      46.117914
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3395,
+    "population": 108987
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Douglas County",
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -119.6344735,
+      47.6852815
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3396,
+    "population": 42907
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Ferry County",
+    "cases": 1,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -118.48731599999999,
+      48.4155455
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3397,
+    "population": 7649
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Franklin County",
+    "cases": 7,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -118.8288585,
+      46.465897
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3398,
+    "population": 94347
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Grant County",
+    "cases": 27,
+    "deaths": 1,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -119.508134,
+      47.293631
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3399,
+    "population": 97331
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Grays Harbor County",
+    "cases": 1,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -123.756045,
+      47.162482
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3400,
+    "population": 73901
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Island County",
+    "cases": 38,
+    "deaths": 1,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.559821,
+      48.157794
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3401,
+    "population": 84460
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Jefferson County",
+    "cases": 10,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -123.61055200000001,
+      47.8304245
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3402,
+    "population": 31729
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "King County",
+    "cases": 1359,
+    "deaths": 94,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -121.7969185,
+      47.4324805
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3403,
+    "population": 2233163
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
     "county": "Kitsap County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
+    "cases": 27,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -122.7433825,
       47.6719585
@@ -77244,7 +77530,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3389,
+    "featureId": 3404,
     "population": 269805
   },
   {
@@ -77252,9 +77538,86 @@
     "country": "USA",
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
+    "county": "Kittitas County",
+    "cases": 6,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -120.688514,
+      47.167153
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3405,
+    "population": 47364
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Klickitat County",
+    "cases": 6,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -120.739452,
+      45.825073
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3406,
+    "population": 22107
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Lewis County",
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.3615475,
+      46.5893095
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3407,
+    "population": 79604
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Lincoln County",
+    "cases": 1,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -118.399462,
+      47.609032
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3408,
+    "population": 10740
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
     "county": "Mason County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
     "coordinates": [
       -123.153076,
       47.344863000000004
@@ -77262,8 +77625,236 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3390,
+    "featureId": 3409,
     "population": 65507
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Okanogan County",
+    "cases": 1,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -119.85787099999999,
+      48.470757000000006
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3410,
+    "population": 42132
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Pierce County",
+    "cases": 155,
+    "deaths": 1,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.10319799999999,
+      47.066154
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3411,
+    "population": 891299
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "San Juan County",
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.989615,
+      48.570243500000004
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3412,
+    "population": 17128
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Skagit County",
+    "cases": 63,
+    "deaths": 1,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -121.712645,
+      48.476543
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3413,
+    "population": 128206
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Snohomish County",
+    "cases": 634,
+    "deaths": 16,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -121.65598399999999,
+      48.037258
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3414,
+    "population": 814901
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Spokane County",
+    "cases": 54,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -117.431769,
+      47.653568500000006
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3415,
+    "population": 514631
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Stevens County",
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -117.91595799999999,
+      48.396499000000006
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3416,
+    "population": 45260
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Thurston County",
+    "cases": 14,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -122.7023935,
+      46.9761355
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3417,
+    "population": 286419
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Walla Walla County",
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -118.516355,
+      46.303333499999994
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3418,
+    "population": 60922
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Whatcom County",
+    "cases": 66,
+    "deaths": 2,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -121.884438,
+      48.821715499999996
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3419,
+    "population": 225685
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Whitman County",
+    "cases": 2,
+    "deaths": 0,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -117.64426,
+      46.838819
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3420,
+    "population": 49791
+  },
+  {
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "aggregate": "county",
+    "county": "Yakima County",
+    "cases": 51,
+    "deaths": 1,
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      -120.69510149999999,
+      46.564808
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 3421,
+    "population": 251446
   },
   {
     "state": "WA",
@@ -77280,7 +77871,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3391,
+    "featureId": 3422,
     "population": 11924
   },
   {
@@ -77298,26 +77889,8 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3392,
+    "featureId": 3423,
     "population": 4426
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Columbia County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -117.92289099999999,
-      46.3118295
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3393,
-    "population": 4059
   },
   {
     "state": "WA",
@@ -77334,134 +77907,8 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3394,
+    "featureId": 3424,
     "population": 2247
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Stevens County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -117.91595799999999,
-      48.396499000000006
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3395,
-    "population": 45260
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Thurston County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.7023935,
-      46.9761355
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3396,
-    "population": 286419
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Walla Walla County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -118.516355,
-      46.303333499999994
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3397,
-    "population": 60922
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Whatcom County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -121.884438,
-      48.821715499999996
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3398,
-    "population": 225685
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Whitman County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -117.64426,
-      46.838819
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3399,
-    "population": 49791
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Yakima County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -120.69510149999999,
-      46.564808
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3400,
-    "population": 251446
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Adams County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -118.6641215,
-      46.999704
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3401,
-    "population": 19759
   },
   {
     "state": "WA",
@@ -77478,332 +77925,8 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3402,
+    "featureId": 3425,
     "population": 22610
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Benton County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -119.40769,
-      46.281031
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3403,
-    "population": 201877
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Chelan County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -120.52038999999999,
-      47.905806999999996
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3404,
-    "population": 77036
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Clallam County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -123.825558,
-      48.12876
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3405,
-    "population": 76737
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Clark County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.5203415,
-      45.80125099999999
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3406,
-    "population": 481857
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Cowlitz County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.7288965,
-      46.117914
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3407,
-    "population": 108987
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Douglas County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -119.6344735,
-      47.6852815
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3408,
-    "population": 42907
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Ferry County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -118.48731599999999,
-      48.4155455
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3409,
-    "population": 7649
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Franklin County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -118.8288585,
-      46.465897
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3410,
-    "population": 94347
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Grant County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -119.508134,
-      47.293631
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3411,
-    "population": 97331
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Grays Harbor County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -123.756045,
-      47.162482
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3412,
-    "population": 73901
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Island County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.559821,
-      48.157794
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3413,
-    "population": 84460
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Jefferson County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -123.61055200000001,
-      47.8304245
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3414,
-    "population": 31729
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "King County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -121.7969185,
-      47.4324805
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3415,
-    "population": 2233163
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Kittitas County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -120.688514,
-      47.167153
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3416,
-    "population": 47364
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Klickitat County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -120.739452,
-      45.825073
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3417,
-    "population": 22107
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Lewis County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.3615475,
-      46.5893095
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3418,
-    "population": 79604
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Lincoln County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -118.399462,
-      47.609032
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3419,
-    "population": 10740
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Okanogan County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -119.85787099999999,
-      48.470757000000006
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3420,
-    "population": 42132
   },
   {
     "state": "WA",
@@ -77820,7 +77943,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3421,
+    "featureId": 3426,
     "population": 22036
   },
   {
@@ -77838,7 +77961,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 3422,
+    "featureId": 3427,
     "population": 13602
   },
   {
@@ -77846,97 +77969,9 @@
     "country": "USA",
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "aggregate": "county",
-    "county": "Pierce County",
-    "cases": 0,
+    "cases": 2580,
+    "deaths": 123,
     "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.10319799999999,
-      47.066154
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3423,
-    "population": 891299
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "San Juan County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -122.989615,
-      48.570243500000004
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3424,
-    "population": 17128
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Skagit County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -121.712645,
-      48.476543
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3425,
-    "population": 128206
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Snohomish County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -121.65598399999999,
-      48.037258
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3426,
-    "population": 814901
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "county": "Spokane County",
-    "cases": 0,
-    "rating": 0.35294117647058826,
-    "coordinates": [
-      -117.431769,
-      47.653568500000006
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 3427,
-    "population": 514631
-  },
-  {
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "aggregate": "county",
-    "rating": 0.23529411764705882,
     "coordinates": [
       -120.80671709265283,
       47.27941361449236
