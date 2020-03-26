@@ -12,6 +12,18 @@
     "rating": 0.6470588235294118
   },
   {
+    "state": "CA",
+    "country": "USA",
+    "priority": 1,
+    "type": "csv",
+    "aggregate": "county",
+    "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.6470588235294118
+  },
+  {
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "aggregate": "state",
@@ -32,18 +44,6 @@
     "type": "list",
     "ssl": true,
     "rating": 0.5882352941176471
-  },
-  {
-    "state": "CA",
-    "country": "USA",
-    "priority": 1,
-    "type": "csv",
-    "aggregate": "county",
-    "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.5686274509803921
   },
   {
     "state": "FL",
@@ -824,6 +824,30 @@
     "rating": 0.35294117647058826
   },
   {
+    "county": "Contra Costa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.coronavirus.cchealth.org/",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "list",
+    "ssl": true,
+    "rating": 0.3333333333333333
+  },
+  {
+    "county": "Fresno County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "list",
+    "ssl": true,
+    "rating": 0.3333333333333333
+  },
+  {
     "county": "Mono County",
     "state": "CA",
     "country": "USA",
@@ -930,6 +954,18 @@
     "rating": 0.3137254901960784
   },
   {
+    "county": "Del Norte County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "list",
+    "ssl": false,
+    "rating": 0.3137254901960784
+  },
+  {
     "county": "Los Angeles County",
     "state": "CA",
     "country": "USA",
@@ -1010,6 +1046,42 @@
     "type": "table",
     "ssl": true,
     "rating": 0.27450980392156865
+  },
+  {
+    "county": "Butte County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.buttecounty.net/publichealth",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "list",
+    "ssl": true,
+    "rating": 0.2549019607843137
+  },
+  {
+    "county": "Calaveras County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://covid19.calaverasgov.us/",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "list",
+    "ssl": true,
+    "rating": 0.2549019607843137
+  },
+  {
+    "county": "Glenn County",
+    "state": "CA",
+    "country": "USA",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
+    "type": "list",
+    "ssl": true,
+    "rating": 0.2549019607843137
   },
   {
     "county": "Kings County",
@@ -1131,6 +1203,18 @@
     "rating": 0.2549019607843137
   },
   {
+    "county": "Colusa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.countyofcolusa.org/99/Public-Health",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "list",
+    "ssl": false,
+    "rating": 0.23529411764705882
+  },
+  {
     "county": "Santa Cruz County",
     "state": "CA",
     "country": "USA",
@@ -1247,6 +1331,18 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.13725490196078433
+  },
+  {
+    "county": "Alameda County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.acphd.org/2019-ncov.aspx",
+    "headless": true,
+    "type": "paragraph",
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.0784313725490196
   },
   {
     "country": "AUS",

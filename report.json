@@ -24,7 +24,9 @@
           "url": "https://coronavirus-dashboard.utah.gov/",
           "type": "table",
           "tested": 6837,
-          "cases": 346
+          "cases": 346,
+          "ssl": true,
+          "rating": 0.39215686274509803
         },
         {
           "country": "USA",
@@ -46,7 +48,9 @@
           "state": "UT",
           "deaths": 1,
           "tested": 6837,
-          "cases": 346
+          "cases": 346,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "Yolo County, CA, USA": [
@@ -70,7 +74,9 @@
           "certValidation": true,
           "county": "Yolo County",
           "cases": 10,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "Yolo County",
@@ -90,7 +96,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 11
+          "cases": 11,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         }
       ],
       "Ventura County, CA, USA": [
@@ -114,7 +123,9 @@
           "certValidation": true,
           "county": "Ventura County",
           "cases": 39,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "Ventura County",
@@ -136,7 +147,9 @@
           "certValidation": true,
           "priority": 0,
           "url": "https://www.vcemergency.com",
-          "cases": 50
+          "cases": 50,
+          "ssl": true,
+          "rating": 0.13725490196078433
         }
       ],
       "Sonoma County, CA, USA": [
@@ -162,7 +175,9 @@
           "cases": 37,
           "recovered": 2,
           "deaths": 1,
-          "active": 34
+          "active": 34,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Sonoma County",
@@ -182,7 +197,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 0
+          "cases": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         }
       ],
       "Shasta County, CA, USA": [
@@ -206,7 +224,9 @@
           "certValidation": true,
           "county": "Shasta County",
           "cases": 3,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "Shasta County",
@@ -228,7 +248,9 @@
           "priority": 0,
           "url": "https://www.co.shasta.ca.us/covid-19/overview",
           "type": "table",
-          "cases": 3
+          "cases": 3,
+          "ssl": true,
+          "rating": 0.27450980392156865
         }
       ],
       "Santa Cruz County, CA, USA": [
@@ -252,7 +274,9 @@
           "certValidation": true,
           "county": "Santa Cruz County",
           "cases": 25,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "Santa Cruz County",
@@ -273,7 +297,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 0,
-          "type": "aspx"
+          "type": "list",
+          "ssl": false,
+          "rating": 0.23529411764705882
         }
       ],
       "Santa Clara County, CA, USA": [
@@ -298,7 +324,9 @@
           "county": "Santa Clara County",
           "cases": 459,
           "tested": 647,
-          "deaths": 17
+          "deaths": 17,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Santa Clara County",
@@ -320,7 +348,9 @@
           "priority": 0,
           "cases": 459,
           "deaths": 17,
-          "type": "aspx"
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "Santa Barbara County, CA, USA": [
@@ -345,7 +375,9 @@
           "county": "Santa Barbara County",
           "cases": 24,
           "tested": 493,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Santa Barbara County",
@@ -366,7 +398,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 26
+          "cases": 26,
+          "ssl": true,
+          "rating": 0.13725490196078433
         }
       ],
       "San Luis Obispo County, CA, USA": [
@@ -392,7 +426,9 @@
           "cases": 46,
           "recovered": 7,
           "deaths": 0,
-          "active": 39
+          "active": 39,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "San Luis Obispo County",
@@ -404,7 +440,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 0
+          "cases": 0,
+          "ssl": true,
+          "rating": 0.13725490196078433
         }
       ],
       "San Diego County, CA, USA": [
@@ -428,7 +466,9 @@
           "certValidation": true,
           "county": "San Diego County",
           "cases": 242,
-          "deaths": 2
+          "deaths": 2,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "San Diego County",
@@ -450,7 +490,9 @@
           "priority": 0,
           "cases": 0,
           "tested": 0,
-          "type": "html"
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "San Benito County, CA, USA": [
@@ -477,7 +519,9 @@
           "tested": 90,
           "recovered": 2,
           "deaths": 1,
-          "active": 4
+          "active": 4,
+          "ssl": true,
+          "rating": 0.6470588235294118
         },
         {
           "county": "San Benito County",
@@ -500,7 +544,10 @@
           "cases": 0,
           "deaths": 0,
           "recovered": 0,
-          "active": 0
+          "active": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.4117647058823529
         }
       ],
       "Riverside County, CA, USA": [
@@ -524,7 +571,9 @@
           "certValidation": true,
           "county": "Riverside County",
           "cases": 107,
-          "deaths": 8
+          "deaths": 8,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "Riverside County",
@@ -544,7 +593,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 107
+          "cases": 107,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         }
       ],
       "Orange County, CA, USA": [
@@ -569,7 +621,9 @@
           "county": "Orange County",
           "cases": 187,
           "tested": 2442,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Orange County",
@@ -590,7 +644,10 @@
           "certValidation": true,
           "priority": 0,
           "cases": 0,
-          "deaths": 0
+          "deaths": 0,
+          "type": "list",
+          "ssl": false,
+          "rating": 0.3137254901960784
         }
       ],
       "Monterey County, CA, USA": [
@@ -615,7 +672,9 @@
           "county": "Monterey County",
           "cases": 24,
           "tested": 365,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Monterey County",
@@ -627,7 +686,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 24
+          "cases": 24,
+          "ssl": true,
+          "rating": 0.27450980392156865
         }
       ],
       "Mono County, CA, USA": [
@@ -652,7 +713,9 @@
           "county": "Mono County",
           "cases": 4,
           "tested": 60,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Mono County",
@@ -675,7 +738,9 @@
           "priority": 0,
           "cases": 0,
           "tested": 0,
-          "type": "com"
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "Merced County, CA, USA": [
@@ -700,7 +765,9 @@
           "county": "Merced County",
           "cases": 2,
           "tested": 46,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Merced County",
@@ -723,7 +790,10 @@
           "cases": 0,
           "deaths": 0,
           "recovered": 0,
-          "active": 0
+          "active": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.4117647058823529
         }
       ],
       "Mendocino County, CA, USA": [
@@ -748,7 +818,9 @@
           "county": "Mendocino County",
           "cases": 2,
           "tested": 134,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Mendocino County",
@@ -769,7 +841,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 2
+          "cases": 2,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         }
       ],
       "Marin County, CA, USA": [
@@ -794,7 +869,9 @@
           "county": "Marin County",
           "cases": 53,
           "tested": 527,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Marin County",
@@ -814,7 +891,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 60
+          "cases": 60,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         }
       ],
       "Los Angeles County, CA, USA": [
@@ -838,7 +918,9 @@
           "certValidation": true,
           "county": "Los Angeles County",
           "cases": 814,
-          "deaths": 13
+          "deaths": 13,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "county": "Los Angeles County",
@@ -859,7 +941,10 @@
           "certValidation": true,
           "priority": 0,
           "cases": 799,
-          "deaths": 13
+          "deaths": 13,
+          "type": "list",
+          "ssl": false,
+          "rating": 0.3137254901960784
         }
       ],
       "Kings County, CA, USA": [
@@ -884,7 +969,9 @@
           "county": "Kings County",
           "cases": 0,
           "tested": 75,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         },
         {
           "county": "Kings County",
@@ -904,7 +991,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 0
+          "cases": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         }
       ],
       "Glenn County, CA, USA": [
@@ -926,7 +1016,10 @@
           "certValidation": true,
           "priority": 0,
           "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
-          "cases": 0
+          "cases": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         },
         {
           "state": "CA",
@@ -949,7 +1042,9 @@
           "county": "Glenn County",
           "cases": 0,
           "tested": 4,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         }
       ],
       "Fresno County, CA, USA": [
@@ -972,7 +1067,10 @@
           "certValidation": true,
           "priority": 0,
           "cases": 196,
-          "deaths": 0
+          "deaths": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3333333333333333
         },
         {
           "state": "CA",
@@ -994,7 +1092,9 @@
           "certValidation": true,
           "county": "Fresno County",
           "cases": 18,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "Del Norte County, CA, USA": [
@@ -1018,7 +1118,10 @@
           "certValidation": true,
           "priority": 0,
           "cases": 0,
-          "tested": 40
+          "tested": 40,
+          "type": "list",
+          "ssl": false,
+          "rating": 0.3137254901960784
         },
         {
           "state": "CA",
@@ -1041,7 +1144,9 @@
           "county": "Del Norte County",
           "cases": 0,
           "tested": 38,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.5686274509803921
         }
       ],
       "Contra Costa County, CA, USA": [
@@ -1065,7 +1170,9 @@
           "priority": 0,
           "cases": 108,
           "deaths": 0,
-          "type": "org"
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3333333333333333
         },
         {
           "state": "CA",
@@ -1087,7 +1194,9 @@
           "certValidation": true,
           "county": "Contra Costa County",
           "cases": 108,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "Colusa County, CA, USA": [
@@ -1109,7 +1218,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 0
+          "cases": 0,
+          "type": "list",
+          "ssl": false,
+          "rating": 0.23529411764705882
         },
         {
           "state": "CA",
@@ -1131,7 +1243,9 @@
           "certValidation": true,
           "county": "Colusa County",
           "cases": 0,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "Calaveras County, CA, USA": [
@@ -1154,7 +1268,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 2,
-          "type": "us"
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         },
         {
           "state": "CA",
@@ -1176,7 +1292,9 @@
           "certValidation": true,
           "county": "Calaveras County",
           "cases": 2,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "Butte County, CA, USA": [
@@ -1198,7 +1316,10 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 0
+          "cases": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.2549019607843137
         },
         {
           "state": "CA",
@@ -1220,7 +1341,9 @@
           "certValidation": true,
           "county": "Butte County",
           "cases": 4,
-          "deaths": 0
+          "deaths": 0,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "Alameda County, CA, USA": [
@@ -1243,7 +1366,9 @@
           "timeseries": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 124
+          "cases": 124,
+          "ssl": false,
+          "rating": 0.0784313725490196
         },
         {
           "state": "CA",
@@ -1265,7 +1390,9 @@
           "certValidation": true,
           "county": "Alameda County",
           "cases": 135,
-          "deaths": 2
+          "deaths": 2,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "GU, USA": [
@@ -1289,7 +1416,9 @@
           "state": "GU",
           "deaths": 1,
           "tested": 270,
-          "cases": 37
+          "cases": 37,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "GU",
@@ -1308,7 +1437,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 37,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": false,
+          "rating": 0.2549019607843137
         }
       ],
       "WY, USA": [
@@ -1331,7 +1462,9 @@
           "certValidation": true,
           "state": "WY",
           "tested": 998,
-          "cases": 44
+          "cases": 44,
+          "ssl": true,
+          "rating": 0.4117647058823529
         },
         {
           "state": "WY",
@@ -1356,7 +1489,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 49
+          "cases": 49,
+          "ssl": true,
+          "rating": 0.17647058823529413
         }
       ],
       "WV, USA": [
@@ -1380,7 +1515,9 @@
           "state": "WV",
           "deaths": 0,
           "tested": 804,
-          "cases": 39
+          "cases": 39,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "WV",
@@ -1392,7 +1529,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 52
+          "cases": 52,
+          "ssl": true,
+          "rating": 0.29411764705882354
         }
       ],
       "WI, USA": [
@@ -1416,7 +1555,9 @@
           "state": "WI",
           "deaths": 7,
           "tested": 10674,
-          "cases": 585
+          "cases": 585,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "WI",
@@ -1430,7 +1571,9 @@
           "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
           "type": "json",
           "tested": 10674,
-          "cases": 585
+          "cases": 585,
+          "ssl": true,
+          "rating": 0.4117647058823529
         }
       ],
       "WA, USA": [
@@ -1454,7 +1597,9 @@
           "state": "WA",
           "deaths": 123,
           "tested": 34181,
-          "cases": 2469
+          "cases": 2469,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "WA",
@@ -1468,7 +1613,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 2580,
-          "deaths": 123
+          "deaths": 123,
+          "ssl": true,
+          "rating": 0.35294117647058826
         }
       ],
       "VA, USA": [
@@ -1492,7 +1639,9 @@
           "state": "VA",
           "deaths": 9,
           "tested": 5370,
-          "cases": 391
+          "cases": 391,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "VA",
@@ -1513,7 +1662,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 391,
-          "deaths": 9
+          "deaths": 9,
+          "ssl": true,
+          "rating": 0.17647058823529413
         }
       ],
       "TX, USA": [
@@ -1537,7 +1688,9 @@
           "state": "TX",
           "deaths": 12,
           "tested": 13494,
-          "cases": 974
+          "cases": 974,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "TX",
@@ -1550,7 +1703,9 @@
           "priority": 0,
           "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
           "type": "csv",
-          "cases": 974
+          "cases": 974,
+          "ssl": false,
+          "rating": 0.3137254901960784
         }
       ],
       "TN, USA": [
@@ -1574,7 +1729,9 @@
           "state": "TN",
           "deaths": 3,
           "tested": 11796,
-          "cases": 784
+          "cases": 784,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "TN",
@@ -1587,7 +1744,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 784
+          "cases": 784,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "SD, USA": [
@@ -1611,7 +1770,9 @@
           "state": "SD",
           "deaths": 1,
           "tested": 1128,
-          "cases": 41
+          "cases": 41,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "SD",
@@ -1624,7 +1785,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 41
+          "cases": 41,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "SC, USA": [
@@ -1648,7 +1811,9 @@
           "state": "SC",
           "deaths": 7,
           "tested": 2727,
-          "cases": 424
+          "cases": 424,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "SC",
@@ -1662,7 +1827,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 342,
-          "deaths": 7
+          "deaths": 7,
+          "ssl": true,
+          "rating": 0.4117647058823529
         }
       ],
       "RI, USA": [
@@ -1685,7 +1852,9 @@
           "certValidation": true,
           "state": "RI",
           "tested": 1463,
-          "cases": 124
+          "cases": 124,
+          "ssl": true,
+          "rating": 0.4117647058823529
         },
         {
           "state": "RI",
@@ -1697,7 +1866,9 @@
           "timeseries": false,
           "headless": false,
           "certValidation": true,
-          "cases": 66
+          "cases": 66,
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "PA, USA": [
@@ -1721,7 +1892,9 @@
           "state": "PA",
           "deaths": 11,
           "tested": 12320,
-          "cases": 1127
+          "cases": 1127,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "PA",
@@ -1736,7 +1909,9 @@
           "type": "table",
           "cases": 11,
           "deaths": 11,
-          "tested": 11193
+          "tested": 11193,
+          "ssl": true,
+          "rating": 0.47058823529411764
         }
       ],
       "OR, USA": [
@@ -1760,7 +1935,9 @@
           "state": "OR",
           "deaths": 8,
           "tested": 4559,
-          "cases": 209
+          "cases": 209,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "OR",
@@ -1775,7 +1952,9 @@
           "priority": 0,
           "tested": 5742,
           "cases": 266,
-          "deaths": 10
+          "deaths": 10,
+          "ssl": true,
+          "rating": 0.47058823529411764
         }
       ],
       "OK, USA": [
@@ -1799,7 +1978,9 @@
           "state": "OK",
           "deaths": 5,
           "tested": 969,
-          "cases": 164
+          "cases": 164,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "OK",
@@ -1826,7 +2007,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 164
+          "cases": 164,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "OH, USA": [
@@ -1850,7 +2033,9 @@
           "state": "OH",
           "deaths": 10,
           "tested": 14764,
-          "cases": 704
+          "cases": 704,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "OH",
@@ -1862,7 +2047,10 @@
           "certValidation": true,
           "priority": 0,
           "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-          "cases": 704
+          "cases": 704,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.29411764705882354
         }
       ],
       "NY, USA": [
@@ -1886,7 +2074,9 @@
           "state": "NY",
           "deaths": 285,
           "tested": 103479,
-          "cases": 30811
+          "cases": 30811,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "NY",
@@ -1898,7 +2088,9 @@
           "certValidation": true,
           "priority": 0,
           "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
-          "cases": 30811
+          "cases": 30811,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "NM, USA": [
@@ -1922,7 +2114,9 @@
           "state": "NM",
           "deaths": 1,
           "tested": 6842,
-          "cases": 100
+          "cases": 100,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "NM",
@@ -1935,7 +2129,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 112,
-          "deaths": 1
+          "deaths": 1,
+          "ssl": true,
+          "rating": 0.39215686274509803
         }
       ],
       "NJ, USA": [
@@ -1959,7 +2155,9 @@
           "state": "NJ",
           "deaths": 62,
           "tested": 14854,
-          "cases": 4402
+          "cases": 4402,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "country": "USA",
@@ -1972,7 +2170,9 @@
           "certValidation": true,
           "priority": 0,
           "url": "https://opendata.arcgis.com/datasets/24f4fcf164ad4b4280f08c8939dd5dc7_0.csv",
-          "cases": 3469
+          "cases": 3469,
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "NH, USA": [
@@ -1996,7 +2196,9 @@
           "state": "NH",
           "deaths": 1,
           "tested": 3268,
-          "cases": 108
+          "cases": 108,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "NH",
@@ -2015,7 +2217,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 137
+          "cases": 137,
+          "ssl": true,
+          "rating": 0.09803921568627451
         }
       ],
       "NE, USA": [
@@ -2039,7 +2243,9 @@
           "state": "NE",
           "deaths": 0,
           "tested": 1365,
-          "cases": 61
+          "cases": 61,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "NE",
@@ -2058,7 +2264,10 @@
           "priority": 1,
           "timeseries": false,
           "headless": false,
-          "certValidation": true
+          "certValidation": true,
+          "cases": 65,
+          "ssl": true,
+          "rating": 0.29411764705882354
         }
       ],
       "NC, USA": [
@@ -2082,7 +2291,9 @@
           "state": "NC",
           "deaths": 1,
           "tested": 10489,
-          "cases": 504
+          "cases": 504,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2094,7 +2305,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 504,
-          "type": "csv"
+          "type": "csv",
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "MT, USA": [
@@ -2117,7 +2330,9 @@
           "certValidation": true,
           "state": "MT",
           "tested": 2001,
-          "cases": 53
+          "cases": 53,
+          "ssl": true,
+          "rating": 0.4117647058823529
         },
         {
           "state": "MT",
@@ -2129,7 +2344,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 65
+          "cases": 65,
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "MS, USA": [
@@ -2153,7 +2370,9 @@
           "state": "MS",
           "deaths": 2,
           "tested": 1943,
-          "cases": 377
+          "cases": 377,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "MS",
@@ -2167,7 +2386,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 377,
-          "deaths": 5
+          "deaths": 5,
+          "ssl": true,
+          "rating": 0.39215686274509803
         }
       ],
       "MO, USA": [
@@ -2191,7 +2412,9 @@
           "state": "MO",
           "deaths": 8,
           "tested": 725,
-          "cases": 356
+          "cases": 356,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "MO",
@@ -2219,7 +2442,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 356
+          "cases": 356,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "MN, USA": [
@@ -2243,7 +2468,9 @@
           "state": "MN",
           "deaths": 1,
           "tested": 11475,
-          "cases": 287
+          "cases": 287,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "MN",
@@ -2255,7 +2482,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 287
+          "cases": 287,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "MI, USA": [
@@ -2279,7 +2508,9 @@
           "state": "MI",
           "deaths": 43,
           "tested": 4363,
-          "cases": 2294
+          "cases": 2294,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "MI",
@@ -2292,7 +2523,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 2292,
-          "deaths": 43
+          "deaths": 43,
+          "ssl": true,
+          "rating": 0.39215686274509803
         }
       ],
       "ME, USA": [
@@ -2315,7 +2548,9 @@
           "certValidation": true,
           "state": "ME",
           "tested": 3326,
-          "cases": 149
+          "cases": 149,
+          "ssl": true,
+          "rating": 0.4117647058823529
         },
         {
           "state": "ME",
@@ -2328,7 +2563,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 142,
-          "recovered": 7
+          "recovered": 7,
+          "ssl": true,
+          "rating": 0.39215686274509803
         }
       ],
       "MD, USA": [
@@ -2352,7 +2589,9 @@
           "state": "MD",
           "deaths": 4,
           "tested": 517,
-          "cases": 423
+          "cases": 423,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "MD",
@@ -2365,7 +2604,9 @@
           "priority": 0,
           "type": "csv",
           "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
-          "cases": 349
+          "cases": 349,
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "MA, USA": [
@@ -2389,7 +2630,9 @@
           "state": "MA",
           "deaths": 15,
           "tested": 19794,
-          "cases": 1838
+          "cases": 1838,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "MA",
@@ -2409,7 +2652,9 @@
           "priority": 0,
           "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-25-2020/download",
           "cases": 1838,
-          "deaths": 5
+          "deaths": 5,
+          "ssl": true,
+          "rating": 0.17647058823529413
         }
       ],
       "LA, USA": [
@@ -2433,7 +2678,9 @@
           "state": "LA",
           "deaths": 65,
           "tested": 11451,
-          "cases": 1795
+          "cases": 1795,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "LA",
@@ -2447,7 +2694,9 @@
           "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
           "type": "json",
           "cases": 1795,
-          "deaths": 65
+          "deaths": 65,
+          "ssl": true,
+          "rating": 0.4117647058823529
         }
       ],
       "KY, USA": [
@@ -2471,7 +2720,9 @@
           "state": "KY",
           "deaths": 4,
           "tested": 3022,
-          "cases": 157
+          "cases": 157,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "country": "USA",
@@ -2500,7 +2751,10 @@
           "cases": 195,
           "deaths": 5,
           "recovered": 3,
-          "active": 187
+          "active": 187,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.45098039215686275
         }
       ],
       "KS, USA": [
@@ -2524,7 +2778,9 @@
           "state": "KS",
           "deaths": 3,
           "tested": 2486,
-          "cases": 126
+          "cases": 126,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "KS",
@@ -2550,7 +2806,9 @@
           "certValidation": true,
           "priority": 0,
           "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
-          "cases": 126
+          "cases": 126,
+          "ssl": true,
+          "rating": 0.09803921568627451
         }
       ],
       "IN, USA": [
@@ -2574,7 +2832,9 @@
           "state": "IN",
           "deaths": 14,
           "tested": 3356,
-          "cases": 477
+          "cases": 477,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "country": "USA",
@@ -2587,7 +2847,9 @@
           "certValidation": true,
           "cases": 477,
           "deaths": 14,
-          "type": "csv"
+          "type": "csv",
+          "ssl": true,
+          "rating": 0.4117647058823529
         }
       ],
       "IL, USA": [
@@ -2611,7 +2873,9 @@
           "state": "IL",
           "deaths": 19,
           "tested": 14209,
-          "cases": 1884
+          "cases": 1884,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "IL",
@@ -2623,7 +2887,9 @@
           "certValidation": true,
           "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
           "cases": 950,
-          "type": "json"
+          "type": "json",
+          "ssl": false,
+          "rating": 0.3137254901960784
         }
       ],
       "ID, USA": [
@@ -2647,7 +2913,9 @@
           "state": "ID",
           "deaths": 0,
           "tested": 1960,
-          "cases": 73
+          "cases": 73,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "ID",
@@ -2659,7 +2927,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 123
+          "cases": 123,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "IA, USA": [
@@ -2683,7 +2953,9 @@
           "state": "IA",
           "deaths": 1,
           "tested": 2723,
-          "cases": 145
+          "cases": 145,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "IA",
@@ -2696,7 +2968,9 @@
           "priority": 0,
           "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
           "type": "csv",
-          "cases": 145
+          "cases": 145,
+          "ssl": true,
+          "rating": 0.29411764705882354
         }
       ],
       "HI, USA": [
@@ -2720,7 +2994,9 @@
           "state": "HI",
           "deaths": 1,
           "tested": 4447,
-          "cases": 90
+          "cases": 90,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "country": "USA",
@@ -2741,7 +3017,10 @@
           "headless": false,
           "certValidation": true,
           "cases": 76,
-          "deaths": 0
+          "deaths": 0,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.37254901960784315
         }
       ],
       "GA, USA": [
@@ -2765,7 +3044,9 @@
           "state": "GA",
           "deaths": 40,
           "tested": 6179,
-          "cases": 1247
+          "cases": 1247,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "GA",
@@ -2777,7 +3058,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 1387
+          "cases": 1387,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "FL, USA": [
@@ -2801,7 +3084,9 @@
           "state": "FL",
           "deaths": 22,
           "tested": 18289,
-          "cases": 1682
+          "cases": 1682,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "FL",
@@ -2816,7 +3101,9 @@
           "url": "https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv",
           "tested": 23723,
           "cases": 1977,
-          "deaths": 23
+          "deaths": 23,
+          "ssl": true,
+          "rating": 0.49019607843137253
         }
       ],
       "DE, USA": [
@@ -2840,7 +3127,9 @@
           "state": "DE",
           "deaths": 0,
           "tested": 151,
-          "cases": 115
+          "cases": 115,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "DE",
@@ -2852,7 +3141,9 @@
           "priority": 0,
           "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
           "type": "csv",
-          "cases": 119
+          "cases": 119,
+          "ssl": false,
+          "rating": 0.3137254901960784
         }
       ],
       "DC, USA": [
@@ -2876,7 +3167,9 @@
           "state": "DC",
           "deaths": 2,
           "tested": 1609,
-          "cases": 183
+          "cases": 183,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "DC",
@@ -2889,7 +3182,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 231,
-          "tested": 1858
+          "tested": 1858,
+          "ssl": true,
+          "rating": 0.13725490196078433
         }
       ],
       "CT, USA": [
@@ -2913,7 +3208,9 @@
           "state": "CT",
           "deaths": 19,
           "tested": 5898,
-          "cases": 875
+          "cases": 875,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "CT",
@@ -2933,7 +3230,9 @@
           "certValidation": true,
           "priority": 0,
           "cases": 875,
-          "deaths": 19
+          "deaths": 19,
+          "ssl": true,
+          "rating": 0.17647058823529413
         }
       ],
       "CO, USA": [
@@ -2957,7 +3256,9 @@
           "state": "CO",
           "deaths": 11,
           "tested": 7701,
-          "cases": 912
+          "cases": 912,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "CO",
@@ -2971,7 +3272,9 @@
           "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
           "type": "csv",
           "cases": 1068,
-          "population": 5695430
+          "population": 5695430,
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "CA, USA": [
@@ -2995,7 +3298,9 @@
           "state": "CA",
           "deaths": 53,
           "tested": 66929,
-          "cases": 2588
+          "cases": 2588,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "CA",
@@ -3019,7 +3324,9 @@
           "deaths": 67,
           "tested": 6374,
           "recovered": 13,
-          "active": 3002
+          "active": 3002,
+          "ssl": true,
+          "rating": 0.5686274509803921
         }
       ],
       "AZ, USA": [
@@ -3043,7 +3350,9 @@
           "state": "AZ",
           "deaths": 6,
           "tested": 826,
-          "cases": 450
+          "cases": 450,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "AZ",
@@ -3055,7 +3364,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 401
+          "cases": 401,
+          "ssl": true,
+          "rating": 0.3333333333333333
         }
       ],
       "AR, USA": [
@@ -3079,7 +3390,9 @@
           "state": "AR",
           "deaths": 2,
           "tested": 1717,
-          "cases": 280
+          "cases": 280,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "AR",
@@ -3109,7 +3422,9 @@
           "tested": 1777,
           "recovered": 12,
           "deaths": 2,
-          "active": 294
+          "active": 294,
+          "ssl": true,
+          "rating": 0.5686274509803921
         }
       ],
       "AL, USA": [
@@ -3133,7 +3448,9 @@
           "state": "AL",
           "deaths": 0,
           "tested": 2812,
-          "cases": 283
+          "cases": 283,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "AL",
@@ -3145,7 +3462,9 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 386
+          "cases": 386,
+          "ssl": false,
+          "rating": 0.29411764705882354
         }
       ],
       "AK, USA": [
@@ -3169,7 +3488,9 @@
           "state": "AK",
           "deaths": 1,
           "tested": 1691,
-          "cases": 42
+          "cases": 42,
+          "ssl": true,
+          "rating": 0.49019607843137253
         },
         {
           "state": "AK",
@@ -3181,7 +3502,9 @@
           "timeseries": false,
           "certValidation": true,
           "priority": 0,
-          "cases": 31
+          "cases": 31,
+          "ssl": false,
+          "rating": 0.29411764705882354
         }
       ],
       "La Réunion, FRA": [
@@ -3194,7 +3517,9 @@
           "certValidation": true,
           "cases": 115,
           "state": "La Réunion",
-          "type": "pdf"
+          "type": "pdf",
+          "ssl": false,
+          "rating": 0.09803921568627451
         },
         {
           "country": "FRA",
@@ -3653,7 +3978,10 @@
               "id": 289
             }
           },
-          "population": 853659
+          "population": 853659,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "Queensland, AUS": [
@@ -3674,7 +4002,9 @@
           "headless": false,
           "certValidation": true,
           "state": "Queensland",
-          "cases": 443
+          "cases": 443,
+          "ssl": true,
+          "rating": 0.3137254901960784
         },
         {
           "country": "AUS",
@@ -3704,7 +4034,9 @@
           "timeseries": false,
           "headless": false,
           "certValidation": true,
-          "cases": 25
+          "cases": 25,
+          "ssl": true,
+          "rating": 0.058823529411764705
         },
         {
           "maintainers": [
@@ -3734,7 +4066,10 @@
             153.4,
             -28.0167
           ],
-          "state": "Queensland"
+          "state": "Queensland",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         }
       ],
       "Northern Territory, AUS": [
@@ -3755,7 +4090,9 @@
           "headless": false,
           "certValidation": true,
           "state": "Northern Territory",
-          "cases": 5
+          "cases": 5,
+          "ssl": true,
+          "rating": 0.3137254901960784
         },
         {
           "country": "AUS",
@@ -3784,7 +4121,9 @@
           "timeseries": false,
           "headless": false,
           "certValidation": true,
-          "cases": 8
+          "cases": 8,
+          "ssl": true,
+          "rating": 0.19607843137254902
         },
         {
           "maintainers": [
@@ -3814,7 +4153,10 @@
             130.8456,
             -12.4634
           ],
-          "state": "Northern Territory"
+          "state": "Northern Territory",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         }
       ],
       "New South Wales, AUS": [
@@ -3835,7 +4177,9 @@
           "headless": false,
           "certValidation": true,
           "state": "New South Wales",
-          "cases": 1029
+          "cases": 1029,
+          "ssl": true,
+          "rating": 0.3137254901960784
         },
         {
           "country": "AUS",
@@ -3854,7 +4198,9 @@
           "headless": false,
           "certValidation": true,
           "cases": 1219,
-          "tested": 74006
+          "tested": 74006,
+          "ssl": true,
+          "rating": 0.27450980392156865
         },
         {
           "maintainers": [
@@ -3884,7 +4230,10 @@
             151.2093,
             -33.8688
           ],
-          "state": "New South Wales"
+          "state": "New South Wales",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         }
       ],
       "Australian Capital Territory, AUS": [
@@ -3905,7 +4254,9 @@
           "headless": false,
           "certValidation": true,
           "state": "Australian Capital Territory",
-          "cases": 44
+          "cases": 44,
+          "ssl": true,
+          "rating": 0.3137254901960784
         },
         {
           "country": "AUS",
@@ -3935,7 +4286,9 @@
           "headless": false,
           "certValidation": true,
           "cases": 0,
-          "tested": 0
+          "tested": 0,
+          "ssl": true,
+          "rating": 0.27450980392156865
         },
         {
           "maintainers": [
@@ -3965,7 +4318,10 @@
             149.0124,
             -35.4735
           ],
-          "state": "Australian Capital Territory"
+          "state": "Australian Capital Territory",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         }
       ],
       "USA": [
@@ -3996,7 +4352,10 @@
           "coordinates": [
             -95.7129,
             37.0902
-          ]
+          ],
+          "type": "list",
+          "ssl": true,
+          "rating": 0.47058823529411764
         },
         {
           "country": "USA",
@@ -4017,7 +4376,9 @@
           "certValidation": true,
           "cases": 64180,
           "deaths": 900,
-          "tested": 472820
+          "tested": 472820,
+          "ssl": true,
+          "rating": 0.45098039215686275
         }
       ],
       "CHE": [
@@ -4048,7 +4409,10 @@
           "coordinates": [
             8.2275,
             46.8182
-          ]
+          ],
+          "type": "list",
+          "ssl": true,
+          "rating": 0.47058823529411764
         },
         {
           "country": "CHE",
@@ -4058,7 +4422,10 @@
           "headless": false,
           "certValidation": true,
           "cases": 8319,
-          "deaths": 153
+          "deaths": 153,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.35294117647058826
         }
       ],
       "ESP": [
@@ -4089,7 +4456,10 @@
           "coordinates": [
             -4,
             40
-          ]
+          ],
+          "type": "list",
+          "ssl": true,
+          "rating": 0.47058823529411764
         },
         {
           "country": "ESP",
@@ -4135,7 +4505,10 @@
           "cases": 47610,
           "recovered": 5367,
           "deaths": 3434,
-          "active": 38809
+          "active": 38809,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5490196078431373
         }
       ],
       "ITA": [
@@ -4166,7 +4539,10 @@
           "coordinates": [
             12,
             43
-          ]
+          ],
+          "type": "list",
+          "ssl": true,
+          "rating": 0.47058823529411764
         },
         {
           "country": "ITA",
@@ -4180,7 +4556,9 @@
           "recovered": 9362,
           "deaths": 7503,
           "active": 57521,
-          "type": "csv"
+          "type": "csv",
+          "ssl": true,
+          "rating": 0.5882352941176471
         }
       ],
       "Martinique, FRA": [
@@ -4212,7 +4590,10 @@
             -61.0242,
             14.6415
           ],
-          "state": "Martinique"
+          "state": "Martinique",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "country": "FRA",
@@ -5750,7 +6131,10 @@
             }
           },
           "population": 376480,
-          "active": 64
+          "active": 64,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.47058823529411764
         }
       ],
       "Mayotte, FRA": [
@@ -5782,7 +6166,10 @@
             45.1662,
             -12.8275
           ],
-          "state": "Mayotte"
+          "state": "Mayotte",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "country": "FRA",
@@ -7083,7 +7470,10 @@
               "id": 290
             }
           },
-          "population": 270372
+          "population": 270372,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "Guadeloupe, FRA": [
@@ -7115,7 +7505,10 @@
             -61.5833,
             16.25
           ],
-          "state": "Guadeloupe"
+          "state": "Guadeloupe",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "country": "FRA",
@@ -8277,7 +8670,10 @@
               "id": 286
             }
           },
-          "population": 390253
+          "population": 390253,
+          "type": "list",
+          "ssl": true,
+          "rating": 0.39215686274509803
         }
       ],
       "Western Australia, AUS": [
@@ -8309,7 +8705,10 @@
             115.8605,
             -31.9505
           ],
-          "state": "Western Australia"
+          "state": "Western Australia",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "aggregate": "state",
@@ -8328,7 +8727,9 @@
           "headless": false,
           "certValidation": true,
           "state": "Western Australia",
-          "cases": 205
+          "cases": 205,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "Victoria, AUS": [
@@ -8360,7 +8761,10 @@
             144.9631,
             -37.8136
           ],
-          "state": "Victoria"
+          "state": "Victoria",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "aggregate": "state",
@@ -8379,7 +8783,9 @@
           "headless": false,
           "certValidation": true,
           "state": "Victoria",
-          "cases": 466
+          "cases": 466,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "Tasmania, AUS": [
@@ -8411,7 +8817,10 @@
             145.9707,
             -41.4545
           ],
-          "state": "Tasmania"
+          "state": "Tasmania",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "aggregate": "state",
@@ -8430,7 +8839,9 @@
           "headless": false,
           "certValidation": true,
           "state": "Tasmania",
-          "cases": 34
+          "cases": 34,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ],
       "South Australia, AUS": [
@@ -8462,7 +8873,10 @@
             138.6007,
             -34.9285
           ],
-          "state": "South Australia"
+          "state": "South Australia",
+          "type": "list",
+          "ssl": true,
+          "rating": 0.5098039215686274
         },
         {
           "aggregate": "state",
@@ -8481,7 +8895,9 @@
           "headless": false,
           "certValidation": true,
           "state": "South Australia",
-          "cases": 197
+          "cases": 197,
+          "ssl": true,
+          "rating": 0.3137254901960784
         }
       ]
     },
@@ -8522,14 +8938,15 @@
       "Reunion, FRA",
       "Aruba, NLD",
       "Channel Islands, GBR",
-      "Total, CAN",
       "Zurich, CHE",
+      "Total, CAN",
       "Saint-Barthélemy, FRA",
       "Saint-Martin, FRA",
       "Telengana, IND",
       "Ladakh, IND",
       "PR, USA",
       "AS, USA",
+      "GU, USA",
       "MP, USA",
       "VI, USA",
       "Bournemouth, Christchurch and Poole, England, GBR",
@@ -8551,7 +8968,6 @@
       "Pea Patch County, DE, USA",
       "Reedy Island County, DE, USA",
       "DE/NJ County, DE, USA",
-      "GU, USA",
       "Baltimore City, MD, USA",
       "Doña Ana County, NM, USA",
       "Oglala Lakota County, SD, USA",
@@ -8577,13 +8993,14 @@
       "Channel Islands, GBR",
       "Isle of Man, GBR",
       "Montserrat, GBR",
-      "Total, CAN",
       "Zurich, CHE",
+      "Total, CAN",
       "Saint-Barthélemy, FRA",
       "Saint-Martin, FRA",
       "Manipur, IND",
       "Mizoram, IND",
       "AS, USA",
+      "GU, USA",
       "MP, USA",
       "VI, USA",
       "Barking and Dagenham, England, GBR",
@@ -8720,7 +9137,6 @@
       "DE/NJ County, DE, USA",
       "(unassigned), FL, USA",
       "(unassigned), GA, USA",
-      "GU, USA",
       "(unassigned), LA, USA",
       "Baltimore City, MD, USA",
       "(unassigned), ME, USA",
