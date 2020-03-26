@@ -528,7 +528,7 @@
     "tz": [
       "Etc/GMT"
     ],
-    "featureId": 271,
+    "featureId": 244,
     "population": 48958159,
     "name": "ESP"
   },
@@ -882,7 +882,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 251,
+    "featureId": 271,
     "population": 8236303,
     "name": "CHE"
   },
@@ -2908,7 +2908,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1626,
+    "featureId": 1691,
     "population": 6892503,
     "name": "MA, USA"
   },
@@ -3036,7 +3036,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2387,
+    "featureId": 2376,
     "population": 8882190,
     "name": "NJ, USA"
   },
@@ -3066,7 +3066,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2758,
+    "featureId": 2690,
     "population": 4217737,
     "name": "OR, USA"
   },
@@ -3164,7 +3164,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2698,
+    "featureId": 2735,
     "population": 12801989,
     "name": "PA, USA"
   },
@@ -3300,7 +3300,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2811,
+    "featureId": 2805,
     "population": 5148714,
     "name": "SC, USA"
   },
@@ -3507,7 +3507,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2365,
+    "featureId": 2387,
     "population": 1359711,
     "name": "NH, USA"
   },
@@ -3545,7 +3545,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1904,
+    "featureId": 2019,
     "population": 5639632,
     "name": "MN, USA"
   },
@@ -3646,7 +3646,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2764,
+    "featureId": 2811,
     "population": 1059361,
     "name": "RI, USA"
   },
@@ -3949,7 +3949,7 @@
     "aggregate": "county",
     "country": "USA",
     "state": "KS",
-    "rating": 0.058823529411764705,
+    "rating": 0.09803921568627451,
     "curators": [
       {
         "name": "The COVID Tracking Project",
@@ -3965,7 +3965,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1386,
+    "featureId": 1406,
     "population": 2913314,
     "name": "KS, USA"
   },
@@ -3995,7 +3995,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1691,
+    "featureId": 1677,
     "population": 4648794,
     "name": "LA, USA"
   },
@@ -4035,7 +4035,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1942,
+    "featureId": 1854,
     "population": 6137428,
     "name": "MO, USA"
   },
@@ -4256,7 +4256,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1732,
+    "featureId": 1816,
     "population": 1344212,
     "name": "ME, USA"
   },
@@ -4294,7 +4294,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1816,
+    "featureId": 1799,
     "population": 9986857,
     "name": "MI, USA"
   },
@@ -6323,7 +6323,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1625,
+    "featureId": 1690,
     "population": 830839,
     "name": "Worcester County, MA, USA"
   },
@@ -6511,7 +6511,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2377,
+    "featureId": 2366,
     "population": 621354,
     "name": "Monmouth County, NJ, USA"
   },
@@ -6542,7 +6542,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2368,
+    "featureId": 2357,
     "population": 445384,
     "name": "Burlington County, NJ, USA"
   },
@@ -6573,7 +6573,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2369,
+    "featureId": 2358,
     "population": 507078,
     "name": "Camden County, NJ, USA"
   },
@@ -6604,7 +6604,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2379,
+    "featureId": 2368,
     "population": 503310,
     "name": "Passaic County, NJ, USA"
   },
@@ -6635,7 +6635,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2383,
+    "featureId": 2372,
     "population": 558067,
     "name": "Union County, NJ, USA"
   },
@@ -6821,7 +6821,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2684,
+    "featureId": 2721,
     "population": 169507,
     "name": "Monroe County, PA, USA"
   },
@@ -6852,7 +6852,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2688,
+    "featureId": 2725,
     "population": 1584138,
     "name": "Philadelphia County, PA, USA"
   },
@@ -6945,7 +6945,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2792,
+    "featureId": 2786,
     "population": 65592,
     "name": "Kershaw County, SC, USA"
   },
@@ -7038,7 +7038,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2654,
+    "featureId": 2691,
     "population": 102811,
     "name": "Adams County, PA, USA"
   },
@@ -7245,7 +7245,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1821,
+    "featureId": 1936,
     "population": 103551,
     "name": "Carver County, MN, USA"
   },
@@ -7455,7 +7455,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2806,
+    "featureId": 2800,
     "population": 313888,
     "name": "Spartanburg County, SC, USA"
   },
@@ -7543,7 +7543,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1614,
+    "featureId": 1679,
     "population": 126348,
     "name": "Berkshire County, MA, USA"
   },
@@ -7605,7 +7605,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2731,
+    "featureId": 2663,
     "population": 110283,
     "name": "Douglas County, OR, USA"
   },
@@ -7733,7 +7733,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2374,
+    "featureId": 2363,
     "population": 676061,
     "name": "Hudson County, NJ, USA"
   },
@@ -7764,7 +7764,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1432,
+    "featureId": 1402,
     "population": 597555,
     "name": "Johnson County, KS, USA"
   },
@@ -7857,7 +7857,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2745,
+    "featureId": 2677,
     "population": 346868,
     "name": "Marion County, OR, USA"
   },
@@ -8010,7 +8010,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1940,
+    "featureId": 1852,
     "population": 996945,
     "name": "St. Louis County, MO, USA"
   },
@@ -8127,7 +8127,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2363,
+    "featureId": 2385,
     "population": 309176,
     "name": "Rockingham County, NH, USA"
   },
@@ -8188,7 +8188,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2685,
+    "featureId": 2722,
     "population": 828604,
     "name": "Montgomery County, PA, USA"
   },
@@ -8409,7 +8409,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2774,
+    "featureId": 2768,
     "population": 405905,
     "name": "Charleston County, SC, USA"
   },
@@ -8591,7 +8591,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2736,
+    "featureId": 2668,
     "population": 219564,
     "name": "Jackson County, OR, USA"
   },
@@ -8653,7 +8653,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2739,
+    "featureId": 2671,
     "population": 67653,
     "name": "Klamath County, OR, USA"
   },
@@ -8814,7 +8814,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2762,
+    "featureId": 2809,
     "population": 636084,
     "name": "Providence County, RI, USA"
   },
@@ -8876,7 +8876,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2670,
+    "featureId": 2707,
     "population": 564751,
     "name": "Delaware County, PA, USA"
   },
@@ -8990,7 +8990,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1621,
+    "featureId": 1686,
     "population": 1614714,
     "name": "Middlesex County, MA, USA"
   },
@@ -9052,7 +9052,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1837,
+    "featureId": 1952,
     "population": 550210,
     "name": "Ramsey County, MN, USA"
   },
@@ -9121,7 +9121,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2695,
+    "featureId": 2732,
     "population": 51276,
     "name": "Wayne County, PA, USA"
   },
@@ -9423,7 +9423,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1624,
+    "featureId": 1689,
     "population": 807252,
     "name": "Suffolk County, MA, USA"
   },
@@ -9516,7 +9516,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2367,
+    "featureId": 2356,
     "population": 936692,
     "name": "Bergen County, NJ, USA"
   },
@@ -9660,7 +9660,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1622,
+    "featureId": 1687,
     "population": 705388,
     "name": "Norfolk County, MA, USA"
   },
@@ -9777,7 +9777,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2356,
+    "featureId": 2378,
     "population": 89786,
     "name": "Grafton County, NH, USA"
   },
@@ -9920,7 +9920,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2751,
+    "featureId": 2683,
     "population": 77516,
     "name": "Umatilla County, OR, USA"
   },
@@ -9982,7 +9982,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2755,
+    "featureId": 2687,
     "population": 597695,
     "name": "Washington County, OR, USA"
   },
@@ -10428,7 +10428,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1617,
+    "featureId": 1682,
     "population": 790638,
     "name": "Essex County, MA, USA"
   },
@@ -10738,7 +10738,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2386,
+    "featureId": 2375,
     "population": 829685,
     "name": "Middlesex County, NJ, USA"
   },
@@ -10800,7 +10800,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2747,
+    "featureId": 2679,
     "population": 811880,
     "name": "Multnomah County, OR, USA"
   },
@@ -10831,7 +10831,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2748,
+    "featureId": 2680,
     "population": 85234,
     "name": "Polk County, OR, USA"
   },
@@ -10862,7 +10862,7 @@
     "tz": [
       "America/Los_Angeles"
     ],
-    "featureId": 2730,
+    "featureId": 2662,
     "population": 191996,
     "name": "Deschutes County, OR, USA"
   },
@@ -10955,7 +10955,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2660,
+    "featureId": 2697,
     "population": 628195,
     "name": "Bucks County, PA, USA"
   },
@@ -10986,7 +10986,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2793,
+    "featureId": 2787,
     "population": 95380,
     "name": "Lancaster County, SC, USA"
   },
@@ -11198,7 +11198,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1817,
+    "featureId": 1932,
     "population": 353813,
     "name": "Anoka County, MN, USA"
   },
@@ -11229,7 +11229,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1836,
+    "featureId": 1951,
     "population": 156277,
     "name": "Olmsted County, MN, USA"
   },
@@ -11613,7 +11613,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1768,
+    "featureId": 1751,
     "population": 1259201,
     "name": "Oakland County, MI, USA"
   },
@@ -11644,7 +11644,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1778,
+    "featureId": 1761,
     "population": 1753893,
     "name": "Wayne County, MI, USA"
   },
@@ -15658,7 +15658,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 252,
+    "featureId": 225,
     "population": 8446561,
     "name": "Andalucía, ESP"
   },
@@ -15708,7 +15708,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 253,
+    "featureId": 226,
     "population": 1324397,
     "name": "Aragón, ESP"
   },
@@ -15758,7 +15758,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 254,
+    "featureId": 227,
     "population": 1019993,
     "name": "Asturias, ESP"
   },
@@ -15808,7 +15808,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 255,
+    "featureId": 228,
     "population": 1198576,
     "name": "Baleares, ESP"
   },
@@ -15858,7 +15858,7 @@
     "tz": [
       "Etc/GMT+1"
     ],
-    "featureId": 256,
+    "featureId": 229,
     "population": 2220270,
     "name": "Canarias, ESP"
   },
@@ -15908,7 +15908,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 257,
+    "featureId": 230,
     "population": 581949,
     "name": "Cantabria, ESP"
   },
@@ -15958,7 +15958,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 258,
+    "featureId": 231,
     "population": 2038440,
     "name": "Castilla-La Mancha, ESP"
   },
@@ -16008,7 +16008,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 259,
+    "featureId": 232,
     "population": 2402877,
     "name": "Castilla y León, ESP"
   },
@@ -16058,7 +16058,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 260,
+    "featureId": 233,
     "population": 7609499,
     "name": "Cataluña, ESP"
   },
@@ -16108,7 +16108,7 @@
     "tz": [
       "Africa/Casablanca"
     ],
-    "featureId": 261,
+    "featureId": 234,
     "population": 84434,
     "name": "Ceuta, ESP"
   },
@@ -16158,7 +16158,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 262,
+    "featureId": 235,
     "population": 4998711,
     "name": "C. Valenciana, ESP"
   },
@@ -16208,7 +16208,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 263,
+    "featureId": 236,
     "population": 1062797,
     "name": "Extremadura, ESP"
   },
@@ -16258,7 +16258,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 264,
+    "featureId": 237,
     "population": 2698764,
     "name": "Galicia, ESP"
   },
@@ -16308,7 +16308,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 265,
+    "featureId": 238,
     "population": 6685471,
     "name": "Madrid, ESP"
   },
@@ -16358,7 +16358,7 @@
     "tz": [
       "Africa/Ceuta"
     ],
-    "featureId": 266,
+    "featureId": 239,
     "population": 84286,
     "name": "Melilla, ESP"
   },
@@ -16408,7 +16408,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 267,
+    "featureId": 240,
     "population": 1494442,
     "name": "Murcia, ESP"
   },
@@ -16458,7 +16458,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 268,
+    "featureId": 241,
     "population": 652526,
     "name": "Navarra, ESP"
   },
@@ -16508,7 +16508,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 269,
+    "featureId": 242,
     "population": 2181919,
     "name": "País Vasco, ESP"
   },
@@ -16558,7 +16558,7 @@
     "tz": [
       "Europe/Madrid"
     ],
-    "featureId": 270,
+    "featureId": 243,
     "population": 314487,
     "name": "La Rioja, ESP"
   },
@@ -16781,7 +16781,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 225,
+    "featureId": 245,
     "name": "AG, CHE"
   },
   {
@@ -16797,7 +16797,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 226,
+    "featureId": 246,
     "name": "AI, CHE"
   },
   {
@@ -16813,7 +16813,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 227,
+    "featureId": 247,
     "name": "AR, CHE"
   },
   {
@@ -16829,7 +16829,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 228,
+    "featureId": 248,
     "name": "BE, CHE"
   },
   {
@@ -16845,7 +16845,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 229,
+    "featureId": 249,
     "name": "BL, CHE"
   },
   {
@@ -16861,7 +16861,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 230,
+    "featureId": 250,
     "name": "BS, CHE"
   },
   {
@@ -16877,7 +16877,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 231,
+    "featureId": 251,
     "name": "FR, CHE"
   },
   {
@@ -16893,7 +16893,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 232,
+    "featureId": 252,
     "name": "GE, CHE"
   },
   {
@@ -16909,7 +16909,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 233,
+    "featureId": 253,
     "name": "GL, CHE"
   },
   {
@@ -16925,7 +16925,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 234,
+    "featureId": 254,
     "name": "GR, CHE"
   },
   {
@@ -16941,7 +16941,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 235,
+    "featureId": 255,
     "name": "JU, CHE"
   },
   {
@@ -16957,7 +16957,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 236,
+    "featureId": 256,
     "name": "LU, CHE"
   },
   {
@@ -16973,7 +16973,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 237,
+    "featureId": 257,
     "name": "NE, CHE"
   },
   {
@@ -16989,7 +16989,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 238,
+    "featureId": 258,
     "name": "NW, CHE"
   },
   {
@@ -17005,7 +17005,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 239,
+    "featureId": 259,
     "name": "OW, CHE"
   },
   {
@@ -17021,7 +17021,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 240,
+    "featureId": 260,
     "name": "SG, CHE"
   },
   {
@@ -17037,7 +17037,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 241,
+    "featureId": 261,
     "name": "SH, CHE"
   },
   {
@@ -17053,7 +17053,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 242,
+    "featureId": 262,
     "name": "SO, CHE"
   },
   {
@@ -17069,7 +17069,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 243,
+    "featureId": 263,
     "name": "SZ, CHE"
   },
   {
@@ -17085,7 +17085,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 244,
+    "featureId": 264,
     "name": "TG, CHE"
   },
   {
@@ -17101,7 +17101,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 245,
+    "featureId": 265,
     "name": "TI, CHE"
   },
   {
@@ -17117,7 +17117,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 246,
+    "featureId": 266,
     "name": "UR, CHE"
   },
   {
@@ -17133,7 +17133,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 247,
+    "featureId": 267,
     "name": "VD, CHE"
   },
   {
@@ -17149,7 +17149,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 248,
+    "featureId": 268,
     "name": "VS, CHE"
   },
   {
@@ -17165,7 +17165,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 249,
+    "featureId": 269,
     "name": "ZG, CHE"
   },
   {
@@ -17181,7 +17181,7 @@
     "tz": [
       "Europe/Zurich"
     ],
-    "featureId": 250,
+    "featureId": 270,
     "name": "ZH, CHE"
   },
   {
@@ -17295,18 +17295,18 @@
       }
     ],
     "country": "DEU",
-    "state": "DE-BW",
+    "state": "DE-BY",
     "coordinates": [
-      8.994572383783805,
-      48.65924504322413
+      11.413003577447412,
+      48.895550522738404
     ],
-    "population": 11020000,
+    "population": 13000000,
     "rating": 0.43137254901960786,
     "tz": [
       "Europe/Berlin"
     ],
     "featureId": 348,
-    "name": "DE-BW, DEU"
+    "name": "DE-BY, DEU"
   },
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
@@ -17334,18 +17334,18 @@
       }
     ],
     "country": "DEU",
-    "state": "DE-BY",
+    "state": "DE-BW",
     "coordinates": [
-      11.413003577447412,
-      48.895550522738404
+      8.994572383783805,
+      48.65924504322413
     ],
-    "population": 13000000,
+    "population": 11020000,
     "rating": 0.43137254901960786,
     "tz": [
       "Europe/Berlin"
     ],
     "featureId": 347,
-    "name": "DE-BY, DEU"
+    "name": "DE-BW, DEU"
   },
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
@@ -20024,7 +20024,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1634,
+    "featureId": 1620,
     "population": 98115,
     "name": "Lafourche Parish, LA, USA"
   },
@@ -20042,7 +20042,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1628,
+    "featureId": 1614,
     "population": 434051,
     "name": "Jefferson Parish, LA, USA"
   },
@@ -20060,7 +20060,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1627,
+    "featureId": 1613,
     "population": 391006,
     "name": "Orleans Parish, LA, USA"
   },
@@ -22531,492 +22531,6 @@
     "name": "Yates County, NY, USA"
   },
   {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Baker County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -117.6514835,
-      44.6679445
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2722,
-    "population": 16006,
-    "name": "Baker County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Benton County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.44528700000001,
-      44.498886
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2723,
-    "population": 92101,
-    "name": "Benton County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Clackamas County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -122.26009400000001,
-      45.1737
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2724,
-    "population": 416075,
-    "name": "Clackamas County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Clatsop County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.69131949999999,
-      46.022076999999996
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2725,
-    "population": 39764,
-    "name": "Clatsop County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Columbia County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.06307100000001,
-      45.955202
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2726,
-    "population": 52377,
-    "name": "Columbia County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Coos County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -124.0906665,
-      43.1387565
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2727,
-    "population": 64389,
-    "name": "Coos County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Crook County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -120.381763,
-      44.130719
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2728,
-    "population": 23867,
-    "name": "Crook County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Curry County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -124.1343155,
-      42.4752215
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2729,
-    "population": 22813,
-    "name": "Curry County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Gilliam County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -120.206842,
-      45.4390695
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2732,
-    "population": 1894,
-    "name": "Gilliam County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Grant County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -118.94781950000001,
-      44.477098
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2733,
-    "population": 7176,
-    "name": "Grant County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Harney County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -119.0696245,
-      43.019735999999995
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2734,
-    "population": 7329,
-    "name": "Harney County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Hood River County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -121.68142399999999,
-      45.492278999999996
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2735,
-    "population": 23428,
-    "name": "Hood River County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Jefferson County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -121.110097,
-      44.607842500000004
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2737,
-    "population": 24192,
-    "name": "Jefferson County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Josephine County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.63368449999999,
-      42.389664999999994
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2738,
-    "population": 87393,
-    "name": "Josephine County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Lake County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -120.3546415,
-      42.8053175
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2740,
-    "population": 7879,
-    "name": "Lake County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Lane County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -122.963617,
-      43.863845
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2741,
-    "population": 379611,
-    "name": "Lane County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Lincoln County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.85653049999999,
-      44.660618
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2742,
-    "population": 49388,
-    "name": "Lincoln County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Linn County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -122.5272075,
-      44.496468
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2743,
-    "population": 127335,
-    "name": "Linn County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Malheur County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -117.56311149999999,
-      43.220727999999994
-    ],
-    "tz": [
-      "America/Boise"
-    ],
-    "featureId": 2744,
-    "population": 30725,
-    "name": "Malheur County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Morrow County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -119.576055,
-      45.45994
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2746,
-    "population": 11372,
-    "name": "Morrow County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Sherman County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -120.69385299999999,
-      45.4100935
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2749,
-    "population": 1708,
-    "name": "Sherman County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Tillamook County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.658578,
-      45.4136565
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2750,
-    "population": 26787,
-    "name": "Tillamook County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Union County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -117.98212799999999,
-      45.409634
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2752,
-    "population": 26461,
-    "name": "Union County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Wallowa County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -117.2206355,
-      45.539874999999995
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2753,
-    "population": 7081,
-    "name": "Wallowa County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Wasco County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -121.0882365,
-      45.2632585
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2754,
-    "population": 26505,
-    "name": "Wasco County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Wheeler County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -120.0736875,
-      44.687605500000004
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2756,
-    "population": 1366,
-    "name": "Wheeler County, OR, USA"
-  },
-  {
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "aggregate": "county",
-    "county": "Yamhill County",
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      -123.31725850000001,
-      45.254474
-    ],
-    "tz": [
-      "America/Los_Angeles"
-    ],
-    "featureId": 2757,
-    "population": 107002,
-    "name": "Yamhill County, OR, USA"
-  },
-  {
     "state": "PA",
     "country": "USA",
     "aggregate": "county",
@@ -23030,7 +22544,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2655,
+    "featureId": 2692,
     "population": 1218452,
     "name": "Allegheny County, PA, USA"
   },
@@ -23048,7 +22562,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2656,
+    "featureId": 2693,
     "population": 65263,
     "name": "Armstrong County, PA, USA"
   },
@@ -23066,7 +22580,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2657,
+    "featureId": 2694,
     "population": 164742,
     "name": "Beaver County, PA, USA"
   },
@@ -23084,7 +22598,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2699,
+    "featureId": 2736,
     "population": 48176,
     "name": "Bedford County, PA, USA"
   },
@@ -23102,7 +22616,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2658,
+    "featureId": 2695,
     "population": 420152,
     "name": "Berks County, PA, USA"
   },
@@ -23120,7 +22634,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2700,
+    "featureId": 2737,
     "population": 122492,
     "name": "Blair County, PA, USA"
   },
@@ -23138,7 +22652,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2659,
+    "featureId": 2696,
     "population": 60833,
     "name": "Bradford County, PA, USA"
   },
@@ -23156,7 +22670,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2661,
+    "featureId": 2698,
     "population": 187888,
     "name": "Butler County, PA, USA"
   },
@@ -23174,7 +22688,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2662,
+    "featureId": 2699,
     "population": 131730,
     "name": "Cambria County, PA, USA"
   },
@@ -23192,7 +22706,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2701,
+    "featureId": 2738,
     "population": 4492,
     "name": "Cameron County, PA, USA"
   },
@@ -23210,7 +22724,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2663,
+    "featureId": 2700,
     "population": 64227,
     "name": "Carbon County, PA, USA"
   },
@@ -23228,7 +22742,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2664,
+    "featureId": 2701,
     "population": 162805,
     "name": "Centre County, PA, USA"
   },
@@ -23246,7 +22760,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2665,
+    "featureId": 2702,
     "population": 522046,
     "name": "Chester County, PA, USA"
   },
@@ -23264,7 +22778,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2702,
+    "featureId": 2739,
     "population": 38779,
     "name": "Clarion County, PA, USA"
   },
@@ -23282,7 +22796,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2666,
+    "featureId": 2703,
     "population": 79388,
     "name": "Clearfield County, PA, USA"
   },
@@ -23300,7 +22814,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2703,
+    "featureId": 2740,
     "population": 38684,
     "name": "Clinton County, PA, USA"
   },
@@ -23318,7 +22832,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2667,
+    "featureId": 2704,
     "population": 65456,
     "name": "Columbia County, PA, USA"
   },
@@ -23336,7 +22850,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2704,
+    "featureId": 2741,
     "population": 85063,
     "name": "Crawford County, PA, USA"
   },
@@ -23354,7 +22868,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2668,
+    "featureId": 2705,
     "population": 251423,
     "name": "Cumberland County, PA, USA"
   },
@@ -23372,7 +22886,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2669,
+    "featureId": 2706,
     "population": 277097,
     "name": "Dauphin County, PA, USA"
   },
@@ -23390,7 +22904,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2705,
+    "featureId": 2742,
     "population": 30169,
     "name": "Elk County, PA, USA"
   },
@@ -23408,7 +22922,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2671,
+    "featureId": 2708,
     "population": 272061,
     "name": "Erie County, PA, USA"
   },
@@ -23426,7 +22940,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2672,
+    "featureId": 2709,
     "population": 130441,
     "name": "Fayette County, PA, USA"
   },
@@ -23444,7 +22958,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2706,
+    "featureId": 2743,
     "population": 7279,
     "name": "Forest County, PA, USA"
   },
@@ -23462,7 +22976,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2673,
+    "featureId": 2710,
     "population": 154835,
     "name": "Franklin County, PA, USA"
   },
@@ -23480,7 +22994,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2707,
+    "featureId": 2744,
     "population": 14523,
     "name": "Fulton County, PA, USA"
   },
@@ -23498,7 +23012,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2674,
+    "featureId": 2711,
     "population": 36506,
     "name": "Greene County, PA, USA"
   },
@@ -23516,7 +23030,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2708,
+    "featureId": 2745,
     "population": 45168,
     "name": "Huntingdon County, PA, USA"
   },
@@ -23534,7 +23048,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2709,
+    "featureId": 2746,
     "population": 84501,
     "name": "Indiana County, PA, USA"
   },
@@ -23552,7 +23066,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2710,
+    "featureId": 2747,
     "population": 43641,
     "name": "Jefferson County, PA, USA"
   },
@@ -23570,7 +23084,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2675,
+    "featureId": 2712,
     "population": 24704,
     "name": "Juniata County, PA, USA"
   },
@@ -23588,7 +23102,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2676,
+    "featureId": 2713,
     "population": 210793,
     "name": "Lackawanna County, PA, USA"
   },
@@ -23606,7 +23120,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2677,
+    "featureId": 2714,
     "population": 543557,
     "name": "Lancaster County, PA, USA"
   },
@@ -23624,7 +23138,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2678,
+    "featureId": 2715,
     "population": 86184,
     "name": "Lawrence County, PA, USA"
   },
@@ -23642,7 +23156,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2679,
+    "featureId": 2716,
     "population": 141314,
     "name": "Lebanon County, PA, USA"
   },
@@ -23660,7 +23174,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2680,
+    "featureId": 2717,
     "population": 368100,
     "name": "Lehigh County, PA, USA"
   },
@@ -23678,7 +23192,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2681,
+    "featureId": 2718,
     "population": 317646,
     "name": "Luzerne County, PA, USA"
   },
@@ -23696,7 +23210,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2682,
+    "featureId": 2719,
     "population": 113664,
     "name": "Lycoming County, PA, USA"
   },
@@ -23714,7 +23228,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2711,
+    "featureId": 2748,
     "population": 40968,
     "name": "McKean County, PA, USA"
   },
@@ -23732,7 +23246,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2683,
+    "featureId": 2720,
     "population": 110683,
     "name": "Mercer County, PA, USA"
   },
@@ -23750,7 +23264,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2712,
+    "featureId": 2749,
     "population": 46222,
     "name": "Mifflin County, PA, USA"
   },
@@ -23768,7 +23282,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2686,
+    "featureId": 2723,
     "population": 18240,
     "name": "Montour County, PA, USA"
   },
@@ -23786,7 +23300,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2687,
+    "featureId": 2724,
     "population": 304807,
     "name": "Northampton County, PA, USA"
   },
@@ -23804,7 +23318,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2713,
+    "featureId": 2750,
     "population": 91083,
     "name": "Northumberland County, PA, USA"
   },
@@ -23822,7 +23336,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2714,
+    "featureId": 2751,
     "population": 46139,
     "name": "Perry County, PA, USA"
   },
@@ -23840,7 +23354,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2689,
+    "featureId": 2726,
     "population": 55933,
     "name": "Pike County, PA, USA"
   },
@@ -23858,7 +23372,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2690,
+    "featureId": 2727,
     "population": 16622,
     "name": "Potter County, PA, USA"
   },
@@ -23876,7 +23390,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2691,
+    "featureId": 2728,
     "population": 142067,
     "name": "Schuylkill County, PA, USA"
   },
@@ -23894,7 +23408,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2715,
+    "featureId": 2752,
     "population": 40540,
     "name": "Snyder County, PA, USA"
   },
@@ -23912,7 +23426,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2692,
+    "featureId": 2729,
     "population": 73952,
     "name": "Somerset County, PA, USA"
   },
@@ -23930,7 +23444,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2716,
+    "featureId": 2753,
     "population": 6071,
     "name": "Sullivan County, PA, USA"
   },
@@ -23948,7 +23462,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2717,
+    "featureId": 2754,
     "population": 40589,
     "name": "Susquehanna County, PA, USA"
   },
@@ -23966,7 +23480,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2718,
+    "featureId": 2755,
     "population": 40763,
     "name": "Tioga County, PA, USA"
   },
@@ -23984,7 +23498,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2719,
+    "featureId": 2756,
     "population": 44785,
     "name": "Union County, PA, USA"
   },
@@ -24002,7 +23516,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2720,
+    "featureId": 2757,
     "population": 51266,
     "name": "Venango County, PA, USA"
   },
@@ -24020,7 +23534,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2693,
+    "featureId": 2730,
     "population": 39498,
     "name": "Warren County, PA, USA"
   },
@@ -24038,7 +23552,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2694,
+    "featureId": 2731,
     "population": 207346,
     "name": "Washington County, PA, USA"
   },
@@ -24056,7 +23570,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2696,
+    "featureId": 2733,
     "population": 350611,
     "name": "Westmoreland County, PA, USA"
   },
@@ -24074,7 +23588,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2721,
+    "featureId": 2758,
     "population": 27046,
     "name": "Wyoming County, PA, USA"
   },
@@ -24092,9 +23606,495 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2697,
+    "featureId": 2734,
     "population": 448273,
     "name": "York County, PA, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Baker County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -117.6514835,
+      44.6679445
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2654,
+    "population": 16006,
+    "name": "Baker County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Benton County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.44528700000001,
+      44.498886
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2655,
+    "population": 92101,
+    "name": "Benton County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Clackamas County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -122.26009400000001,
+      45.1737
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2656,
+    "population": 416075,
+    "name": "Clackamas County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Clatsop County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.69131949999999,
+      46.022076999999996
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2657,
+    "population": 39764,
+    "name": "Clatsop County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Columbia County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.06307100000001,
+      45.955202
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2658,
+    "population": 52377,
+    "name": "Columbia County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Coos County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -124.0906665,
+      43.1387565
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2659,
+    "population": 64389,
+    "name": "Coos County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Crook County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -120.381763,
+      44.130719
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2660,
+    "population": 23867,
+    "name": "Crook County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Curry County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -124.1343155,
+      42.4752215
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2661,
+    "population": 22813,
+    "name": "Curry County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Gilliam County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -120.206842,
+      45.4390695
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2664,
+    "population": 1894,
+    "name": "Gilliam County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Grant County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -118.94781950000001,
+      44.477098
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2665,
+    "population": 7176,
+    "name": "Grant County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Harney County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -119.0696245,
+      43.019735999999995
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2666,
+    "population": 7329,
+    "name": "Harney County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Hood River County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -121.68142399999999,
+      45.492278999999996
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2667,
+    "population": 23428,
+    "name": "Hood River County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Jefferson County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -121.110097,
+      44.607842500000004
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2669,
+    "population": 24192,
+    "name": "Jefferson County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Josephine County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.63368449999999,
+      42.389664999999994
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2670,
+    "population": 87393,
+    "name": "Josephine County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Lake County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -120.3546415,
+      42.8053175
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2672,
+    "population": 7879,
+    "name": "Lake County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Lane County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -122.963617,
+      43.863845
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2673,
+    "population": 379611,
+    "name": "Lane County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Lincoln County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.85653049999999,
+      44.660618
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2674,
+    "population": 49388,
+    "name": "Lincoln County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Linn County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -122.5272075,
+      44.496468
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2675,
+    "population": 127335,
+    "name": "Linn County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Malheur County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -117.56311149999999,
+      43.220727999999994
+    ],
+    "tz": [
+      "America/Boise"
+    ],
+    "featureId": 2676,
+    "population": 30725,
+    "name": "Malheur County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Morrow County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -119.576055,
+      45.45994
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2678,
+    "population": 11372,
+    "name": "Morrow County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Sherman County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -120.69385299999999,
+      45.4100935
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2681,
+    "population": 1708,
+    "name": "Sherman County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Tillamook County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.658578,
+      45.4136565
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2682,
+    "population": 26787,
+    "name": "Tillamook County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Union County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -117.98212799999999,
+      45.409634
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2684,
+    "population": 26461,
+    "name": "Union County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Wallowa County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -117.2206355,
+      45.539874999999995
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2685,
+    "population": 7081,
+    "name": "Wallowa County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Wasco County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -121.0882365,
+      45.2632585
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2686,
+    "population": 26505,
+    "name": "Wasco County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Wheeler County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -120.0736875,
+      44.687605500000004
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2688,
+    "population": 1366,
+    "name": "Wheeler County, OR, USA"
+  },
+  {
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "aggregate": "county",
+    "county": "Yamhill County",
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      -123.31725850000001,
+      45.254474
+    ],
+    "tz": [
+      "America/Los_Angeles"
+    ],
+    "featureId": 2689,
+    "population": 107002,
+    "name": "Yamhill County, OR, USA"
   },
   {
     "state": "TN",
@@ -34084,7 +34084,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1633,
+    "featureId": 1619,
     "population": 46721,
     "name": "St. Bernard Parish, LA, USA"
   },
@@ -34102,7 +34102,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1635,
+    "featureId": 1621,
     "population": 52879,
     "name": "St. Charles Parish, LA, USA"
   },
@@ -34120,7 +34120,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1631,
+    "featureId": 1617,
     "population": 258111,
     "name": "St. Tammany Parish, LA, USA"
   },
@@ -34138,7 +34138,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1649,
+    "featureId": 1635,
     "population": 111021,
     "name": "Terrebonne Parish, LA, USA"
   },
@@ -34162,7 +34162,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1613,
+    "featureId": 1678,
     "population": 213413,
     "name": "Barnstable County, MA, USA"
   },
@@ -34186,7 +34186,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1615,
+    "featureId": 1680,
     "population": 564022,
     "name": "Bristol County, MA, USA"
   },
@@ -34210,7 +34210,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1618,
+    "featureId": 1683,
     "population": 70963,
     "name": "Franklin County, MA, USA"
   },
@@ -34234,7 +34234,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1619,
+    "featureId": 1684,
     "population": 470406,
     "name": "Hampden County, MA, USA"
   },
@@ -34258,7 +34258,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1620,
+    "featureId": 1685,
     "population": 161355,
     "name": "Hampshire County, MA, USA"
   },
@@ -34282,7 +34282,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1623,
+    "featureId": 1688,
     "population": 518132,
     "name": "Plymouth County, MA, USA"
   },
@@ -36064,7 +36064,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2366,
+    "featureId": 2355,
     "population": 265429,
     "name": "Atlantic County, NJ, USA"
   },
@@ -36082,7 +36082,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2370,
+    "featureId": 2359,
     "population": 92560,
     "name": "Cape May County, NJ, USA"
   },
@@ -36100,7 +36100,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2371,
+    "featureId": 2360,
     "population": 150972,
     "name": "Cumberland County, NJ, USA"
   },
@@ -36118,7 +36118,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2372,
+    "featureId": 2361,
     "population": 799767,
     "name": "Essex County, NJ, USA"
   },
@@ -36136,7 +36136,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2373,
+    "featureId": 2362,
     "population": 291408,
     "name": "Gloucester County, NJ, USA"
   },
@@ -36154,7 +36154,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2375,
+    "featureId": 2364,
     "population": 124714,
     "name": "Hunterdon County, NJ, USA"
   },
@@ -36172,7 +36172,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2376,
+    "featureId": 2365,
     "population": 369811,
     "name": "Mercer County, NJ, USA"
   },
@@ -36190,7 +36190,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2378,
+    "featureId": 2367,
     "population": 601651,
     "name": "Ocean County, NJ, USA"
   },
@@ -36208,7 +36208,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2380,
+    "featureId": 2369,
     "population": 62607,
     "name": "Salem County, NJ, USA"
   },
@@ -36226,7 +36226,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2381,
+    "featureId": 2370,
     "population": 331164,
     "name": "Somerset County, NJ, USA"
   },
@@ -36244,7 +36244,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2382,
+    "featureId": 2371,
     "population": 140799,
     "name": "Sussex County, NJ, USA"
   },
@@ -36262,7 +36262,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2384,
+    "featureId": 2373,
     "population": 105779,
     "name": "Warren County, NJ, USA"
   },
@@ -36280,7 +36280,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2385,
+    "featureId": 2374,
     "population": 494228,
     "name": "Morris County, NJ, USA"
   },
@@ -36498,7 +36498,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1651,
+    "featureId": 1637,
     "population": 27436,
     "name": "De Soto Parish, LA, USA"
   },
@@ -36516,7 +36516,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1630,
+    "featureId": 1616,
     "population": 43184,
     "name": "St. John the Baptist Parish, LA, USA"
   },
@@ -36534,7 +36534,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1685,
+    "featureId": 1671,
     "population": 24032,
     "name": "Sabine Parish, LA, USA"
   },
@@ -36552,7 +36552,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1655,
+    "featureId": 1641,
     "population": 133777,
     "name": "Tangipahoa Parish, LA, USA"
   },
@@ -36570,7 +36570,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1652,
+    "featureId": 1638,
     "population": 139567,
     "name": "Livingston Parish, LA, USA"
   },
@@ -36588,7 +36588,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1639,
+    "featureId": 1625,
     "population": 203112,
     "name": "Calcasieu Parish, LA, USA"
   },
@@ -36606,7 +36606,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1666,
+    "featureId": 1652,
     "population": 22330,
     "name": "Union Parish, LA, USA"
   },
@@ -36624,7 +36624,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1675,
+    "featureId": 1661,
     "population": 9960,
     "name": "Caldwell Parish, LA, USA"
   },
@@ -36642,7 +36642,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1687,
+    "featureId": 1673,
     "population": 4462,
     "name": "Tensas Parish, LA, USA"
   },
@@ -36660,7 +36660,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1669,
+    "featureId": 1655,
     "population": 15902,
     "name": "Jackson Parish, LA, USA"
   },
@@ -36678,7 +36678,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1668,
+    "featureId": 1654,
     "population": 22482,
     "name": "Grant Parish, LA, USA"
   },
@@ -36696,7 +36696,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1664,
+    "featureId": 1650,
     "population": 47196,
     "name": "Lincoln Parish, LA, USA"
   },
@@ -36714,7 +36714,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1670,
+    "featureId": 1656,
     "population": 31582,
     "name": "Jefferson Davis Parish, LA, USA"
   },
@@ -36732,7 +36732,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1648,
+    "featureId": 1634,
     "population": 242782,
     "name": "Lafayette Parish, LA, USA"
   },
@@ -36750,7 +36750,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1678,
+    "featureId": 1664,
     "population": 7037,
     "name": "East Carroll Parish, LA, USA"
   },
@@ -36768,7 +36768,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1679,
+    "featureId": 1665,
     "population": 19305,
     "name": "East Feliciana Parish, LA, USA"
   },
@@ -36786,7 +36786,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1636,
+    "featureId": 1622,
     "population": 32721,
     "name": "Iberville Parish, LA, USA"
   },
@@ -36804,7 +36804,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1672,
+    "featureId": 1658,
     "population": 20192,
     "name": "Richland Parish, LA, USA"
   },
@@ -36822,7 +36822,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1673,
+    "featureId": 1659,
     "population": 53621,
     "name": "St. Martin Parish, LA, USA"
   },
@@ -36840,7 +36840,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1661,
+    "featureId": 1647,
     "population": 15944,
     "name": "Claiborne Parish, LA, USA"
   },
@@ -36858,7 +36858,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1656,
+    "featureId": 1642,
     "population": 82764,
     "name": "St. Landry Parish, LA, USA"
   },
@@ -36876,7 +36876,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1683,
+    "featureId": 1669,
     "population": 21940,
     "name": "Pointe Coupee Parish, LA, USA"
   },
@@ -36894,7 +36894,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1681,
+    "featureId": 1667,
     "population": 14917,
     "name": "LaSalle Parish, LA, USA"
   },
@@ -36912,7 +36912,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1642,
+    "featureId": 1628,
     "population": 38798,
     "name": "Webster Parish, LA, USA"
   },
@@ -36930,7 +36930,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1638,
+    "featureId": 1624,
     "population": 21037,
     "name": "St. James Parish, LA, USA"
   },
@@ -36948,7 +36948,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1671,
+    "featureId": 1657,
     "population": 25398,
     "name": "Morehouse Parish, LA, USA"
   },
@@ -36966,7 +36966,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1637,
+    "featureId": 1623,
     "population": 130562,
     "name": "Rapides Parish, LA, USA"
   },
@@ -36984,7 +36984,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1653,
+    "featureId": 1639,
     "population": 40462,
     "name": "Avoyelles Parish, LA, USA"
   },
@@ -37002,7 +37002,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1674,
+    "featureId": 1660,
     "population": 14134,
     "name": "Winn Parish, LA, USA"
   },
@@ -37020,7 +37020,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1645,
+    "featureId": 1631,
     "population": 9608,
     "name": "Catahoula Parish, LA, USA"
   },
@@ -37038,7 +37038,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1660,
+    "featureId": 1646,
     "population": 22300,
     "name": "Assumption Parish, LA, USA"
   },
@@ -37056,7 +37056,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1646,
+    "featureId": 1632,
     "population": 242922,
     "name": "Caddo Parish, LA, USA"
   },
@@ -37074,7 +37074,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1643,
+    "featureId": 1629,
     "population": 46582,
     "name": "Washington Parish, LA, USA"
   },
@@ -37092,7 +37092,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1629,
+    "featureId": 1615,
     "population": 440956,
     "name": "East Baton Rouge Parish, LA, USA"
   },
@@ -37110,7 +37110,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1665,
+    "featureId": 1651,
     "population": 38659,
     "name": "Natchitoches Parish, LA, USA"
   },
@@ -37128,7 +37128,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1644,
+    "featureId": 1630,
     "population": 13308,
     "name": "Bienville Parish, LA, USA"
   },
@@ -37146,7 +37146,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1647,
+    "featureId": 1633,
     "population": 127185,
     "name": "Bossier Parish, LA, USA"
   },
@@ -37164,7 +37164,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1659,
+    "featureId": 1645,
     "population": 25605,
     "name": "Allen Parish, LA, USA"
   },
@@ -37182,7 +37182,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1640,
+    "featureId": 1626,
     "population": 154475,
     "name": "Ouachita Parish, LA, USA"
   },
@@ -37200,7 +37200,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1686,
+    "featureId": 1672,
     "population": 10262,
     "name": "St. Helena Parish, LA, USA"
   },
@@ -37218,7 +37218,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1690,
+    "featureId": 1676,
     "population": 15460,
     "name": "West Feliciana Parish, LA, USA"
   },
@@ -37236,7 +37236,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1689,
+    "featureId": 1675,
     "population": 10982,
     "name": "West Carroll Parish, LA, USA"
   },
@@ -37254,7 +37254,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1677,
+    "featureId": 1663,
     "population": 19572,
     "name": "Concordia Parish, LA, USA"
   },
@@ -37272,7 +37272,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1641,
+    "featureId": 1627,
     "population": 26427,
     "name": "West Baton Rouge Parish, LA, USA"
   },
@@ -37290,7 +37290,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1682,
+    "featureId": 1668,
     "population": 11161,
     "name": "Madison Parish, LA, USA"
   },
@@ -37308,7 +37308,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1632,
+    "featureId": 1618,
     "population": 124672,
     "name": "Ascension Parish, LA, USA"
   },
@@ -37326,7 +37326,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1658,
+    "featureId": 1644,
     "population": 62190,
     "name": "Acadia Parish, LA, USA"
   },
@@ -37344,7 +37344,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1657,
+    "featureId": 1643,
     "population": 37253,
     "name": "Beauregard Parish, LA, USA"
   },
@@ -37362,7 +37362,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1680,
+    "featureId": 1666,
     "population": 20156,
     "name": "Franklin Parish, LA, USA"
   },
@@ -37380,7 +37380,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1662,
+    "featureId": 1648,
     "population": 33443,
     "name": "Evangeline Parish, LA, USA"
   },
@@ -37398,7 +37398,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1667,
+    "featureId": 1653,
     "population": 48860,
     "name": "Vernon Parish, LA, USA"
   },
@@ -37416,7 +37416,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1684,
+    "featureId": 1670,
     "population": 8477,
     "name": "Red River Parish, LA, USA"
   },
@@ -37434,7 +37434,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1688,
+    "featureId": 1674,
     "population": 59830,
     "name": "Vermilion Parish, LA, USA"
   },
@@ -37452,7 +37452,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1650,
+    "featureId": 1636,
     "population": 23410,
     "name": "Plaquemines Parish, LA, USA"
   },
@@ -37470,7 +37470,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1654,
+    "featureId": 1640,
     "population": 49774,
     "name": "St. Mary Parish, LA, USA"
   },
@@ -37488,7 +37488,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1676,
+    "featureId": 1662,
     "population": 6968,
     "name": "Cameron Parish, LA, USA"
   },
@@ -37506,7 +37506,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1663,
+    "featureId": 1649,
     "population": 70941,
     "name": "Iberia Parish, LA, USA"
   },
@@ -52376,7 +52376,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1907,
+    "featureId": 1819,
     "population": 180005,
     "name": "Boone County, MO, USA"
   },
@@ -52409,7 +52409,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1911,
+    "featureId": 1823,
     "population": 104954,
     "name": "Cass County, MO, USA"
   },
@@ -52442,7 +52442,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1912,
+    "featureId": 1824,
     "population": 86983,
     "name": "Christian County, MO, USA"
   },
@@ -52475,7 +52475,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1915,
+    "featureId": 1827,
     "population": 76796,
     "name": "Cole County, MO, USA"
   },
@@ -52508,7 +52508,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1917,
+    "featureId": 1829,
     "population": 29423,
     "name": "Dunklin County, MO, USA"
   },
@@ -52541,7 +52541,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1919,
+    "featureId": 1831,
     "population": 291923,
     "name": "Greene County, MO, USA"
   },
@@ -52574,7 +52574,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1920,
+    "featureId": 1832,
     "population": 21792,
     "name": "Henry County, MO, USA"
   },
@@ -52607,7 +52607,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1921,
+    "featureId": 1833,
     "population": 700307,
     "name": "Jackson County, MO, USA"
   },
@@ -52640,7 +52640,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1933,
+    "featureId": 1845,
     "population": 52014,
     "name": "Pulaski County, MO, USA"
   },
@@ -52673,7 +52673,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1936,
+    "featureId": 1848,
     "population": 38458,
     "name": "Scott County, MO, USA"
   },
@@ -52706,7 +52706,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1938,
+    "featureId": 1850,
     "population": 399182,
     "name": "St. Charles County, MO, USA"
   },
@@ -52763,7 +52763,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1905,
+    "featureId": 1817,
     "population": 25339,
     "name": "Adair County, MO, USA"
   },
@@ -52796,7 +52796,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1943,
+    "featureId": 1855,
     "population": 17607,
     "name": "Andrew County, MO, USA"
   },
@@ -52829,7 +52829,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1944,
+    "featureId": 1856,
     "population": 5171,
     "name": "Atchison County, MO, USA"
   },
@@ -52862,7 +52862,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1945,
+    "featureId": 1857,
     "population": 25473,
     "name": "Audrain County, MO, USA"
   },
@@ -52895,7 +52895,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1946,
+    "featureId": 1858,
     "population": 35886,
     "name": "Barry County, MO, USA"
   },
@@ -52928,7 +52928,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1947,
+    "featureId": 1859,
     "population": 11798,
     "name": "Barton County, MO, USA"
   },
@@ -52961,7 +52961,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1906,
+    "featureId": 1818,
     "population": 16320,
     "name": "Bates County, MO, USA"
   },
@@ -52994,7 +52994,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1948,
+    "featureId": 1860,
     "population": 19278,
     "name": "Benton County, MO, USA"
   },
@@ -53027,7 +53027,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1949,
+    "featureId": 1861,
     "population": 12169,
     "name": "Bollinger County, MO, USA"
   },
@@ -53060,7 +53060,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1950,
+    "featureId": 1862,
     "population": 88571,
     "name": "Buchanan County, MO, USA"
   },
@@ -53093,7 +53093,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1951,
+    "featureId": 1863,
     "population": 42639,
     "name": "Butler County, MO, USA"
   },
@@ -53126,7 +53126,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1952,
+    "featureId": 1864,
     "population": 9108,
     "name": "Caldwell County, MO, USA"
   },
@@ -53159,7 +53159,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1908,
+    "featureId": 1820,
     "population": 44889,
     "name": "Callaway County, MO, USA"
   },
@@ -53192,7 +53192,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1909,
+    "featureId": 1821,
     "population": 45815,
     "name": "Camden County, MO, USA"
   },
@@ -53225,7 +53225,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1910,
+    "featureId": 1822,
     "population": 78753,
     "name": "Cape Girardeau County, MO, USA"
   },
@@ -53258,7 +53258,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1953,
+    "featureId": 1865,
     "population": 8743,
     "name": "Carroll County, MO, USA"
   },
@@ -53291,7 +53291,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1954,
+    "featureId": 1866,
     "population": 6054,
     "name": "Carter County, MO, USA"
   },
@@ -53324,7 +53324,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1955,
+    "featureId": 1867,
     "population": 14165,
     "name": "Cedar County, MO, USA"
   },
@@ -53357,7 +53357,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1956,
+    "featureId": 1868,
     "population": 7451,
     "name": "Chariton County, MO, USA"
   },
@@ -53390,7 +53390,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1957,
+    "featureId": 1869,
     "population": 6842,
     "name": "Clark County, MO, USA"
   },
@@ -53423,7 +53423,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1913,
+    "featureId": 1825,
     "population": 246365,
     "name": "Clay County, MO, USA"
   },
@@ -53456,7 +53456,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1914,
+    "featureId": 1826,
     "population": 20470,
     "name": "Clinton County, MO, USA"
   },
@@ -53489,7 +53489,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1916,
+    "featureId": 1828,
     "population": 17603,
     "name": "Cooper County, MO, USA"
   },
@@ -53522,7 +53522,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1958,
+    "featureId": 1870,
     "population": 23957,
     "name": "Crawford County, MO, USA"
   },
@@ -53555,7 +53555,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1959,
+    "featureId": 1871,
     "population": 7569,
     "name": "Dade County, MO, USA"
   },
@@ -53588,7 +53588,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1960,
+    "featureId": 1872,
     "population": 16762,
     "name": "Dallas County, MO, USA"
   },
@@ -53621,7 +53621,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1961,
+    "featureId": 1873,
     "population": 8313,
     "name": "Daviess County, MO, USA"
   },
@@ -53654,7 +53654,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1962,
+    "featureId": 1874,
     "population": 12630,
     "name": "DeKalb County, MO, USA"
   },
@@ -53687,7 +53687,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1963,
+    "featureId": 1875,
     "population": 15441,
     "name": "Dent County, MO, USA"
   },
@@ -53720,7 +53720,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1964,
+    "featureId": 1876,
     "population": 13373,
     "name": "Douglas County, MO, USA"
   },
@@ -53753,7 +53753,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1918,
+    "featureId": 1830,
     "population": 103670,
     "name": "Franklin County, MO, USA"
   },
@@ -53786,7 +53786,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1965,
+    "featureId": 1877,
     "population": 14705,
     "name": "Gasconade County, MO, USA"
   },
@@ -53819,7 +53819,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1966,
+    "featureId": 1878,
     "population": 6628,
     "name": "Gentry County, MO, USA"
   },
@@ -53852,7 +53852,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1967,
+    "featureId": 1879,
     "population": 9914,
     "name": "Grundy County, MO, USA"
   },
@@ -53885,7 +53885,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1968,
+    "featureId": 1880,
     "population": 8414,
     "name": "Harrison County, MO, USA"
   },
@@ -53918,7 +53918,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1969,
+    "featureId": 1881,
     "population": 9509,
     "name": "Hickory County, MO, USA"
   },
@@ -53951,7 +53951,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1970,
+    "featureId": 1882,
     "population": 4404,
     "name": "Holt County, MO, USA"
   },
@@ -53984,7 +53984,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1971,
+    "featureId": 1883,
     "population": 10137,
     "name": "Howard County, MO, USA"
   },
@@ -54017,7 +54017,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1972,
+    "featureId": 1884,
     "population": 40076,
     "name": "Howell County, MO, USA"
   },
@@ -54050,7 +54050,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1973,
+    "featureId": 1885,
     "population": 10177,
     "name": "Iron County, MO, USA"
   },
@@ -54083,7 +54083,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1922,
+    "featureId": 1834,
     "population": 120636,
     "name": "Jasper County, MO, USA"
   },
@@ -54116,7 +54116,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1923,
+    "featureId": 1835,
     "population": 224347,
     "name": "Jefferson County, MO, USA"
   },
@@ -54149,7 +54149,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1924,
+    "featureId": 1836,
     "population": 53652,
     "name": "Johnson County, MO, USA"
   },
@@ -54182,7 +54182,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1974,
+    "featureId": 1886,
     "population": 3947,
     "name": "Knox County, MO, USA"
   },
@@ -54215,7 +54215,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1975,
+    "featureId": 1887,
     "population": 35713,
     "name": "Laclede County, MO, USA"
   },
@@ -54248,7 +54248,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1925,
+    "featureId": 1837,
     "population": 32598,
     "name": "Lafayette County, MO, USA"
   },
@@ -54281,7 +54281,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1976,
+    "featureId": 1888,
     "population": 38359,
     "name": "Lawrence County, MO, USA"
   },
@@ -54314,7 +54314,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1977,
+    "featureId": 1889,
     "population": 9855,
     "name": "Lewis County, MO, USA"
   },
@@ -54347,7 +54347,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1978,
+    "featureId": 1890,
     "population": 57686,
     "name": "Lincoln County, MO, USA"
   },
@@ -54380,7 +54380,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1979,
+    "featureId": 1891,
     "population": 12037,
     "name": "Linn County, MO, USA"
   },
@@ -54413,7 +54413,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1980,
+    "featureId": 1892,
     "population": 15146,
     "name": "Livingston County, MO, USA"
   },
@@ -54446,7 +54446,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1981,
+    "featureId": 1893,
     "population": 15153,
     "name": "Macon County, MO, USA"
   },
@@ -54479,7 +54479,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1982,
+    "featureId": 1894,
     "population": 12188,
     "name": "Madison County, MO, USA"
   },
@@ -54512,7 +54512,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1983,
+    "featureId": 1895,
     "population": 8769,
     "name": "Maries County, MO, USA"
   },
@@ -54545,7 +54545,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1984,
+    "featureId": 1896,
     "population": 28592,
     "name": "Marion County, MO, USA"
   },
@@ -54578,7 +54578,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1926,
+    "featureId": 1838,
     "population": 23078,
     "name": "McDonald County, MO, USA"
   },
@@ -54611,7 +54611,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1985,
+    "featureId": 1897,
     "population": 3641,
     "name": "Mercer County, MO, USA"
   },
@@ -54644,7 +54644,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1986,
+    "featureId": 1898,
     "population": 25336,
     "name": "Miller County, MO, USA"
   },
@@ -54677,7 +54677,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1987,
+    "featureId": 1899,
     "population": 13336,
     "name": "Mississippi County, MO, USA"
   },
@@ -54710,7 +54710,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1927,
+    "featureId": 1839,
     "population": 16121,
     "name": "Moniteau County, MO, USA"
   },
@@ -54743,7 +54743,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1988,
+    "featureId": 1900,
     "population": 8664,
     "name": "Monroe County, MO, USA"
   },
@@ -54776,7 +54776,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1928,
+    "featureId": 1840,
     "population": 11534,
     "name": "Montgomery County, MO, USA"
   },
@@ -54809,7 +54809,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1989,
+    "featureId": 1901,
     "population": 20358,
     "name": "Morgan County, MO, USA"
   },
@@ -54842,7 +54842,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1990,
+    "featureId": 1902,
     "population": 17296,
     "name": "New Madrid County, MO, USA"
   },
@@ -54875,7 +54875,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1929,
+    "featureId": 1841,
     "population": 58266,
     "name": "Newton County, MO, USA"
   },
@@ -54908,7 +54908,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1991,
+    "featureId": 1903,
     "population": 22304,
     "name": "Nodaway County, MO, USA"
   },
@@ -54941,7 +54941,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1992,
+    "featureId": 1904,
     "population": 10541,
     "name": "Oregon County, MO, USA"
   },
@@ -54974,7 +54974,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1993,
+    "featureId": 1905,
     "population": 13714,
     "name": "Osage County, MO, USA"
   },
@@ -55007,7 +55007,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1994,
+    "featureId": 1906,
     "population": 9017,
     "name": "Ozark County, MO, USA"
   },
@@ -55040,7 +55040,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1930,
+    "featureId": 1842,
     "population": 16272,
     "name": "Pemiscot County, MO, USA"
   },
@@ -55073,7 +55073,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1931,
+    "featureId": 1843,
     "population": 19150,
     "name": "Perry County, MO, USA"
   },
@@ -55106,7 +55106,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1995,
+    "featureId": 1907,
     "population": 42542,
     "name": "Pettis County, MO, USA"
   },
@@ -55139,7 +55139,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1996,
+    "featureId": 1908,
     "population": 44732,
     "name": "Phelps County, MO, USA"
   },
@@ -55172,7 +55172,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1997,
+    "featureId": 1909,
     "population": 18504,
     "name": "Pike County, MO, USA"
   },
@@ -55205,7 +55205,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1932,
+    "featureId": 1844,
     "population": 102985,
     "name": "Platte County, MO, USA"
   },
@@ -55238,7 +55238,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1998,
+    "featureId": 1910,
     "population": 32201,
     "name": "Polk County, MO, USA"
   },
@@ -55271,7 +55271,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1999,
+    "featureId": 1911,
     "population": 4757,
     "name": "Putnam County, MO, USA"
   },
@@ -55304,7 +55304,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1934,
+    "featureId": 1846,
     "population": 10212,
     "name": "Ralls County, MO, USA"
   },
@@ -55337,7 +55337,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1935,
+    "featureId": 1847,
     "population": 24763,
     "name": "Randolph County, MO, USA"
   },
@@ -55370,7 +55370,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2000,
+    "featureId": 1912,
     "population": 22883,
     "name": "Ray County, MO, USA"
   },
@@ -55403,7 +55403,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2001,
+    "featureId": 1913,
     "population": 6254,
     "name": "Reynolds County, MO, USA"
   },
@@ -55436,7 +55436,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2002,
+    "featureId": 1914,
     "population": 13401,
     "name": "Ripley County, MO, USA"
   },
@@ -55469,7 +55469,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2003,
+    "featureId": 1915,
     "population": 9395,
     "name": "St. Clair County, MO, USA"
   },
@@ -55502,7 +55502,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1939,
+    "featureId": 1851,
     "population": 66692,
     "name": "St. Francois County, MO, USA"
   },
@@ -55535,7 +55535,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2004,
+    "featureId": 1916,
     "population": 17888,
     "name": "Ste. Genevieve County, MO, USA"
   },
@@ -55568,7 +55568,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2005,
+    "featureId": 1917,
     "population": 22895,
     "name": "Saline County, MO, USA"
   },
@@ -55601,7 +55601,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2006,
+    "featureId": 1918,
     "population": 4599,
     "name": "Schuyler County, MO, USA"
   },
@@ -55634,7 +55634,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2007,
+    "featureId": 1919,
     "population": 4966,
     "name": "Scotland County, MO, USA"
   },
@@ -55667,7 +55667,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2008,
+    "featureId": 1920,
     "population": 8189,
     "name": "Shannon County, MO, USA"
   },
@@ -55700,7 +55700,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1937,
+    "featureId": 1849,
     "population": 6050,
     "name": "Shelby County, MO, USA"
   },
@@ -55733,7 +55733,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2009,
+    "featureId": 1921,
     "population": 29206,
     "name": "Stoddard County, MO, USA"
   },
@@ -55766,7 +55766,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2010,
+    "featureId": 1922,
     "population": 31749,
     "name": "Stone County, MO, USA"
   },
@@ -55799,7 +55799,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2011,
+    "featureId": 1923,
     "population": 6221,
     "name": "Sullivan County, MO, USA"
   },
@@ -55832,7 +55832,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1941,
+    "featureId": 1853,
     "population": 55852,
     "name": "Taney County, MO, USA"
   },
@@ -55865,7 +55865,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2012,
+    "featureId": 1924,
     "population": 25571,
     "name": "Texas County, MO, USA"
   },
@@ -55898,7 +55898,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2013,
+    "featureId": 1925,
     "population": 20528,
     "name": "Vernon County, MO, USA"
   },
@@ -55931,7 +55931,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2014,
+    "featureId": 1926,
     "population": 34711,
     "name": "Warren County, MO, USA"
   },
@@ -55964,7 +55964,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2015,
+    "featureId": 1927,
     "population": 24943,
     "name": "Washington County, MO, USA"
   },
@@ -55997,7 +55997,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2016,
+    "featureId": 1928,
     "population": 13122,
     "name": "Wayne County, MO, USA"
   },
@@ -56030,7 +56030,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2017,
+    "featureId": 1929,
     "population": 39109,
     "name": "Webster County, MO, USA"
   },
@@ -56063,7 +56063,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2018,
+    "featureId": 1930,
     "population": 2040,
     "name": "Worth County, MO, USA"
   },
@@ -56096,7 +56096,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 2019,
+    "featureId": 1931,
     "population": 18378,
     "name": "Wright County, MO, USA"
   },
@@ -63257,7 +63257,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1616,
+    "featureId": 1681,
     "population": 28679,
     "name": "Dukes and Nantucket County, MA, USA"
   },
@@ -63275,7 +63275,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1716,
+    "featureId": 1800,
     "population": 107679,
     "name": "Androscoggin County, ME, USA"
   },
@@ -63293,7 +63293,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1717,
+    "featureId": 1801,
     "population": 67111,
     "name": "Aroostook County, ME, USA"
   },
@@ -63311,7 +63311,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1718,
+    "featureId": 1802,
     "population": 293557,
     "name": "Cumberland County, ME, USA"
   },
@@ -63329,7 +63329,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1719,
+    "featureId": 1803,
     "population": 29897,
     "name": "Franklin County, ME, USA"
   },
@@ -63347,7 +63347,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1720,
+    "featureId": 1804,
     "population": 54811,
     "name": "Hancock County, ME, USA"
   },
@@ -63365,7 +63365,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1721,
+    "featureId": 1805,
     "population": 122083,
     "name": "Kennebec County, ME, USA"
   },
@@ -63383,7 +63383,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1722,
+    "featureId": 1806,
     "population": 39771,
     "name": "Knox County, ME, USA"
   },
@@ -63401,7 +63401,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1723,
+    "featureId": 1807,
     "population": 34342,
     "name": "Lincoln County, ME, USA"
   },
@@ -63419,7 +63419,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1724,
+    "featureId": 1808,
     "population": 57618,
     "name": "Oxford County, ME, USA"
   },
@@ -63437,7 +63437,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1725,
+    "featureId": 1809,
     "population": 151096,
     "name": "Penobscot County, ME, USA"
   },
@@ -63455,7 +63455,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1726,
+    "featureId": 1810,
     "population": 16800,
     "name": "Piscataquis County, ME, USA"
   },
@@ -63473,7 +63473,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1727,
+    "featureId": 1811,
     "population": 35634,
     "name": "Sagadahoc County, ME, USA"
   },
@@ -63491,7 +63491,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1728,
+    "featureId": 1812,
     "population": 50592,
     "name": "Somerset County, ME, USA"
   },
@@ -63509,7 +63509,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1729,
+    "featureId": 1813,
     "population": 39694,
     "name": "Waldo County, ME, USA"
   },
@@ -63527,7 +63527,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1730,
+    "featureId": 1814,
     "population": 31490,
     "name": "Washington County, ME, USA"
   },
@@ -63545,7 +63545,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 1731,
+    "featureId": 1815,
     "population": 206229,
     "name": "York County, ME, USA"
   },
@@ -63572,7 +63572,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1734,
+    "featureId": 1717,
     "population": 61157,
     "name": "Barry County, MI, USA"
   },
@@ -63590,7 +63590,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1735,
+    "featureId": 1718,
     "population": 103923,
     "name": "Bay County, MI, USA"
   },
@@ -63608,7 +63608,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1736,
+    "featureId": 1719,
     "population": 154141,
     "name": "Berrien County, MI, USA"
   },
@@ -63626,7 +63626,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1737,
+    "featureId": 1720,
     "population": 134487,
     "name": "Calhoun County, MI, USA"
   },
@@ -63644,7 +63644,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1738,
+    "featureId": 1721,
     "population": 26244,
     "name": "Charlevoix County, MI, USA"
   },
@@ -63662,7 +63662,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1740,
+    "featureId": 1723,
     "population": 30757,
     "name": "Clare County, MI, USA"
   },
@@ -63680,7 +63680,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1741,
+    "featureId": 1724,
     "population": 79332,
     "name": "Clinton County, MI, USA"
   },
@@ -63698,7 +63698,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1742,
+    "featureId": 1725,
     "population": 109826,
     "name": "Eaton County, MI, USA"
   },
@@ -63716,7 +63716,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1744,
+    "featureId": 1727,
     "population": 406892,
     "name": "Genesee County, MI, USA"
   },
@@ -63734,7 +63734,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1748,
+    "featureId": 1731,
     "population": 292735,
     "name": "Ingham County, MI, USA"
   },
@@ -63752,7 +63752,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1751,
+    "featureId": 1734,
     "population": 158823,
     "name": "Jackson County, MI, USA"
   },
@@ -63770,7 +63770,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1754,
+    "featureId": 1737,
     "population": 653786,
     "name": "Kent County, MI, USA"
   },
@@ -63788,7 +63788,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1756,
+    "featureId": 1739,
     "population": 21764,
     "name": "Leelanau County, MI, USA"
   },
@@ -63806,7 +63806,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1758,
+    "featureId": 1741,
     "population": 191224,
     "name": "Livingston County, MI, USA"
   },
@@ -63824,7 +63824,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1760,
+    "featureId": 1743,
     "population": 874759,
     "name": "Macomb County, MI, USA"
   },
@@ -63842,7 +63842,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1763,
+    "featureId": 1746,
     "population": 83209,
     "name": "Midland County, MI, USA"
   },
@@ -63860,7 +63860,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1764,
+    "featureId": 1747,
     "population": 150439,
     "name": "Monroe County, MI, USA"
   },
@@ -63878,7 +63878,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1765,
+    "featureId": 1748,
     "population": 63968,
     "name": "Montcalm County, MI, USA"
   },
@@ -63896,7 +63896,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1769,
+    "featureId": 1752,
     "population": 24665,
     "name": "Otsego County, MI, USA"
   },
@@ -63914,7 +63914,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1770,
+    "featureId": 1753,
     "population": 290494,
     "name": "Ottawa County, MI, USA"
   },
@@ -63932,7 +63932,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1772,
+    "featureId": 1755,
     "population": 190800,
     "name": "Saginaw County, MI, USA"
   },
@@ -63950,7 +63950,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1774,
+    "featureId": 1757,
     "population": 159337,
     "name": "St. Clair County, MI, USA"
   },
@@ -63968,7 +63968,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1775,
+    "featureId": 1758,
     "population": 52516,
     "name": "Tuscola County, MI, USA"
   },
@@ -63986,7 +63986,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1777,
+    "featureId": 1760,
     "population": 370963,
     "name": "Washtenaw County, MI, USA"
   },
@@ -64004,7 +64004,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1779,
+    "featureId": 1762,
     "population": 33466,
     "name": "Wexford County, MI, USA"
   },
@@ -64031,7 +64031,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1780,
+    "featureId": 1763,
     "population": 10362,
     "name": "Alcona County, MI, USA"
   },
@@ -64049,7 +64049,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1781,
+    "featureId": 1764,
     "population": 9097,
     "name": "Alger County, MI, USA"
   },
@@ -64067,7 +64067,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1733,
+    "featureId": 1716,
     "population": 117327,
     "name": "Allegan County, MI, USA"
   },
@@ -64085,7 +64085,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1782,
+    "featureId": 1765,
     "population": 28360,
     "name": "Alpena County, MI, USA"
   },
@@ -64103,7 +64103,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1783,
+    "featureId": 1766,
     "population": 23365,
     "name": "Antrim County, MI, USA"
   },
@@ -64121,7 +64121,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1784,
+    "featureId": 1767,
     "population": 15041,
     "name": "Arenac County, MI, USA"
   },
@@ -64139,7 +64139,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1785,
+    "featureId": 1768,
     "population": 8320,
     "name": "Baraga County, MI, USA"
   },
@@ -64157,7 +64157,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1786,
+    "featureId": 1769,
     "population": 17753,
     "name": "Benzie County, MI, USA"
   },
@@ -64175,7 +64175,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1787,
+    "featureId": 1770,
     "population": 43622,
     "name": "Branch County, MI, USA"
   },
@@ -64193,7 +64193,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1788,
+    "featureId": 1771,
     "population": 51653,
     "name": "Cass County, MI, USA"
   },
@@ -64211,7 +64211,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1789,
+    "featureId": 1772,
     "population": 25413,
     "name": "Cheboygan County, MI, USA"
   },
@@ -64229,7 +64229,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1739,
+    "featureId": 1722,
     "population": 37517,
     "name": "Chippewa County, MI, USA"
   },
@@ -64247,7 +64247,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1790,
+    "featureId": 1773,
     "population": 13901,
     "name": "Crawford County, MI, USA"
   },
@@ -64265,7 +64265,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1791,
+    "featureId": 1774,
     "population": 35857,
     "name": "Delta County, MI, USA"
   },
@@ -64283,7 +64283,7 @@
     "tz": [
       "America/Menominee"
     ],
-    "featureId": 1792,
+    "featureId": 1775,
     "population": 25383,
     "name": "Dickinson County, MI, USA"
   },
@@ -64301,7 +64301,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1743,
+    "featureId": 1726,
     "population": 33308,
     "name": "Emmet County, MI, USA"
   },
@@ -64319,7 +64319,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1745,
+    "featureId": 1728,
     "population": 25337,
     "name": "Gladwin County, MI, USA"
   },
@@ -64337,7 +64337,7 @@
     "tz": [
       "America/Menominee"
     ],
-    "featureId": 1793,
+    "featureId": 1776,
     "population": 15096,
     "name": "Gogebic County, MI, USA"
   },
@@ -64355,7 +64355,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1746,
+    "featureId": 1729,
     "population": 92573,
     "name": "Grand Traverse County, MI, USA"
   },
@@ -64373,7 +64373,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1794,
+    "featureId": 1777,
     "population": 40599,
     "name": "Gratiot County, MI, USA"
   },
@@ -64391,7 +64391,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1747,
+    "featureId": 1730,
     "population": 45749,
     "name": "Hillsdale County, MI, USA"
   },
@@ -64409,7 +64409,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1795,
+    "featureId": 1778,
     "population": 36219,
     "name": "Houghton County, MI, USA"
   },
@@ -64427,7 +64427,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1796,
+    "featureId": 1779,
     "population": 31166,
     "name": "Huron County, MI, USA"
   },
@@ -64445,7 +64445,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1797,
+    "featureId": 1780,
     "population": 64210,
     "name": "Ionia County, MI, USA"
   },
@@ -64463,7 +64463,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1749,
+    "featureId": 1732,
     "population": 25081,
     "name": "Iosco County, MI, USA"
   },
@@ -64481,7 +64481,7 @@
     "tz": [
       "America/Menominee"
     ],
-    "featureId": 1798,
+    "featureId": 1781,
     "population": 11117,
     "name": "Iron County, MI, USA"
   },
@@ -64499,7 +64499,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1750,
+    "featureId": 1733,
     "population": 70562,
     "name": "Isabella County, MI, USA"
   },
@@ -64517,7 +64517,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1752,
+    "featureId": 1735,
     "population": 264870,
     "name": "Kalamazoo County, MI, USA"
   },
@@ -64535,7 +64535,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1753,
+    "featureId": 1736,
     "population": 17824,
     "name": "Kalkaska County, MI, USA"
   },
@@ -64553,7 +64553,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1799,
+    "featureId": 1782,
     "population": 2113,
     "name": "Keweenaw County, MI, USA"
   },
@@ -64571,7 +64571,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1800,
+    "featureId": 1783,
     "population": 11881,
     "name": "Lake County, MI, USA"
   },
@@ -64589,7 +64589,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1755,
+    "featureId": 1738,
     "population": 88028,
     "name": "Lapeer County, MI, USA"
   },
@@ -64607,7 +64607,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1757,
+    "featureId": 1740,
     "population": 98266,
     "name": "Lenawee County, MI, USA"
   },
@@ -64625,7 +64625,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1759,
+    "featureId": 1742,
     "population": 6283,
     "name": "Luce County, MI, USA"
   },
@@ -64643,7 +64643,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1801,
+    "featureId": 1784,
     "population": 10787,
     "name": "Mackinac County, MI, USA"
   },
@@ -64661,7 +64661,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1761,
+    "featureId": 1744,
     "population": 24528,
     "name": "Manistee County, MI, USA"
   },
@@ -64679,7 +64679,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1762,
+    "featureId": 1745,
     "population": 66516,
     "name": "Marquette County, MI, USA"
   },
@@ -64697,7 +64697,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1802,
+    "featureId": 1785,
     "population": 29100,
     "name": "Mason County, MI, USA"
   },
@@ -64715,7 +64715,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1803,
+    "featureId": 1786,
     "population": 43545,
     "name": "Mecosta County, MI, USA"
   },
@@ -64733,7 +64733,7 @@
     "tz": [
       "America/Menominee"
     ],
-    "featureId": 1804,
+    "featureId": 1787,
     "population": 22983,
     "name": "Menominee County, MI, USA"
   },
@@ -64751,7 +64751,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1805,
+    "featureId": 1788,
     "population": 15113,
     "name": "Missaukee County, MI, USA"
   },
@@ -64769,7 +64769,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1806,
+    "featureId": 1789,
     "population": 9265,
     "name": "Montmorency County, MI, USA"
   },
@@ -64787,7 +64787,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1766,
+    "featureId": 1749,
     "population": 173588,
     "name": "Muskegon County, MI, USA"
   },
@@ -64805,7 +64805,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1767,
+    "featureId": 1750,
     "population": 48892,
     "name": "Newaygo County, MI, USA"
   },
@@ -64823,7 +64823,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1807,
+    "featureId": 1790,
     "population": 26625,
     "name": "Oceana County, MI, USA"
   },
@@ -64841,7 +64841,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1808,
+    "featureId": 1791,
     "population": 20952,
     "name": "Ogemaw County, MI, USA"
   },
@@ -64859,7 +64859,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1809,
+    "featureId": 1792,
     "population": 5795,
     "name": "Ontonagon County, MI, USA"
   },
@@ -64877,7 +64877,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1810,
+    "featureId": 1793,
     "population": 23341,
     "name": "Osceola County, MI, USA"
   },
@@ -64895,7 +64895,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1811,
+    "featureId": 1794,
     "population": 8276,
     "name": "Oscoda County, MI, USA"
   },
@@ -64913,7 +64913,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1812,
+    "featureId": 1795,
     "population": 12738,
     "name": "Presque Isle County, MI, USA"
   },
@@ -64931,7 +64931,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1771,
+    "featureId": 1754,
     "population": 23884,
     "name": "Roscommon County, MI, USA"
   },
@@ -64949,7 +64949,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1813,
+    "featureId": 1796,
     "population": 61043,
     "name": "St. Joseph County, MI, USA"
   },
@@ -64967,7 +64967,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1773,
+    "featureId": 1756,
     "population": 41182,
     "name": "Sanilac County, MI, USA"
   },
@@ -64985,7 +64985,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1814,
+    "featureId": 1797,
     "population": 8068,
     "name": "Schoolcraft County, MI, USA"
   },
@@ -65003,7 +65003,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1815,
+    "featureId": 1798,
     "population": 68192,
     "name": "Shiawassee County, MI, USA"
   },
@@ -65021,7 +65021,7 @@
     "tz": [
       "America/Detroit"
     ],
-    "featureId": 1776,
+    "featureId": 1759,
     "population": 75448,
     "name": "Van Buren County, MI, USA"
   },
@@ -65039,7 +65039,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1818,
+    "featureId": 1933,
     "population": 40545,
     "name": "Benton County, MN, USA"
   },
@@ -65057,7 +65057,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1820,
+    "featureId": 1935,
     "population": 67427,
     "name": "Blue Earth County, MN, USA"
   },
@@ -65075,7 +65075,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1823,
+    "featureId": 1938,
     "population": 55922,
     "name": "Chisago County, MN, USA"
   },
@@ -65093,7 +65093,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1824,
+    "featureId": 1939,
     "population": 63955,
     "name": "Clay County, MN, USA"
   },
@@ -65111,7 +65111,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1825,
+    "featureId": 1940,
     "population": 425423,
     "name": "Dakota County, MN, USA"
   },
@@ -65129,7 +65129,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1826,
+    "featureId": 1941,
     "population": 20822,
     "name": "Dodge County, MN, USA"
   },
@@ -65156,7 +65156,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1829,
+    "featureId": 1944,
     "population": 1259428,
     "name": "Hennepin County, MN, USA"
   },
@@ -65174,7 +65174,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1830,
+    "featureId": 1945,
     "population": 9911,
     "name": "Jackson County, MN, USA"
   },
@@ -65192,7 +65192,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1833,
+    "featureId": 1948,
     "population": 19785,
     "name": "Martin County, MN, USA"
   },
@@ -65210,7 +65210,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1834,
+    "featureId": 1949,
     "population": 40011,
     "name": "Mower County, MN, USA"
   },
@@ -65228,7 +65228,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1835,
+    "featureId": 1950,
     "population": 34220,
     "name": "Nicollet County, MN, USA"
   },
@@ -65246,7 +65246,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1838,
+    "featureId": 1953,
     "population": 14612,
     "name": "Renville County, MN, USA"
   },
@@ -65264,7 +65264,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1839,
+    "featureId": 1954,
     "population": 66523,
     "name": "Rice County, MN, USA"
   },
@@ -65282,7 +65282,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1840,
+    "featureId": 1955,
     "population": 147381,
     "name": "Scott County, MN, USA"
   },
@@ -65300,7 +65300,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1843,
+    "featureId": 1958,
     "population": 159256,
     "name": "Stearns County, MN, USA"
   },
@@ -65318,7 +65318,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1842,
+    "featureId": 1957,
     "population": 199754,
     "name": "St. Louis County, MN, USA"
   },
@@ -65336,7 +65336,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1844,
+    "featureId": 1959,
     "population": 36803,
     "name": "Steele County, MN, USA"
   },
@@ -65354,7 +65354,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1845,
+    "featureId": 1960,
     "population": 21645,
     "name": "Wabasha County, MN, USA"
   },
@@ -65372,7 +65372,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1846,
+    "featureId": 1961,
     "population": 18691,
     "name": "Waseca County, MN, USA"
   },
@@ -65390,7 +65390,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1847,
+    "featureId": 1962,
     "population": 259201,
     "name": "Washington County, MN, USA"
   },
@@ -65408,7 +65408,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1849,
+    "featureId": 1964,
     "population": 136349,
     "name": "Wright County, MN, USA"
   },
@@ -65426,7 +65426,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1850,
+    "featureId": 1965,
     "population": 15902,
     "name": "Aitkin County, MN, USA"
   },
@@ -65444,7 +65444,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1851,
+    "featureId": 1966,
     "population": 34371,
     "name": "Becker County, MN, USA"
   },
@@ -65462,7 +65462,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1852,
+    "featureId": 1967,
     "population": 46847,
     "name": "Beltrami County, MN, USA"
   },
@@ -65480,7 +65480,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1819,
+    "featureId": 1934,
     "population": 4989,
     "name": "Big Stone County, MN, USA"
   },
@@ -65498,7 +65498,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1853,
+    "featureId": 1968,
     "population": 25111,
     "name": "Brown County, MN, USA"
   },
@@ -65516,7 +65516,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1854,
+    "featureId": 1969,
     "population": 35837,
     "name": "Carlton County, MN, USA"
   },
@@ -65534,7 +65534,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1822,
+    "featureId": 1937,
     "population": 29519,
     "name": "Cass County, MN, USA"
   },
@@ -65552,7 +65552,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1855,
+    "featureId": 1970,
     "population": 11924,
     "name": "Chippewa County, MN, USA"
   },
@@ -65570,7 +65570,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1856,
+    "featureId": 1971,
     "population": 8810,
     "name": "Clearwater County, MN, USA"
   },
@@ -65588,7 +65588,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1857,
+    "featureId": 1972,
     "population": 5393,
     "name": "Cook County, MN, USA"
   },
@@ -65606,7 +65606,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1858,
+    "featureId": 1973,
     "population": 11277,
     "name": "Cottonwood County, MN, USA"
   },
@@ -65624,7 +65624,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1859,
+    "featureId": 1974,
     "population": 64889,
     "name": "Crow Wing County, MN, USA"
   },
@@ -65642,7 +65642,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1860,
+    "featureId": 1975,
     "population": 37964,
     "name": "Douglas County, MN, USA"
   },
@@ -65660,7 +65660,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1861,
+    "featureId": 1976,
     "population": 13758,
     "name": "Faribault County, MN, USA"
   },
@@ -65678,7 +65678,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1827,
+    "featureId": 1942,
     "population": 21058,
     "name": "Fillmore County, MN, USA"
   },
@@ -65696,7 +65696,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1862,
+    "featureId": 1977,
     "population": 30444,
     "name": "Freeborn County, MN, USA"
   },
@@ -65714,7 +65714,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1828,
+    "featureId": 1943,
     "population": 46403,
     "name": "Goodhue County, MN, USA"
   },
@@ -65732,7 +65732,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1863,
+    "featureId": 1978,
     "population": 6021,
     "name": "Grant County, MN, USA"
   },
@@ -65750,7 +65750,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1864,
+    "featureId": 1979,
     "population": 18578,
     "name": "Houston County, MN, USA"
   },
@@ -65768,7 +65768,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1865,
+    "featureId": 1980,
     "population": 21332,
     "name": "Hubbard County, MN, USA"
   },
@@ -65786,7 +65786,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1866,
+    "featureId": 1981,
     "population": 39966,
     "name": "Isanti County, MN, USA"
   },
@@ -65804,7 +65804,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1867,
+    "featureId": 1982,
     "population": 45108,
     "name": "Itasca County, MN, USA"
   },
@@ -65822,7 +65822,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1868,
+    "featureId": 1983,
     "population": 16207,
     "name": "Kanabec County, MN, USA"
   },
@@ -65840,7 +65840,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1869,
+    "featureId": 1984,
     "population": 42855,
     "name": "Kandiyohi County, MN, USA"
   },
@@ -65858,7 +65858,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1870,
+    "featureId": 1985,
     "population": 4248,
     "name": "Kittson County, MN, USA"
   },
@@ -65876,7 +65876,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1871,
+    "featureId": 1986,
     "population": 12440,
     "name": "Koochiching County, MN, USA"
   },
@@ -65894,7 +65894,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1831,
+    "featureId": 1946,
     "population": 6658,
     "name": "Lac qui Parle County, MN, USA"
   },
@@ -65912,7 +65912,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1872,
+    "featureId": 1987,
     "population": 10658,
     "name": "Lake County, MN, USA"
   },
@@ -65930,7 +65930,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1873,
+    "featureId": 1988,
     "population": 3758,
     "name": "Lake of the Woods County, MN, USA"
   },
@@ -65948,7 +65948,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1832,
+    "featureId": 1947,
     "population": 28494,
     "name": "Le Sueur County, MN, USA"
   },
@@ -65966,7 +65966,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1874,
+    "featureId": 1989,
     "population": 5673,
     "name": "Lincoln County, MN, USA"
   },
@@ -65984,7 +65984,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1875,
+    "featureId": 1990,
     "population": 25629,
     "name": "Lyon County, MN, USA"
   },
@@ -66002,7 +66002,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1876,
+    "featureId": 1991,
     "population": 35873,
     "name": "McLeod County, MN, USA"
   },
@@ -66020,7 +66020,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1877,
+    "featureId": 1992,
     "population": 5519,
     "name": "Mahnomen County, MN, USA"
   },
@@ -66038,7 +66038,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1878,
+    "featureId": 1993,
     "population": 9390,
     "name": "Marshall County, MN, USA"
   },
@@ -66056,7 +66056,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1879,
+    "featureId": 1994,
     "population": 23141,
     "name": "Meeker County, MN, USA"
   },
@@ -66074,7 +66074,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1880,
+    "featureId": 1995,
     "population": 26139,
     "name": "Mille Lacs County, MN, USA"
   },
@@ -66092,7 +66092,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1881,
+    "featureId": 1996,
     "population": 33169,
     "name": "Morrison County, MN, USA"
   },
@@ -66110,7 +66110,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1882,
+    "featureId": 1997,
     "population": 8276,
     "name": "Murray County, MN, USA"
   },
@@ -66128,7 +66128,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1883,
+    "featureId": 1998,
     "population": 21924,
     "name": "Nobles County, MN, USA"
   },
@@ -66146,7 +66146,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1884,
+    "featureId": 1999,
     "population": 6475,
     "name": "Norman County, MN, USA"
   },
@@ -66164,7 +66164,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1885,
+    "featureId": 2000,
     "population": 58812,
     "name": "Otter Tail County, MN, USA"
   },
@@ -66182,7 +66182,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1886,
+    "featureId": 2001,
     "population": 14178,
     "name": "Pennington County, MN, USA"
   },
@@ -66200,7 +66200,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1887,
+    "featureId": 2002,
     "population": 29483,
     "name": "Pine County, MN, USA"
   },
@@ -66218,7 +66218,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1888,
+    "featureId": 2003,
     "population": 9047,
     "name": "Pipestone County, MN, USA"
   },
@@ -66236,7 +66236,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1889,
+    "featureId": 2004,
     "population": 31529,
     "name": "Polk County, MN, USA"
   },
@@ -66254,7 +66254,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1890,
+    "featureId": 2005,
     "population": 11097,
     "name": "Pope County, MN, USA"
   },
@@ -66272,7 +66272,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1891,
+    "featureId": 2006,
     "population": 3999,
     "name": "Red Lake County, MN, USA"
   },
@@ -66290,7 +66290,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1892,
+    "featureId": 2007,
     "population": 15249,
     "name": "Redwood County, MN, USA"
   },
@@ -66308,7 +66308,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1893,
+    "featureId": 2008,
     "population": 9414,
     "name": "Rock County, MN, USA"
   },
@@ -66326,7 +66326,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1894,
+    "featureId": 2009,
     "population": 15150,
     "name": "Roseau County, MN, USA"
   },
@@ -66344,7 +66344,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1841,
+    "featureId": 1956,
     "population": 96036,
     "name": "Sherburne County, MN, USA"
   },
@@ -66362,7 +66362,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1895,
+    "featureId": 2010,
     "population": 15028,
     "name": "Sibley County, MN, USA"
   },
@@ -66380,7 +66380,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1896,
+    "featureId": 2011,
     "population": 9753,
     "name": "Stevens County, MN, USA"
   },
@@ -66398,7 +66398,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1897,
+    "featureId": 2012,
     "population": 9345,
     "name": "Swift County, MN, USA"
   },
@@ -66416,7 +66416,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1898,
+    "featureId": 2013,
     "population": 24582,
     "name": "Todd County, MN, USA"
   },
@@ -66434,7 +66434,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1899,
+    "featureId": 2014,
     "population": 3308,
     "name": "Traverse County, MN, USA"
   },
@@ -66452,7 +66452,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1900,
+    "featureId": 2015,
     "population": 13773,
     "name": "Wadena County, MN, USA"
   },
@@ -66470,7 +66470,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1901,
+    "featureId": 2016,
     "population": 10980,
     "name": "Watonwan County, MN, USA"
   },
@@ -66488,7 +66488,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1902,
+    "featureId": 2017,
     "population": 6254,
     "name": "Wilkin County, MN, USA"
   },
@@ -66506,7 +66506,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1848,
+    "featureId": 1963,
     "population": 50825,
     "name": "Winona County, MN, USA"
   },
@@ -66524,7 +66524,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1903,
+    "featureId": 2018,
     "population": 9795,
     "name": "Yellow Medicine County, MN, USA"
   },
@@ -67550,7 +67550,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2804,
+    "featureId": 2798,
     "population": 414576,
     "name": "Richland County, SC, USA"
   },
@@ -67568,7 +67568,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2787,
+    "featureId": 2781,
     "population": 514213,
     "name": "Greenville County, SC, USA"
   },
@@ -67586,7 +67586,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2771,
+    "featureId": 2765,
     "population": 188715,
     "name": "Beaufort County, SC, USA"
   },
@@ -67604,7 +67604,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2796,
+    "featureId": 2790,
     "population": 295032,
     "name": "Lexington County, SC, USA"
   },
@@ -67622,7 +67622,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2768,
+    "featureId": 2762,
     "population": 200482,
     "name": "Anderson County, SC, USA"
   },
@@ -67640,7 +67640,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2790,
+    "featureId": 2784,
     "population": 344147,
     "name": "Horry County, SC, USA"
   },
@@ -67658,7 +67658,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2788,
+    "featureId": 2782,
     "population": 70741,
     "name": "Greenwood County, SC, USA"
   },
@@ -67676,7 +67676,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2802,
+    "featureId": 2796,
     "population": 86934,
     "name": "Orangeburg County, SC, USA"
   },
@@ -67694,7 +67694,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2807,
+    "featureId": 2801,
     "population": 106512,
     "name": "Sumter County, SC, USA"
   },
@@ -67712,7 +67712,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2780,
+    "featureId": 2774,
     "population": 66802,
     "name": "Darlington County, SC, USA"
   },
@@ -67730,7 +67730,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2810,
+    "featureId": 2804,
     "population": 274118,
     "name": "York County, SC, USA"
   },
@@ -67748,7 +67748,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2765,
+    "featureId": 2759,
     "population": 24541,
     "name": "Abbeville County, SC, USA"
   },
@@ -67766,7 +67766,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2766,
+    "featureId": 2760,
     "population": 169401,
     "name": "Aiken County, SC, USA"
   },
@@ -67784,7 +67784,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2772,
+    "featureId": 2766,
     "population": 221091,
     "name": "Berkeley County, SC, USA"
   },
@@ -67802,7 +67802,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2773,
+    "featureId": 2767,
     "population": 14520,
     "name": "Calhoun County, SC, USA"
   },
@@ -67820,7 +67820,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2778,
+    "featureId": 2772,
     "population": 33700,
     "name": "Clarendon County, SC, USA"
   },
@@ -67838,7 +67838,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2779,
+    "featureId": 2773,
     "population": 37660,
     "name": "Colleton County, SC, USA"
   },
@@ -67856,7 +67856,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2781,
+    "featureId": 2775,
     "population": 30599,
     "name": "Dillon County, SC, USA"
   },
@@ -67874,7 +67874,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2782,
+    "featureId": 2776,
     "population": 160647,
     "name": "Dorchester County, SC, USA"
   },
@@ -67892,7 +67892,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2783,
+    "featureId": 2777,
     "population": 27052,
     "name": "Edgefield County, SC, USA"
   },
@@ -67910,7 +67910,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2784,
+    "featureId": 2778,
     "population": 22402,
     "name": "Fairfield County, SC, USA"
   },
@@ -67928,7 +67928,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2785,
+    "featureId": 2779,
     "population": 138159,
     "name": "Florence County, SC, USA"
   },
@@ -67946,7 +67946,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2795,
+    "featureId": 2789,
     "population": 17142,
     "name": "Lee County, SC, USA"
   },
@@ -67964,7 +67964,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2799,
+    "featureId": 2793,
     "population": 26398,
     "name": "Marlboro County, SC, USA"
   },
@@ -67982,7 +67982,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2800,
+    "featureId": 2794,
     "population": 38520,
     "name": "Newberry County, SC, USA"
   },
@@ -68000,7 +68000,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2805,
+    "featureId": 2799,
     "population": 20544,
     "name": "Saluda County, SC, USA"
   },
@@ -68018,7 +68018,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2767,
+    "featureId": 2761,
     "population": 8903,
     "name": "Allendale County, SC, USA"
   },
@@ -68036,7 +68036,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2769,
+    "featureId": 2763,
     "population": 14275,
     "name": "Bamberg County, SC, USA"
   },
@@ -68054,7 +68054,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2770,
+    "featureId": 2764,
     "population": 21112,
     "name": "Barnwell County, SC, USA"
   },
@@ -68072,7 +68072,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2775,
+    "featureId": 2769,
     "population": 57078,
     "name": "Cherokee County, SC, USA"
   },
@@ -68090,7 +68090,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2776,
+    "featureId": 2770,
     "population": 32251,
     "name": "Chester County, SC, USA"
   },
@@ -68108,7 +68108,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2777,
+    "featureId": 2771,
     "population": 45754,
     "name": "Chesterfield County, SC, USA"
   },
@@ -68126,7 +68126,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2786,
+    "featureId": 2780,
     "population": 62249,
     "name": "Georgetown County, SC, USA"
   },
@@ -68144,7 +68144,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2789,
+    "featureId": 2783,
     "population": 19351,
     "name": "Hampton County, SC, USA"
   },
@@ -68162,7 +68162,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2791,
+    "featureId": 2785,
     "population": 28971,
     "name": "Jasper County, SC, USA"
   },
@@ -68180,7 +68180,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2794,
+    "featureId": 2788,
     "population": 66994,
     "name": "Laurens County, SC, USA"
   },
@@ -68198,7 +68198,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2797,
+    "featureId": 2791,
     "population": 9410,
     "name": "McCormick County, SC, USA"
   },
@@ -68216,7 +68216,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2798,
+    "featureId": 2792,
     "population": 31039,
     "name": "Marion County, SC, USA"
   },
@@ -68234,7 +68234,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2801,
+    "featureId": 2795,
     "population": 78374,
     "name": "Oconee County, SC, USA"
   },
@@ -68252,7 +68252,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2803,
+    "featureId": 2797,
     "population": 124937,
     "name": "Pickens County, SC, USA"
   },
@@ -68270,7 +68270,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2808,
+    "featureId": 2802,
     "population": 27410,
     "name": "Union County, SC, USA"
   },
@@ -68288,7 +68288,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2809,
+    "featureId": 2803,
     "population": 30606,
     "name": "Williamsburg County, SC, USA"
   },
@@ -69475,7 +69475,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2355,
+    "featureId": 2377,
     "population": 31589,
     "name": "Coos County, NH, USA"
   },
@@ -69499,7 +69499,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2357,
+    "featureId": 2379,
     "population": 48779,
     "name": "Carroll County, NH, USA"
   },
@@ -69523,7 +69523,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2358,
+    "featureId": 2380,
     "population": 61022,
     "name": "Belknap County, NH, USA"
   },
@@ -69547,7 +69547,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2359,
+    "featureId": 2381,
     "population": 151132,
     "name": "Merrimack County, NH, USA"
   },
@@ -69571,7 +69571,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2360,
+    "featureId": 2382,
     "population": 43144,
     "name": "Sullivan County, NH, USA"
   },
@@ -69595,7 +69595,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2361,
+    "featureId": 2383,
     "population": 76493,
     "name": "Cheshire County, NH, USA"
   },
@@ -69619,7 +69619,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2362,
+    "featureId": 2384,
     "population": 415247,
     "name": "Hillsborough County, NH, USA"
   },
@@ -69643,7 +69643,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2364,
+    "featureId": 2386,
     "population": 130090,
     "name": "Strafford County, NH, USA"
   },
@@ -73128,6 +73128,68 @@
       }
     ],
     "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
+    "county": "Bourbon County",
+    "rating": 0.17647058823529413,
+    "coordinates": [
+      -94.8510315,
+      37.8554055
+    ],
+    "tz": [
+      "America/Chicago"
+    ],
+    "featureId": 1386,
+    "population": 14653,
+    "name": "Bourbon County, KS, USA"
+  },
+  {
+    "state": "KS",
+    "country": "USA",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "twitter": "paulboal",
+        "github": "paulboal",
+        "country": "USA",
+        "state": "MO",
+        "county": "St. Louis County",
+        "city": "St. Louis",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
+    "county": "Linn County",
+    "rating": 0.17647058823529413,
+    "coordinates": [
+      -94.845245,
+      38.213500999999994
+    ],
+    "tz": [
+      "America/Chicago"
+    ],
+    "featureId": 1387,
+    "population": 9750,
+    "name": "Linn County, KS, USA"
+  },
+  {
+    "state": "KS",
+    "country": "USA",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "twitter": "paulboal",
+        "github": "paulboal",
+        "country": "USA",
+        "state": "MO",
+        "county": "St. Louis County",
+        "city": "St. Louis",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
     "county": "Butler County",
     "rating": 0.17647058823529413,
     "coordinates": [
@@ -73137,7 +73199,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1394,
+    "featureId": 1388,
     "population": 66765,
     "name": "Butler County, KS, USA"
   },
@@ -73168,7 +73230,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1442,
+    "featureId": 1389,
     "population": 33406,
     "name": "Lyon County, KS, USA"
   },
@@ -73199,7 +73261,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1397,
+    "featureId": 1390,
     "population": 20015,
     "name": "Cherokee County, KS, USA"
   },
@@ -73230,7 +73292,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1448,
+    "featureId": 1391,
     "population": 6150,
     "name": "Mitchell County, KS, USA"
   },
@@ -73261,7 +73323,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1409,
+    "featureId": 1396,
     "population": 121436,
     "name": "Douglas County, KS, USA"
   },
@@ -73292,9 +73354,40 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1450,
+    "featureId": 1393,
     "population": 5521,
     "name": "Morris County, KS, USA"
+  },
+  {
+    "state": "KS",
+    "country": "USA",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "twitter": "paulboal",
+        "github": "paulboal",
+        "country": "USA",
+        "state": "MO",
+        "county": "St. Louis County",
+        "city": "St. Louis",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
+    "county": "Franklin County",
+    "rating": 0.17647058823529413,
+    "coordinates": [
+      -95.28237,
+      38.5641325
+    ],
+    "tz": [
+      "America/Chicago"
+    ],
+    "featureId": 1398,
+    "population": 25631,
+    "name": "Franklin County, KS, USA"
   },
   {
     "state": "KS",
@@ -73323,7 +73416,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1429,
+    "featureId": 1400,
     "population": 13280,
     "name": "Jackson County, KS, USA"
   },
@@ -73354,7 +73447,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1464,
+    "featureId": 1399,
     "population": 62342,
     "name": "Reno County, KS, USA"
   },
@@ -73385,7 +73478,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1473,
+    "featureId": 1401,
     "population": 513607,
     "name": "Sedgwick County, KS, USA"
   },
@@ -73416,7 +73509,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1438,
+    "featureId": 1404,
     "population": 81352,
     "name": "Leavenworth County, KS, USA"
   },
@@ -73447,7 +73540,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1491,
+    "featureId": 1405,
     "population": 165324,
     "name": "Wyandotte County, KS, USA"
   },
@@ -73478,7 +73571,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1387,
+    "featureId": 1407,
     "population": 12444,
     "name": "Allen County, KS, USA"
   },
@@ -73509,7 +73602,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1388,
+    "featureId": 1408,
     "population": 7878,
     "name": "Anderson County, KS, USA"
   },
@@ -73540,7 +73633,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1389,
+    "featureId": 1409,
     "population": 16193,
     "name": "Atchison County, KS, USA"
   },
@@ -73571,7 +73664,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1390,
+    "featureId": 1410,
     "population": 4472,
     "name": "Barber County, KS, USA"
   },
@@ -73602,40 +73695,9 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1391,
+    "featureId": 1411,
     "population": 26111,
     "name": "Barton County, KS, USA"
-  },
-  {
-    "state": "KS",
-    "country": "USA",
-    "aggregate": "county",
-    "maintainers": [
-      {
-        "name": "Paul Boal",
-        "email": "paul.boal@amitechsolutions.com",
-        "twitter": "paulboal",
-        "github": "paulboal",
-        "country": "USA",
-        "state": "MO",
-        "county": "St. Louis County",
-        "city": "St. Louis",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
-    "county": "Bourbon County",
-    "rating": 0.17647058823529413,
-    "coordinates": [
-      -94.8510315,
-      37.8554055
-    ],
-    "tz": [
-      "America/Chicago"
-    ],
-    "featureId": 1392,
-    "population": 14653,
-    "name": "Bourbon County, KS, USA"
   },
   {
     "state": "KS",
@@ -73664,7 +73726,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1393,
+    "featureId": 1412,
     "population": 9598,
     "name": "Brown County, KS, USA"
   },
@@ -73695,7 +73757,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1395,
+    "featureId": 1413,
     "population": 2629,
     "name": "Chase County, KS, USA"
   },
@@ -73726,7 +73788,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1396,
+    "featureId": 1414,
     "population": 3309,
     "name": "Chautauqua County, KS, USA"
   },
@@ -73757,7 +73819,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1398,
+    "featureId": 1415,
     "population": 2660,
     "name": "Cheyenne County, KS, USA"
   },
@@ -73788,7 +73850,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1399,
+    "featureId": 1416,
     "population": 2005,
     "name": "Clark County, KS, USA"
   },
@@ -73819,7 +73881,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1400,
+    "featureId": 1417,
     "population": 7997,
     "name": "Clay County, KS, USA"
   },
@@ -73850,7 +73912,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1401,
+    "featureId": 1418,
     "population": 8729,
     "name": "Cloud County, KS, USA"
   },
@@ -73881,7 +73943,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1402,
+    "featureId": 1419,
     "population": 8233,
     "name": "Coffey County, KS, USA"
   },
@@ -73912,7 +73974,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1403,
+    "featureId": 1420,
     "population": 1748,
     "name": "Comanche County, KS, USA"
   },
@@ -73943,7 +74005,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1404,
+    "featureId": 1421,
     "population": 35218,
     "name": "Cowley County, KS, USA"
   },
@@ -73974,7 +74036,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1405,
+    "featureId": 1392,
     "population": 39019,
     "name": "Crawford County, KS, USA"
   },
@@ -74005,7 +74067,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1406,
+    "featureId": 1422,
     "population": 2871,
     "name": "Decatur County, KS, USA"
   },
@@ -74036,7 +74098,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1407,
+    "featureId": 1423,
     "population": 18717,
     "name": "Dickinson County, KS, USA"
   },
@@ -74067,7 +74129,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1408,
+    "featureId": 1394,
     "population": 7682,
     "name": "Doniphan County, KS, USA"
   },
@@ -74098,7 +74160,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1410,
+    "featureId": 1424,
     "population": 2849,
     "name": "Edwards County, KS, USA"
   },
@@ -74129,7 +74191,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1411,
+    "featureId": 1425,
     "population": 2508,
     "name": "Elk County, KS, USA"
   },
@@ -74160,7 +74222,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1412,
+    "featureId": 1426,
     "population": 28710,
     "name": "Ellis County, KS, USA"
   },
@@ -74191,7 +74253,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1413,
+    "featureId": 1427,
     "population": 6196,
     "name": "Ellsworth County, KS, USA"
   },
@@ -74222,7 +74284,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1414,
+    "featureId": 1428,
     "population": 36611,
     "name": "Finney County, KS, USA"
   },
@@ -74253,40 +74315,9 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1415,
+    "featureId": 1429,
     "population": 33888,
     "name": "Ford County, KS, USA"
-  },
-  {
-    "state": "KS",
-    "country": "USA",
-    "aggregate": "county",
-    "maintainers": [
-      {
-        "name": "Paul Boal",
-        "email": "paul.boal@amitechsolutions.com",
-        "twitter": "paulboal",
-        "github": "paulboal",
-        "country": "USA",
-        "state": "MO",
-        "county": "St. Louis County",
-        "city": "St. Louis",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
-    "county": "Franklin County",
-    "rating": 0.17647058823529413,
-    "coordinates": [
-      -95.28237,
-      38.5641325
-    ],
-    "tz": [
-      "America/Chicago"
-    ],
-    "featureId": 1416,
-    "population": 25631,
-    "name": "Franklin County, KS, USA"
   },
   {
     "state": "KS",
@@ -74315,7 +74346,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1417,
+    "featureId": 1430,
     "population": 32594,
     "name": "Geary County, KS, USA"
   },
@@ -74346,7 +74377,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1418,
+    "featureId": 1431,
     "population": 2612,
     "name": "Gove County, KS, USA"
   },
@@ -74377,7 +74408,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1419,
+    "featureId": 1432,
     "population": 2492,
     "name": "Graham County, KS, USA"
   },
@@ -74408,7 +74439,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1420,
+    "featureId": 1433,
     "population": 7336,
     "name": "Grant County, KS, USA"
   },
@@ -74439,7 +74470,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1421,
+    "featureId": 1434,
     "population": 6033,
     "name": "Gray County, KS, USA"
   },
@@ -74470,7 +74501,7 @@
     "tz": [
       "America/Denver"
     ],
-    "featureId": 1422,
+    "featureId": 1435,
     "population": 1227,
     "name": "Greeley County, KS, USA"
   },
@@ -74501,7 +74532,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1423,
+    "featureId": 1436,
     "population": 6055,
     "name": "Greenwood County, KS, USA"
   },
@@ -74532,7 +74563,7 @@
     "tz": [
       "America/Denver"
     ],
-    "featureId": 1424,
+    "featureId": 1437,
     "population": 2607,
     "name": "Hamilton County, KS, USA"
   },
@@ -74563,7 +74594,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1425,
+    "featureId": 1438,
     "population": 5506,
     "name": "Harper County, KS, USA"
   },
@@ -74594,7 +74625,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1426,
+    "featureId": 1439,
     "population": 34210,
     "name": "Harvey County, KS, USA"
   },
@@ -74625,7 +74656,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1427,
+    "featureId": 1440,
     "population": 3997,
     "name": "Haskell County, KS, USA"
   },
@@ -74656,7 +74687,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1428,
+    "featureId": 1441,
     "population": 1818,
     "name": "Hodgeman County, KS, USA"
   },
@@ -74687,7 +74718,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1430,
+    "featureId": 1442,
     "population": 18975,
     "name": "Jefferson County, KS, USA"
   },
@@ -74718,7 +74749,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1431,
+    "featureId": 1443,
     "population": 2841,
     "name": "Jewell County, KS, USA"
   },
@@ -74749,7 +74780,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1433,
+    "featureId": 1444,
     "population": 3943,
     "name": "Kearny County, KS, USA"
   },
@@ -74780,7 +74811,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1434,
+    "featureId": 1445,
     "population": 7310,
     "name": "Kingman County, KS, USA"
   },
@@ -74811,7 +74842,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1435,
+    "featureId": 1446,
     "population": 2516,
     "name": "Kiowa County, KS, USA"
   },
@@ -74842,7 +74873,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1436,
+    "featureId": 1447,
     "population": 19964,
     "name": "Labette County, KS, USA"
   },
@@ -74873,7 +74904,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1437,
+    "featureId": 1448,
     "population": 1560,
     "name": "Lane County, KS, USA"
   },
@@ -74904,40 +74935,9 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1439,
+    "featureId": 1449,
     "population": 3023,
     "name": "Lincoln County, KS, USA"
-  },
-  {
-    "state": "KS",
-    "country": "USA",
-    "aggregate": "county",
-    "maintainers": [
-      {
-        "name": "Paul Boal",
-        "email": "paul.boal@amitechsolutions.com",
-        "twitter": "paulboal",
-        "github": "paulboal",
-        "country": "USA",
-        "state": "MO",
-        "county": "St. Louis County",
-        "city": "St. Louis",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
-    "county": "Linn County",
-    "rating": 0.17647058823529413,
-    "coordinates": [
-      -94.845245,
-      38.213500999999994
-    ],
-    "tz": [
-      "America/Chicago"
-    ],
-    "featureId": 1440,
-    "population": 9750,
-    "name": "Linn County, KS, USA"
   },
   {
     "state": "KS",
@@ -74966,7 +74966,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1441,
+    "featureId": 1450,
     "population": 2844,
     "name": "Logan County, KS, USA"
   },
@@ -74997,7 +74997,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1443,
+    "featureId": 1451,
     "population": 11950,
     "name": "Marion County, KS, USA"
   },
@@ -75028,7 +75028,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1444,
+    "featureId": 1452,
     "population": 9722,
     "name": "Marshall County, KS, USA"
   },
@@ -75059,7 +75059,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1445,
+    "featureId": 1453,
     "population": 28537,
     "name": "McPherson County, KS, USA"
   },
@@ -75090,7 +75090,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1446,
+    "featureId": 1454,
     "population": 4146,
     "name": "Meade County, KS, USA"
   },
@@ -75121,7 +75121,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1447,
+    "featureId": 1455,
     "population": 33680,
     "name": "Miami County, KS, USA"
   },
@@ -75152,7 +75152,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1449,
+    "featureId": 1456,
     "population": 32120,
     "name": "Montgomery County, KS, USA"
   },
@@ -75183,7 +75183,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1451,
+    "featureId": 1457,
     "population": 2667,
     "name": "Morton County, KS, USA"
   },
@@ -75214,7 +75214,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1452,
+    "featureId": 1458,
     "population": 10155,
     "name": "Nemaha County, KS, USA"
   },
@@ -75245,7 +75245,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1453,
+    "featureId": 1395,
     "population": 15951,
     "name": "Neosho County, KS, USA"
   },
@@ -75276,7 +75276,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1454,
+    "featureId": 1459,
     "population": 2840,
     "name": "Ness County, KS, USA"
   },
@@ -75307,7 +75307,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1455,
+    "featureId": 1460,
     "population": 5430,
     "name": "Norton County, KS, USA"
   },
@@ -75338,7 +75338,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1456,
+    "featureId": 1461,
     "population": 15941,
     "name": "Osage County, KS, USA"
   },
@@ -75369,7 +75369,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1457,
+    "featureId": 1462,
     "population": 3475,
     "name": "Osborne County, KS, USA"
   },
@@ -75400,7 +75400,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1458,
+    "featureId": 1463,
     "population": 5802,
     "name": "Ottawa County, KS, USA"
   },
@@ -75431,7 +75431,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1459,
+    "featureId": 1464,
     "population": 6562,
     "name": "Pawnee County, KS, USA"
   },
@@ -75462,7 +75462,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1460,
+    "featureId": 1465,
     "population": 5317,
     "name": "Phillips County, KS, USA"
   },
@@ -75493,7 +75493,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1461,
+    "featureId": 1397,
     "population": 24277,
     "name": "Pottawatomie County, KS, USA"
   },
@@ -75524,7 +75524,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1462,
+    "featureId": 1466,
     "population": 9378,
     "name": "Pratt County, KS, USA"
   },
@@ -75555,7 +75555,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1463,
+    "featureId": 1467,
     "population": 2508,
     "name": "Rawlins County, KS, USA"
   },
@@ -75586,7 +75586,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1465,
+    "featureId": 1468,
     "population": 4664,
     "name": "Republic County, KS, USA"
   },
@@ -75617,7 +75617,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1466,
+    "featureId": 1469,
     "population": 9531,
     "name": "Rice County, KS, USA"
   },
@@ -75648,7 +75648,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1467,
+    "featureId": 1470,
     "population": 73703,
     "name": "Riley County, KS, USA"
   },
@@ -75679,7 +75679,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1468,
+    "featureId": 1471,
     "population": 5013,
     "name": "Rooks County, KS, USA"
   },
@@ -75710,7 +75710,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1469,
+    "featureId": 1472,
     "population": 3093,
     "name": "Rush County, KS, USA"
   },
@@ -75741,7 +75741,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1470,
+    "featureId": 1473,
     "population": 6907,
     "name": "Russell County, KS, USA"
   },
@@ -75772,7 +75772,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1471,
+    "featureId": 1474,
     "population": 54401,
     "name": "Saline County, KS, USA"
   },
@@ -75803,7 +75803,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1472,
+    "featureId": 1475,
     "population": 4897,
     "name": "Scott County, KS, USA"
   },
@@ -75834,7 +75834,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1474,
+    "featureId": 1476,
     "population": 21780,
     "name": "Seward County, KS, USA"
   },
@@ -75865,7 +75865,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1475,
+    "featureId": 1477,
     "population": 177499,
     "name": "Shawnee County, KS, USA"
   },
@@ -75896,7 +75896,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1476,
+    "featureId": 1478,
     "population": 2533,
     "name": "Sheridan County, KS, USA"
   },
@@ -75927,7 +75927,7 @@
     "tz": [
       "America/Denver"
     ],
-    "featureId": 1477,
+    "featureId": 1479,
     "population": 5899,
     "name": "Sherman County, KS, USA"
   },
@@ -75958,7 +75958,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1478,
+    "featureId": 1480,
     "population": 3603,
     "name": "Smith County, KS, USA"
   },
@@ -75989,7 +75989,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1479,
+    "featureId": 1481,
     "population": 4178,
     "name": "Stafford County, KS, USA"
   },
@@ -76020,7 +76020,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1480,
+    "featureId": 1482,
     "population": 1987,
     "name": "Stanton County, KS, USA"
   },
@@ -76051,7 +76051,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1481,
+    "featureId": 1483,
     "population": 5559,
     "name": "Stevens County, KS, USA"
   },
@@ -76082,7 +76082,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1482,
+    "featureId": 1484,
     "population": 22996,
     "name": "Sumner County, KS, USA"
   },
@@ -76113,7 +76113,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1483,
+    "featureId": 1485,
     "population": 7711,
     "name": "Thomas County, KS, USA"
   },
@@ -76144,7 +76144,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1484,
+    "featureId": 1486,
     "population": 2793,
     "name": "Trego County, KS, USA"
   },
@@ -76175,7 +76175,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1485,
+    "featureId": 1487,
     "population": 6899,
     "name": "Wabaunsee County, KS, USA"
   },
@@ -76206,7 +76206,7 @@
     "tz": [
       "America/Denver"
     ],
-    "featureId": 1486,
+    "featureId": 1488,
     "population": 1503,
     "name": "Wallace County, KS, USA"
   },
@@ -76237,7 +76237,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1487,
+    "featureId": 1489,
     "population": 5420,
     "name": "Washington County, KS, USA"
   },
@@ -76268,7 +76268,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1488,
+    "featureId": 1490,
     "population": 2105,
     "name": "Wichita County, KS, USA"
   },
@@ -76299,7 +76299,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1489,
+    "featureId": 1491,
     "population": 8665,
     "name": "Wilson County, KS, USA"
   },
@@ -76330,7 +76330,7 @@
     "tz": [
       "America/Chicago"
     ],
-    "featureId": 1490,
+    "featureId": 1403,
     "population": 3183,
     "name": "Woodson County, KS, USA"
   },
@@ -76357,7 +76357,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2759,
+    "featureId": 2806,
     "population": 48649,
     "name": "Bristol County, RI, USA"
   },
@@ -76375,7 +76375,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2760,
+    "featureId": 2807,
     "population": 163861,
     "name": "Kent County, RI, USA"
   },
@@ -76393,7 +76393,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2761,
+    "featureId": 2808,
     "population": 82542,
     "name": "Newport County, RI, USA"
   },
@@ -76411,7 +76411,7 @@
     "tz": [
       "America/New_York"
     ],
-    "featureId": 2763,
+    "featureId": 2810,
     "population": 126179,
     "name": "Washington County, RI, USA"
   },

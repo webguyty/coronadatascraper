@@ -2549,7 +2549,8 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf"
+          "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
+          "cases": 126
         }
       ],
       "IN, USA": [

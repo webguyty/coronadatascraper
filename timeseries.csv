@@ -2300,8 +2300,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,44,1,,,461,1.2941176470588236,2020-03-20
 ,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,55,2,,,472,1.25,2020-03-21
 ,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,55,2,,,472,1,2020-03-22
-,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,77,,,,,1.4,2020-03-23
-,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,82,,,,,1.0649350649350648,2020-03-24
+,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,81,,,,,1.4727272727272727,2020-03-23
+,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,91,,,,,1.123456790123457,2020-03-24
+,,KS,USA,2913314,38.49995525967745,-98.33450321689992,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,126,,,,,1.3846153846153846,2020-03-25
 ,,LA,USA,4648794,31.022399050426287,-91.53320699521313,https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true,1,,,1,,,2020-03-10
 ,,LA,USA,4648794,31.022399050426287,-91.53320699521313,https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true,6,,,6,,6,2020-03-11
 ,,LA,USA,4648794,31.022399050426287,-91.53320699521313,https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true,13,,,,,2.1666666666666665,2020-03-12
@@ -5187,6 +5188,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Johnson County,KS,USA,597555,38.899654999999996,-94.8319645,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,1,,1,2020-03-11
 ,Johnson County,KS,USA,597555,38.899654999999996,-94.8319645,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,32,,,,,,2020-03-23
 ,Johnson County,KS,USA,597555,38.899654999999996,-94.8319645,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,36,,,,,1.125,2020-03-24
+,Johnson County,KS,USA,597555,38.899654999999996,-94.8319645,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,44,,,,,1.2222222222222223,2020-03-25
 ,Kittitas County,WA,USA,47364,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-03-08
 ,Kittitas County,WA,USA,47364,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-09
 ,Kittitas County,WA,USA,47364,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-10
@@ -9643,21 +9645,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-BE,DEU,3740000,52.513642483363896,13.421511874923084,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1219,2,,,,1.138188608776844,2020-03-23
 ,,DE-BE,DEU,3740000,52.513642483363896,13.421511874923084,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1425,3,,,,1.1689909762100081,2020-03-24
 ,,DE-BE,DEU,3740000,52.513642483363896,13.421511874923084,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1425,3,,,,1,2020-03-25
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,277,,,,,,2020-03-11
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,454,,,,,1.6389891696750902,2020-03-12
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,454,,,,,1,2020-03-13
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,569,,,,,1.2533039647577093,2020-03-14
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,827,,,,,1.453427065026362,2020-03-15
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1105,,,,,1.336154776299879,2020-03-16
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1641,6,,,,1.4850678733031675,2020-03-17
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2184,8,,,,1.3308957952468008,2020-03-18
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2748,11,,,,1.2582417582417582,2020-03-19
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,3665,17,,,,1.3336972343522562,2020-03-20
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,3818,23,,,,1.0417462482946793,2020-03-21
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,3818,23,,,,1,2020-03-22
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,5333,31,,,,1.396804609743321,2020-03-23
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6476,32,,,,1.2143258953684606,2020-03-24
-,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7285,42,,,,1.124922791846819,2020-03-25
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,366,,,,,,2020-03-11
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,500,,,,,1.366120218579235,2020-03-12
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,558,,,,,1.116,2020-03-13
@@ -9673,6 +9660,21 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,5719,27,,,,1.2831501009647746,2020-03-23
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6666,32,,,,1.1655883895785977,2020-03-24
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7921,38,,,,1.1882688268826882,2020-03-25
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,277,,,,,,2020-03-11
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,454,,,,,1.6389891696750902,2020-03-12
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,454,,,,,1,2020-03-13
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,569,,,,,1.2533039647577093,2020-03-14
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,827,,,,,1.453427065026362,2020-03-15
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1105,,,,,1.336154776299879,2020-03-16
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1641,6,,,,1.4850678733031675,2020-03-17
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2184,8,,,,1.3308957952468008,2020-03-18
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2748,11,,,,1.2582417582417582,2020-03-19
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,3665,17,,,,1.3336972343522562,2020-03-20
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,3818,23,,,,1.0417462482946793,2020-03-21
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,3818,23,,,,1,2020-03-22
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,5333,31,,,,1.396804609743321,2020-03-23
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6476,32,,,,1.2143258953684606,2020-03-24
+,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7285,42,,,,1.124922791846819,2020-03-25
 ,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,21,,,,,,2020-03-11
 ,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,38,,,,,1.8095238095238095,2020-03-12
 ,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,42,,,,,1.105263157894737,2020-03-13
@@ -11268,167 +11270,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Wyoming County,NY,USA,40085,42.694677,-78.2215535,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,4,,,,,2,2020-03-23
 ,Wyoming County,NY,USA,40085,42.694677,-78.2215535,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,4,,,,,1,2020-03-24
 ,Wyoming County,NY,USA,40085,42.694677,-78.2215535,https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases,4,,,,,1,2020-03-25
-,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
-,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
-,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,2,,2020-03-23
-,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-24
-,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-25
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,,,2020-03-16
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,,1,2020-03-17
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,3,,,,3,1.5,2020-03-18
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,0.6666666666666666,2020-03-19
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,1,2020-03-20
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,69,1,2020-03-21
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,77,2,2020-03-22
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,125,1,2020-03-23
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,142,1,2020-03-24
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,169,1.5,2020-03-25
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,,2020-03-13
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-14
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-15
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,,2,2020-03-16
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,,3,2020-03-17
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,6,1,2020-03-18
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,6,1,2020-03-19
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,10,1.6666666666666667,2020-03-20
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,11,,,,267,1.1,2020-03-21
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,12,,,,278,1.0909090909090908,2020-03-22
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,14,,,,445,1.1666666666666667,2020-03-23
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,17,1,,,460,1.2142857142857142,2020-03-24
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,21,2,,,614,1.2352941176470589,2020-03-25
-,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,30,,2020-03-21
-,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,32,,2020-03-22
-,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,43,,2020-03-23
-,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,46,,2020-03-24
-,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,56,1,2020-03-25
-,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,32,,2020-03-21
-,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,35,,2020-03-22
-,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,49,,2020-03-23
-,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,51,,2020-03-24
-,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,62,,2020-03-25
-,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,30,,2020-03-21
-,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,35,,2020-03-22
-,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,44,,2020-03-23
-,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,53,,2020-03-24
-,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,75,,2020-03-25
-,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-21
-,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-22
-,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-23
-,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-24
-,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-25
-,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,11,,2020-03-21
-,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-22
-,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-23
-,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-24
-,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,14,,2020-03-25
-,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
-,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
-,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
-,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-24
-,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,2,,2020-03-25
-,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,,2020-03-20
-,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,1,2020-03-21
-,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,1,2020-03-22
-,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,1,2020-03-23
-,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,2,1,2020-03-24
-,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,2,1,2020-03-25
-,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
-,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
-,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
-,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-24
-,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-25
-,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,15,,2020-03-21
-,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,17,,2020-03-22
-,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,39,,2020-03-23
-,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,44,1,2020-03-24
-,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,61,1,2020-03-25
-,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-21
-,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-22
-,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-23
-,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-24
-,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,9,,2020-03-25
-,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,21,,2020-03-21
-,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,22,1,2020-03-22
-,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,30,1,2020-03-23
-,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,35,1,2020-03-24
-,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,62,2,2020-03-25
-,Lake County,OR,USA,7879,42.8053175,-120.3546415,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-25
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,,2,,2020-03-18
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,,2,1,2020-03-19
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,,2,1,2020-03-20
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,3,1,,,148,1.5,2020-03-21
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,1,,,156,1.3333333333333333,2020-03-22
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,1,,,175,1,2020-03-23
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,1,,,185,1,2020-03-24
-,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,5,1,,,229,1.25,2020-03-25
-,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-21
-,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-22
-,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,18,,2020-03-23
-,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,18,,2020-03-24
-,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,32,,2020-03-25
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,8,,,,,,2020-03-13
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,9,,,,,1.125,2020-03-14
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,,1.1111111111111112,2020-03-15
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,,1,2020-03-16
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,15,,,,,1.5,2020-03-17
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,15,,,,15,1,2020-03-18
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,18,,,,18,1.2,2020-03-19
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,19,,,,19,1.0555555555555556,2020-03-20
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,19,,,,284,1,2020-03-21
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,19,,,,305,1,2020-03-22
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,20,1,,,335,1.0526315789473684,2020-03-23
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,20,1,,,373,1,2020-03-24
-,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,25,1,,,411,1.25,2020-03-25
-,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,13,,2020-03-21
-,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,13,,2020-03-22
-,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,13,,2020-03-23
-,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,18,,2020-03-24
-,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-25
-,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,4,,2020-03-21
-,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,4,,2020-03-22
-,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,4,,2020-03-23
-,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-24
-,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-25
-,Sherman County,OR,USA,1708,45.4100935,-120.69385299999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
-,Sherman County,OR,USA,1708,45.4100935,-120.69385299999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-24
-,Sherman County,OR,USA,1708,45.4100935,-120.69385299999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-25
-,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-21
-,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,9,,2020-03-22
-,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,9,,2020-03-23
-,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,14,,2020-03-24
-,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,28,,2020-03-25
-,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,,2020-03-20
-,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,12,1,2020-03-21
-,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,12,1,2020-03-22
-,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,15,1,2020-03-23
-,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,15,1,2020-03-24
-,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,15,1,2020-03-25
-,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-21
-,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-22
-,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-23
-,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-24
-,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-25
-,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-21
-,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,10,,2020-03-22
-,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-23
-,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,22,,2020-03-24
-,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,31,,2020-03-25
-,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
-,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
-,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
-,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-24
-,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-25
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,,2020-03-15
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-16
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-17
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,2,2020-03-18
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,1,2020-03-19
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,4,2,2020-03-20
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,98,1,2020-03-21
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,101,1.5,2020-03-22
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,106,1,2020-03-23
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,173,1,2020-03-24
-,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,7,,,,214,1.1666666666666667,2020-03-25
 ,Allegheny County,PA,USA,1218452,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,2,,,,,,2020-03-14
 ,Allegheny County,PA,USA,1218452,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,3,,,,,1.5,2020-03-15
 ,Allegheny County,PA,USA,1218452,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,7,,,,,,2020-03-17
@@ -11649,6 +11490,167 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,York County,PA,USA,448273,39.973064,-76.688615,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,10,,,,,1,2020-03-23
 ,York County,PA,USA,448273,39.973064,-76.688615,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,18,,,,,1.8,2020-03-24
 ,York County,PA,USA,448273,39.973064,-76.688615,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,20,,,,,1.1111111111111112,2020-03-25
+,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
+,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
+,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,2,,2020-03-23
+,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-24
+,Baker County,OR,USA,16006,44.6679445,-117.6514835,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-25
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,,,2020-03-16
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,,1,2020-03-17
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,3,,,,3,1.5,2020-03-18
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,0.6666666666666666,2020-03-19
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,1,2020-03-20
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,69,1,2020-03-21
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,77,2,2020-03-22
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,125,1,2020-03-23
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,142,1,2020-03-24
+,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,169,1.5,2020-03-25
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,,2020-03-13
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-14
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-15
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,,2,2020-03-16
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,,3,2020-03-17
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,6,1,2020-03-18
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,6,1,2020-03-19
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,10,1.6666666666666667,2020-03-20
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,11,,,,267,1.1,2020-03-21
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,12,,,,278,1.0909090909090908,2020-03-22
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,14,,,,445,1.1666666666666667,2020-03-23
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,17,1,,,460,1.2142857142857142,2020-03-24
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,21,2,,,614,1.2352941176470589,2020-03-25
+,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,30,,2020-03-21
+,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,32,,2020-03-22
+,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,43,,2020-03-23
+,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,46,,2020-03-24
+,Clatsop County,OR,USA,39764,46.022076999999996,-123.69131949999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,56,1,2020-03-25
+,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,32,,2020-03-21
+,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,35,,2020-03-22
+,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,49,,2020-03-23
+,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,51,,2020-03-24
+,Columbia County,OR,USA,52377,45.955202,-123.06307100000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,62,,2020-03-25
+,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,30,,2020-03-21
+,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,35,,2020-03-22
+,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,44,,2020-03-23
+,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,53,,2020-03-24
+,Coos County,OR,USA,64389,43.1387565,-124.0906665,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,75,,2020-03-25
+,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-21
+,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-22
+,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-23
+,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-24
+,Crook County,OR,USA,23867,44.130719,-120.381763,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-25
+,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,11,,2020-03-21
+,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-22
+,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-23
+,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-24
+,Curry County,OR,USA,22813,42.4752215,-124.1343155,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,14,,2020-03-25
+,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
+,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
+,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
+,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-24
+,Gilliam County,OR,USA,1894,45.4390695,-120.206842,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,2,,2020-03-25
+,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,,2020-03-20
+,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,1,2020-03-21
+,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,1,2020-03-22
+,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,1,2020-03-23
+,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,2,1,2020-03-24
+,Grant County,OR,USA,7176,44.477098,-118.94781950000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,2,1,2020-03-25
+,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
+,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
+,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
+,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-24
+,Harney County,OR,USA,7329,43.019735999999995,-119.0696245,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-25
+,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,15,,2020-03-21
+,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,17,,2020-03-22
+,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,39,,2020-03-23
+,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,44,1,2020-03-24
+,Hood River County,OR,USA,23428,45.492278999999996,-121.68142399999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,61,1,2020-03-25
+,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-21
+,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,5,,2020-03-22
+,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-23
+,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,6,,2020-03-24
+,Jefferson County,OR,USA,24192,44.607842500000004,-121.110097,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,9,,2020-03-25
+,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,21,,2020-03-21
+,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,22,1,2020-03-22
+,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,30,1,2020-03-23
+,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,35,1,2020-03-24
+,Josephine County,OR,USA,87393,42.389664999999994,-123.63368449999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,62,2,2020-03-25
+,Lake County,OR,USA,7879,42.8053175,-120.3546415,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-25
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,,2,,2020-03-18
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,,2,1,2020-03-19
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,1,,,2,1,2020-03-20
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,3,1,,,148,1.5,2020-03-21
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,1,,,156,1.3333333333333333,2020-03-22
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,1,,,175,1,2020-03-23
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,1,,,185,1,2020-03-24
+,Lane County,OR,USA,379611,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,5,1,,,229,1.25,2020-03-25
+,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-21
+,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-22
+,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,18,,2020-03-23
+,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,18,,2020-03-24
+,Lincoln County,OR,USA,49388,44.660618,-123.85653049999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,32,,2020-03-25
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,8,,,,,,2020-03-13
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,9,,,,,1.125,2020-03-14
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,,1.1111111111111112,2020-03-15
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,,1,2020-03-16
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,15,,,,,1.5,2020-03-17
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,15,,,,15,1,2020-03-18
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,18,,,,18,1.2,2020-03-19
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,19,,,,19,1.0555555555555556,2020-03-20
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,19,,,,284,1,2020-03-21
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,19,,,,305,1,2020-03-22
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,20,1,,,335,1.0526315789473684,2020-03-23
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,20,1,,,373,1,2020-03-24
+,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,25,1,,,411,1.25,2020-03-25
+,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,13,,2020-03-21
+,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,13,,2020-03-22
+,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,13,,2020-03-23
+,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,18,,2020-03-24
+,Malheur County,OR,USA,30725,43.220727999999994,-117.56311149999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-25
+,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,4,,2020-03-21
+,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,4,,2020-03-22
+,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,4,,2020-03-23
+,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-24
+,Morrow County,OR,USA,11372,45.45994,-119.576055,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,12,,2020-03-25
+,Sherman County,OR,USA,1708,45.4100935,-120.69385299999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
+,Sherman County,OR,USA,1708,45.4100935,-120.69385299999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-24
+,Sherman County,OR,USA,1708,45.4100935,-120.69385299999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-25
+,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-21
+,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,9,,2020-03-22
+,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,9,,2020-03-23
+,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,14,,2020-03-24
+,Tillamook County,OR,USA,26787,45.4136565,-123.658578,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,28,,2020-03-25
+,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,1,,2020-03-20
+,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,12,1,2020-03-21
+,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,12,1,2020-03-22
+,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,15,1,2020-03-23
+,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,15,1,2020-03-24
+,Union County,OR,USA,26461,45.409634,-117.98212799999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,15,1,2020-03-25
+,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-21
+,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-22
+,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-23
+,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-24
+,Wallowa County,OR,USA,7081,45.539874999999995,-117.2206355,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,3,,2020-03-25
+,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,8,,2020-03-21
+,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,10,,2020-03-22
+,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,19,,2020-03-23
+,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,22,,2020-03-24
+,Wasco County,OR,USA,26505,45.2632585,-121.0882365,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,31,,2020-03-25
+,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-21
+,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-22
+,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-23
+,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-24
+,Wheeler County,OR,USA,1366,44.687605500000004,-120.0736875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,1,,2020-03-25
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,,2020-03-15
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-16
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,,1,2020-03-17
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,2,2020-03-18
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,,2,1,2020-03-19
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,4,2,2020-03-20
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,,98,1,2020-03-21
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,101,1.5,2020-03-22
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,106,1,2020-03-23
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,,173,1,2020-03-24
+,Yamhill County,OR,USA,107002,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,7,,,,214,1.1666666666666667,2020-03-25
 ,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,27,,,,,,2020-03-19
 ,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,40,,,,,1.4814814814814814,2020-03-20
 ,(unassigned),TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,69,,,,,1.725,2020-03-21
@@ -18454,26 +18456,54 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Maui County,HI,USA,167207,20.866003,-156.648965,https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/,11,,,,,,2020-03-23
 ,Maui County,HI,USA,167207,20.866003,-156.648965,https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/,9,,,,,0.8181818181818182,2020-03-24
 ,Maui County,HI,USA,167207,20.866003,-156.648965,https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/,10,,,,,1.1111111111111112,2020-03-25
+,Bourbon County,KS,USA,14653,37.8554055,-94.8510315,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-23
+,Bourbon County,KS,USA,14653,37.8554055,-94.8510315,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-24
+,Bourbon County,KS,USA,14653,37.8554055,-94.8510315,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-25
+,Linn County,KS,USA,9750,38.213500999999994,-94.845245,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
+,Linn County,KS,USA,9750,38.213500999999994,-94.845245,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-24
+,Linn County,KS,USA,9750,38.213500999999994,-94.845245,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-25
 ,Butler County,KS,USA,66765,37.781624,-96.8380565,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,3,,,,,,2020-03-23
 ,Butler County,KS,USA,66765,37.781624,-96.8380565,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,3,,,,,1,2020-03-24
+,Butler County,KS,USA,66765,37.781624,-96.8380565,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,3,,,,,1,2020-03-25
 ,Lyon County,KS,USA,33406,38.4550255,-96.15146899999999,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
 ,Lyon County,KS,USA,33406,38.4550255,-96.15146899999999,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-24
+,Lyon County,KS,USA,33406,38.4550255,-96.15146899999999,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-25
 ,Cherokee County,KS,USA,20015,37.169036,-94.846401,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
 ,Cherokee County,KS,USA,20015,37.169036,-94.846401,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-24
+,Cherokee County,KS,USA,20015,37.169036,-94.846401,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-25
 ,Mitchell County,KS,USA,6150,39.393393,-98.2093055,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
+,Mitchell County,KS,USA,6150,39.393393,-98.2093055,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-25
 ,Douglas County,KS,USA,121436,38.9032655,-95.2786225,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,8,,,,,,2020-03-23
+,Douglas County,KS,USA,121436,38.9032655,-95.2786225,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,10,,,,,,2020-03-25
 ,Morris County,KS,USA,5521,38.695862,-96.6432685,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
+,Morris County,KS,USA,5521,38.695862,-96.6432685,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-24
+,Morris County,KS,USA,5521,38.695862,-96.6432685,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-25
+,Franklin County,KS,USA,25631,38.5641325,-95.28237,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-23
+,Franklin County,KS,USA,25631,38.5641325,-95.28237,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-24
+,Franklin County,KS,USA,25631,38.5641325,-95.28237,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-25
 ,Jackson County,KS,USA,13280,39.434541,-95.800039,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-23
 ,Jackson County,KS,USA,13280,39.434541,-95.800039,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-24
+,Jackson County,KS,USA,13280,39.434541,-95.800039,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-25
 ,Reno County,KS,USA,62342,37.9532965,-98.085743,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
+,Reno County,KS,USA,62342,37.9532965,-98.085743,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-24
+,Reno County,KS,USA,62342,37.9532965,-98.085743,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,1,2020-03-25
 ,Sedgwick County,KS,USA,513607,37.693458500000006,-97.4803755,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,2,,,,,,2020-03-23
 ,Sedgwick County,KS,USA,513607,37.693458500000006,-97.4803755,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,7,,,,,3.5,2020-03-24
+,Sedgwick County,KS,USA,513607,37.693458500000006,-97.4803755,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,11,,,,,1.5714285714285714,2020-03-25
 ,Leavenworth County,KS,USA,81352,39.186572999999996,-94.981753,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,5,,,,,,2020-03-23
 ,Leavenworth County,KS,USA,81352,39.186572999999996,-94.981753,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,7,,,,,1.4,2020-03-24
+,Leavenworth County,KS,USA,81352,39.186572999999996,-94.981753,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,11,,,,,1.5714285714285714,2020-03-25
 ,Wyandotte County,KS,USA,165324,39.097156,-94.749349,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,16,,,,,,2020-03-23
 ,Wyandotte County,KS,USA,165324,39.097156,-94.749349,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,22,,,,,1.375,2020-03-24
+,Wyandotte County,KS,USA,165324,39.097156,-94.749349,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,27,,,,,1.2272727272727273,2020-03-25
+,Crawford County,KS,USA,39019,37.506467,-94.85248899999999,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-25
+,Doniphan County,KS,USA,7682,39.8075365,-95.0996695,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-24
+,Doniphan County,KS,USA,7682,39.8075365,-95.0996695,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-25
+,Neosho County,KS,USA,15951,37.5588805,-95.306786,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-25
 ,Pottawatomie County,KS,USA,24277,39.34643,-96.3786975,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-24
+,Pottawatomie County,KS,USA,24277,39.34643,-96.3786975,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-25
 ,Woodson County,KS,USA,3183,37.886477,-95.740189,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,,2020-03-24
+,Woodson County,KS,USA,3183,37.886477,-95.740189,https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf,1,,,,,1,2020-03-25
 ,Lac Qui Parle County,MN,USA,,,,https://www.health.state.mn.us/diseases/coronavirus/situation.html,1,,,,,,2020-03-23
 ,Bristol County,RI,USA,48649,41.709347,-71.29500250000001,https://docs.google.com/spreadsheets/d/1n-zMS9Al94CPj_Tc3K7Adin-tN9x1RSjjx2UzJ4SV7Q/gviz/tq?tqx=out:csv&sheet=County+Data#gid=0,5,,,,,,2020-03-23
 ,Bristol County,RI,USA,48649,41.709347,-71.29500250000001,https://docs.google.com/spreadsheets/d/1n-zMS9Al94CPj_Tc3K7Adin-tN9x1RSjjx2UzJ4SV7Q/gviz/tq?tqx=out:csv&sheet=County+Data#gid=0,5,,,,,1,2020-03-24
