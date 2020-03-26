@@ -185,16 +185,6 @@
     "rating": 0.49019607843137253
   },
   {
-    "country": "FRA",
-    "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
-    "priority": 1,
-    "headless": false,
-    "certValidation": true,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
     "country": "IND",
     "url": "https://www.mohfw.gov.in/",
     "type": "table",
