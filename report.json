@@ -4,7 +4,7 @@
     "errors": []
   },
   "scrape": {
-    "numCountries": 172,
+    "numCountries": 171,
     "numStates": 257,
     "numCounties": 3205,
     "numCities": 0,
@@ -41,7 +41,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1409,7 +1409,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1456,7 +1456,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1508,7 +1508,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1548,7 +1548,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1590,7 +1590,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1632,7 +1632,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1681,7 +1681,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1722,7 +1722,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1763,7 +1763,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1804,7 +1804,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1846,7 +1846,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1885,7 +1885,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1928,7 +1928,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -1971,7 +1971,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2026,7 +2026,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2067,7 +2067,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2107,7 +2107,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2148,7 +2148,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2189,7 +2189,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2236,7 +2236,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2284,7 +2284,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2324,7 +2324,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2363,7 +2363,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2405,7 +2405,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2461,7 +2461,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2501,7 +2501,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2542,7 +2542,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2582,7 +2582,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2623,7 +2623,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2671,7 +2671,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2713,7 +2713,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2771,7 +2771,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2825,7 +2825,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2866,7 +2866,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2906,7 +2906,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2946,7 +2946,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -2987,7 +2987,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3037,7 +3037,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3077,7 +3077,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3120,7 +3120,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3160,7 +3160,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3201,7 +3201,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3249,7 +3249,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3291,7 +3291,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3343,7 +3343,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3383,7 +3383,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3441,7 +3441,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3481,7 +3481,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -3975,7 +3975,7 @@
               "code": "04",
               "name": "La Réunion",
               "population": 853659,
-              "id": 289
+              "id": 288
             }
           },
           "population": 853659,
@@ -4370,7 +4370,7 @@
             }
           ],
           "aggregate": "state",
-          "priority": 0,
+          "priority": -0.5,
           "timeseries": false,
           "headless": false,
           "certValidation": true,
@@ -6127,7 +6127,7 @@
               "code": "02",
               "name": "Martinique",
               "population": 376480,
-              "id": 287
+              "id": 286
             }
           },
           "population": 376480,
@@ -7467,7 +7467,7 @@
               "code": "06",
               "name": "Mayotte",
               "population": 270372,
-              "id": 290
+              "id": 289
             }
           },
           "population": 270372,
@@ -8667,7 +8667,7 @@
               "code": "01",
               "name": "Guadeloupe",
               "population": 390253,
-              "id": 286
+              "id": 285
             }
           },
           "population": 390253,
@@ -8930,7 +8930,7 @@
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 3585,
+    "numFeaturesFound": 3584,
     "missingFeatures": [
       "Diamond Princess",
       "French Polynesia, FRA",
@@ -8938,15 +8938,14 @@
       "Reunion, FRA",
       "Aruba, NLD",
       "Channel Islands, GBR",
-      "Zurich, CHE",
       "Total, CAN",
+      "Zurich, CHE",
       "Saint-Barthélemy, FRA",
       "Saint-Martin, FRA",
       "Telengana, IND",
       "Ladakh, IND",
       "PR, USA",
       "AS, USA",
-      "GU, USA",
       "MP, USA",
       "VI, USA",
       "Bournemouth, Christchurch and Poole, England, GBR",
@@ -8968,6 +8967,7 @@
       "Pea Patch County, DE, USA",
       "Reedy Island County, DE, USA",
       "DE/NJ County, DE, USA",
+      "GU, USA",
       "Baltimore City, MD, USA",
       "Doña Ana County, NM, USA",
       "Oglala Lakota County, SD, USA",
@@ -8976,7 +8976,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 3312,
+    "numLocationsWithPopulation": 3311,
     "missingPopulations": [
       "Diamond Princess",
       "Greenland, DNK",
@@ -8993,14 +8993,13 @@
       "Channel Islands, GBR",
       "Isle of Man, GBR",
       "Montserrat, GBR",
-      "Zurich, CHE",
       "Total, CAN",
+      "Zurich, CHE",
       "Saint-Barthélemy, FRA",
       "Saint-Martin, FRA",
       "Manipur, IND",
       "Mizoram, IND",
       "AS, USA",
-      "GU, USA",
       "MP, USA",
       "VI, USA",
       "Barking and Dagenham, England, GBR",
@@ -9137,6 +9136,7 @@
       "DE/NJ County, DE, USA",
       "(unassigned), FL, USA",
       "(unassigned), GA, USA",
+      "GU, USA",
       "(unassigned), LA, USA",
       "Baltimore City, MD, USA",
       "(unassigned), ME, USA",
@@ -9151,7 +9151,6 @@
   "validate": {
     "errors": [
       "Diamond Princess .country should NOT be longer than 3 characters",
-      "West Bank and Gaza .country should NOT be longer than 3 characters",
       "(unassigned), AR, USA .county should NOT be valid",
       "(unassigned), FL, USA .county should NOT be valid",
       "(unassigned), GA, USA .county should NOT be valid",

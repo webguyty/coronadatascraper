@@ -26534,6 +26534,8 @@ return d[d.length-1];};return ", funcName].join("");
 
     let chartDataMin;
     let chartDataMax;
+    let lowestLocation = null;
+    let highestLocation = null;
 
     data.locations.forEach(function(location, index) {
       // Calculate worst affected percent
@@ -26543,10 +26545,12 @@ return d[d.length-1];};return ", funcName].join("");
           const infectionPercent = locationData.cases / location.population;
           if (infectionPercent > worstAffectedPercent) {
             worstAffectedPercent = infectionPercent;
+            highestLocation = location;
           }
           // Calculate least affected percent
           if (infectionPercent !== 0 && infectionPercent < lowestInfectionPercent) {
             lowestInfectionPercent = infectionPercent;
+            lowestLocation = location;
           }
           chartDataMax = worstAffectedPercent;
           chartDataMin = lowestInfectionPercent;
@@ -26571,6 +26575,9 @@ return d[d.length-1];};return ", funcName].join("");
 
       feature.properties.color = regionColor || noPopulationDataColor;
     });
+
+    console.log('Lowest infection', lowestLocation);
+    console.log('Highest infection', highestLocation);
 
     createLegend(chartDataMin, chartDataMax);
   }

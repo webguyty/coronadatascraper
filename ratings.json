@@ -154,7 +154,7 @@
     "url": "https://covidtracking.com/api/states",
     "type": "json",
     "aggregate": "state",
-    "priority": 0,
+    "priority": -0.5,
     "headless": false,
     "certValidation": true,
     "ssl": true,
