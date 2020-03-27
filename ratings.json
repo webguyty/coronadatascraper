@@ -105,6 +105,18 @@
     "rating": 0.5490196078431373
   },
   {
+    "state": "IL",
+    "country": "USA",
+    "priority": 1,
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
+    "type": "json",
+    "ssl": false,
+    "rating": 0.5490196078431373
+  },
+  {
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
@@ -148,6 +160,17 @@
     "type": "list",
     "ssl": true,
     "rating": 0.5098039215686274
+  },
+  {
+    "country": "RUS",
+    "aggregate": "state",
+    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
+    "type": "json",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
   },
   {
     "country": "USA",
@@ -220,18 +243,6 @@
     "rating": 0.47058823529411764
   },
   {
-    "state": "IL",
-    "country": "USA",
-    "priority": 1,
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
-    "type": "json",
-    "ssl": false,
-    "rating": 0.47058823529411764
-  },
-  {
     "state": "ME",
     "country": "USA",
     "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
@@ -290,6 +301,16 @@
     "type": "table",
     "ssl": true,
     "rating": 0.47058823529411764
+  },
+  {
+    "country": "FRA",
+    "url": "",
+    "priority": 1,
+    "headless": false,
+    "certValidation": true,
+    "type": "list",
+    "ssl": false,
+    "rating": 0.45098039215686275
   },
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
@@ -468,6 +489,18 @@
     "rating": 0.43137254901960786
   },
   {
+    "county": "Washoe County",
+    "state": "NV",
+    "country": "USA",
+    "url": "https://www.washoecounty.us/health/programs-and-services/communicable-diseases-and-epidemiology/educational_materials/COVID-19.php",
+    "type": "table",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.43137254901960786
+  },
+  {
     "state": "WA",
     "country": "USA",
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
@@ -504,6 +537,18 @@
     "rating": 0.4117647058823529
   },
   {
+    "state": "CO",
+    "country": "USA",
+    "aggregate": "county",
+    "priority": 1,
+    "headless": false,
+    "certValidation": true,
+    "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.4117647058823529
+  },
+  {
     "county": "Merced County",
     "state": "CA",
     "country": "USA",
@@ -528,18 +573,6 @@
     "rating": 0.4117647058823529
   },
   {
-    "state": "CO",
-    "country": "USA",
-    "aggregate": "county",
-    "priority": 1,
-    "headless": false,
-    "certValidation": true,
-    "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
-    "type": "csv",
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
     "state": "MT",
     "country": "USA",
     "url": "https://services.arcgis.com/qnjIrwR8z5Izc0ij/arcgis/rest/services/PUBLIC_VIEW_COVID19_CASES/FeatureServer/0/query?f=json&where=Total%20%3C%3E%200&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAMELABEL%20asc&resultOffset=0&resultRecordCount=56&cacheHint=true",
@@ -560,30 +593,6 @@
     "certValidation": true,
     "priority": 0,
     "url": "https://opendata.arcgis.com/datasets/24f4fcf164ad4b4280f08c8939dd5dc7_0.csv",
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
-    "state": "RI",
-    "country": "USA",
-    "priority": 1,
-    "type": "csv",
-    "aggregate": "county",
-    "url": "https://docs.google.com/spreadsheets/d/1n-zMS9Al94CPj_Tc3K7Adin-tN9x1RSjjx2UzJ4SV7Q/gviz/tq?tqx=out:csv&sheet=County+Data#gid=0",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
-    "state": "WI",
-    "country": "USA",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://services1.arcgis.com/ISZ89Z51ft1G16OK/arcgis/rest/services/COVID19_WI/FeatureServer/0//query?where=1%3D1&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=NAME%2CPOSITIVE%2CDATE%2CCMNTY_SPRD&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=NAME+ASC&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=",
-    "type": "json",
     "ssl": true,
     "rating": 0.4117647058823529
   },
@@ -718,6 +727,18 @@
     "rating": 0.39215686274509803
   },
   {
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "type": "table",
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
     "state": "AK",
     "country": "USA",
     "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
@@ -766,18 +787,6 @@
     "rating": 0.37254901960784315
   },
   {
-    "state": "OH",
-    "country": "USA",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
-    "type": "list",
-    "ssl": true,
-    "rating": 0.37254901960784315
-  },
-  {
     "state": "WV",
     "country": "USA",
     "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
@@ -794,18 +803,6 @@
     "state": "NV",
     "country": "USA",
     "url": "https://www.southernnevadahealthdistrict.org/coronavirus",
-    "type": "table",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.35294117647058826
-  },
-  {
-    "county": "Washoe County",
-    "state": "NV",
-    "country": "USA",
-    "url": "https://www.washoecounty.us/health/programs-and-services/communicable-diseases-and-epidemiology/educational_materials/COVID-19.php",
     "type": "table",
     "headless": false,
     "certValidation": true,
@@ -902,18 +899,6 @@
     "state": "CA",
     "country": "USA",
     "url": "https://www.smchealth.org/coronavirus",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.3333333333333333
-  },
-  {
-    "county": "Santa Clara County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1086,18 +1071,6 @@
     "rating": 0.2549019607843137
   },
   {
-    "county": "Marin County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://coronavirus.marinhhs.org/surveillance",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
     "county": "Mendocino County",
     "state": "CA",
     "country": "USA",
@@ -1148,24 +1121,13 @@
   {
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3252020.pdf",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf",
     "type": "pdf",
     "aggregate": "county",
     "headless": false,
     "certValidation": true,
     "priority": 0,
     "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "state": "Guam",
-    "country": "USA",
-    "url": "http://dphss.guam.gov/2019-novel-coronavirus-2019-n-cov/",
-    "type": "table",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
     "rating": 0.2549019607843137
   },
   {
@@ -1247,7 +1209,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_25_2020_.pdf",
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_26_2020_.pdf",
     "ssl": true,
     "rating": 0.17647058823529413
   },
@@ -1259,7 +1221,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-25-2020/download",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-26-2020/download",
     "ssl": true,
     "rating": 0.17647058823529413
   },
@@ -1274,6 +1236,17 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.17647058823529413
+  },
+  {
+    "country": "AUS",
+    "priority": 2,
+    "state": "Queensland",
+    "type": "paragraph",
+    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.13725490196078433
   },
   {
     "county": "San Luis Obispo County",
@@ -1333,17 +1306,6 @@
     "priority": 0,
     "ssl": false,
     "rating": 0.0784313725490196
-  },
-  {
-    "country": "AUS",
-    "priority": 2,
-    "state": "Queensland",
-    "type": "paragraph",
-    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.058823529411764705
   },
   {
     "country": "AUS",
