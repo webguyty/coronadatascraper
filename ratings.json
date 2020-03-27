@@ -537,18 +537,6 @@
     "rating": 0.4117647058823529
   },
   {
-    "state": "CO",
-    "country": "USA",
-    "aggregate": "county",
-    "priority": 1,
-    "headless": false,
-    "certValidation": true,
-    "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
-    "type": "csv",
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
     "county": "Merced County",
     "state": "CA",
     "country": "USA",
@@ -569,6 +557,18 @@
     "certValidation": true,
     "priority": 0,
     "type": "list",
+    "ssl": true,
+    "rating": 0.4117647058823529
+  },
+  {
+    "state": "CO",
+    "country": "USA",
+    "aggregate": "county",
+    "priority": 1,
+    "headless": false,
+    "certValidation": true,
+    "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
+    "type": "csv",
     "ssl": true,
     "rating": 0.4117647058823529
   },
@@ -724,6 +724,18 @@
     "url": "https://coronavirus-dashboard.utah.gov/",
     "type": "table",
     "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
+    "state": "VA",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv",
+    "type": "csv",
+    "ssl": false,
     "rating": 0.39215686274509803
   },
   {
@@ -1122,18 +1134,6 @@
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf",
-    "type": "pdf",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "state": "VA",
-    "country": "USA",
-    "url": "https://public.tableau.com/views/VirginiaCOVID-19Dashboard/VirginiaCOVID-19Dashboard",
     "type": "pdf",
     "aggregate": "county",
     "headless": false,

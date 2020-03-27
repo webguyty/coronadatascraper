@@ -3314,23 +3314,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,667,,,,,1.0845528455284552,2020-03-24
 ,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,784,,,,,1.1754122938530736,2020-03-25
 ,,TN,USA,6829174,35.837455259602535,-85.98153690830165,https://www.tn.gov/health/cedep/ncov.html,957,,,,,1.2206632653061225,2020-03-26
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,7,,,7,,,2020-03-10
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,9,,,9,,1.2857142857142858,2020-03-11
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,17,,,17,,1.8888888888888888,2020-03-12
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,30,,,30,,1.7647058823529411,2020-03-13
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,41,1,,40,,1.3666666666666667,2020-03-14
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,45,1,,44,,1.0975609756097562,2020-03-15
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,49,1,,48,,1.0888888888888888,2020-03-16
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,67,2,,65,,1.3673469387755102,2020-03-17
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,77,2,,75,,1.1492537313432836,2020-03-18
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,94,2,,,1923,1.2207792207792207,2020-03-19
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,114,2,,,2325,1.2127659574468086,2020-03-20
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,152,2,,,2790,1.3333333333333333,2020-03-21
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,219,3,,,3337,1.4407894736842106,2020-03-22
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,254,6,,,3697,1.1598173515981736,2020-03-23
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,290,7,,,4470,1.141732283464567,2020-03-24
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,391,9,,,5370,1.3482758620689654,2020-03-25
-,,VA,USA,8535519,37.99530438119223,-79.76028754243612,https://covidtracking.com/api/states,460,13,,,6189,1.1764705882352942,2020-03-26
 ,,AZ,USA,7278717,34.165156819218375,-111.93299895849756,https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y,6,,1,5,,,2020-03-10
 ,,AZ,USA,7278717,34.165156819218375,-111.93299895849756,https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y,9,,1,8,,1.5,2020-03-11
 ,,AZ,USA,7278717,34.165156819218375,-111.93299895849756,https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y,9,,1,8,,1,2020-03-12
@@ -6998,14 +6981,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Philadelphia County,PA,USA,1584138,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,177,,,,,1.3828125,2020-03-24
 ,Philadelphia County,PA,USA,1584138,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,257,1,,,,1.4519774011299436,2020-03-25
 ,Philadelphia County,PA,USA,1584138,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,402,1,,,,1.5642023346303502,2020-03-26
-,Norfolk County,VA,USA,,36.8508,-76.2859,https://github.com/CSSEGISandData/COVID-19,2,,,2,,,2020-03-10
-,Norfolk County,VA,USA,,36.8508,-76.2859,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-03-11
-,Arlington County,VA,USA,,38.8816,-77.091,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-10
-,Arlington County,VA,USA,,38.8816,-77.091,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-11
-,Spotsylvania County,VA,USA,,38.2042,-77.6078,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-10
-,Spotsylvania County,VA,USA,,38.2042,-77.6078,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-11
-,Loudoun County,VA,USA,,39.0768,-77.6536,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-10
-,Loudoun County,VA,USA,,39.0768,-77.6536,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-11
 ,Prince George's County,MD,USA,909308,38.8331695,-76.87822,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,3,,,3,,,2020-03-10
 ,Prince George's County,MD,USA,909308,38.8331695,-76.87822,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,3,,,3,,1,2020-03-11
 ,Prince George's County,MD,USA,909308,38.8331695,-76.87822,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,9,,,,,,2020-03-15
@@ -7577,10 +7552,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Volusia County,FL,USA,547538,29.0200235,-81.20657349999999,https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv,19,,,,180,1.1875,2020-03-24
 ,Volusia County,FL,USA,547538,29.0200235,-81.20657349999999,https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv,28,,,,303,1.4736842105263157,2020-03-25
 ,Volusia County,FL,USA,547538,29.0200235,-81.20657349999999,https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv,34,,,,376,1.2142857142857142,2020-03-26
-,Fairfax County,VA,USA,,38.9085,-77.2405,https://github.com/CSSEGISandData/COVID-19,2,,,2,,,2020-03-08
-,Fairfax County,VA,USA,,38.9085,-77.2405,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-03-09
-,Fairfax County,VA,USA,,38.9085,-77.2405,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1.5,2020-03-10
-,Fairfax County,VA,USA,,38.9085,-77.2405,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-03-11
 ,Rockingham County,NH,USA,309176,43.005895499999994,-71.0775545,https://www.nh.gov/covid19/documents/case-map.pdf,1,,,1,,,2020-03-08
 ,Rockingham County,NH,USA,309176,43.005895499999994,-71.0775545,https://www.nh.gov/covid19/documents/case-map.pdf,1,,,1,,1,2020-03-09
 ,Rockingham County,NH,USA,309176,43.005895499999994,-71.0775545,https://www.nh.gov/covid19/documents/case-map.pdf,1,,,1,,1,2020-03-10
@@ -9502,7 +9473,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Bucks County,PA,USA,628195,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,65,,,,,1.5116279069767442,2020-03-24
 ,Bucks County,PA,USA,628195,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,86,,,,,1.323076923076923,2020-03-25
 ,Bucks County,PA,USA,628195,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx,107,,,,,1.244186046511628,2020-03-26
-,Hanover County,VA,USA,,37.7772,-77.5161,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-11
 ,Lancaster County,SC,USA,95380,34.767196,-80.658954,https://opendata.arcgis.com/datasets/5ffb6e698ea64a91a497194814a26311_0.csv,1,,,1,,,2020-03-11
 ,Lancaster County,SC,USA,95380,34.767196,-80.658954,https://opendata.arcgis.com/datasets/5ffb6e698ea64a91a497194814a26311_0.csv,3,,,3,,,2020-03-21
 ,Lancaster County,SC,USA,95380,34.767196,-80.658954,https://opendata.arcgis.com/datasets/5ffb6e698ea64a91a497194814a26311_0.csv,5,,,5,,1.6666666666666667,2020-03-22
@@ -10043,6 +10013,245 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,69176,6820,8326,54030,,1.0821092808985249,2020-03-24
 ,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,74386,7503,9362,57521,,1.0753151381982191,2020-03-25
 ,,,ITA,62137802,41.826061709500074,12.56007714450007,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,80539,8165,10361,62013,,1.0827171779635953,2020-03-26
+,Accomack County,VA,USA,32412,37.7385425,-75.644398,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Accomack County,VA,USA,32412,37.7385425,-75.644398,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Accomack County,VA,USA,32412,37.7385425,-75.644398,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Accomack County,VA,USA,32412,37.7385425,-75.644398,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Accomack County,VA,USA,32412,37.7385425,-75.644398,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-26
+,Albemarle County,VA,USA,108718,38.000304,-78.5236515,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Albemarle County,VA,USA,108718,38.000304,-78.5236515,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Albemarle County,VA,USA,108718,38.000304,-78.5236515,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-24
+,Albemarle County,VA,USA,108718,38.000304,-78.5236515,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,,,,,2,2020-03-25
+,Albemarle County,VA,USA,108718,38.000304,-78.5236515,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1.5,2020-03-26
+,Alexandria County,VA,USA,160530,38.814772500000004,-77.088335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,,2020-03-22
+,Alexandria County,VA,USA,160530,38.814772500000004,-77.088335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1.2,2020-03-23
+,Alexandria County,VA,USA,160530,38.814772500000004,-77.088335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,8,,,,,1.3333333333333333,2020-03-24
+,Alexandria County,VA,USA,160530,38.814772500000004,-77.088335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,9,,,,,1.125,2020-03-25
+,Alexandria County,VA,USA,160530,38.814772500000004,-77.088335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,14,,,,,1.5555555555555556,2020-03-26
+,Amelia County,VA,USA,13013,37.3452815,-77.9428245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Amherst County,VA,USA,31666,37.602087,-79.1530855,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Amherst County,VA,USA,31666,37.602087,-79.1530855,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Amherst County,VA,USA,31666,37.602087,-79.1530855,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Amherst County,VA,USA,31666,37.602087,-79.1530855,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Amherst County,VA,USA,31666,37.602087,-79.1530855,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Arlington County,VA,USA,237521,38.88086,-77.1019335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,26,,,,,,2020-03-22
+,Arlington County,VA,USA,237521,38.88086,-77.1019335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,34,,,,,1.3076923076923077,2020-03-23
+,Arlington County,VA,USA,237521,38.88086,-77.1019335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,36,,,,,1.0588235294117647,2020-03-24
+,Arlington County,VA,USA,237521,38.88086,-77.1019335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,46,,,,,1.2777777777777777,2020-03-25
+,Arlington County,VA,USA,237521,38.88086,-77.1019335,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,54,,,,,1.173913043478261,2020-03-26
+,Bedford County,VA,USA,78747,37.311538,-79.52068,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Bedford County,VA,USA,78747,37.311538,-79.52068,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Bedford County,VA,USA,78747,37.311538,-79.52068,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Bedford County,VA,USA,78747,37.311538,-79.52068,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-25
+,Bedford County,VA,USA,78747,37.311538,-79.52068,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Botetourt County,VA,USA,33277,37.555082999999996,-79.786269,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Botetourt County,VA,USA,33277,37.555082999999996,-79.786269,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Botetourt County,VA,USA,33277,37.555082999999996,-79.786269,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Botetourt County,VA,USA,33277,37.555082999999996,-79.786269,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Botetourt County,VA,USA,33277,37.555082999999996,-79.786269,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Charles City County,VA,USA,6941,37.3568285,-77.07255599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Charles City County,VA,USA,6941,37.3568285,-77.07255599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Charles City County,VA,USA,6941,37.3568285,-77.07255599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Charles City County,VA,USA,6941,37.3568285,-77.07255599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Charles City County,VA,USA,6941,37.3568285,-77.07255599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Charlottesville County,VA,USA,48117,38.038388,-78.4847125,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,,,,,,2020-03-22
+,Charlottesville County,VA,USA,48117,38.038388,-78.4847125,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,,,,,1,2020-03-23
+,Charlottesville County,VA,USA,48117,38.038388,-78.4847125,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,1.25,2020-03-24
+,Charlottesville County,VA,USA,48117,38.038388,-78.4847125,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1.2,2020-03-25
+,Charlottesville County,VA,USA,48117,38.038388,-78.4847125,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,9,,,,,1.5,2020-03-26
+,Chesapeake County,VA,USA,242634,36.7084495,-76.27851799999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-24
+,Chesapeake County,VA,USA,242634,36.7084495,-76.27851799999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,3,2020-03-25
+,Chesapeake County,VA,USA,242634,36.7084495,-76.27851799999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,,,,,1.3333333333333333,2020-03-26
+,Chesterfield County,VA,USA,348556,37.3898865,-77.5608615,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,8,,,,,,2020-03-22
+,Chesterfield County,VA,USA,348556,37.3898865,-77.5608615,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,9,,,,,1.125,2020-03-23
+,Chesterfield County,VA,USA,348556,37.3898865,-77.5608615,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,10,,,,,1.1111111111111112,2020-03-24
+,Chesterfield County,VA,USA,348556,37.3898865,-77.5608615,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,11,,,,,1.1,2020-03-25
+,Chesterfield County,VA,USA,348556,37.3898865,-77.5608615,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,12,,,,,1.0909090909090908,2020-03-26
+,Culpeper County,VA,USA,51859,38.5022845,-77.9253525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Culpeper County,VA,USA,51859,38.5022845,-77.9253525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Culpeper County,VA,USA,51859,38.5022845,-77.9253525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-24
+,Culpeper County,VA,USA,51859,38.5022845,-77.9253525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-25
+,Culpeper County,VA,USA,51859,38.5022845,-77.9253525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Danville County,VA,USA,40693,36.592781,-79.410942,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-23
+,Danville County,VA,USA,40693,36.592781,-79.410942,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Danville County,VA,USA,40693,36.592781,-79.410942,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-25
+,Danville County,VA,USA,40693,36.592781,-79.410942,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Fairfax city,VA,USA,24574,38.850363,-77.3026525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Fairfax city,VA,USA,24574,38.850363,-77.3026525,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Fairfax County,VA,USA,1150795,38.837506,-77.2880665,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,31,1,,,,,2020-03-22
+,Fairfax County,VA,USA,1150795,38.837506,-77.2880665,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,43,1,,,,1.3870967741935485,2020-03-23
+,Fairfax County,VA,USA,1150795,38.837506,-77.2880665,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,46,1,,,,1.069767441860465,2020-03-24
+,Fairfax County,VA,USA,1150795,38.837506,-77.2880665,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,76,1,,,,1.6521739130434783,2020-03-25
+,Fairfax County,VA,USA,1150795,38.837506,-77.2880665,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,79,,,,,1.0394736842105263,2020-03-26
+,Fauquier County,VA,USA,70675,38.711777,-77.830744,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Fluvanna County,VA,USA,26783,37.848447,-78.2774385,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Fluvanna County,VA,USA,26783,37.848447,-78.2774385,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Fluvanna County,VA,USA,26783,37.848447,-78.2774385,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Fluvanna County,VA,USA,26783,37.848447,-78.2774385,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Fluvanna County,VA,USA,26783,37.848447,-78.2774385,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,3,2020-03-26
+,Franklin County,VA,USA,56195,37.0068835,-79.91475700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Franklin County,VA,USA,56195,37.0068835,-79.91475700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Franklin County,VA,USA,56195,37.0068835,-79.91475700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Franklin County,VA,USA,56195,37.0068835,-79.91475700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Franklin County,VA,USA,56195,37.0068835,-79.91475700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Frederick County,VA,USA,88355,39.236994499999994,-78.28864300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-25
+,Frederick County,VA,USA,88355,39.236994499999994,-78.28864300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Fredericksburg County,VA,USA,29144,38.298085,-77.48990599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Fredericksburg County,VA,USA,29144,38.298085,-77.48990599999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Gloucester County,VA,USA,37349,37.4220945,-76.53089700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Gloucester County,VA,USA,37349,37.4220945,-76.53089700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Gloucester County,VA,USA,37349,37.4220945,-76.53089700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-24
+,Gloucester County,VA,USA,37349,37.4220945,-76.53089700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-25
+,Gloucester County,VA,USA,37349,37.4220945,-76.53089700000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Goochland County,VA,USA,23244,37.7338695,-77.8880645,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Goochland County,VA,USA,23244,37.7338695,-77.8880645,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Goochland County,VA,USA,23244,37.7338695,-77.8880645,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1.5,2020-03-24
+,Goochland County,VA,USA,23244,37.7338695,-77.8880645,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1,2020-03-25
+,Goochland County,VA,USA,23244,37.7338695,-77.8880645,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1,2020-03-26
+,Halifax County,VA,USA,34120,36.801494500000004,-78.898201,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-24
+,Halifax County,VA,USA,34120,36.801494500000004,-78.898201,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Halifax County,VA,USA,34120,36.801494500000004,-78.898201,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Hampton County,VA,USA,134313,37.053562,-76.361216,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Hanover County,VA,USA,107239,37.7722045,-77.4571685,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Hanover County,VA,USA,107239,37.7722045,-77.4571685,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-23
+,Hanover County,VA,USA,107239,37.7722045,-77.4571685,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,0.5,2020-03-24
+,Hanover County,VA,USA,107239,37.7722045,-77.4571685,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-25
+,Hanover County,VA,USA,107239,37.7722045,-77.4571685,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Harrisonburg County,VA,USA,54033,38.4391325,-78.87013300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Harrisonburg County,VA,USA,54033,38.4391325,-78.87013300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Harrisonburg County,VA,USA,54033,38.4391325,-78.87013300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Harrisonburg County,VA,USA,54033,38.4391325,-78.87013300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-25
+,Harrisonburg County,VA,USA,54033,38.4391325,-78.87013300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1.5,2020-03-26
+,Henrico County,VA,USA,329261,37.531183,-77.41600199999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,8,,,,,,2020-03-22
+,Henrico County,VA,USA,329261,37.531183,-77.41600199999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,11,,,,,1.375,2020-03-23
+,Henrico County,VA,USA,329261,37.531183,-77.41600199999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,14,,,,,1.2727272727272727,2020-03-24
+,Henrico County,VA,USA,329261,37.531183,-77.41600199999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,20,2,,,,1.4285714285714286,2020-03-25
+,Henrico County,VA,USA,329261,37.531183,-77.41600199999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,21,,,,,1.05,2020-03-26
+,Isle of Wight County,VA,USA,36953,36.893055000000004,-76.7051245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Isle of Wight County,VA,USA,36953,36.893055000000004,-76.7051245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Isle of Wight County,VA,USA,36953,36.893055000000004,-76.7051245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-24
+,Isle of Wight County,VA,USA,36953,36.893055000000004,-76.7051245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-25
+,Isle of Wight County,VA,USA,36953,36.893055000000004,-76.7051245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,James City County,VA,USA,76397,37.3170865,-76.74548949999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,32,1,,,,,2020-03-22
+,James City County,VA,USA,76397,37.3170865,-76.74548949999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,34,2,,,,1.0625,2020-03-23
+,James City County,VA,USA,76397,37.3170865,-76.74548949999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,37,2,,,,1.088235294117647,2020-03-24
+,James City County,VA,USA,76397,37.3170865,-76.74548949999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,41,2,,,,1.1081081081081081,2020-03-25
+,James City County,VA,USA,76397,37.3170865,-76.74548949999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,49,,,,,1.1951219512195121,2020-03-26
+,Lee County,VA,USA,23541,36.743474,-83.22336050000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Lee County,VA,USA,23541,36.743474,-83.22336050000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Lee County,VA,USA,23541,36.743474,-83.22336050000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-24
+,Lee County,VA,USA,23541,36.743474,-83.22336050000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-25
+,Lee County,VA,USA,23541,36.743474,-83.22336050000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Loudoun County,VA,USA,406850,39.085832999999994,-77.6451185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,15,,,,,,2020-03-22
+,Loudoun County,VA,USA,406850,39.085832999999994,-77.6451185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,15,,,,,1,2020-03-23
+,Loudoun County,VA,USA,406850,39.085832999999994,-77.6451185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,18,,,,,1.2,2020-03-24
+,Loudoun County,VA,USA,406850,39.085832999999994,-77.6451185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,20,,,,,1.1111111111111112,2020-03-25
+,Loudoun County,VA,USA,406850,39.085832999999994,-77.6451185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,28,,,,,1.4,2020-03-26
+,Louisa County,VA,USA,36778,37.940726,-77.9969505,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Louisa County,VA,USA,36778,37.940726,-77.9969505,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-23
+,Louisa County,VA,USA,36778,37.940726,-77.9969505,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-24
+,Louisa County,VA,USA,36778,37.940726,-77.9969505,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1.5,2020-03-25
+,Louisa County,VA,USA,36778,37.940726,-77.9969505,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,,,,,1.3333333333333333,2020-03-26
+,Lynchburg County,VA,USA,82126,37.399454,-79.1769855,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Madison County,VA,USA,13295,38.428897500000005,-78.2678535,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Madison County,VA,USA,13295,38.428897500000005,-78.2678535,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Manassas County,VA,USA,41641,38.75269,-77.4881815,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,,2020-03-26
+,Mathews County,VA,USA,8802,37.422753,-76.3485555,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Mathews County,VA,USA,8802,37.422753,-76.3485555,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Mecklenburg County,VA,USA,30650,36.716100499999996,-78.382992,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Mecklenburg County,VA,USA,30650,36.716100499999996,-78.382992,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Mecklenburg County,VA,USA,30650,36.716100499999996,-78.382992,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-24
+,Mecklenburg County,VA,USA,30650,36.716100499999996,-78.382992,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1.5,2020-03-25
+,Mecklenburg County,VA,USA,30650,36.716100499999996,-78.382992,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1,2020-03-26
+,Nelson County,VA,USA,14836,37.7916035,-78.90690000000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Nelson County,VA,USA,14836,37.7916035,-78.90690000000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Newport News County,VA,USA,178626,37.091746,-76.5062455,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Newport News County,VA,USA,178626,37.091746,-76.5062455,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,1,,,,1,2020-03-23
+,Newport News County,VA,USA,178626,37.091746,-76.5062455,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,1,,,,1.5,2020-03-24
+,Newport News County,VA,USA,178626,37.091746,-76.5062455,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,1,,,,1.3333333333333333,2020-03-25
+,Newport News County,VA,USA,178626,37.091746,-76.5062455,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,8,,,,,2,2020-03-26
+,Norfolk County,VA,USA,244076,36.894752,-76.260784,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,,2020-03-22
+,Norfolk County,VA,USA,244076,36.894752,-76.260784,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,4,,,,,1.3333333333333333,2020-03-23
+,Norfolk County,VA,USA,244076,36.894752,-76.260784,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,1.25,2020-03-24
+,Norfolk County,VA,USA,244076,36.894752,-76.260784,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,1,2020-03-25
+,Norfolk County,VA,USA,244076,36.894752,-76.260784,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1.2,2020-03-26
+,Nottoway County,VA,USA,15420,37.1417495,-78.01764,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Nottoway County,VA,USA,15420,37.1417495,-78.01764,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Orange County,VA,USA,36644,38.255215,-78.03649300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Orange County,VA,USA,36644,38.255215,-78.03649300000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Pittsylvania County,VA,USA,60949,36.8390615,-79.40355199999999,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Poquoson County,VA,USA,12190,37.13374949999999,-76.350437,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Portsmouth County,VA,USA,94632,36.8552965,-76.355165,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Portsmouth County,VA,USA,94632,36.8552965,-76.355165,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Portsmouth County,VA,USA,94632,36.8552965,-76.355165,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,3,2020-03-24
+,Portsmouth County,VA,USA,94632,36.8552965,-76.355165,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1,2020-03-25
+,Portsmouth County,VA,USA,94632,36.8552965,-76.355165,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1,2020-03-26
+,Prince Edward County,VA,USA,22950,37.238687,-78.461833,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Prince Edward County,VA,USA,22950,37.238687,-78.461833,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Prince Edward County,VA,USA,22950,37.238687,-78.461833,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Prince Edward County,VA,USA,22950,37.238687,-78.461833,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,2,2020-03-25
+,Prince Edward County,VA,USA,22950,37.238687,-78.461833,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Prince William County,VA,USA,468011,38.721167,-77.468347,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,18,,,,,,2020-03-22
+,Prince William County,VA,USA,468011,38.721167,-77.468347,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,18,,,,,1,2020-03-23
+,Prince William County,VA,USA,468011,38.721167,-77.468347,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,23,,,,,1.2777777777777777,2020-03-24
+,Prince William County,VA,USA,468011,38.721167,-77.468347,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,32,,,,,1.391304347826087,2020-03-25
+,Prince William County,VA,USA,468011,38.721167,-77.468347,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,36,,,,,1.125,2020-03-26
+,Radford County,VA,USA,18339,37.1189815,-80.551853,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Richmond city,VA,USA,9038,37.5247625,-77.4909325,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,,2020-03-22
+,Richmond city,VA,USA,9038,37.5247625,-77.4909325,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,8,,,,,1.3333333333333333,2020-03-23
+,Richmond city,VA,USA,9038,37.5247625,-77.4909325,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,11,,,,,1.375,2020-03-24
+,Richmond city,VA,USA,9038,37.5247625,-77.4909325,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,13,,,,,1.1818181818181819,2020-03-25
+,Richmond city,VA,USA,9038,37.5247625,-77.4909325,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,14,,,,,1.0769230769230769,2020-03-26
+,Roanoke County,VA,USA,99920,37.26787,-80.0542245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-25
+,Roanoke County,VA,USA,99920,37.26787,-80.0542245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Rockbridge County,VA,USA,22752,37.809496,-79.4160435,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-23
+,Rockbridge County,VA,USA,22752,37.809496,-79.4160435,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Rockbridge County,VA,USA,22752,37.809496,-79.4160435,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Rockbridge County,VA,USA,22752,37.809496,-79.4160435,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Rockingham County,VA,USA,81244,38.5283615,-78.8550975,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Rockingham County,VA,USA,81244,38.5283615,-78.8550975,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Rockingham County,VA,USA,81244,38.5283615,-78.8550975,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1.5,2020-03-24
+,Rockingham County,VA,USA,81244,38.5283615,-78.8550975,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,0.6666666666666666,2020-03-25
+,Rockingham County,VA,USA,81244,38.5283615,-78.8550975,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-26
+,Shenandoah County,VA,USA,43497,38.8514855,-78.58491000000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,,2020-03-25
+,Shenandoah County,VA,USA,43497,38.8514855,-78.58491000000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1,2020-03-26
+,Spotsylvania County,VA,USA,134238,38.1845175,-77.66256,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,,2020-03-22
+,Spotsylvania County,VA,USA,134238,38.1845175,-77.66256,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-23
+,Spotsylvania County,VA,USA,134238,38.1845175,-77.66256,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,1,2020-03-24
+,Spotsylvania County,VA,USA,134238,38.1845175,-77.66256,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,3,,,,,1.5,2020-03-25
+,Spotsylvania County,VA,USA,134238,38.1845175,-77.66256,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,2,,,,,0.6666666666666666,2020-03-26
+,Stafford County,VA,USA,149960,38.418784,-77.4605185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,,2020-03-22
+,Stafford County,VA,USA,149960,38.418784,-77.4605185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1.2,2020-03-23
+,Stafford County,VA,USA,149960,38.418784,-77.4605185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1,2020-03-24
+,Stafford County,VA,USA,149960,38.418784,-77.4605185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,,,,,1,2020-03-25
+,Stafford County,VA,USA,149960,38.418784,-77.4605185,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,7,,,,,1.1666666666666667,2020-03-26
+,Suffolk County,VA,USA,91185,36.739614,-76.66892200000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-22
+,Suffolk County,VA,USA,91185,36.739614,-76.66892200000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-23
+,Suffolk County,VA,USA,91185,36.739614,-76.66892200000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-24
+,Suffolk County,VA,USA,91185,36.739614,-76.66892200000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-25
+,Suffolk County,VA,USA,91185,36.739614,-76.66892200000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,1,2020-03-26
+,Virginia Beach County,VA,USA,450189,36.7412495,-76.047402,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,17,,,,,,2020-03-22
+,Virginia Beach County,VA,USA,450189,36.7412495,-76.047402,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,17,,,,,1,2020-03-23
+,Virginia Beach County,VA,USA,450189,36.7412495,-76.047402,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,17,1,,,,1,2020-03-24
+,Virginia Beach County,VA,USA,450189,36.7412495,-76.047402,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,23,1,,,,1.3529411764705883,2020-03-25
+,Virginia Beach County,VA,USA,450189,36.7412495,-76.047402,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,26,,,,,1.1304347826086956,2020-03-26
+,Warren County,VA,USA,40003,38.8966595,-78.1954245,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Washington County,VA,USA,54402,36.761613,-81.968962,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,1,,,,,,2020-03-26
+,Williamsburg County,VA,USA,14896,37.278078,-76.703554,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,,2020-03-22
+,Williamsburg County,VA,USA,14896,37.278078,-76.703554,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,1,,,,1,2020-03-23
+,Williamsburg County,VA,USA,14896,37.278078,-76.703554,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,1,,,,1,2020-03-24
+,Williamsburg County,VA,USA,14896,37.278078,-76.703554,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,1,,,,1,2020-03-25
+,Williamsburg County,VA,USA,14896,37.278078,-76.703554,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,,,,,1,2020-03-26
+,York County,VA,USA,67846,37.236022,-76.57206500000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,1,,,,,2020-03-22
+,York County,VA,USA,67846,37.236022,-76.57206500000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,5,1,,,,1,2020-03-23
+,York County,VA,USA,67846,37.236022,-76.57206500000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,6,1,,,,1.2,2020-03-24
+,York County,VA,USA,67846,37.236022,-76.57206500000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,8,1,,,,1.3333333333333333,2020-03-25
+,York County,VA,USA,67846,37.236022,-76.57206500000001,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,9,,,,,1.125,2020-03-26
+,,VA,USA,8535519,37.99530438119223,-79.76028754243612,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,219,3,,,,,2020-03-22
+,,VA,USA,8535519,37.99530438119223,-79.76028754243612,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,254,6,,,,1.1598173515981736,2020-03-23
+,,VA,USA,8535519,37.99530438119223,-79.76028754243612,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,290,7,,,,1.141732283464567,2020-03-24
+,,VA,USA,8535519,37.99530438119223,-79.76028754243612,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,389,9,,,,1.3413793103448275,2020-03-25
+,,VA,USA,8535519,37.99530438119223,-79.76028754243612,http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv,460,,,,,1.1825192802056554,2020-03-26
 ,,Île-de-France,FRA,12246234,48.677200741510504,2.5014494346077,,2,,,,,,2020-01-24
 ,,Île-de-France,FRA,12246234,48.677200741510504,2.5014494346077,,2,,,,,1,2020-01-25
 ,,Île-de-France,FRA,12246234,48.677200741510504,2.5014494346077,,2,,,,,1,2020-01-26
@@ -12164,22 +12373,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6476,32,,,,1.2143258953684606,2020-03-24
 ,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7285,42,,,,1.124922791846819,2020-03-25
 ,,DE-BW,DEU,11020000,48.65924504322413,8.994572383783805,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,8580,83,,,,1.1777625257378175,2020-03-26
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,21,,,,,,2020-03-11
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,38,,,,,1.8095238095238095,2020-03-12
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,42,,,,,1.105263157894737,2020-03-13
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,50,,,,,1.1904761904761905,2020-03-14
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,53,,,,,1.06,2020-03-15
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,56,,,,,1.0566037735849056,2020-03-16
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,66,,,,,1.1785714285714286,2020-03-17
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,66,3,,,,1,2020-03-18
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,119,,,,,1.803030303030303,2020-03-19
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,127,,,,,1.0672268907563025,2020-03-20
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,,,1.3228346456692914,2020-03-21
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,,,1,2020-03-22
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,175,,,,,1.0416666666666667,2020-03-23
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,186,,,,,1.062857142857143,2020-03-24
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,203,,,,,1.0913978494623655,2020-03-25
-,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,213,1,,,,1.0492610837438423,2020-03-26
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,366,,,,,,2020-03-11
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,500,,,,,1.366120218579235,2020-03-12
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,558,,,,,1.116,2020-03-13
@@ -12196,22 +12389,22 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,6666,32,,,,1.1655883895785977,2020-03-24
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,7921,38,,,,1.1882688268826882,2020-03-25
 ,,DE-BY,DEU,13000000,48.895550522738404,11.413003577447412,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,9487,51,,,,1.1977023103143543,2020-03-26
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,,,,2020-03-11
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,88,,,,,1.8333333333333333,2020-03-12
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,99,,,,,1.125,2020-03-13
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,158,,,,,1.595959595959596,2020-03-14
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,162,,,,,1.0253164556962024,2020-03-15
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,260,,,,,1.6049382716049383,2020-03-16
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,312,,,,,1.2,2020-03-17
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,414,1,,,,1.3269230769230769,2020-03-18
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,506,1,,,,1.2222222222222223,2020-03-19
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,664,1,,,,1.3122529644268774,2020-03-20
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,768,1,,,,1.1566265060240963,2020-03-21
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,887,1,,,,1.1549479166666667,2020-03-22
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,989,1,,,,1.1149943630214205,2020-03-23
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1237,1,,,,1.2507583417593529,2020-03-24
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1450,1,,,,1.1721907841552142,2020-03-25
-,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1614,2,,,,1.1131034482758622,2020-03-26
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,21,,,,,,2020-03-11
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,38,,,,,1.8095238095238095,2020-03-12
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,42,,,,,1.105263157894737,2020-03-13
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,50,,,,,1.1904761904761905,2020-03-14
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,53,,,,,1.06,2020-03-15
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,56,,,,,1.0566037735849056,2020-03-16
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,66,,,,,1.1785714285714286,2020-03-17
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,66,3,,,,1,2020-03-18
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,119,,,,,1.803030303030303,2020-03-19
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,127,,,,,1.0672268907563025,2020-03-20
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,,,1.3228346456692914,2020-03-21
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,,,1,2020-03-22
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,175,,,,,1.0416666666666667,2020-03-23
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,186,,,,,1.062857142857143,2020-03-24
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,203,,,,,1.0913978494623655,2020-03-25
+,,DE-HB,DEU,548000,53.118205064861826,8.777195875189477,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,213,1,,,,1.0492610837438423,2020-03-26
 ,,DE-HE,DEU,6240000,50.52562429437566,9.00082563619415,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,,,,2020-03-11
 ,,DE-HE,DEU,6240000,50.52562429437566,9.00082563619415,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,99,,,,,2.0625,2020-03-12
 ,,DE-HE,DEU,6240000,50.52562429437566,9.00082563619415,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,148,,,,,1.494949494949495,2020-03-13
@@ -12228,6 +12421,22 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-HE,DEU,6240000,50.52562429437566,9.00082563619415,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1682,4,,,,1.2440828402366864,2020-03-24
 ,,DE-HE,DEU,6240000,50.52562429437566,9.00082563619415,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1941,7,,,,1.1539833531510106,2020-03-25
 ,,DE-HE,DEU,6240000,50.52562429437566,9.00082563619415,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2195,7,,,,1.13086038124678,2020-03-26
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,,,,2020-03-11
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,88,,,,,1.8333333333333333,2020-03-12
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,99,,,,,1.125,2020-03-13
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,158,,,,,1.595959595959596,2020-03-14
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,162,,,,,1.0253164556962024,2020-03-15
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,260,,,,,1.6049382716049383,2020-03-16
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,312,,,,,1.2,2020-03-17
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,414,1,,,,1.3269230769230769,2020-03-18
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,506,1,,,,1.2222222222222223,2020-03-19
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,664,1,,,,1.3122529644268774,2020-03-20
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,768,1,,,,1.1566265060240963,2020-03-21
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,887,1,,,,1.1549479166666667,2020-03-22
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,989,1,,,,1.1149943630214205,2020-03-23
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1237,1,,,,1.2507583417593529,2020-03-24
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1450,1,,,,1.1721907841552142,2020-03-25
+,,DE-HH,DEU,1822000,53.55885000307515,10.034395076067433,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1614,2,,,,1.1131034482758622,2020-03-26
 ,,DE-MV,DEU,1635000,53.846960177938655,12.496252627856478,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,17,,,,,,2020-03-11
 ,,DE-MV,DEU,1635000,53.846960177938655,12.496252627856478,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,23,,,,,1.3529411764705883,2020-03-12
 ,,DE-MV,DEU,1635000,53.846960177938655,12.496252627856478,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,33,,,,,1.434782608695652,2020-03-13
@@ -12276,22 +12485,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,8981,53,,,,1.0920476653696498,2020-03-24
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,9734,66,,,,1.0838436699699365,2020-03-25
 ,,DE-NW,DEU,17910000,51.42350306395746,7.694470862423458,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,10737,74,,,,1.1030408876104376,2020-03-26
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,25,,,,,,2020-03-11
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,52,,,,,2.08,2020-03-12
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,102,,,,,1.9615384615384615,2020-03-13
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,121,,,,,1.1862745098039216,2020-03-14
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,,,1.3884297520661157,2020-03-15
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,325,,,,,1.9345238095238095,2020-03-16
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,435,,,,,1.3384615384615384,2020-03-17
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,603,,,,,1.3862068965517242,2020-03-18
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,749,,,,,1.24212271973466,2020-03-19
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,890,1,,,,1.1882510013351135,2020-03-20
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1062,2,,,,1.193258426966292,2020-03-21
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1149,2,,,,1.0819209039548023,2020-03-22
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1285,4,,,,1.1183637946040035,2020-03-23
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1640,6,,,,1.2762645914396886,2020-03-24
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1814,5,,,,1.1060975609756099,2020-03-25
-,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2063,8,,,,1.137265711135612,2020-03-26
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,27,,,,,,2020-03-11
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,31,,,,,1.1481481481481481,2020-03-12
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,48,,,,,1.5483870967741935,2020-03-13
@@ -12308,6 +12501,22 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,552,2,,,,1.1820128479657388,2020-03-24
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,611,2,,,,1.1068840579710144,2020-03-25
 ,,DE-SH,DEU,2890000,54.138866681898854,9.942393425500086,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,705,3,,,,1.1538461538461537,2020-03-26
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,25,,,,,,2020-03-11
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,52,,,,,2.08,2020-03-12
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,102,,,,,1.9615384615384615,2020-03-13
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,121,,,,,1.1862745098039216,2020-03-14
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,168,,,,,1.3884297520661157,2020-03-15
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,325,,,,,1.9345238095238095,2020-03-16
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,435,,,,,1.3384615384615384,2020-03-17
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,603,,,,,1.3862068965517242,2020-03-18
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,749,,,,,1.24212271973466,2020-03-19
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,890,1,,,,1.1882510013351135,2020-03-20
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1062,2,,,,1.193258426966292,2020-03-21
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1149,2,,,,1.0819209039548023,2020-03-22
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1285,4,,,,1.1183637946040035,2020-03-23
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1640,6,,,,1.2762645914396886,2020-03-24
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,1814,5,,,,1.1060975609756099,2020-03-25
+,,DE-RP,DEU,4070000.0000000005,49.90656550694859,7.295141232392936,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,2063,8,,,,1.137265711135612,2020-03-26
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,14,,,,,,2020-03-11
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,14,,,,,1,2020-03-12
 ,,DE-SL,DEU,990000,49.36639313128034,6.865234525970379,https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv,40,,,,,2.857142857142857,2020-03-13
@@ -20288,6 +20497,13 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Worcester County,MD,USA,51823,38.2230905,-75.3490465,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,2,,,,,1,2020-03-24
 ,Worcester County,MD,USA,51823,38.2230905,-75.3490465,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,2,,,,,1,2020-03-25
 ,Worcester County,MD,USA,51823,38.2230905,-75.3490465,https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv,2,,,,,1,2020-03-26
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,1,,,,,,2020-03-18
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,3,,,,,3,2020-03-19
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,6,,,,,,2020-03-22
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,8,,,,,1.3333333333333333,2020-03-23
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,8,,,,,1,2020-03-24
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,15,,,,,1.875,2020-03-25
+,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,18,1,,,,1.2,2020-03-26
 ,La Plata County,CO,USA,56403,37.319665,-107.93047,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,1,,,,,,2020-03-24
 ,La Plata County,CO,USA,56403,37.319665,-107.93047,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,1,,,,,1,2020-03-25
 ,La Plata County,CO,USA,56403,37.319665,-107.93047,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,5,,,,,5,2020-03-26
@@ -20425,13 +20641,6 @@ Bear River County,,UT,USA,,39.49994305252983,-111.54443973955233,https://coronav
 ,Grand County,CO,USA,15474,40.085187000000005,-106.14149,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,2,,,,,1,2020-03-24
 ,Grand County,CO,USA,15474,40.085187000000005,-106.14149,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,2,,,,,1,2020-03-25
 ,Grand County,CO,USA,15474,40.085187000000005,-106.14149,https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv,2,,,,,1,2020-03-26
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,1,,,,,,2020-03-18
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,3,,,,,3,2020-03-19
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,6,,,,,,2020-03-22
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,8,,,,,1.3333333333333333,2020-03-23
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,8,,,,,1,2020-03-24
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,15,,,,,1.875,2020-03-25
-,Middlesex County,CT,USA,162682,41.4513225,-72.529236,https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf,18,1,,,,1.2,2020-03-26
 ,Washington County,IA,USA,22141,41.336486,-91.715019,https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv,1,,,,,,2020-03-18
 ,Washington County,IA,USA,22141,41.336486,-91.715019,https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv,1,,,1,,,2020-03-20
 ,Washington County,IA,USA,22141,41.336486,-91.715019,https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv,2,,,2,,2,2020-03-21

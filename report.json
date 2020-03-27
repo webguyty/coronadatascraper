@@ -6,7 +6,7 @@
   "scrape": {
     "numCountries": 172,
     "numStates": 314,
-    "numCounties": 3132,
+    "numCounties": 3133,
     "numCities": 0,
     "numDuplicates": 101,
     "numErrors": 10,
@@ -1499,8 +1499,6 @@
         {
           "state": "VA",
           "country": "USA",
-          "url": "https://public.tableau.com/views/VirginiaCOVID-19Dashboard/VirginiaCOVID-19Dashboard",
-          "type": "pdf",
           "aggregate": "county",
           "maintainers": [
             {
@@ -1514,8 +1512,11 @@
           "headless": false,
           "certValidation": true,
           "priority": 0,
-          "ssl": true,
-          "rating": 0.058823529411764705
+          "url": "http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv",
+          "type": "csv",
+          "cases": 460,
+          "ssl": false,
+          "rating": 0.3137254901960784
         }
       ],
       "TX, USA": [
@@ -8303,7 +8304,7 @@
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 3566,
+    "numFeaturesFound": 3567,
     "missingFeatures": [
       "French Polynesia, FRA",
       "New Caledonia, FRA",
@@ -8351,7 +8352,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 3219,
+    "numLocationsWithPopulation": 3220,
     "missingPopulations": [
       "Greenland, DNK",
       "French Guiana, FRA",
