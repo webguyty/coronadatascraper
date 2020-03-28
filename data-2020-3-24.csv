@@ -1,0 +1,14 @@
+city,county,state,country,cases,deaths,recovered,tested,active,population,lat,long,url,aggregate,rating,tz,featureId
+,,British Columbia,CAN,617,,,,,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Vancouver""]",0
+,,Alberta,CAN,358,,,,,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Edmonton""]",1
+,,Saskatchewan,CAN,72,,,,,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Regina""]",2
+,,Manitoba,CAN,11,,,,,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Winnipeg""]",3
+,,Ontario,CAN,588,,,,,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Toronto""]",4
+,,Quebec,CAN,221,,,,,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Toronto""]",5
+,,New Brunswick,CAN,18,,,,,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Moncton""]",6
+,,Nova Scotia,CAN,51,,,,,923598,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Halifax""]",7
+,,Prince Edward Island,CAN,3,,,,,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Halifax""]",8
+,,Newfoundland and Labrador,CAN,4,,,,,519716,53.46112743006114,-60.21844100481229,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Goose_Bay""]",9
+,,Yukon,CAN,2,,,,,35874,64.82713023550005,-132.41233364551596,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Yellowknife""]",10
+,,Northwest Territories,CAN,1,,,,,41786,69.38320119914675,-119.22198188100899,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Cambridge_Bay""]",11
+,,Nunavut,CAN,0,,,,,35944,67.52741120000007,-90.88314938052307,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,state,0.3137254901960784,"[""America/Cambridge_Bay""]",12

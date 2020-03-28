@@ -253,6 +253,17 @@
     "rating": 0.47058823529411764
   },
   {
+    "country": "IND",
+    "url": "https://www.mohfw.gov.in/",
+    "type": "table",
+    "aggregate": "state",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "state": "DE",
     "country": "USA",
     "aggregate": "county",
@@ -534,6 +545,17 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.43137254901960786
+  },
+  {
+    "country": "CAN",
+    "type": "csv",
+    "aggregate": "state",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://health-infobase.canada.ca/src/data/summary_current.csv",
+    "ssl": true,
+    "rating": 0.4117647058823529
   },
   {
     "country": "GBR",
@@ -930,33 +952,10 @@
     "rating": 0.3333333333333333
   },
   {
-    "aggregate": "state",
-    "country": "AUS",
-    "priority": 1,
-    "type": "table",
-    "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.3137254901960784
-  },
-  {
     "county": "Del Norte County",
     "state": "CA",
     "country": "USA",
     "url": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": false,
-    "rating": 0.3137254901960784
-  },
-  {
-    "county": "Orange County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1140,6 +1139,17 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.2549019607843137
+  },
+  {
+    "aggregate": "state",
+    "country": "AUS",
+    "priority": 1,
+    "type": "table",
+    "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.23529411764705882
   },
   {
     "county": "Colusa County",
