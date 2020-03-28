@@ -1,5 +1,16 @@
 [
   {
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "aggregate": "state",
+    "priority": 1,
+    "headless": false,
+    "certValidation": true,
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.7058823529411765
+  },
+  {
     "state": "AR",
     "country": "USA",
     "url": "https://services.arcgis.com/PwY9ZuZRDiI5nXUB/ArcGIS/rest/services/ADH_COVID19_Positive_Test_Results/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
@@ -24,13 +35,13 @@
     "rating": 0.6470588235294118
   },
   {
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
-    "aggregate": "state",
-    "priority": 1,
+    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "type": "csv",
+    "country": "USA",
+    "aggregate": "county",
+    "priority": -1,
     "headless": false,
     "certValidation": true,
-    "type": "csv",
     "ssl": true,
     "rating": 0.6274509803921569
   },
@@ -54,18 +65,6 @@
     "certValidation": true,
     "type": "csv",
     "url": "https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv",
-    "ssl": true,
-    "rating": 0.5686274509803921
-  },
-  {
-    "country": "USA",
-    "state": "IN",
-    "priority": 1,
-    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "type": "csv",
     "ssl": true,
     "rating": 0.5686274509803921
   },
@@ -114,6 +113,18 @@
     "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
     "type": "json",
     "ssl": false,
+    "rating": 0.5490196078431373
+  },
+  {
+    "state": "ME",
+    "country": "USA",
+    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
+    "type": "table",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
     "rating": 0.5490196078431373
   },
   {
@@ -184,6 +195,30 @@
     "rating": 0.49019607843137253
   },
   {
+    "state": "AL",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/ff8de7707f6a422a8af6b155facc6327_0.csv",
+    "type": "csv",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
+    "country": "USA",
+    "state": "IN",
+    "priority": 1,
+    "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "state": "LA",
     "country": "USA",
     "aggregate": "county",
@@ -208,13 +243,12 @@
     "rating": 0.49019607843137253
   },
   {
-    "country": "IND",
-    "url": "https://www.mohfw.gov.in/",
-    "type": "table",
-    "aggregate": "state",
+    "country": "FRA",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "priority": 1,
     "headless": false,
     "certValidation": true,
-    "priority": 0,
+    "type": "csv",
     "ssl": true,
     "rating": 0.47058823529411764
   },
@@ -234,18 +268,6 @@
     "state": "ID",
     "country": "USA",
     "url": "https://coronavirus.idaho.gov",
-    "type": "table",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "state": "ME",
-    "country": "USA",
-    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
     "type": "table",
     "aggregate": "county",
     "headless": false,
@@ -303,14 +325,27 @@
     "rating": 0.47058823529411764
   },
   {
-    "country": "FRA",
-    "url": "",
-    "priority": 1,
+    "county": "Washoe County",
+    "state": "NV",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/4fcda514110940cb827ec2839e7ebbb0_0.csv",
+    "type": "csv",
     "headless": false,
     "certValidation": true,
-    "type": "list",
-    "ssl": false,
+    "priority": 0,
+    "ssl": true,
     "rating": 0.45098039215686275
+  },
+  {
+    "country": "AUS",
+    "priority": 2,
+    "state": "Western Australia",
+    "type": "table",
+    "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.43137254901960786
   },
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
@@ -482,18 +517,6 @@
     "type": "csv",
     "country": "DEU",
     "state": "DE-TH",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.43137254901960786
-  },
-  {
-    "county": "Washoe County",
-    "state": "NV",
-    "country": "USA",
-    "url": "https://www.washoecounty.us/health/programs-and-services/communicable-diseases-and-epidemiology/educational_materials/COVID-19.php",
-    "type": "table",
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -745,7 +768,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
+    "url": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
     "type": "table",
     "ssl": true,
     "rating": 0.39215686274509803
@@ -763,25 +786,13 @@
     "rating": 0.37254901960784315
   },
   {
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "type": "table",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.37254901960784315
-  },
-  {
     "country": "USA",
     "state": "HI",
     "priority": 1,
-    "url": "https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/",
     "aggregate": "county",
     "headless": false,
     "certValidation": true,
+    "url": "https://health.hawaii.gov/coronavirusdisease2019/",
     "type": "list",
     "ssl": true,
     "rating": 0.37254901960784315
@@ -930,33 +941,10 @@
     "rating": 0.3137254901960784
   },
   {
-    "country": "CAN",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "type": "table",
-    "aggregate": "state",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.3137254901960784
-  },
-  {
     "county": "Del Norte County",
     "state": "CA",
     "country": "USA",
     "url": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": false,
-    "rating": 0.3137254901960784
-  },
-  {
-    "county": "Los Angeles County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1005,6 +993,17 @@
     "state": "New South Wales",
     "type": "table",
     "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.27450980392156865
+  },
+  {
+    "country": "AUS",
+    "priority": 2,
+    "state": "South Australia",
+    "type": "table",
+    "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
     "headless": false,
     "certValidation": true,
     "ssl": true,
@@ -1095,18 +1094,6 @@
     "rating": 0.2549019607843137
   },
   {
-    "county": "Riverside County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.rivcoph.org/coronavirus",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
     "county": "Sonoma County",
     "state": "CA",
     "country": "USA",
@@ -1133,7 +1120,7 @@
   {
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3262020.pdf",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3272020.pdf",
     "type": "pdf",
     "aggregate": "county",
     "headless": false,
@@ -1209,7 +1196,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_26_2020_.pdf",
+    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_27_2020_.pdf",
     "ssl": true,
     "rating": 0.17647058823529413
   },
@@ -1221,7 +1208,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-26-2020/download",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download",
     "ssl": true,
     "rating": 0.17647058823529413
   },
@@ -1236,17 +1223,6 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.17647058823529413
-  },
-  {
-    "country": "AUS",
-    "priority": 2,
-    "state": "Queensland",
-    "type": "paragraph",
-    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.13725490196078433
   },
   {
     "county": "San Luis Obispo County",
@@ -1310,9 +1286,9 @@
   {
     "country": "AUS",
     "priority": 2,
-    "state": "South Australia",
+    "state": "Queensland",
     "type": "paragraph",
-    "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
+    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
     "headless": false,
     "certValidation": true,
     "ssl": true,
@@ -1327,6 +1303,6 @@
     "headless": false,
     "certValidation": true,
     "ssl": true,
-    "rating": 0.058823529411764705
+    "rating": 0.0196078431372549
   }
 ]
