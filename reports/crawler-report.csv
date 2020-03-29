@@ -1,6 +1,8 @@
 date,country,state,county,city,type,description,severity,category
 2020-03-28,BRA,,,,scraper failed,TypeError: Cannot read property 'text' of null,critical,scraper failure
 2020-03-28,CHE,,,,scraper failed,TypeError: Cannot read property 'AG' of undefined,critical,scraper failure
+2020-03-28,AUS,New South Wales,,,scraper failed,DeprecatedError: NSW page seems to be broken,critical,scraper failure
+2020-03-28,USA,CA,Alameda County,,scraper failed,TypeError: Cannot read property 'match' of null,critical,scraper failure
 2020-03-28,USA,CA,Kern County,,scraper failed,"Error: Kern County, CA now uses a PNG and PDF",critical,scraper failure
 2020-03-28,USA,CA,Los Angeles County,,scraper failed,Error: Invalid data: cases is not a number,critical,scraper failure
 2020-03-28,USA,CA,Madera County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
@@ -12,9 +14,11 @@ date,country,state,county,city,type,description,severity,category
 2020-03-28,USA,CA,Santa Clara County,,scraper failed,TypeError: Cannot read property 'children' of undefined,critical,scraper failure
 2020-03-28,USA,CA,Santa Cruz County,,scraper failed,Error: H2 not found,critical,scraper failure
 2020-03-28,USA,CA,Solano County,,scraper failed,"Error: Solano County, CA now uses a PDF",critical,scraper failure
-2020-03-28,USA,Guam,,,scraper failed,TypeError: Cannot read property 'children' of undefined,critical,scraper failure
-2020-03-28,USA,KS,,,scraper failed,Error: No data for 2020-03-28,critical,scraper failure
+2020-03-28,USA,CA,Sonoma County,,scraper failed,"DeprecatedError: Sonoma switched to ArcGIS, which is handled by another scraper",critical,scraper failure
+2020-03-28,USA,CT,,,scraper failed,[object Object],critical,scraper failure
+2020-03-28,USA,Guam,,,scraper failed,"DeprecatedError: Guam stopped offering totals on their website, but there's a sweet coloring book",critical,scraper failure
 2020-03-28,USA,RI,,,scraper failed,Error: RI stopped reporting by county,critical,scraper failure
+2020-03-28,USA,UT,,,scraper failed,TypeError: Cannot read property 'x' of null,critical,scraper failure
 2020-03-28,FRA,French Polynesia,,,missing location,,low,locations
 2020-03-28,FRA,New Caledonia,,,missing location,,low,locations
 2020-03-28,FRA,Reunion,,,missing location,,low,locations
@@ -53,17 +57,10 @@ date,country,state,county,city,type,description,severity,category
 2020-03-28,GBR,Scotland,Lanarkshire,,missing location,,low,locations
 2020-03-28,GBR,Scotland,Lothian,,missing location,,low,locations
 2020-03-28,GBR,Scotland,Tayside,,missing location,,low,locations
-2020-03-28,USA,DE,Pea Patch County,,missing location,,low,locations
-2020-03-28,USA,DE,Reedy Island County,,missing location,,low,locations
-2020-03-28,USA,DE,DE/NJ County,,missing location,,low,locations
 2020-03-28,USA,MD,Baltimore City,,missing location,,low,locations
-2020-03-28,USA,MI,Other County,,missing location,,low,locations
 2020-03-28,USA,MO,Joplin County,,missing location,,low,locations
-2020-03-28,USA,MS,Desoto County,,missing location,,low,locations
 2020-03-28,USA,NM,Doña Ana County,,missing location,,low,locations
-2020-03-28,USA,PA,Mckean County,,missing location,,low,locations
 2020-03-28,USA,SD,Oglala Lakota County,,missing location,,low,locations
-2020-03-28,USA,TN,Pending County,,missing location,,low,locations
 2020-03-28,DNK,Greenland,,,missing population,,low,population
 2020-03-28,FRA,French Guiana,,,missing population,,low,population
 2020-03-28,FRA,French Polynesia,,,missing population,,low,population
@@ -86,18 +83,15 @@ date,country,state,county,city,type,description,severity,category
 2020-03-28,USA,AK,Anchorage,,missing population,,low,population
 2020-03-28,USA,CA,(unassigned),,missing population,,low,population
 2020-03-28,USA,CO,(unassigned),,missing population,,low,population
-2020-03-28,USA,GA,(unassigned),,missing population,,low,population
 2020-03-28,USA,GU,(unassigned),,missing population,,low,population
 2020-03-28,USA,HI,(unassigned),,missing population,,low,population
 2020-03-28,USA,ID,(unassigned),,missing population,,low,population
 2020-03-28,USA,IL,(unassigned),,missing population,,low,population
 2020-03-28,USA,KY,(unassigned),,missing population,,low,population
-2020-03-28,USA,MA,(unassigned),,missing population,,low,population
 2020-03-28,USA,MN,(unassigned),,missing population,,low,population
 2020-03-28,USA,MS,(unassigned),,missing population,,low,population
 2020-03-28,USA,MO,,Kansas City,missing population,,low,population
 2020-03-28,USA,MO,,St. Louis city,missing population,,low,population
-2020-03-28,USA,NV,,Carson City,missing population,,low,population
 2020-03-28,USA,NV,(unassigned),,missing population,,low,population
 2020-03-28,USA,NJ,(unassigned),,missing population,,low,population
 2020-03-28,USA,PR,(unassigned),,missing population,,low,population
@@ -259,21 +253,15 @@ date,country,state,county,city,type,description,severity,category
 2020-03-28,GBR,Scotland,Shetland,,missing population,,low,population
 2020-03-28,GBR,Scotland,Tayside,,missing population,,low,population
 2020-03-28,USA,AR,(unassigned),,missing population,,low,population
-2020-03-28,USA,DE,Pea Patch County,,missing population,,low,population
-2020-03-28,USA,DE,Reedy Island County,,missing population,,low,population
-2020-03-28,USA,DE,DE/NJ County,,missing population,,low,population
 2020-03-28,USA,FL,(unassigned),,missing population,,low,population
+2020-03-28,USA,GA,(unassigned),,missing population,,low,population
 2020-03-28,USA,LA,(unassigned),,missing population,,low,population
+2020-03-28,USA,MA,(unassigned),,missing population,,low,population
 2020-03-28,USA,MD,Baltimore City,,missing population,,low,population
 2020-03-28,USA,ME,(unassigned),,missing population,,low,population
-2020-03-28,USA,MI,Other County,,missing population,,low,population
 2020-03-28,USA,MI,(unassigned),,missing population,,low,population
 2020-03-28,USA,MO,Joplin County,,missing population,,low,population
 2020-03-28,USA,MO,(unassigned),,missing population,,low,population
-2020-03-28,USA,MS,Desoto County,,missing population,,low,population
-2020-03-28,USA,PA,Mckean County,,missing population,,low,population
-2020-03-28,USA,TN,Pending County,,missing population,,low,population
 2020-03-28,USA,TN,(unassigned),,missing population,,low,population
-2020-03-28,USA,UT,,Bear River County,missing population,,low,population
 2020-03-28,USA,WA,(unassigned),,missing population,,low,population
 2020-03-28,MS Zaandam,,,,invalid location object,MS Zaandam .country should NOT be longer than 3 characters,low,location validation

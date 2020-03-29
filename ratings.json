@@ -57,6 +57,18 @@
     "rating": 0.5882352941176471
   },
   {
+    "country": "USA",
+    "state": "CA",
+    "url": "https://opendata.arcgis.com/datasets/06fcfe6147574a75afea97a1f7565dc7_0.csv",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.5686274509803921
+  },
+  {
     "state": "FL",
     "country": "USA",
     "priority": 1,
@@ -65,6 +77,18 @@
     "certValidation": true,
     "type": "csv",
     "url": "https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv",
+    "ssl": true,
+    "rating": 0.5686274509803921
+  },
+  {
+    "state": "KS",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "json",
+    "url": "https://services9.arcgis.com/Q6wTdPdCh608iNrJ/arcgis/rest/services/COVID19_CountyStatus_KDHE/FeatureServer/0/query?f=json&where=Covid_Case%3D%27Yes%27&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=COUNTY%20asc&resultOffset=0&resultRecordCount=105&cacheHint=true",
     "ssl": true,
     "rating": 0.5686274509803921
   },
@@ -161,6 +185,18 @@
     "certValidation": true,
     "type": "list",
     "ssl": true,
+    "rating": 0.5294117647058824
+  },
+  {
+    "state": "NV",
+    "country": "USA",
+    "aggregate": "county",
+    "url": "https://gethealthycarsoncity.org/novel-coronavirus-2019/",
+    "certValidation": false,
+    "type": "table",
+    "headless": false,
+    "priority": 0,
+    "ssl": false,
     "rating": 0.5294117647058824
   },
   {
@@ -288,6 +324,18 @@
     "rating": 0.47058823529411764
   },
   {
+    "state": "GA",
+    "country": "USA",
+    "url": "https://d20s4vd27d0hk0.cloudfront.net",
+    "type": "table",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "state": "ID",
     "country": "USA",
     "url": "https://coronavirus.idaho.gov",
@@ -343,18 +391,6 @@
     "certValidation": true,
     "priority": 0,
     "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
-    "type": "table",
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "state": "UT",
-    "country": "USA",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://coronavirus-dashboard.utah.gov/",
     "type": "table",
     "ssl": true,
     "rating": 0.47058823529411764
@@ -689,18 +725,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "GA",
-    "country": "USA",
-    "url": "https://dph.georgia.gov/covid-19-daily-status-report",
-    "type": "table",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "MN",
     "country": "USA",
     "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
@@ -990,17 +1014,6 @@
   {
     "country": "AUS",
     "priority": 2,
-    "state": "New South Wales",
-    "type": "table",
-    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.27450980392156865
-  },
-  {
-    "country": "AUS",
-    "priority": 2,
     "state": "South Australia",
     "type": "table",
     "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
@@ -1094,18 +1107,6 @@
     "rating": 0.2549019607843137
   },
   {
-    "county": "Sonoma County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
     "county": "Yolo County",
     "state": "CA",
     "country": "USA",
@@ -1114,18 +1115,6 @@
     "certValidation": true,
     "priority": 0,
     "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "state": "CT",
-    "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3282020.pdf",
-    "type": "pdf",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.2549019607843137
   },
@@ -1248,18 +1237,6 @@
     "rating": 0.13725490196078433
   },
   {
-    "county": "Alameda County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.acphd.org/2019-ncov.aspx",
-    "headless": true,
-    "type": "paragraph",
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.0784313725490196
-  },
-  {
     "country": "AUS",
     "priority": 2,
     "state": "Queensland",
@@ -1279,6 +1256,6 @@
     "headless": false,
     "certValidation": true,
     "ssl": true,
-    "rating": 0.0196078431372549
+    "rating": 0.058823529411764705
   }
 ]
