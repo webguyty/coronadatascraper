@@ -243,6 +243,18 @@
     "rating": 0.49019607843137253
   },
   {
+    "state": "OH",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://coronavirus.ohio.gov/static/COVIDSummaryData.csv",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "country": "FRA",
     "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
     "priority": 1,
@@ -336,6 +348,30 @@
     "rating": 0.47058823529411764
   },
   {
+    "state": "UT",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://coronavirus-dashboard.utah.gov/",
+    "type": "table",
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
+    "state": "WI",
+    "country": "USA",
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
+    "type": "table",
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "county": "Washoe County",
     "state": "NV",
     "country": "USA",
@@ -346,6 +382,17 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.45098039215686275
+  },
+  {
+    "country": "AUS",
+    "priority": 2,
+    "state": "Australian Capital Territory",
+    "type": "table",
+    "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.43137254901960786
   },
   {
     "country": "AUS",
@@ -594,18 +641,6 @@
     "rating": 0.4117647058823529
   },
   {
-    "county": "San Benito County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
     "state": "CO",
     "country": "USA",
     "aggregate": "county",
@@ -640,16 +675,6 @@
     "url": "https://opendata.arcgis.com/datasets/24f4fcf164ad4b4280f08c8939dd5dc7_0.csv",
     "ssl": true,
     "rating": 0.4117647058823529
-  },
-  {
-    "country": "CHE",
-    "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
-    "priority": 1,
-    "headless": false,
-    "certValidation": true,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.39215686274509803
   },
   {
     "country": "GBR",
@@ -760,18 +785,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "UT",
-    "country": "USA",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://coronavirus-dashboard.utah.gov/",
-    "type": "table",
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "VA",
     "country": "USA",
     "aggregate": "county",
@@ -781,18 +794,6 @@
     "url": "http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv",
     "type": "csv",
     "ssl": false,
-    "rating": 0.39215686274509803
-  },
-  {
-    "state": "WI",
-    "country": "USA",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
-    "type": "table",
-    "ssl": true,
     "rating": 0.39215686274509803
   },
   {
@@ -952,6 +953,17 @@
     "rating": 0.3333333333333333
   },
   {
+    "aggregate": "state",
+    "country": "AUS",
+    "priority": 1,
+    "type": "table",
+    "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.3137254901960784
+  },
+  {
     "county": "Del Norte County",
     "state": "CA",
     "country": "USA",
@@ -974,17 +986,6 @@
     "type": "list",
     "ssl": false,
     "rating": 0.3137254901960784
-  },
-  {
-    "country": "AUS",
-    "priority": 2,
-    "state": "Australian Capital Territory",
-    "type": "table",
-    "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.27450980392156865
   },
   {
     "country": "AUS",
@@ -1119,7 +1120,7 @@
   {
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3272020.pdf",
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3282020.pdf",
     "type": "pdf",
     "aggregate": "county",
     "headless": false,
@@ -1141,33 +1142,10 @@
     "rating": 0.2549019607843137
   },
   {
-    "aggregate": "state",
-    "country": "AUS",
-    "priority": 1,
-    "type": "table",
-    "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.23529411764705882
-  },
-  {
     "county": "Colusa County",
     "state": "CA",
     "country": "USA",
     "url": "http://www.countyofcolusa.org/99/Public-Health",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": false,
-    "rating": 0.23529411764705882
-  },
-  {
-    "county": "Santa Cruz County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1199,18 +1177,6 @@
     "rating": 0.19607843137254902
   },
   {
-    "state": "KS",
-    "country": "USA",
-    "type": "pdf",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://khap2.kdhe.state.ks.us/NewsRelease/COVID19/COVID-19_March_27_2020_.pdf",
-    "ssl": true,
-    "rating": 0.17647058823529413
-  },
-  {
     "state": "MA",
     "country": "USA",
     "aggregate": "county",
@@ -1218,7 +1184,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-27-2020/download",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download",
     "ssl": true,
     "rating": 0.17647058823529413
   },
