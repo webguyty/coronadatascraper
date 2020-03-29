@@ -15,6 +15,20 @@
     "country": "USA",
     "url": "https://services.arcgis.com/PwY9ZuZRDiI5nXUB/ArcGIS/rest/services/ADH_COVID19_Positive_Test_Results/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*",
     "type": "json",
+    "sources": [
+      {
+        "name": "Arkanas Department of Health",
+        "url": "https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "county": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "aggregate": "county",
     "headless": false,
     "certValidation": true,
@@ -29,6 +43,14 @@
     "type": "csv",
     "aggregate": "county",
     "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
+    "curators": [
+      {
+        "name": "Harriet Rowan",
+        "email": "hattierowan@gmail.com",
+        "twitter": "@hattierowan",
+        "github": "HarrietRowan"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "ssl": true,
@@ -40,6 +62,14 @@
     "country": "USA",
     "aggregate": "county",
     "priority": -1,
+    "curators": [
+      {
+        "name": "The New York Times",
+        "url": "http://nytimes.com/",
+        "twitter": "@nytimes",
+        "github": "nytimes"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "ssl": true,
@@ -50,6 +80,39 @@
     "url": "https://github.com/datadista/datasets/tree/master/COVID%2019",
     "priority": 1,
     "aggregate": "state",
+    "sources": [
+      {
+        "name": "cases",
+        "url": "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_casos.csv",
+        "description": "Cases by date and community"
+      },
+      {
+        "name": "recovered",
+        "url": "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_altas.csv",
+        "description": "Recoveries by date and community"
+      },
+      {
+        "name": "deaths",
+        "url": "https://raw.githubusercontent.com/datadista/datasets/master/COVID%2019/ccaa_covid19_fallecidos.csv",
+        "description": "Deaths by date and community"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Antonio Delgado",
+        "url": "https://datadista.com/",
+        "twitter": "@adelgado",
+        "github": "adelgadob"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Herb Caudill",
+        "url": "https://devresults.com",
+        "twitter": "@herbcaudill",
+        "github": "herbcaudill"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "type": "list",
@@ -61,6 +124,12 @@
     "state": "CA",
     "url": "https://opendata.arcgis.com/datasets/06fcfe6147574a75afea97a1f7565dc7_0.csv",
     "aggregate": "county",
+    "sources": [
+      {
+        "name": "Sonoma County Emergency and Preparedness Information",
+        "url": "https://socoemergency.org/"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -73,6 +142,12 @@
     "country": "USA",
     "priority": 1,
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "http://www.floridahealth.gov",
+        "name": "Florida Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "type": "csv",
@@ -84,6 +159,35 @@
     "state": "KS",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "name": "Kansas Department of Health and Environment",
+        "url": "https://govstatus.egov.com/coronavirus"
+      },
+      {
+        "name": "Kansas Department of Health and Environment",
+        "url": "http://www.kdheks.gov/coronavirus/COVID-19_Resource_Center.htm"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "twitter": "paulboal",
+        "github": "paulboal",
+        "country": "USA",
+        "state": "MO",
+        "county": "St. Louis County",
+        "city": "St. Louis",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "county": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -96,6 +200,12 @@
     "state": "MD",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://health.maryland.gov/",
+        "name": "Maryland Department of Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -132,6 +242,13 @@
     "country": "USA",
     "priority": 1,
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "http://www.dph.illinois.gov",
+        "name": "IDPH",
+        "description": "Illinois Department of Public Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
@@ -142,6 +259,13 @@
   {
     "state": "ME",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.maine.gov/dhhs/mecdc",
+        "name": "MeCDC",
+        "description": "Maine Center for Disease Control & Prevention"
+      }
+    ],
     "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
     "type": "table",
     "aggregate": "county",
@@ -154,6 +278,13 @@
   {
     "state": "OR",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.oregon.gov/oha/PH",
+        "name": "Oregon Health Authority",
+        "description": "Public Health Division"
+      }
+    ],
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "aggregate": "county",
@@ -168,6 +299,13 @@
     "country": "USA",
     "aggregate": "county",
     "headless": true,
+    "sources": [
+      {
+        "url": "https://idph.iowa.gov",
+        "name": "IDPH",
+        "description": "Iowa Department of Public Health"
+      }
+    ],
     "certValidation": true,
     "priority": 0,
     "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
@@ -181,6 +319,21 @@
     "priority": 1,
     "aggregate": "county",
     "url": "https://datawrapper.dwcdn.net/BbowM/23/",
+    "sources": [
+      {
+        "name": "Kentucky Cabinet for Health and Family Services",
+        "url": "https://www.kentucky.com/news/coronavirus/article241309406.html"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jordan Holt",
+        "email": "jordholt@gmail.com",
+        "github": "Jord-Holt",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "type": "list",
@@ -192,6 +345,13 @@
     "country": "USA",
     "aggregate": "county",
     "url": "https://gethealthycarsoncity.org/novel-coronavirus-2019/",
+    "sources": [
+      {
+        "name": "Carson City Health and Human Services",
+        "url": "https://gethealthycarsoncity.org/",
+        "description": "Carson City Health and Human Services - Aggregate data for the Quad County region: Carson City, Douglas, Lyon, and Storey counties."
+      }
+    ],
     "certValidation": false,
     "type": "table",
     "headless": false,
@@ -200,8 +360,27 @@
     "rating": 0.5294117647058824
   },
   {
+    "maintainers": [
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "USA",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "priority": -1,
+    "curators": [
+      {
+        "name": "JHU CSSE",
+        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "type": "list",
@@ -209,20 +388,17 @@
     "rating": 0.5098039215686274
   },
   {
-    "country": "RUS",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "type": "json",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.49019607843137253
-  },
-  {
     "country": "USA",
     "url": "https://covidtracking.com/api/states",
     "type": "json",
+    "curators": [
+      {
+        "name": "The COVID Tracking Project",
+        "url": "https://covidtracking.com/",
+        "twitter": "@COVID19Tracking",
+        "github": "COVID19Tracking"
+      }
+    ],
     "aggregate": "state",
     "priority": -0.5,
     "headless": false,
@@ -236,6 +412,12 @@
     "url": "https://opendata.arcgis.com/datasets/ff8de7707f6a422a8af6b155facc6327_0.csv",
     "type": "csv",
     "aggregate": "county",
+    "sources": [
+      {
+        "name": "Alabama Department of Public Health | Division of Infectious Diseases & Outbreaks",
+        "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -258,6 +440,12 @@
     "state": "LA",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "http://ldh.la.gov/",
+        "name": "Louisiana Department of Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -282,6 +470,12 @@
     "state": "OH",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/",
+        "name": "Ohio Department of Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -315,6 +509,13 @@
     "state": "DE",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.dhss.delaware.gov/dhss/dph",
+        "name": "DHSS Division of Public Health",
+        "description": "Delaware Health and Social Services Division of Public Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -329,6 +530,12 @@
     "url": "https://d20s4vd27d0hk0.cloudfront.net",
     "type": "table",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://dph.georgia.gov",
+        "name": "Georgia Department of Public Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -338,6 +545,12 @@
   {
     "state": "ID",
     "country": "USA",
+    "sources": [
+      {
+        "name": "IDHW",
+        "description": "Idaho Department of Health and Welfare"
+      }
+    ],
     "url": "https://coronavirus.idaho.gov",
     "type": "table",
     "aggregate": "county",
@@ -350,6 +563,11 @@
   {
     "state": "MI",
     "country": "USA",
+    "sources": [
+      {
+        "name": "Michigan Department of Health & Human Services"
+      }
+    ],
     "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
     "type": "table",
     "aggregate": "county",
@@ -362,6 +580,12 @@
   {
     "state": "MS",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://msdh.ms.gov/",
+        "name": "Mississippi State Department of Health"
+      }
+    ],
     "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "type": "table",
     "aggregate": "county",
@@ -374,6 +598,12 @@
   {
     "state": "NM",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://cv.nmhealth.org",
+        "name": "New Mexico Department of Health"
+      }
+    ],
     "url": "https://cv.nmhealth.org/cases-by-county/",
     "type": "table",
     "headless": false,
@@ -387,6 +617,12 @@
     "state": "PA",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.health.pa.gov/",
+        "name": "Pennsylvania Department of Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -399,6 +635,12 @@
     "state": "WI",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.dhs.wisconsin.gov",
+        "name": "Wisconsin Department of Health Services"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -412,6 +654,13 @@
     "state": "NV",
     "country": "USA",
     "url": "https://opendata.arcgis.com/datasets/4fcda514110940cb827ec2839e7ebbb0_0.csv",
+    "sources": [
+      {
+        "name": "Washoe County Health District",
+        "url": "https://www.washoecounty.us/health/",
+        "description": "Washoe County, Nevada health department"
+      }
+    ],
     "type": "csv",
     "headless": false,
     "certValidation": true,
@@ -421,7 +670,25 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
+    "sources": [
+      {
+        "description": "ACT Government Health Department",
+        "name": "ACT Government Health",
+        "url": "https://www.health.act.gov.au"
+      }
+    ],
     "state": "Australian Capital Territory",
     "type": "table",
     "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
@@ -432,7 +699,25 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
+    "sources": [
+      {
+        "description": "Government of Western Australia, Department of Health",
+        "name": "WA Health",
+        "url": "https://ww2.health.wa.gov.au"
+      }
+    ],
     "state": "Western Australia",
     "type": "table",
     "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
@@ -444,6 +729,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-BB",
     "headless": false,
@@ -455,6 +763,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-BE",
     "headless": false,
@@ -466,6 +797,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-BW",
     "headless": false,
@@ -477,6 +831,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-BY",
     "headless": false,
@@ -488,6 +865,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-HB",
     "headless": false,
@@ -499,6 +899,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-HE",
     "headless": false,
@@ -510,6 +933,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-HH",
     "headless": false,
@@ -521,6 +967,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-MV",
     "headless": false,
@@ -532,6 +1001,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-NI",
     "headless": false,
@@ -543,6 +1035,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-NW",
     "headless": false,
@@ -554,6 +1069,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-RP",
     "headless": false,
@@ -565,6 +1103,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-SH",
     "headless": false,
@@ -576,6 +1137,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-SL",
     "headless": false,
@@ -587,6 +1171,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-SN",
     "headless": false,
@@ -598,6 +1205,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-ST",
     "headless": false,
@@ -609,6 +1239,29 @@
   {
     "url": "https://raw.githubusercontent.com/jgehrcke/covid-19-germany-gae/master/data.csv",
     "type": "csv",
+    "sources": [
+      {
+        "name": "Robert Koch-Institut (RKI), Landesgesundheitsminmisterien, Landesgesundheitsämter",
+        "description": "before March 17 based on RKI \"situation reports\", after that: Landesbehörten, double-checked with ZEIT ONLINE, curated by JPG, see \"curators\"",
+        "url": "https://github.com/jgehrcke/covid-19-germany-gae"
+      }
+    ],
+    "curators": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Dr. Jan-Philip Gehrcke",
+        "email": "jgehrcke@googlemail.com",
+        "url": "https://gehrcke.de",
+        "github": "jgehrcke"
+      }
+    ],
     "country": "DEU",
     "state": "DE-TH",
     "headless": false,
@@ -620,6 +1273,12 @@
   {
     "state": "WA",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.doh.wa.gov/",
+        "name": "Washington State Department of Health"
+      }
+    ],
     "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
     "type": "table",
     "headless": true,
@@ -632,6 +1291,13 @@
   {
     "country": "CAN",
     "type": "csv",
+    "sources": [
+      {
+        "description": "Health Promotion and Chronic Disease Prevention Branch",
+        "name": "Public Health Agency of Canada",
+        "url": "https://health-infobase.canada.ca/"
+      }
+    ],
     "aggregate": "state",
     "headless": false,
     "certValidation": true,
@@ -655,6 +1321,12 @@
   {
     "state": "AZ",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.azdhs.gov/",
+        "name": "Arizona Department of Health Services"
+      }
+    ],
     "url": "https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
     "type": "csv",
     "aggregate": "county",
@@ -668,6 +1340,15 @@
     "county": "Merced County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
     "headless": false,
     "certValidation": true,
@@ -727,6 +1408,12 @@
   {
     "state": "MN",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.health.state.mn.us/",
+        "name": "Minnesota Department of Health"
+      }
+    ],
     "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
     "type": "table",
     "aggregate": "county",
@@ -742,6 +1429,21 @@
     "type": "table",
     "aggregate": "county",
     "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
+    "sources": [
+      {
+        "name": "Missouri Department of Health and Senior Services"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "url": "https://amitechsolutions.com",
+        "github": "paulboal",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -753,6 +1455,12 @@
     "country": "USA",
     "type": "table",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.health.ny.gov",
+        "name": "New York State Department of Health"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -766,6 +1474,21 @@
     "type": "table",
     "aggregate": "county",
     "url": "https://coronavirus.health.ok.gov/",
+    "sources": [
+      {
+        "name": "Oklahoma State Department of Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "url": "https://amitechsolutions.com",
+        "github": "paulboal",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -775,6 +1498,12 @@
   {
     "state": "SD",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://doh.sd.gov",
+        "name": "South Dakota Department of Health"
+      }
+    ],
     "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
     "type": "table",
     "aggregate": "county",
@@ -787,6 +1516,13 @@
   {
     "state": "TN",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.tn.gov/health/cedep",
+        "name": "Tennessee Department of Health CEDEP",
+        "description": "Communicable and Environmental Diseases and Emergency Preparedness Division"
+      }
+    ],
     "url": "https://www.tn.gov/health/cedep/ncov.html",
     "type": "table",
     "aggregate": "county",
@@ -801,6 +1537,13 @@
     "country": "USA",
     "aggregate": "county",
     "certValidation": false,
+    "sources": [
+      {
+        "url": "https://www.dshs.state.tx.us",
+        "name": "Texas Health and Human Services",
+        "description": "Texas Department of State Health Services"
+      }
+    ],
     "headless": false,
     "priority": 0,
     "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
@@ -812,6 +1555,21 @@
     "state": "VA",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "http://www.vdh.virginia.gov/",
+        "name": "VDH",
+        "description": "Virginia Department of Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "county": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -823,6 +1581,13 @@
   {
     "state": "AK",
     "country": "USA",
+    "sources": [
+      {
+        "url": "http://dhss.alaska.gov/dph",
+        "name": "Alaska Department of Health and Social Services",
+        "description": "Division of Public Health"
+      }
+    ],
     "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
     "type": "table",
     "headless": false,
@@ -836,6 +1601,21 @@
     "country": "USA",
     "state": "HI",
     "priority": 1,
+    "sources": [
+      {
+        "name": "Hawaii Department of Health - Disease Outbreak Control Division",
+        "url": "https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jordan Holt",
+        "email": "jordholt@gmail.com",
+        "github": "Jord-Holt",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "aggregate": "county",
     "headless": false,
     "certValidation": true,
@@ -850,6 +1630,14 @@
     "url": "https://www.lincoln.ne.gov/city/covid19/",
     "type": "list",
     "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "county": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
     "priority": 1,
     "headless": false,
     "certValidation": true,
@@ -859,6 +1647,12 @@
   {
     "state": "WV",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://dhhr.wv.gov",
+        "name": "West Virginia Department of Health & Human Resources"
+      }
+    ],
     "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
     "type": "list",
     "aggregate": "county",
@@ -873,6 +1667,13 @@
     "state": "NV",
     "country": "USA",
     "url": "https://www.southernnevadahealthdistrict.org/coronavirus",
+    "sources": [
+      {
+        "name": "Southern Nevada Health District",
+        "url": "https://www.southernnevadahealthdistrict.org",
+        "description": "Southern Nevada health department"
+      }
+    ],
     "type": "table",
     "headless": false,
     "certValidation": true,
@@ -885,6 +1686,15 @@
     "state": "CA",
     "country": "USA",
     "url": "https://www.coronavirus.cchealth.org/",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -897,6 +1707,15 @@
     "state": "CA",
     "country": "USA",
     "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -908,6 +1727,15 @@
     "county": "Mono County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://monocovid19-monomammoth.hub.arcgis.com/",
     "headless": false,
     "certValidation": true,
@@ -920,6 +1748,15 @@
     "county": "Placer County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
     "headless": false,
     "certValidation": true,
@@ -932,6 +1769,15 @@
     "county": "Sacramento County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
     "headless": false,
     "certValidation": true,
@@ -944,6 +1790,15 @@
     "county": "San Diego County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
     "headless": false,
     "certValidation": true,
@@ -956,6 +1811,15 @@
     "county": "San Joaquin County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "http://www.sjcphs.org/coronavirus.aspx#res",
     "headless": false,
     "certValidation": true,
@@ -968,6 +1832,15 @@
     "county": "San Mateo County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.smchealth.org/coronavirus",
     "headless": false,
     "certValidation": true,
@@ -980,6 +1853,13 @@
     "aggregate": "state",
     "country": "AUS",
     "priority": 1,
+    "sources": [
+      {
+        "description": "Australian Government Department of Health",
+        "name": "Australian Government Department of Health",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
     "type": "table",
     "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
     "headless": false,
@@ -992,6 +1872,15 @@
     "state": "CA",
     "country": "USA",
     "url": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1003,6 +1892,15 @@
     "county": "Stanislaus County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
     "headless": false,
     "certValidation": true,
@@ -1013,7 +1911,25 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
+    "sources": [
+      {
+        "description": "SA Government Health Department",
+        "name": "SA Health",
+        "url": "https://www.sahealth.sa.gov.au"
+      }
+    ],
     "state": "South Australia",
     "type": "table",
     "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
@@ -1038,6 +1954,15 @@
     "county": "Shasta County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1050,7 +1975,23 @@
     "county": "Butte County",
     "state": "CA",
     "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.buttecounty.net/publichealth",
+        "name": "BCPHD",
+        "description": "Butte County Public Health Department"
+      }
+    ],
     "url": "https://www.buttecounty.net/publichealth",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1063,6 +2004,15 @@
     "state": "CA",
     "country": "USA",
     "url": "https://covid19.calaverasgov.us/",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1074,6 +2024,15 @@
     "county": "Glenn County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1086,6 +2045,15 @@
     "county": "Kings County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1",
     "headless": false,
     "certValidation": true,
@@ -1098,6 +2066,15 @@
     "county": "Mendocino County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.mendocinocounty.org/community/novel-coronavirus",
     "headless": false,
     "certValidation": true,
@@ -1110,6 +2087,15 @@
     "county": "Yolo County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
     "headless": false,
     "certValidation": true,
@@ -1122,8 +2108,28 @@
     "state": "WY",
     "country": "USA",
     "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://health.wyo.gov/publichealth",
+        "name": "Wyoming Department of Health",
+        "description": "Public Health Division"
+      }
+    ],
     "url": "https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/",
     "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "USA",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1135,6 +2141,15 @@
     "state": "CA",
     "country": "USA",
     "url": "http://www.countyofcolusa.org/99/Public-Health",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1146,6 +2161,15 @@
     "county": "San Francisco County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
     "type": "paragraph",
     "headless": false,
@@ -1156,7 +2180,25 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
+    "sources": [
+      {
+        "description": "Nothern Territory Government Coronavirus site",
+        "name": "Nothern Territory Government Coronavirus site",
+        "url": "https://coronavirus.nt.gov.au"
+      }
+    ],
     "state": "Northern Territory",
     "type": "table",
     "url": "https://coronavirus.nt.gov.au/",
@@ -1170,6 +2212,20 @@
     "country": "USA",
     "aggregate": "county",
     "type": "pdf",
+    "sources": [
+      {
+        "url": "https://www.mass.gov/orgs/department-of-public-health",
+        "name": "Massachusetts DPH",
+        "description": "Massachusetts Department of Public Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1180,8 +2236,20 @@
   {
     "state": "NH",
     "country": "USA",
+    "sources": [
+      {
+        "name": "New Hampshire Department of Health and Human Services"
+      }
+    ],
     "url": "https://www.nh.gov/covid19/documents/case-map.pdf",
     "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "type": "pdf",
     "headless": false,
     "certValidation": true,
@@ -1205,6 +2273,15 @@
     "county": "Santa Barbara County",
     "state": "CA",
     "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "url": "https://publichealthsbc.org",
     "type": "paragraph",
     "headless": false,
@@ -1218,6 +2295,15 @@
     "state": "CA",
     "country": "USA",
     "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1228,6 +2314,11 @@
   {
     "state": "DC",
     "country": "USA",
+    "sources": [
+      {
+        "name": "DC Public Health Laboratory"
+      }
+    ],
     "url": "https://coronavirus.dc.gov/page/coronavirus-data",
     "type": "paragraph",
     "headless": false,
@@ -1238,7 +2329,25 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
+    "sources": [
+      {
+        "description": "QLD Government Health Department",
+        "name": "QLD Government Health",
+        "url": "https://www.health.qld.gov.au"
+      }
+    ],
     "state": "Queensland",
     "type": "paragraph",
     "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
@@ -1249,7 +2358,25 @@
   },
   {
     "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
+    "sources": [
+      {
+        "description": "Victoria State Government Health and Human Services Department",
+        "name": "Victoria State Government Health and Human Services",
+        "url": "https://www.dhhs.vic.gov.au"
+      }
+    ],
     "state": "Victoria",
     "type": "paragraph",
     "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
