@@ -138,6 +138,25 @@
     "rating": 0.5686274509803921
   },
   {
+    "state": "DE",
+    "country": "USA",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.dhss.delaware.gov/dhss/dph",
+        "name": "DHSS Division of Public Health",
+        "description": "Delaware Health and Social Services Division of Public Health"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://services1.arcgis.com/PlCPCPzGOwulHUHo/arcgis/rest/services/DEMA_COVID_County_Boundary_Time_VIEW/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=50&cacheHint=true",
+    "type": "json",
+    "ssl": true,
+    "rating": 0.5686274509803921
+  },
+  {
     "state": "FL",
     "country": "USA",
     "priority": 1,
@@ -210,19 +229,7 @@
     "certValidation": true,
     "priority": 0,
     "type": "csv",
-    "url": "https://opendata.arcgis.com/datasets/3d9ca88970dd4689a701354d7fa6830b_0.csv",
-    "ssl": true,
-    "rating": 0.5686274509803921
-  },
-  {
-    "state": "SC",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/5ffb6e698ea64a91a497194814a26311_0.csv",
-    "type": "json",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
+    "url": "https://opendata.arcgis.com/datasets/fd5f93bf49cf4b35b330d6f500c1e8e6_0.csv",
     "ssl": true,
     "rating": 0.5686274509803921
   },
@@ -388,6 +395,38 @@
     "rating": 0.5098039215686274
   },
   {
+    "country": "RUS",
+    "aggregate": "state",
+    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
+    "type": "json",
+    "curators": [
+      {
+        "name": "Yandex",
+        "url": "https://yandex.ru"
+      }
+    ],
+    "sources": [
+      {
+        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
+        "name": "Rospotrebnadzor",
+        "url": "https://www.rospotrebnadzor.ru/"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Arseniy Ivanov",
+        "twitter": "@freeatnet",
+        "github": "freeatnet",
+        "email": "arseniy+coronadatascraper@freeatnet.com"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "country": "USA",
     "url": "https://covidtracking.com/api/states",
     "type": "json",
@@ -485,14 +524,16 @@
     "rating": 0.49019607843137253
   },
   {
-    "country": "FRA",
-    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-    "priority": 1,
+    "state": "SC",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/6847b70e6f0343138aa54d9cb6038028_0.csv",
+    "type": "json",
+    "aggregate": "county",
     "headless": false,
     "certValidation": true,
-    "type": "csv",
+    "priority": 0,
     "ssl": true,
-    "rating": 0.47058823529411764
+    "rating": 0.49019607843137253
   },
   {
     "country": "IND",
@@ -503,25 +544,6 @@
     "certValidation": true,
     "priority": 0,
     "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "state": "DE",
-    "country": "USA",
-    "aggregate": "county",
-    "sources": [
-      {
-        "url": "https://www.dhss.delaware.gov/dhss/dph",
-        "name": "DHSS Division of Public Health",
-        "description": "Delaware Health and Social Services Division of Public Health"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv",
-    "type": "csv",
-    "ssl": false,
     "rating": 0.47058823529411764
   },
   {
@@ -596,6 +618,24 @@
     "rating": 0.47058823529411764
   },
   {
+    "state": "ND",
+    "country": "USA",
+    "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases",
+    "type": "table",
+    "aggregate": "county",
+    "sources": [
+      {
+        "name": "North Dakota Department of Health",
+        "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "state": "NM",
     "country": "USA",
     "sources": [
@@ -627,6 +667,24 @@
     "certValidation": true,
     "priority": 0,
     "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
+    "type": "table",
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
+    "state": "UT",
+    "country": "USA",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://health.utah.gov/",
+        "name": "Utah Department of Health"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://coronavirus-dashboard.utah.gov/",
     "type": "table",
     "ssl": true,
     "rating": 0.47058823529411764
@@ -691,7 +749,7 @@
     ],
     "state": "Australian Capital Territory",
     "type": "table",
-    "url": "https://www.health.act.gov.au/about-our-health-system/novel-coronavirus-covid-19",
+    "url": "https://www.covid19.act.gov.au/updates/confirmed-case-information",
     "headless": false,
     "certValidation": true,
     "ssl": true,
@@ -1271,6 +1329,27 @@
     "rating": 0.43137254901960786
   },
   {
+    "county": "Merced County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "table",
+    "ssl": true,
+    "rating": 0.43137254901960786
+  },
+  {
     "state": "WA",
     "country": "USA",
     "sources": [
@@ -1333,27 +1412,6 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
-    "county": "Merced County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
     "ssl": true,
     "rating": 0.4117647058823529
   },
@@ -1645,6 +1703,23 @@
     "rating": 0.37254901960784315
   },
   {
+    "state": "RI",
+    "country": "USA",
+    "priority": 1,
+    "type": "csv",
+    "sources": [
+      {
+        "url": "https://health.ri.gov/data/covid-19/",
+        "name": "State of Rhode Island Department of Health"
+      }
+    ],
+    "url": "https://health.ri.gov/data/covid-19/",
+    "headless": true,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.37254901960784315
+  },
+  {
     "state": "WV",
     "country": "USA",
     "sources": [
@@ -1661,6 +1736,27 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
+  },
+  {
+    "county": "Santa Barbara County",
+    "state": "CA",
+    "country": "USA",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://publichealthsbc.org",
+    "type": "table",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.35294117647058826
   },
   {
     "county": "Clark County",
@@ -1910,6 +2006,46 @@
     "rating": 0.3137254901960784
   },
   {
+    "country": "PRI",
+    "type": "table",
+    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
+    "sources": [
+      {
+        "url": "http://salud.gov.pr/",
+        "name": "Gobierno de Puerto Rico Departamento de Salud"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.29411764705882354
+  },
+  {
+    "country": "AUS",
+    "priority": 2,
+    "sources": [
+      {
+        "description": "NSW Government Health Department",
+        "name": "NSW Government Health",
+        "url": "https://www.health.nsw.gov.au"
+      }
+    ],
+    "state": "New South Wales",
+    "type": "table",
+    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.27450980392156865
+  },
+  {
     "country": "AUS",
     "maintainers": [
       {
@@ -1936,6 +2072,23 @@
     "headless": false,
     "certValidation": true,
     "ssl": true,
+    "rating": 0.27450980392156865
+  },
+  {
+    "state": "Nova Scotia",
+    "country": "CAN",
+    "url": "https://novascotia.ca/coronavirus/COVID-19-cases.csv",
+    "type": "csv",
+    "certValidation": false,
+    "sources": [
+      {
+        "name": "Government of Nova Scotia",
+        "url": "https://novascotia.ca/coronavirus/#cases"
+      }
+    ],
+    "headless": false,
+    "priority": 0,
+    "ssl": false,
     "rating": 0.27450980392156865
   },
   {
@@ -2105,6 +2258,32 @@
     "rating": 0.2549019607843137
   },
   {
+    "state": "CT",
+    "country": "USA",
+    "sources": [
+      {
+        "url": "https://portal.ct.gov/dph",
+        "name": "Connecticut State DPH",
+        "description": "Connecticut State Department of Public Health"
+      }
+    ],
+    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3292020.pdf",
+    "type": "pdf",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.2549019607843137
+  },
+  {
     "state": "WY",
     "country": "USA",
     "aggregate": "county",
@@ -2179,6 +2358,27 @@
     "rating": 0.21568627450980393
   },
   {
+    "county": "Ventura County",
+    "state": "CA",
+    "country": "USA",
+    "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://www.vcemergency.com",
+    "ssl": true,
+    "rating": 0.21568627450980393
+  },
+  {
     "country": "AUS",
     "maintainers": [
       {
@@ -2194,8 +2394,8 @@
     "priority": 2,
     "sources": [
       {
-        "description": "Nothern Territory Government Coronavirus site",
-        "name": "Nothern Territory Government Coronavirus site",
+        "description": "Northern Territory Government Coronavirus site",
+        "name": "Northern Territory Government Coronavirus site",
         "url": "https://coronavirus.nt.gov.au"
       }
     ],
@@ -2229,7 +2429,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-28-2020/download",
+    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-29-2020/download",
     "ssl": true,
     "rating": 0.17647058823529413
   },
@@ -2270,48 +2470,6 @@
     "rating": 0.13725490196078433
   },
   {
-    "county": "Santa Barbara County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://publichealthsbc.org",
-    "type": "paragraph",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.13725490196078433
-  },
-  {
-    "county": "Ventura County",
-    "state": "CA",
-    "country": "USA",
-    "type": "paragraph",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://www.vcemergency.com",
-    "ssl": true,
-    "rating": 0.13725490196078433
-  },
-  {
     "state": "DC",
     "country": "USA",
     "sources": [
@@ -2326,6 +2484,33 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.13725490196078433
+  },
+  {
+    "county": "Alameda County",
+    "state": "CA",
+    "country": "USA",
+    "sources": [
+      {
+        "url": "http://www.acphd.org",
+        "name": "Alameda Count Public Health Department"
+      }
+    ],
+    "url": "http://www.acphd.org/2019-ncov.aspx",
+    "headless": true,
+    "type": "paragraph",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "USA",
+        "state": "CA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.0784313725490196
   },
   {
     "country": "AUS",

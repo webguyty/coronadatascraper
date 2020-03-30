@@ -187,30 +187,11 @@
     return 'F-';
   };
 
-  /*
-    Get the full name of a location
-  */
-  const getName = function(location) {
-    let name = '';
-    let sep = '';
-    if (location.city) {
-      name += location.city;
-      sep = ', ';
-    }
-    if (location.county) {
-      name += sep + location.county;
-      sep = ', ';
-    }
-    if (location.state) {
-      name += sep + location.state;
-      sep = ', ';
-    }
-    if (location.country) {
-      name += sep + location.country;
-      sep = ', ';
-    }
-    return name;
-  };
+  /** Get the full name of a location
+   * @param {{ city: string?; county: string?; state: string?; country: string?; }} location
+   */
+  const getName = location =>
+    [location.city, location.county, location.state, location.country].filter(Boolean).join(', ');
 
   const isCountry = function(location) {
     return location && location.country && !location.state && !location.county && !location.city;
@@ -1877,6 +1858,10 @@
     initData();
     updateMap();
 
+    /**
+     * @param {{ name: string; population: string?; }} location
+     * @param {{ cases: number; deaths:number?; recovered:number?; active:number?; }} locationData
+     */
     function popupTemplate(location, locationData) {
       let htmlString = `<div class="cds-Popup">`;
       htmlString += `<h6 class="spectrum-Heading spectrum-Heading--XXS">${location.name}</h6>`;
@@ -2195,6 +2180,9 @@
     return url;
   };
 
+  /**
+   * @param {{name: string, country: string?, flag: string?}[]} contributors
+   */
   const getContributors = function(contributors) {
     let html = '';
 
