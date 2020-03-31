@@ -25,6 +25,7 @@
       {
         "name": "Albert III",
         "github": "aed3",
+        "url": "https://aed3.github.io",
         "county": "USA",
         "flag": "🇺🇸"
       }
@@ -170,7 +171,7 @@
     "headless": false,
     "certValidation": true,
     "type": "csv",
-    "url": "https://opendata.arcgis.com/datasets/d9de96980b574ccd933da024a0926f37_0.csv",
+    "url": "https://opendata.arcgis.com/datasets/a7887f1940b34bf5a02c6f7f27a5cb2c_0.csv",
     "ssl": true,
     "rating": 0.5686274509803921
   },
@@ -203,6 +204,7 @@
       {
         "name": "Albert III",
         "github": "aed3",
+        "url": "https://aed3.github.io",
         "county": "USA",
         "flag": "🇺🇸"
       }
@@ -395,6 +397,33 @@
     "rating": 0.5098039215686274
   },
   {
+    "country": "BRA",
+    "type": "list",
+    "priority": 1,
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "BRA",
+        "flag": "🇧🇷"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.5098039215686274
+  },
+  {
     "country": "RUS",
     "aggregate": "state",
     "url": "https://yandex.ru/maps/api/covid?csrfToken=",
@@ -453,7 +482,7 @@
     "aggregate": "county",
     "sources": [
       {
-        "name": "Alabama Department of Public Health | Division of Infectious Diseases & Outbreaks",
+        "name": "Alabama Department of Public Health - Division of Infectious Diseases & Outbreaks",
         "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
       }
     ],
@@ -536,6 +565,34 @@
     "rating": 0.49019607843137253
   },
   {
+    "state": "WA",
+    "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.doh.wa.gov/",
+        "name": "Washington State Department of Health"
+      }
+    ],
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://services8.arcgis.com/rGGrs6HCnw87OFOT/arcgis/rest/services/CountyCases/FeatureServer/0/query?f=json&where=(CV_State_Cases%3E0)&returnGeometry=false&outFields=*&orderByFields=CNTY_NAME%20asc",
+    "type": "json",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
+    "country": "FRA",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "priority": 1,
+    "headless": false,
+    "certValidation": true,
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "country": "IND",
     "url": "https://www.mohfw.gov.in/",
     "type": "table",
@@ -600,6 +657,33 @@
     "rating": 0.47058823529411764
   },
   {
+    "state": "MO",
+    "country": "USA",
+    "type": "table",
+    "aggregate": "county",
+    "url": "https://opendata.arcgis.com/datasets/6f2a47a25872470a815bcd95f52c2872_0.csv",
+    "sources": [
+      {
+        "name": "Missouri Department of Health and Senior Services"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "url": "https://amitechsolutions.com",
+        "github": "paulboal",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "state": "MS",
     "country": "USA",
     "sources": [
@@ -654,6 +738,33 @@
     "rating": 0.47058823529411764
   },
   {
+    "state": "OK",
+    "country": "USA",
+    "type": "table",
+    "aggregate": "county",
+    "url": "https://coronavirus.health.ok.gov/",
+    "sources": [
+      {
+        "name": "Oklahoma State Department of Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Paul Boal",
+        "email": "paul.boal@amitechsolutions.com",
+        "url": "https://amitechsolutions.com",
+        "github": "paulboal",
+        "country": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "state": "PA",
     "country": "USA",
     "aggregate": "county",
@@ -669,6 +780,25 @@
     "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
     "type": "table",
     "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
+    "state": "TX",
+    "country": "USA",
+    "aggregate": "county",
+    "certValidation": false,
+    "sources": [
+      {
+        "url": "https://www.dshs.state.tx.us",
+        "name": "Texas Health and Human Services",
+        "description": "Texas Department of State Health Services"
+      }
+    ],
+    "headless": false,
+    "priority": 0,
+    "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
+    "type": "csv",
+    "ssl": false,
     "rating": 0.47058823529411764
   },
   {
@@ -1350,26 +1480,7 @@
     "rating": 0.43137254901960786
   },
   {
-    "state": "WA",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "https://www.doh.wa.gov/",
-        "name": "Washington State Department of Health"
-      }
-    ],
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "type": "table",
-    "headless": true,
-    "aggregate": "county",
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.43137254901960786
-  },
-  {
     "country": "CAN",
-    "type": "csv",
     "sources": [
       {
         "description": "Health Promotion and Chronic Disease Prevention Branch",
@@ -1377,11 +1488,12 @@
         "url": "https://health-infobase.canada.ca/"
       }
     ],
+    "url": "https://health-infobase.canada.ca/src/data/covidLive/covid19.csv",
+    "type": "csv",
     "aggregate": "state",
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://health-infobase.canada.ca/src/data/summary_current.csv",
     "ssl": true,
     "rating": 0.4117647058823529
   },
@@ -1406,7 +1518,7 @@
         "name": "Arizona Department of Health Services"
       }
     ],
-    "url": "https://tableau.azdhs.gov/views/COVID-19Dashboard/COVID-19table?%3AisGuestRedirectFromVizportal=y&%3Aembed=y",
+    "url": "https://opendata.arcgis.com/datasets/5b34cf1637434c7bb6793580c40d1685_0.csv",
     "type": "csv",
     "aggregate": "county",
     "headless": false,
@@ -1424,6 +1536,65 @@
     "certValidation": true,
     "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
     "type": "csv",
+    "ssl": true,
+    "rating": 0.4117647058823529
+  },
+  {
+    "state": "MA",
+    "country": "USA",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.mass.gov/orgs/department-of-public-health",
+        "name": "Massachusetts DPH",
+        "description": "Massachusetts Department of Public Health"
+      },
+      {
+        "url": "http://memamaps.maps.arcgis.com/apps/MapSeries/index.html?appid=9ef7ef55e4644af29e9ca07bfe6a509f",
+        "name": "Massachusetts Emergency Management Agency"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "url": "https://aed3.github.io",
+        "county": "USA",
+        "flag": "🇺🇸"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "json",
+    "url": "https://services1.arcgis.com/TXaY625xGc0yvAuQ/arcgis/rest/services/COVID_CASES_MA/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
+    "ssl": true,
+    "rating": 0.4117647058823529
+  },
+  {
+    "state": "MN",
+    "country": "USA",
+    "sources": [
+      {
+        "url": "https://www.health.state.mn.us/",
+        "name": "Minnesota Department of Health"
+      },
+      {
+        "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
+        "name": "Minnesota Department of Health"
+      }
+    ],
+    "aggregate": "county",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://services1.arcgis.com/RQG3sksSXcoDoIfj/arcgis/rest/services/MN_COVID19_County_Tracking_Public_View/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
+    "type": "json",
     "ssl": true,
     "rating": 0.4117647058823529
   },
@@ -1464,51 +1635,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "MN",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "https://www.health.state.mn.us/",
-        "name": "Minnesota Department of Health"
-      }
-    ],
-    "url": "https://www.health.state.mn.us/diseases/coronavirus/situation.html",
-    "type": "table",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
-    "state": "MO",
-    "country": "USA",
-    "type": "table",
-    "aggregate": "county",
-    "url": "https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/results.php",
-    "sources": [
-      {
-        "name": "Missouri Department of Health and Senior Services"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Paul Boal",
-        "email": "paul.boal@amitechsolutions.com",
-        "url": "https://amitechsolutions.com",
-        "github": "paulboal",
-        "country": "USA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "NY",
     "country": "USA",
     "type": "table",
@@ -1523,33 +1649,6 @@
     "certValidation": true,
     "priority": 0,
     "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
-    "state": "OK",
-    "country": "USA",
-    "type": "table",
-    "aggregate": "county",
-    "url": "https://coronavirus.health.ok.gov/",
-    "sources": [
-      {
-        "name": "Oklahoma State Department of Health"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Paul Boal",
-        "email": "paul.boal@amitechsolutions.com",
-        "url": "https://amitechsolutions.com",
-        "github": "paulboal",
-        "country": "USA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.39215686274509803
   },
@@ -1591,25 +1690,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "TX",
-    "country": "USA",
-    "aggregate": "county",
-    "certValidation": false,
-    "sources": [
-      {
-        "url": "https://www.dshs.state.tx.us",
-        "name": "Texas Health and Human Services",
-        "description": "Texas Department of State Health Services"
-      }
-    ],
-    "headless": false,
-    "priority": 0,
-    "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
-    "type": "csv",
-    "ssl": false,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "VA",
     "country": "USA",
     "aggregate": "county",
@@ -1624,6 +1704,7 @@
       {
         "name": "Albert III",
         "github": "aed3",
+        "url": "https://aed3.github.io",
         "county": "USA",
         "flag": "🇺🇸"
       }
@@ -1648,8 +1729,8 @@
     ],
     "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
     "type": "table",
-    "headless": false,
     "aggregate": "county",
+    "headless": false,
     "certValidation": true,
     "priority": 0,
     "ssl": false,
@@ -1692,6 +1773,7 @@
       {
         "name": "Albert III",
         "github": "aed3",
+        "url": "https://aed3.github.io",
         "county": "USA",
         "flag": "🇺🇸"
       }
@@ -1736,27 +1818,6 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
-  },
-  {
-    "county": "Santa Barbara County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://publichealthsbc.org",
-    "type": "table",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.35294117647058826
   },
   {
     "county": "Clark County",
@@ -1960,6 +2021,28 @@
     "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
     "headless": false,
     "certValidation": true,
+    "ssl": true,
+    "rating": 0.3137254901960784
+  },
+  {
+    "country": "VIR",
+    "type": "table",
+    "url": "https://doh.vi.gov/covid19usvi",
+    "sources": [
+      {
+        "url": "https://doh.vi.gov/covid19usvi",
+        "name": "United States Virgin Islands Department of Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
     "ssl": true,
     "rating": 0.3137254901960784
   },
@@ -2216,27 +2299,6 @@
     "rating": 0.2549019607843137
   },
   {
-    "county": "Mendocino County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://www.mendocinocounty.org/community/novel-coronavirus",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
     "county": "Yolo County",
     "state": "CA",
     "country": "USA",
@@ -2254,32 +2316,6 @@
     "certValidation": true,
     "priority": 0,
     "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "state": "CT",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "https://portal.ct.gov/dph",
-        "name": "Connecticut State DPH",
-        "description": "Connecticut State Department of Public Health"
-      }
-    ],
-    "url": "https://portal.ct.gov/-/media/Coronavirus/CTDPHCOVID19summary3292020.pdf",
-    "type": "pdf",
-    "aggregate": "county",
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.2549019607843137
   },
@@ -2358,27 +2394,6 @@
     "rating": 0.21568627450980393
   },
   {
-    "county": "Ventura County",
-    "state": "CA",
-    "country": "USA",
-    "type": "paragraph",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://www.vcemergency.com",
-    "ssl": true,
-    "rating": 0.21568627450980393
-  },
-  {
     "country": "AUS",
     "maintainers": [
       {
@@ -2394,8 +2409,7 @@
     "priority": 2,
     "sources": [
       {
-        "description": "Northern Territory Government Coronavirus site",
-        "name": "Northern Territory Government Coronavirus site",
+        "name": "Northern Territory Government - Coronavirus site",
         "url": "https://coronavirus.nt.gov.au"
       }
     ],
@@ -2406,56 +2420,6 @@
     "certValidation": true,
     "ssl": true,
     "rating": 0.19607843137254902
-  },
-  {
-    "state": "MA",
-    "country": "USA",
-    "aggregate": "county",
-    "type": "pdf",
-    "sources": [
-      {
-        "url": "https://www.mass.gov/orgs/department-of-public-health",
-        "name": "Massachusetts DPH",
-        "description": "Massachusetts Department of Public Health"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://www.mass.gov/doc/covid-19-cases-in-massachusetts-as-of-march-29-2020/download",
-    "ssl": true,
-    "rating": 0.17647058823529413
-  },
-  {
-    "state": "NH",
-    "country": "USA",
-    "sources": [
-      {
-        "name": "New Hampshire Department of Health and Human Services"
-      }
-    ],
-    "url": "https://www.nh.gov/covid19/documents/case-map.pdf",
-    "aggregate": "county",
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "type": "pdf",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.17647058823529413
   },
   {
     "county": "San Luis Obispo County",
@@ -2492,7 +2456,7 @@
     "sources": [
       {
         "url": "http://www.acphd.org",
-        "name": "Alameda Count Public Health Department"
+        "name": "Alameda County Public Health Department"
       }
     ],
     "url": "http://www.acphd.org/2019-ncov.aspx",

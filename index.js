@@ -2162,6 +2162,26 @@
     }
   }
 
+  const replacements = {
+    'Cabinet for Health and Family Services': 'HFS',
+    'Department of Health & Human Resources': 'DHHR',
+    'Department of Health and Human Services': 'HHS',
+    'Emergency and Preparedness Information': 'E&P',
+    'Health and Human Services': 'HHS',
+    'Department of Health': 'DoH',
+    'Public Health Department': 'DPH',
+    'Department of Public Health': 'DoH',
+    Department: 'Dept.',
+    Information: 'Info.'
+  };
+  function shortenName(name) {
+    for (const [search, replace] of Object.entries(replacements)) {
+      name = name.split(' - ').shift();
+      name = name.replace(search, replace);
+    }
+    return name;
+  }
+
   const getURLFromContributor = function(curator) {
     if (!curator) {
       return '';
@@ -2183,19 +2203,28 @@
   /**
    * @param {{name: string, country: string?, flag: string?}[]} contributors
    */
-  const getContributors = function(contributors) {
+  const getContributors = function(contributors, options = { link: true, shortNames: false }) {
     let html = '';
 
     if (contributors) {
       for (const [index, contributor] of Object.entries(contributors)) {
+        // Only show first source
+        if (options.shortNames && index > 0) {
+          break;
+        }
+
         if (index !== '0') {
           html += ', ';
         }
-        const contributorURL = getURLFromContributor(contributor);
+        const contributorURL = options.link && getURLFromContributor(contributor);
         if (contributorURL) {
-          html += `<a href="${getURLFromContributor(contributor)}" class="spectrum-Link">`;
+          html += `<a href="${contributorURL}" class="spectrum-Link">`;
         }
-        html += contributor.name;
+        if (options.shortNames) {
+          html += shortenName(contributor.name);
+        } else {
+          html += contributor.name;
+        }
         if (contributorURL) {
           html += `</a>`;
         }
@@ -2317,8 +2346,19 @@
 
   /* global document, window */
 
+  function getClassNames(classNames) {
+    return Object.entries(classNames)
+      .reduce((a, [className, use]) => {
+        if (use) {
+          a.push(className);
+        }
+        return a;
+      }, [])
+      .join(' ');
+  }
+
   function crossCheckReportTemplate(report) {
-    const locationName = getName(report[0]);
+    const locationName = getName(report.location);
     const slug = `crosscheck:${locationName.replace(/,/g, '-').replace(/\s/g, '')}`;
 
     let html = `<li class="cds-CrossCheckReport" id="${slug}">`;
@@ -2335,7 +2375,13 @@
   `;
 
     for (const metric of metrics) {
-      html += `<th class="cds-SourceComparison-metric">${metric}</td>`;
+      const classNames = {
+        'cds-SourceComparison-metric': true,
+        'cds-SourceComparison-discrepancyMetric': report.discrepancies.includes(metric),
+        'cds-SourceComparison-agreedMetric': report.agreements.includes(metric)
+      };
+
+      html += `<th class="${getClassNames(classNames)}">${metric}</td>`;
     }
 
     html += `
@@ -2343,31 +2389,38 @@
         <tbody>
   `;
 
-    for (const source of report) {
+    report.sources.forEach((source, index) => {
       html += `
             <tr>
     `;
       const sourceURLShort = source.url.match(/^(?:https?:\/\/)?(?:[^@/\n]+@)?(?:www\.)?([^:/?\n]+)/)[1];
-      const curators = getContributors(source.curators);
-      const sources = getContributors(source.sources);
+      const curators = getContributors(source.curators, { shortNames: true, link: false });
+      const sources = getContributors(source.sources, { shortNames: true, link: false });
       html += `<th class="cds-SourceComparison-source">`;
+      if (index === report.used) {
+        html += '✅ ';
+      }
+      html += `<a class="spectrum-Link" target="_blank" href="${source.url}">`;
       if (source.curators) {
         html += `<strong>${curators}</strong>`;
       } else if (source.sources) {
         html += `<strong>${sources}</strong>`;
       } else {
-        html += `<strong><a href="${source.url}" class="spectrum-Link" target="_blank">${sourceURLShort}</a></strong>`;
+        html += `<strong>${sourceURLShort}</strong>`;
       }
+      html += `</a>`;
       html += `</th>`;
 
       for (const metric of metrics) {
-        html += `<td class="cds-SourceComparison-value">${source[metric] === undefined ? '-' : source[metric]}</td>`;
+        html += `<td class="cds-SourceComparison-value${
+        report.discrepancies.includes(metric) ? ' cds-SourceComparison-discrepancyValue' : ''
+      }">${source[metric] === undefined ? '-' : source[metric]}</td>`;
       }
 
       html += `
             </tr>
     `;
-    }
+    });
 
     html += `
         </tbody>
@@ -2381,21 +2434,29 @@
     return html;
   }
 
-  function generateCrossCheckReport(reports) {
+  function generateCrossCheckReport(reports, date) {
     let html = '';
     for (const [, crosscheckReport] of Object.entries(reports)) {
-      html += crossCheckReportTemplate(crosscheckReport);
+      // Only show reports where we disgaree
+      if (crosscheckReport.discrepancies.length !== 0) {
+        html += crossCheckReportTemplate(crosscheckReport);
+      }
     }
     return html;
   }
 
-  function generateCrossCheckPage(report) {
+  function generateCrossCheckPage(report, date) {
     let html = `<h1 class="spectrum-Heading spectrum-Heading--L">Cross-check reports</h1>`;
 
+    const totalReports = Object.keys(report).length;
+
+    const identicalReports = Object.values(report).filter(r => r.discrepancies.length === 0).length;
+
     if (report && Object.keys(report).length) {
-      html += `<p class="spectrum-Body spectrum-Body--L">A total of ${Object.keys(
-      report
-    ).length.toLocaleString()} cross-checks reports were generated.</p>`;
+      html += `<p class="spectrum-Body spectrum-Body--L">A total of ${totalReports.toLocaleString()} cross-check reports were generated for ${date}.</p>`;
+      if (identicalReports !== 0) {
+        html += `<p class="spectrum-Body spectrum-Body--L">${identicalReports.toLocaleString()} cross-checks resulted in no discrepancies and are not shown below.</p>`;
+      }
 
       html += `<ol class="cds-CrossCheckReports-list">
       ${generateCrossCheckReport(report)}
@@ -2410,7 +2471,7 @@
   function showCrossCheckReport() {
     const reportContainer = document.querySelector('.cds-CrossCheckReports-page');
     json('report.json', function(report) {
-      reportContainer.innerHTML = generateCrossCheckPage(report.scrape.crosscheckReports);
+      reportContainer.innerHTML = generateCrossCheckPage(report.scrape.crosscheckReports, report.date);
 
       if (window.location.hash.indexOf(':') !== -1) {
         document.getElementById(window.location.hash.substr(1)).scrollIntoView({
