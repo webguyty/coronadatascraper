@@ -58,25 +58,6 @@
     "rating": 0.6470588235294118
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
-    "type": "csv",
-    "country": "USA",
-    "aggregate": "county",
-    "priority": -1,
-    "curators": [
-      {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.6274509803921569
-  },
-  {
     "country": "ESP",
     "url": "https://github.com/datadista/datasets/tree/master/COVID%2019",
     "priority": 1,
@@ -263,25 +244,6 @@
     "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
     "type": "json",
     "ssl": false,
-    "rating": 0.5490196078431373
-  },
-  {
-    "state": "ME",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "https://www.maine.gov/dhhs/mecdc",
-        "name": "MeCDC",
-        "description": "Maine Center for Disease Control & Prevention"
-      }
-    ],
-    "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
-    "type": "table",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
     "rating": 0.5490196078431373
   },
   {
@@ -535,6 +497,18 @@
     "rating": 0.49019607843137253
   },
   {
+    "country": "USA",
+    "state": "NJ",
+    "aggregate": "county",
+    "type": "csv",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://opendata.arcgis.com/datasets/24f4fcf164ad4b4280f08c8939dd5dc7_0.csv",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "state": "OH",
     "country": "USA",
     "aggregate": "county",
@@ -589,17 +563,6 @@
     "headless": false,
     "certValidation": true,
     "type": "csv",
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "country": "IND",
-    "url": "https://www.mohfw.gov.in/",
-    "type": "table",
-    "aggregate": "state",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.47058823529411764
   },
@@ -695,24 +658,6 @@
     "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "type": "table",
     "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "state": "ND",
-    "country": "USA",
-    "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases",
-    "type": "table",
-    "aggregate": "county",
-    "sources": [
-      {
-        "name": "North Dakota Department of Health",
-        "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
-      }
-    ],
     "headless": false,
     "certValidation": true,
     "priority": 0,
@@ -1480,24 +1425,6 @@
     "rating": 0.43137254901960786
   },
   {
-    "country": "CAN",
-    "sources": [
-      {
-        "description": "Health Promotion and Chronic Disease Prevention Branch",
-        "name": "Public Health Agency of Canada",
-        "url": "https://health-infobase.canada.ca/"
-      }
-    ],
-    "url": "https://health-infobase.canada.ca/src/data/covidLive/covid19.csv",
-    "type": "csv",
-    "aggregate": "state",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
     "country": "GBR",
     "state": "England",
     "url": "https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data",
@@ -1607,18 +1534,6 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
-    "country": "USA",
-    "state": "NJ",
-    "aggregate": "county",
-    "type": "csv",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://opendata.arcgis.com/datasets/24f4fcf164ad4b4280f08c8939dd5dc7_0.csv",
     "ssl": true,
     "rating": 0.4117647058823529
   },
@@ -1781,41 +1696,6 @@
     "priority": 1,
     "headless": false,
     "certValidation": true,
-    "ssl": true,
-    "rating": 0.37254901960784315
-  },
-  {
-    "state": "RI",
-    "country": "USA",
-    "priority": 1,
-    "type": "csv",
-    "sources": [
-      {
-        "url": "https://health.ri.gov/data/covid-19/",
-        "name": "State of Rhode Island Department of Health"
-      }
-    ],
-    "url": "https://health.ri.gov/data/covid-19/",
-    "headless": true,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.37254901960784315
-  },
-  {
-    "state": "WV",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "https://dhhr.wv.gov",
-        "name": "West Virginia Department of Health & Human Resources"
-      }
-    ],
-    "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
-    "type": "list",
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
   },
@@ -2089,28 +1969,6 @@
     "rating": 0.3137254901960784
   },
   {
-    "country": "PRI",
-    "type": "table",
-    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
-    "sources": [
-      {
-        "url": "http://salud.gov.pr/",
-        "name": "Gobierno de Puerto Rico Departamento de Salud"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Jacob McGowan",
-        "github": "jacobmcgowan"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.29411764705882354
-  },
-  {
     "country": "AUS",
     "priority": 2,
     "sources": [
@@ -2155,23 +2013,6 @@
     "headless": false,
     "certValidation": true,
     "ssl": true,
-    "rating": 0.27450980392156865
-  },
-  {
-    "state": "Nova Scotia",
-    "country": "CAN",
-    "url": "https://novascotia.ca/coronavirus/COVID-19-cases.csv",
-    "type": "csv",
-    "certValidation": false,
-    "sources": [
-      {
-        "name": "Government of Nova Scotia",
-        "url": "https://novascotia.ca/coronavirus/#cases"
-      }
-    ],
-    "headless": false,
-    "priority": 0,
-    "ssl": false,
     "rating": 0.27450980392156865
   },
   {
