@@ -1,273 +1,323 @@
 date,country,state,county,city,type,description,severity,category
-2020-03-31,CHE,,,,scraper failed,TypeError: Cannot read property 'AG' of undefined,critical,scraper failure
-2020-03-31,FRA,,,,scraper failed,Error: Invalid data: scraper for FRA returned 0 rows,critical,scraper failure
-2020-03-31,IND,,,,scraper failed,Error: Invalid data: scraper for IND returned 0 rows,critical,scraper failure
-2020-03-31,RUS,,,,scraper failed,TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is null.,critical,scraper failure
-2020-03-31,USA,CA,Alameda County,,scraper failed,TypeError: Cannot read property 'match' of null,critical,scraper failure
-2020-03-31,USA,CA,Kern County,,scraper failed,"Error: Kern County, CA now uses a PNG and PDF",critical,scraper failure
-2020-03-31,USA,CA,Los Angeles County,,scraper failed,Error: Invalid data: cases is not a number,critical,scraper failure
-2020-03-31,USA,CA,Madera County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-03-31,USA,CA,Marin County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-03-31,USA,CA,Mendocino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
-2020-03-31,USA,CA,Orange County,,scraper failed,Error: Need to scrape new page,critical,scraper failure
-2020-03-31,USA,CA,Riverside County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-03-31,USA,CA,San Benito County,,scraper failed,Error: Need to scrape new arcgis,critical,scraper failure
-2020-03-31,USA,CA,San Bernardino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
-2020-03-31,USA,CA,Santa Barbara County,,scraper failed,TypeError: Cannot read property '0' of undefined,critical,scraper failure
-2020-03-31,USA,CA,Santa Clara County,,scraper failed,TypeError: Cannot read property 'children' of undefined,critical,scraper failure
-2020-03-31,USA,CA,Santa Cruz County,,scraper failed,Error: H2 not found,critical,scraper failure
-2020-03-31,USA,CA,Solano County,,scraper failed,"Error: Solano County, CA now uses a PDF",critical,scraper failure
-2020-03-31,USA,CA,Sonoma County,,scraper failed,"DeprecatedError: Sonoma switched to ArcGIS, which is handled by another scraper",critical,scraper failure
-2020-03-31,USA,CA,Ventura County,,scraper failed,Error: Unexpected table layout/labels,critical,scraper failure
-2020-03-31,USA,Guam,,,scraper failed,"DeprecatedError: Guam stopped offering totals on their website, but there's a sweet coloring book",critical,scraper failure
-2020-03-31,USA,NH,,,scraper failed,DeprecatedError: New Hampshire stopped reporting county-level data as of 2020/3/31,critical,scraper failure
-2020-03-31,FRA,French Polynesia,,,missing location,,low,locations
-2020-03-31,FRA,New Caledonia,,,missing location,,low,locations
-2020-03-31,FRA,Reunion,,,missing location,,low,locations
-2020-03-31,NLD,Aruba,,,missing location,,low,locations
-2020-03-31,GBR,Channel Islands,,,missing location,,low,locations
-2020-03-31,GBR,Turks and Caicos Islands,,,missing location,,low,locations
-2020-03-31,CHE,,Zurich,,missing location,,low,locations
-2020-03-31,KOR,Quarantine,,,missing location,,low,locations
-2020-03-31,USA,AK,Anchorage,,missing location,,low,locations
-2020-03-31,USA,AK,Fairbanks North Star Borough,,missing location,,low,locations
-2020-03-31,USA,AK,Juneau City and Borough,,missing location,,low,locations
-2020-03-31,USA,AK,Kenai Peninsula Borough,,missing location,,low,locations
-2020-03-31,USA,AK,Ketchikan Gateway Borough,,missing location,,low,locations
-2020-03-31,USA,AK,Matanuska-Susitna Borough,,missing location,,low,locations
-2020-03-31,USA,DC,District of Columbia,,missing location,,low,locations
-2020-03-31,USA,PR,,,missing location,,low,locations
-2020-03-31,USA,AS,,,missing location,,low,locations
-2020-03-31,USA,GU,,,missing location,,low,locations
-2020-03-31,USA,MP,,,missing location,,low,locations
-2020-03-31,USA,VI,,,missing location,,low,locations
-2020-03-31,GBR,England,"Kingston upon Hull, City of",,missing location,,low,locations
-2020-03-31,GBR,England,"Herefordshire, County of",,missing location,,low,locations
-2020-03-31,GBR,England,"Bristol, City of",,missing location,,low,locations
-2020-03-31,GBR,England,Cornwall and Isles of Scilly,,missing location,,low,locations
-2020-03-31,GBR,England,"Bournemouth, Christchurch and Poole",,missing location,,low,locations
-2020-03-31,GBR,England,St. Helens,,missing location,,low,locations
-2020-03-31,GBR,England,Wirral,,missing location,,low,locations
-2020-03-31,GBR,England,Hackney and City of London,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Ayrshire and Arran,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Borders,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Forth Valley,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Grampian,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Greater Glasgow and Clyde,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Lanarkshire,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Lothian,,missing location,,low,locations
-2020-03-31,GBR,Scotland,Tayside,,missing location,,low,locations
-2020-03-31,GBR,Scotland,,,missing location,,low,locations
-2020-03-31,USA,ID,Adam County,,missing location,,low,locations
-2020-03-31,USA,MD,Baltimore City,,missing location,,low,locations
-2020-03-31,DNK,Greenland,,,missing population,,low,population
-2020-03-31,FRA,French Guiana,,,missing population,,low,population
-2020-03-31,FRA,French Polynesia,,,missing population,,low,population
-2020-03-31,FRA,Guadeloupe,,,missing population,,low,population
-2020-03-31,FRA,Mayotte,,,missing population,,low,population
-2020-03-31,FRA,New Caledonia,,,missing population,,low,population
-2020-03-31,FRA,Reunion,,,missing population,,low,population
-2020-03-31,FRA,St Martin,,,missing population,,low,population
-2020-03-31,FRA,Martinique,,,missing population,,low,population
-2020-03-31,NLD,Aruba,,,missing population,,low,population
-2020-03-31,NLD,Curacao,,,missing population,,low,population
-2020-03-31,NLD,Sint Maarten,,,missing population,,low,population
-2020-03-31,GBR,Bermuda,,,missing population,,low,population
-2020-03-31,GBR,Cayman Islands,,,missing population,,low,population
-2020-03-31,GBR,Channel Islands,,,missing population,,low,population
-2020-03-31,GBR,Isle of Man,,,missing population,,low,population
-2020-03-31,GBR,Montserrat,,,missing population,,low,population
-2020-03-31,GBR,Anguilla,,,missing population,,low,population
-2020-03-31,GBR,British Virgin Islands,,,missing population,,low,population
-2020-03-31,GBR,Turks and Caicos Islands,,,missing population,,low,population
-2020-03-31,CHE,,Zurich,,missing population,,low,population
-2020-03-31,ITA,Emilia-Romagna,,,missing population,,low,population
-2020-03-31,KOR,Quarantine,,,missing population,,low,population
-2020-03-31,USA,AK,Anchorage,,missing population,,low,population
-2020-03-31,USA,MO,,Kansas City,missing population,,low,population
-2020-03-31,USA,MO,,St. Louis city,missing population,,low,population
-2020-03-31,USA,VA,,Charles City,missing population,,low,population
-2020-03-31,USA,VA,,James City,missing population,,low,population
-2020-03-31,USA,AS,,,missing population,,low,population
-2020-03-31,USA,GU,,,missing population,,low,population
-2020-03-31,USA,MP,,,missing population,,low,population
-2020-03-31,USA,VI,,,missing population,,low,population
-2020-03-31,GBR,England,Hartlepool,,missing population,,low,population
-2020-03-31,GBR,England,Middlesbrough,,missing population,,low,population
-2020-03-31,GBR,England,Redcar and Cleveland,,missing population,,low,population
-2020-03-31,GBR,England,Stockton-on-Tees,,missing population,,low,population
-2020-03-31,GBR,England,Darlington,,missing population,,low,population
-2020-03-31,GBR,England,Halton,,missing population,,low,population
-2020-03-31,GBR,England,Warrington,,missing population,,low,population
-2020-03-31,GBR,England,Blackburn with Darwen,,missing population,,low,population
-2020-03-31,GBR,England,Blackpool,,missing population,,low,population
-2020-03-31,GBR,England,"Kingston upon Hull, City of",,missing population,,low,population
-2020-03-31,GBR,England,North East Lincolnshire,,missing population,,low,population
-2020-03-31,GBR,England,North Lincolnshire,,missing population,,low,population
-2020-03-31,GBR,England,York,,missing population,,low,population
-2020-03-31,GBR,England,Derby,,missing population,,low,population
-2020-03-31,GBR,England,Leicester,,missing population,,low,population
-2020-03-31,GBR,England,Nottingham,,missing population,,low,population
-2020-03-31,GBR,England,"Herefordshire, County of",,missing population,,low,population
-2020-03-31,GBR,England,Telford and Wrekin,,missing population,,low,population
-2020-03-31,GBR,England,Stoke-on-Trent,,missing population,,low,population
-2020-03-31,GBR,England,Bath and North East Somerset,,missing population,,low,population
-2020-03-31,GBR,England,"Bristol, City of",,missing population,,low,population
-2020-03-31,GBR,England,North Somerset,,missing population,,low,population
-2020-03-31,GBR,England,South Gloucestershire,,missing population,,low,population
-2020-03-31,GBR,England,Plymouth,,missing population,,low,population
-2020-03-31,GBR,England,Torbay,,missing population,,low,population
-2020-03-31,GBR,England,Swindon,,missing population,,low,population
-2020-03-31,GBR,England,Peterborough,,missing population,,low,population
-2020-03-31,GBR,England,Luton,,missing population,,low,population
-2020-03-31,GBR,England,Southend-on-Sea,,missing population,,low,population
-2020-03-31,GBR,England,Thurrock,,missing population,,low,population
-2020-03-31,GBR,England,Medway,,missing population,,low,population
-2020-03-31,GBR,England,Bracknell Forest,,missing population,,low,population
-2020-03-31,GBR,England,West Berkshire,,missing population,,low,population
-2020-03-31,GBR,England,Reading,,missing population,,low,population
-2020-03-31,GBR,England,Slough,,missing population,,low,population
-2020-03-31,GBR,England,Windsor and Maidenhead,,missing population,,low,population
-2020-03-31,GBR,England,Wokingham,,missing population,,low,population
-2020-03-31,GBR,England,Milton Keynes,,missing population,,low,population
-2020-03-31,GBR,England,Brighton and Hove,,missing population,,low,population
-2020-03-31,GBR,England,Portsmouth,,missing population,,low,population
-2020-03-31,GBR,England,Southampton,,missing population,,low,population
-2020-03-31,GBR,England,County Durham,,missing population,,low,population
-2020-03-31,GBR,England,Cheshire East,,missing population,,low,population
-2020-03-31,GBR,England,Cheshire West and Chester,,missing population,,low,population
-2020-03-31,GBR,England,Cornwall and Isles of Scilly,,missing population,,low,population
-2020-03-31,GBR,England,Bedford,,missing population,,low,population
-2020-03-31,GBR,England,Central Bedfordshire,,missing population,,low,population
-2020-03-31,GBR,England,"Bournemouth, Christchurch and Poole",,missing population,,low,population
-2020-03-31,GBR,England,Bolton,,missing population,,low,population
-2020-03-31,GBR,England,Bury,,missing population,,low,population
-2020-03-31,GBR,England,Manchester,,missing population,,low,population
-2020-03-31,GBR,England,Oldham,,missing population,,low,population
-2020-03-31,GBR,England,Rochdale,,missing population,,low,population
-2020-03-31,GBR,England,Salford,,missing population,,low,population
-2020-03-31,GBR,England,Stockport,,missing population,,low,population
-2020-03-31,GBR,England,Tameside,,missing population,,low,population
-2020-03-31,GBR,England,Trafford,,missing population,,low,population
-2020-03-31,GBR,England,Wigan,,missing population,,low,population
-2020-03-31,GBR,England,Knowsley,,missing population,,low,population
-2020-03-31,GBR,England,Liverpool,,missing population,,low,population
-2020-03-31,GBR,England,St. Helens,,missing population,,low,population
-2020-03-31,GBR,England,Sefton,,missing population,,low,population
-2020-03-31,GBR,England,Wirral,,missing population,,low,population
-2020-03-31,GBR,England,Barnsley,,missing population,,low,population
-2020-03-31,GBR,England,Doncaster,,missing population,,low,population
-2020-03-31,GBR,England,Rotherham,,missing population,,low,population
-2020-03-31,GBR,England,Sheffield,,missing population,,low,population
-2020-03-31,GBR,England,Newcastle upon Tyne,,missing population,,low,population
-2020-03-31,GBR,England,North Tyneside,,missing population,,low,population
-2020-03-31,GBR,England,South Tyneside,,missing population,,low,population
-2020-03-31,GBR,England,Sunderland,,missing population,,low,population
-2020-03-31,GBR,England,Birmingham,,missing population,,low,population
-2020-03-31,GBR,England,Coventry,,missing population,,low,population
-2020-03-31,GBR,England,Dudley,,missing population,,low,population
-2020-03-31,GBR,England,Sandwell,,missing population,,low,population
-2020-03-31,GBR,England,Solihull,,missing population,,low,population
-2020-03-31,GBR,England,Walsall,,missing population,,low,population
-2020-03-31,GBR,England,Wolverhampton,,missing population,,low,population
-2020-03-31,GBR,England,Bradford,,missing population,,low,population
-2020-03-31,GBR,England,Calderdale,,missing population,,low,population
-2020-03-31,GBR,England,Kirklees,,missing population,,low,population
-2020-03-31,GBR,England,Leeds,,missing population,,low,population
-2020-03-31,GBR,England,Wakefield,,missing population,,low,population
-2020-03-31,GBR,England,Gateshead,,missing population,,low,population
-2020-03-31,GBR,England,Barking and Dagenham,,missing population,,low,population
-2020-03-31,GBR,England,Barnet,,missing population,,low,population
-2020-03-31,GBR,England,Bexley,,missing population,,low,population
-2020-03-31,GBR,England,Brent,,missing population,,low,population
-2020-03-31,GBR,England,Bromley,,missing population,,low,population
-2020-03-31,GBR,England,Camden,,missing population,,low,population
-2020-03-31,GBR,England,Croydon,,missing population,,low,population
-2020-03-31,GBR,England,Ealing,,missing population,,low,population
-2020-03-31,GBR,England,Enfield,,missing population,,low,population
-2020-03-31,GBR,England,Greenwich,,missing population,,low,population
-2020-03-31,GBR,England,Hackney and City of London,,missing population,,low,population
-2020-03-31,GBR,England,Hammersmith and Fulham,,missing population,,low,population
-2020-03-31,GBR,England,Haringey,,missing population,,low,population
-2020-03-31,GBR,England,Harrow,,missing population,,low,population
-2020-03-31,GBR,England,Havering,,missing population,,low,population
-2020-03-31,GBR,England,Hillingdon,,missing population,,low,population
-2020-03-31,GBR,England,Hounslow,,missing population,,low,population
-2020-03-31,GBR,England,Islington,,missing population,,low,population
-2020-03-31,GBR,England,Kensington and Chelsea,,missing population,,low,population
-2020-03-31,GBR,England,Kingston upon Thames,,missing population,,low,population
-2020-03-31,GBR,England,Lambeth,,missing population,,low,population
-2020-03-31,GBR,England,Lewisham,,missing population,,low,population
-2020-03-31,GBR,England,Merton,,missing population,,low,population
-2020-03-31,GBR,England,Newham,,missing population,,low,population
-2020-03-31,GBR,England,Redbridge,,missing population,,low,population
-2020-03-31,GBR,England,Richmond upon Thames,,missing population,,low,population
-2020-03-31,GBR,England,Southwark,,missing population,,low,population
-2020-03-31,GBR,England,Sutton,,missing population,,low,population
-2020-03-31,GBR,England,Tower Hamlets,,missing population,,low,population
-2020-03-31,GBR,England,Waltham Forest,,missing population,,low,population
-2020-03-31,GBR,England,Wandsworth,,missing population,,low,population
-2020-03-31,GBR,England,Westminster,,missing population,,low,population
-2020-03-31,GBR,Scotland,Ayrshire and Arran,,missing population,,low,population
-2020-03-31,GBR,Scotland,Borders,,missing population,,low,population
-2020-03-31,GBR,Scotland,Dumfries and Galloway,,missing population,,low,population
-2020-03-31,GBR,Scotland,Fife,,missing population,,low,population
-2020-03-31,GBR,Scotland,Forth Valley,,missing population,,low,population
-2020-03-31,GBR,Scotland,Grampian,,missing population,,low,population
-2020-03-31,GBR,Scotland,Greater Glasgow and Clyde,,missing population,,low,population
-2020-03-31,GBR,Scotland,Highland,,missing population,,low,population
-2020-03-31,GBR,Scotland,Lanarkshire,,missing population,,low,population
-2020-03-31,GBR,Scotland,Lothian,,missing population,,low,population
-2020-03-31,GBR,Scotland,Shetland,,missing population,,low,population
-2020-03-31,GBR,Scotland,Tayside,,missing population,,low,population
-2020-03-31,GBR,Scotland,,,missing population,,low,population
-2020-03-31,USA,AR,(unassigned),,missing population,,low,population
-2020-03-31,USA,FL,(unassigned),,missing population,,low,population
-2020-03-31,USA,GA,(unassigned),,missing population,,low,population
-2020-03-31,USA,ID,Adam County,,missing population,,low,population
-2020-03-31,USA,LA,(unassigned),,missing population,,low,population
-2020-03-31,USA,MA,(unassigned),,missing population,,low,population
-2020-03-31,USA,MD,Baltimore City,,missing population,,low,population
-2020-03-31,USA,ME,(unassigned),,missing population,,low,population
-2020-03-31,USA,MI,(unassigned),,missing population,,low,population
-2020-03-31,USA,MO,(unassigned),,missing population,,low,population
-2020-03-31,USA,RI,Bristol County,Barrington,missing population,,low,population
-2020-03-31,USA,RI,Bristol County,Bristol,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Burrillville,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Central Falls,missing population,,low,population
-2020-03-31,USA,RI,Washington County,Charlestown,missing population,,low,population
-2020-03-31,USA,RI,Kent County,Coventry,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Cranston,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Cumberland,missing population,,low,population
-2020-03-31,USA,RI,Kent County,East Greenwich,missing population,,low,population
-2020-03-31,USA,RI,Providence County,East Providence,missing population,,low,population
-2020-03-31,USA,RI,Washington County,Exeter,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Foster,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Glocester,missing population,,low,population
-2020-03-31,USA,RI,Washington County,Hopkinton,missing population,,low,population
-2020-03-31,USA,RI,Newport County,Jamestown,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Johnston,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Lincoln,missing population,,low,population
-2020-03-31,USA,RI,Newport County,Little Compton,missing population,,low,population
-2020-03-31,USA,RI,Newport County,Middletown,missing population,,low,population
-2020-03-31,USA,RI,Washington County,Narragansett,missing population,,low,population
-2020-03-31,USA,RI,Washington County,New Shoreham,missing population,,low,population
-2020-03-31,USA,RI,Newport County,Newport,missing population,,low,population
-2020-03-31,USA,RI,Washington County,North Kingstown,missing population,,low,population
-2020-03-31,USA,RI,Providence County,North Providence,missing population,,low,population
-2020-03-31,USA,RI,Providence County,North Smithfield,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Pawtucket,missing population,,low,population
-2020-03-31,USA,RI,Newport County,Portsmouth,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Providence,missing population,,low,population
-2020-03-31,USA,RI,Washington County,Richmond,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Scituate,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Smithfield,missing population,,low,population
-2020-03-31,USA,RI,Washington County,South Kingstown,missing population,,low,population
-2020-03-31,USA,RI,Newport County,Tiverton,missing population,,low,population
-2020-03-31,USA,RI,Bristol County,Warren,missing population,,low,population
-2020-03-31,USA,RI,Kent County,Warwick,missing population,,low,population
-2020-03-31,USA,RI,Kent County,West Greenwich,missing population,,low,population
-2020-03-31,USA,RI,Kent County,West Warwick,missing population,,low,population
-2020-03-31,USA,RI,Washington County,Westerly,missing population,,low,population
-2020-03-31,USA,RI,Providence County,Woonsocket,missing population,,low,population
-2020-03-31,USA,TN,(unassigned),,missing population,,low,population
+2020-04-02,CHE,,,,scraper failed,TypeError: Cannot read property 'AG' of undefined,critical,scraper failure
+2020-04-02,IND,,,,scraper failed,Error: Invalid data: scraper for IND returned 0 rows,critical,scraper failure
+2020-04-02,RUS,,,,scraper failed,TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is null.,critical,scraper failure
+2020-04-02,USA,,,,scraper failed,Error: Timeseries does not contain a sample for SCRAPE_DATE 2020-4-2,critical,scraper failure
+2020-04-02,AUS,Victoria,,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
+2020-04-02,USA,CA,Kern County,,scraper failed,"Error: Kern County, CA now uses a PNG and PDF",critical,scraper failure
+2020-04-02,USA,CA,Los Angeles County,,scraper failed,Error: Invalid data: cases is not a number,critical,scraper failure
+2020-04-02,USA,CA,Madera County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-02,USA,CA,Marin County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-02,USA,CA,Mendocino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
+2020-04-02,USA,CA,Orange County,,scraper failed,Error: Need to scrape new page,critical,scraper failure
+2020-04-02,USA,CA,Riverside County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-02,USA,CA,Sacramento County,,scraper failed,Error: Invalid data: deaths is not a number,critical,scraper failure
+2020-04-02,USA,CA,San Benito County,,scraper failed,Error: Need to scrape new arcgis,critical,scraper failure
+2020-04-02,USA,CA,San Bernardino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
+2020-04-02,USA,CA,Santa Barbara County,,scraper failed,TypeError: Cannot read property '0' of undefined,critical,scraper failure
+2020-04-02,USA,CA,Santa Clara County,,scraper failed,TypeError: Cannot read property 'children' of undefined,critical,scraper failure
+2020-04-02,USA,CA,Santa Cruz County,,scraper failed,Error: H2 not found,critical,scraper failure
+2020-04-02,USA,CA,Solano County,,scraper failed,"Error: Solano County, CA now uses a PDF",critical,scraper failure
+2020-04-02,USA,CA,Sonoma County,,scraper failed,"DeprecatedError: Sonoma switched to ArcGIS, which is handled by another scraper",critical,scraper failure
+2020-04-02,USA,CA,Ventura County,,scraper failed,Error: Unexpected table layout/labels,critical,scraper failure
+2020-04-02,USA,Guam,,,scraper failed,"DeprecatedError: Guam stopped offering totals on their website, but there's a sweet coloring book",critical,scraper failure
+2020-04-02,USA,NH,,,scraper failed,DeprecatedError: New Hampshire stopped reporting county-level data as of 2020/3/31,critical,scraper failure
+2020-04-02,FRA,French Polynesia,,,missing location,,low,locations
+2020-04-02,FRA,New Caledonia,,,missing location,,low,locations
+2020-04-02,FRA,Reunion,,,missing location,,low,locations
+2020-04-02,NLD,Aruba,,,missing location,,low,locations
+2020-04-02,GBR,Channel Islands,,,missing location,,low,locations
+2020-04-02,GBR,Turks and Caicos Islands,,,missing location,,low,locations
+2020-04-02,BRA,AL,"Importados/Indefinidos, AL",,missing location,,low,locations
+2020-04-02,BRA,BA,"Importados/Indefinidos, BA",,missing location,,low,locations
+2020-04-02,BRA,ES,"Importados/Indefinidos, ES",,missing location,,low,locations
+2020-04-02,BRA,GO,"Importados/Indefinidos, GO",,missing location,,low,locations
+2020-04-02,BRA,MG,"Importados/Indefinidos, MG",,missing location,,low,locations
+2020-04-02,BRA,PE,"Importados/Indefinidos, PE",,missing location,,low,locations
+2020-04-02,BRA,PR,"Importados/Indefinidos, PR",,missing location,,low,locations
+2020-04-02,BRA,RJ,"Importados/Indefinidos, RJ",,missing location,,low,locations
+2020-04-02,BRA,SC,"Importados/Indefinidos, SC",,missing location,,low,locations
+2020-04-02,BRA,SC,"Pescaria Brava, SC",,missing location,,low,locations
+2020-04-02,BRA,SP,"Importados/Indefinidos, SP",,missing location,,low,locations
+2020-04-02,BRA,,"Mojuí dos Campos, PA",,missing location,,low,locations
+2020-04-02,BRA,,"São Valério, TO",,missing location,,low,locations
+2020-04-02,BRA,,"Nazária, PI",,missing location,,low,locations
+2020-04-02,BRA,,"Serra Caiada, RN",,missing location,,low,locations
+2020-04-02,BRA,,"Joca Claudino, PB",,missing location,,low,locations
+2020-04-02,BRA,,"Tacima, PB",,missing location,,low,locations
+2020-04-02,BRA,,"Belém do São Francisco, PE",,missing location,,low,locations
+2020-04-02,BRA,,"Iguaracy, PE",,missing location,,low,locations
+2020-04-02,BRA,,"São Caetano, PE",,missing location,,low,locations
+2020-04-02,BRA,,"São Luiz do Paraitinga, SP",,missing location,,low,locations
+2020-04-02,BRA,,"Balneário Rincão, SC",,missing location,,low,locations
+2020-04-02,BRA,,"Pinto Bandeira, RS",,missing location,,low,locations
+2020-04-02,BRA,,"Paraíso das Águas, MS",,missing location,,low,locations
+2020-04-02,BRA,AC,,,missing location,,low,locations
+2020-04-02,BRA,AL,,,missing location,,low,locations
+2020-04-02,BRA,AP,,,missing location,,low,locations
+2020-04-02,BRA,AM,,,missing location,,low,locations
+2020-04-02,BRA,BA,,,missing location,,low,locations
+2020-04-02,BRA,CE,,,missing location,,low,locations
+2020-04-02,BRA,DF,,,missing location,,low,locations
+2020-04-02,BRA,ES,,,missing location,,low,locations
+2020-04-02,BRA,GO,,,missing location,,low,locations
+2020-04-02,BRA,MA,,,missing location,,low,locations
+2020-04-02,BRA,MT,,,missing location,,low,locations
+2020-04-02,BRA,MS,,,missing location,,low,locations
+2020-04-02,BRA,MG,,,missing location,,low,locations
+2020-04-02,BRA,PR,,,missing location,,low,locations
+2020-04-02,BRA,PB,,,missing location,,low,locations
+2020-04-02,BRA,PA,,,missing location,,low,locations
+2020-04-02,BRA,PE,,,missing location,,low,locations
+2020-04-02,BRA,PI,,,missing location,,low,locations
+2020-04-02,BRA,RN,,,missing location,,low,locations
+2020-04-02,BRA,RS,,,missing location,,low,locations
+2020-04-02,BRA,RJ,,,missing location,,low,locations
+2020-04-02,BRA,RO,,,missing location,,low,locations
+2020-04-02,BRA,RR,,,missing location,,low,locations
+2020-04-02,BRA,SC,,,missing location,,low,locations
+2020-04-02,BRA,SE,,,missing location,,low,locations
+2020-04-02,BRA,SP,,,missing location,,low,locations
+2020-04-02,BRA,TO,,,missing location,,low,locations
+2020-04-02,CHE,,Zurich,,missing location,,low,locations
+2020-04-02,KOR,Quarantine,,,missing location,,low,locations
+2020-04-02,USA,PR,,,missing location,,low,locations
+2020-04-02,USA,AS,,,missing location,,low,locations
+2020-04-02,USA,GU,,,missing location,,low,locations
+2020-04-02,USA,MP,,,missing location,,low,locations
+2020-04-02,USA,VI,,,missing location,,low,locations
+2020-04-02,GBR,England,"Kingston upon Hull, City of",,missing location,,low,locations
+2020-04-02,GBR,England,"Herefordshire, County of",,missing location,,low,locations
+2020-04-02,GBR,England,"Bristol, City of",,missing location,,low,locations
+2020-04-02,GBR,England,Cornwall and Isles of Scilly,,missing location,,low,locations
+2020-04-02,GBR,England,"Bournemouth, Christchurch and Poole",,missing location,,low,locations
+2020-04-02,GBR,England,St. Helens,,missing location,,low,locations
+2020-04-02,GBR,England,Wirral,,missing location,,low,locations
+2020-04-02,GBR,England,Hackney and City of London,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Ayrshire and Arran,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Borders,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Forth Valley,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Grampian,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Greater Glasgow and Clyde,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Lanarkshire,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Lothian,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Tayside,,missing location,,low,locations
+2020-04-02,GBR,Scotland,Eileanan Siar (Western Isles),,missing location,,low,locations
+2020-04-02,GBR,Scotland,,,missing location,,low,locations
+2020-04-02,USA,MD,Baltimore City,,missing location,,low,locations
+2020-04-02,USA,MI,Unknown County,,missing location,,low,locations
+2020-04-02,DNK,Greenland,,,missing population,,low,population
+2020-04-02,FRA,French Guiana,,,missing population,,low,population
+2020-04-02,FRA,French Polynesia,,,missing population,,low,population
+2020-04-02,FRA,New Caledonia,,,missing population,,low,population
+2020-04-02,FRA,Reunion,,,missing population,,low,population
+2020-04-02,FRA,St Martin,,,missing population,,low,population
+2020-04-02,NLD,Aruba,,,missing population,,low,population
+2020-04-02,NLD,Curacao,,,missing population,,low,population
+2020-04-02,NLD,Sint Maarten,,,missing population,,low,population
+2020-04-02,GBR,Bermuda,,,missing population,,low,population
+2020-04-02,GBR,Cayman Islands,,,missing population,,low,population
+2020-04-02,GBR,Channel Islands,,,missing population,,low,population
+2020-04-02,GBR,Isle of Man,,,missing population,,low,population
+2020-04-02,GBR,Montserrat,,,missing population,,low,population
+2020-04-02,GBR,Anguilla,,,missing population,,low,population
+2020-04-02,GBR,British Virgin Islands,,,missing population,,low,population
+2020-04-02,GBR,Turks and Caicos Islands,,,missing population,,low,population
+2020-04-02,BRA,AL,"Importados/Indefinidos, AL",,missing population,,low,population
+2020-04-02,BRA,BA,"Importados/Indefinidos, BA",,missing population,,low,population
+2020-04-02,BRA,ES,"Importados/Indefinidos, ES",,missing population,,low,population
+2020-04-02,BRA,GO,"Importados/Indefinidos, GO",,missing population,,low,population
+2020-04-02,BRA,MG,"Importados/Indefinidos, MG",,missing population,,low,population
+2020-04-02,BRA,PE,"Importados/Indefinidos, PE",,missing population,,low,population
+2020-04-02,BRA,PR,"Importados/Indefinidos, PR",,missing population,,low,population
+2020-04-02,BRA,RJ,"Importados/Indefinidos, RJ",,missing population,,low,population
+2020-04-02,BRA,SC,"Importados/Indefinidos, SC",,missing population,,low,population
+2020-04-02,BRA,SP,"Importados/Indefinidos, SP",,missing population,,low,population
+2020-04-02,CHE,,Zurich,,missing population,,low,population
+2020-04-02,ITA,Emilia-Romagna,,,missing population,,low,population
+2020-04-02,KOR,Quarantine,,,missing population,,low,population
+2020-04-02,USA,AS,,,missing population,,low,population
+2020-04-02,USA,GU,,,missing population,,low,population
+2020-04-02,USA,MP,,,missing population,,low,population
+2020-04-02,USA,VI,,,missing population,,low,population
+2020-04-02,GBR,England,Hartlepool,,missing population,,low,population
+2020-04-02,GBR,England,Middlesbrough,,missing population,,low,population
+2020-04-02,GBR,England,Redcar and Cleveland,,missing population,,low,population
+2020-04-02,GBR,England,Stockton-on-Tees,,missing population,,low,population
+2020-04-02,GBR,England,Darlington,,missing population,,low,population
+2020-04-02,GBR,England,Halton,,missing population,,low,population
+2020-04-02,GBR,England,Warrington,,missing population,,low,population
+2020-04-02,GBR,England,Blackburn with Darwen,,missing population,,low,population
+2020-04-02,GBR,England,Blackpool,,missing population,,low,population
+2020-04-02,GBR,England,"Kingston upon Hull, City of",,missing population,,low,population
+2020-04-02,GBR,England,North East Lincolnshire,,missing population,,low,population
+2020-04-02,GBR,England,North Lincolnshire,,missing population,,low,population
+2020-04-02,GBR,England,York,,missing population,,low,population
+2020-04-02,GBR,England,Derby,,missing population,,low,population
+2020-04-02,GBR,England,Leicester,,missing population,,low,population
+2020-04-02,GBR,England,Nottingham,,missing population,,low,population
+2020-04-02,GBR,England,"Herefordshire, County of",,missing population,,low,population
+2020-04-02,GBR,England,Telford and Wrekin,,missing population,,low,population
+2020-04-02,GBR,England,Stoke-on-Trent,,missing population,,low,population
+2020-04-02,GBR,England,Bath and North East Somerset,,missing population,,low,population
+2020-04-02,GBR,England,"Bristol, City of",,missing population,,low,population
+2020-04-02,GBR,England,North Somerset,,missing population,,low,population
+2020-04-02,GBR,England,South Gloucestershire,,missing population,,low,population
+2020-04-02,GBR,England,Plymouth,,missing population,,low,population
+2020-04-02,GBR,England,Torbay,,missing population,,low,population
+2020-04-02,GBR,England,Swindon,,missing population,,low,population
+2020-04-02,GBR,England,Peterborough,,missing population,,low,population
+2020-04-02,GBR,England,Luton,,missing population,,low,population
+2020-04-02,GBR,England,Southend-on-Sea,,missing population,,low,population
+2020-04-02,GBR,England,Thurrock,,missing population,,low,population
+2020-04-02,GBR,England,Medway,,missing population,,low,population
+2020-04-02,GBR,England,Bracknell Forest,,missing population,,low,population
+2020-04-02,GBR,England,West Berkshire,,missing population,,low,population
+2020-04-02,GBR,England,Reading,,missing population,,low,population
+2020-04-02,GBR,England,Slough,,missing population,,low,population
+2020-04-02,GBR,England,Windsor and Maidenhead,,missing population,,low,population
+2020-04-02,GBR,England,Wokingham,,missing population,,low,population
+2020-04-02,GBR,England,Milton Keynes,,missing population,,low,population
+2020-04-02,GBR,England,Brighton and Hove,,missing population,,low,population
+2020-04-02,GBR,England,Portsmouth,,missing population,,low,population
+2020-04-02,GBR,England,Southampton,,missing population,,low,population
+2020-04-02,GBR,England,County Durham,,missing population,,low,population
+2020-04-02,GBR,England,Cheshire East,,missing population,,low,population
+2020-04-02,GBR,England,Cheshire West and Chester,,missing population,,low,population
+2020-04-02,GBR,England,Cornwall and Isles of Scilly,,missing population,,low,population
+2020-04-02,GBR,England,Bedford,,missing population,,low,population
+2020-04-02,GBR,England,Central Bedfordshire,,missing population,,low,population
+2020-04-02,GBR,England,"Bournemouth, Christchurch and Poole",,missing population,,low,population
+2020-04-02,GBR,England,Bolton,,missing population,,low,population
+2020-04-02,GBR,England,Bury,,missing population,,low,population
+2020-04-02,GBR,England,Manchester,,missing population,,low,population
+2020-04-02,GBR,England,Oldham,,missing population,,low,population
+2020-04-02,GBR,England,Rochdale,,missing population,,low,population
+2020-04-02,GBR,England,Salford,,missing population,,low,population
+2020-04-02,GBR,England,Stockport,,missing population,,low,population
+2020-04-02,GBR,England,Tameside,,missing population,,low,population
+2020-04-02,GBR,England,Trafford,,missing population,,low,population
+2020-04-02,GBR,England,Wigan,,missing population,,low,population
+2020-04-02,GBR,England,Knowsley,,missing population,,low,population
+2020-04-02,GBR,England,Liverpool,,missing population,,low,population
+2020-04-02,GBR,England,St. Helens,,missing population,,low,population
+2020-04-02,GBR,England,Sefton,,missing population,,low,population
+2020-04-02,GBR,England,Wirral,,missing population,,low,population
+2020-04-02,GBR,England,Barnsley,,missing population,,low,population
+2020-04-02,GBR,England,Doncaster,,missing population,,low,population
+2020-04-02,GBR,England,Rotherham,,missing population,,low,population
+2020-04-02,GBR,England,Sheffield,,missing population,,low,population
+2020-04-02,GBR,England,Newcastle upon Tyne,,missing population,,low,population
+2020-04-02,GBR,England,North Tyneside,,missing population,,low,population
+2020-04-02,GBR,England,South Tyneside,,missing population,,low,population
+2020-04-02,GBR,England,Sunderland,,missing population,,low,population
+2020-04-02,GBR,England,Birmingham,,missing population,,low,population
+2020-04-02,GBR,England,Coventry,,missing population,,low,population
+2020-04-02,GBR,England,Dudley,,missing population,,low,population
+2020-04-02,GBR,England,Sandwell,,missing population,,low,population
+2020-04-02,GBR,England,Solihull,,missing population,,low,population
+2020-04-02,GBR,England,Walsall,,missing population,,low,population
+2020-04-02,GBR,England,Wolverhampton,,missing population,,low,population
+2020-04-02,GBR,England,Bradford,,missing population,,low,population
+2020-04-02,GBR,England,Calderdale,,missing population,,low,population
+2020-04-02,GBR,England,Kirklees,,missing population,,low,population
+2020-04-02,GBR,England,Leeds,,missing population,,low,population
+2020-04-02,GBR,England,Wakefield,,missing population,,low,population
+2020-04-02,GBR,England,Gateshead,,missing population,,low,population
+2020-04-02,GBR,England,Barking and Dagenham,,missing population,,low,population
+2020-04-02,GBR,England,Barnet,,missing population,,low,population
+2020-04-02,GBR,England,Bexley,,missing population,,low,population
+2020-04-02,GBR,England,Brent,,missing population,,low,population
+2020-04-02,GBR,England,Bromley,,missing population,,low,population
+2020-04-02,GBR,England,Camden,,missing population,,low,population
+2020-04-02,GBR,England,Croydon,,missing population,,low,population
+2020-04-02,GBR,England,Ealing,,missing population,,low,population
+2020-04-02,GBR,England,Enfield,,missing population,,low,population
+2020-04-02,GBR,England,Greenwich,,missing population,,low,population
+2020-04-02,GBR,England,Hackney and City of London,,missing population,,low,population
+2020-04-02,GBR,England,Hammersmith and Fulham,,missing population,,low,population
+2020-04-02,GBR,England,Haringey,,missing population,,low,population
+2020-04-02,GBR,England,Harrow,,missing population,,low,population
+2020-04-02,GBR,England,Havering,,missing population,,low,population
+2020-04-02,GBR,England,Hillingdon,,missing population,,low,population
+2020-04-02,GBR,England,Hounslow,,missing population,,low,population
+2020-04-02,GBR,England,Islington,,missing population,,low,population
+2020-04-02,GBR,England,Kensington and Chelsea,,missing population,,low,population
+2020-04-02,GBR,England,Kingston upon Thames,,missing population,,low,population
+2020-04-02,GBR,England,Lambeth,,missing population,,low,population
+2020-04-02,GBR,England,Lewisham,,missing population,,low,population
+2020-04-02,GBR,England,Merton,,missing population,,low,population
+2020-04-02,GBR,England,Newham,,missing population,,low,population
+2020-04-02,GBR,England,Redbridge,,missing population,,low,population
+2020-04-02,GBR,England,Richmond upon Thames,,missing population,,low,population
+2020-04-02,GBR,England,Southwark,,missing population,,low,population
+2020-04-02,GBR,England,Sutton,,missing population,,low,population
+2020-04-02,GBR,England,Tower Hamlets,,missing population,,low,population
+2020-04-02,GBR,England,Waltham Forest,,missing population,,low,population
+2020-04-02,GBR,England,Wandsworth,,missing population,,low,population
+2020-04-02,GBR,England,Westminster,,missing population,,low,population
+2020-04-02,GBR,Scotland,Ayrshire and Arran,,missing population,,low,population
+2020-04-02,GBR,Scotland,Borders,,missing population,,low,population
+2020-04-02,GBR,Scotland,Dumfries and Galloway,,missing population,,low,population
+2020-04-02,GBR,Scotland,Fife,,missing population,,low,population
+2020-04-02,GBR,Scotland,Forth Valley,,missing population,,low,population
+2020-04-02,GBR,Scotland,Grampian,,missing population,,low,population
+2020-04-02,GBR,Scotland,Greater Glasgow and Clyde,,missing population,,low,population
+2020-04-02,GBR,Scotland,Highland,,missing population,,low,population
+2020-04-02,GBR,Scotland,Lanarkshire,,missing population,,low,population
+2020-04-02,GBR,Scotland,Lothian,,missing population,,low,population
+2020-04-02,GBR,Scotland,Orkney,,missing population,,low,population
+2020-04-02,GBR,Scotland,Shetland,,missing population,,low,population
+2020-04-02,GBR,Scotland,Tayside,,missing population,,low,population
+2020-04-02,GBR,Scotland,Eileanan Siar (Western Isles),,missing population,,low,population
+2020-04-02,GBR,Scotland,,,missing population,,low,population
+2020-04-02,USA,AR,(unassigned),,missing population,,low,population
+2020-04-02,USA,FL,(unassigned),,missing population,,low,population
+2020-04-02,USA,GA,(unassigned),,missing population,,low,population
+2020-04-02,USA,LA,(unassigned),,missing population,,low,population
+2020-04-02,USA,MA,(unassigned),,missing population,,low,population
+2020-04-02,USA,MD,Baltimore City,,missing population,,low,population
+2020-04-02,USA,ME,(unassigned),,missing population,,low,population
+2020-04-02,USA,MI,Unknown County,,missing population,,low,population
+2020-04-02,USA,MI,(unassigned),,missing population,,low,population
+2020-04-02,USA,MO,(unassigned),,missing population,,low,population
+2020-04-02,USA,RI,Bristol County,Barrington,missing population,,low,population
+2020-04-02,USA,RI,Bristol County,Bristol,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Burrillville,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Central Falls,missing population,,low,population
+2020-04-02,USA,RI,Washington County,Charlestown,missing population,,low,population
+2020-04-02,USA,RI,Kent County,Coventry,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Cranston,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Cumberland,missing population,,low,population
+2020-04-02,USA,RI,Kent County,East Greenwich,missing population,,low,population
+2020-04-02,USA,RI,Providence County,East Providence,missing population,,low,population
+2020-04-02,USA,RI,Washington County,Exeter,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Foster,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Glocester,missing population,,low,population
+2020-04-02,USA,RI,Washington County,Hopkinton,missing population,,low,population
+2020-04-02,USA,RI,Newport County,Jamestown,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Johnston,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Lincoln,missing population,,low,population
+2020-04-02,USA,RI,Newport County,Little Compton,missing population,,low,population
+2020-04-02,USA,RI,Newport County,Middletown,missing population,,low,population
+2020-04-02,USA,RI,Washington County,Narragansett,missing population,,low,population
+2020-04-02,USA,RI,Washington County,New Shoreham,missing population,,low,population
+2020-04-02,USA,RI,Newport County,Newport,missing population,,low,population
+2020-04-02,USA,RI,Washington County,North Kingstown,missing population,,low,population
+2020-04-02,USA,RI,Providence County,North Providence,missing population,,low,population
+2020-04-02,USA,RI,Providence County,North Smithfield,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Pawtucket,missing population,,low,population
+2020-04-02,USA,RI,Newport County,Portsmouth,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Providence,missing population,,low,population
+2020-04-02,USA,RI,Washington County,Richmond,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Scituate,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Smithfield,missing population,,low,population
+2020-04-02,USA,RI,Washington County,South Kingstown,missing population,,low,population
+2020-04-02,USA,RI,Newport County,Tiverton,missing population,,low,population
+2020-04-02,USA,RI,Bristol County,Warren,missing population,,low,population
+2020-04-02,USA,RI,Kent County,Warwick,missing population,,low,population
+2020-04-02,USA,RI,Kent County,West Greenwich,missing population,,low,population
+2020-04-02,USA,RI,Kent County,West Warwick,missing population,,low,population
+2020-04-02,USA,RI,Washington County,Westerly,missing population,,low,population
+2020-04-02,USA,RI,Providence County,Woonsocket,missing population,,low,population
+2020-04-02,USA,TN,(unassigned),,missing population,,low,population
