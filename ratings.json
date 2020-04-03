@@ -101,6 +101,26 @@
     "rating": 0.6274509803921569
   },
   {
+    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "type": "csv",
+    "country": "USA",
+    "timeseries": true,
+    "aggregate": "county",
+    "priority": -1,
+    "curators": [
+      {
+        "name": "The New York Times",
+        "url": "http://nytimes.com/",
+        "twitter": "@nytimes",
+        "github": "nytimes"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.6274509803921569
+  },
+  {
     "country": "USA",
     "state": "CA",
     "url": "https://opendata.arcgis.com/datasets/06fcfe6147574a75afea97a1f7565dc7_0.csv",
@@ -840,30 +860,6 @@
     "type": "table",
     "ssl": true,
     "rating": 0.47058823529411764
-  },
-  {
-    "country": "KOR",
-    "aggregate": "state",
-    "type": "table",
-    "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
-    "sources": [
-      {
-        "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
-        "name": "Ministry of Health and Welfare"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Jacob McGowan",
-        "github": "jacobmcgowan"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.45098039215686275
   },
   {
     "county": "Washoe County",
@@ -2101,6 +2097,29 @@
     "rating": 0.3137254901960784
   },
   {
+    "country": "PRI",
+    "type": "table",
+    "timeseries": false,
+    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
+    "sources": [
+      {
+        "url": "http://salud.gov.pr/",
+        "name": "Gobierno de Puerto Rico Departamento de Salud"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.29411764705882354
+  },
+  {
     "country": "AUS",
     "priority": 2,
     "sources": [
@@ -2416,36 +2435,6 @@
     "rating": 0.19607843137254902
   },
   {
-    "county": "San Luis Obispo County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.emergencyslo.org/en/covid19.aspx",
-    "type": "paragraph",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.13725490196078433
-  },
-  {
-    "state": "DC",
-    "country": "USA",
-    "sources": [
-      {
-        "name": "DC Public Health Laboratory"
-      }
-    ],
-    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
-    "type": "paragraph",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.13725490196078433
-  },
-  {
     "state": "KS",
     "country": "USA",
     "aggregate": "county",
@@ -2483,10 +2472,40 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "type": "image",
-    "url": "https://public.tableau.com/profile/kdhe.epidemiology#!/vizhome/COVID-19Data_15851817634470/KSCOVID-19CaseData",
+    "type": "pdf",
+    "url": "https://public.tableau.com/views/COVID-19Data_15851817634470/CountyCounts.pdf?:showVizHome=no",
     "ssl": true,
-    "rating": 0.09803921568627451
+    "rating": 0.17647058823529413
+  },
+  {
+    "county": "San Luis Obispo County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.emergencyslo.org/en/covid19.aspx",
+    "type": "paragraph",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.13725490196078433
+  },
+  {
+    "state": "DC",
+    "country": "USA",
+    "sources": [
+      {
+        "name": "DC Public Health Laboratory"
+      }
+    ],
+    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+    "type": "paragraph",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.13725490196078433
   },
   {
     "county": "Alameda County",
