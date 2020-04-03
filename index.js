@@ -191,7 +191,7 @@
    * @param {{ city: string?; county: string?; state: string?; country: string?; }} location
    */
   const getName = location =>
-    [location.city, location.county, location.state, location.country].filter(Boolean).join(', ');
+    location.name || [location.city, location.county, location.state, location.country].filter(Boolean).join(', ');
 
   const isCountry = function(location) {
     return location && location.country && !location.state && !location.county && !location.city;
@@ -1777,15 +1777,21 @@
   let currentDate;
   let currentData;
 
+  function findFeature(id) {
+    return data.features.features.find(feature => feature.properties.id === id);
+  }
+
   function initData() {
     let foundFeatures = 0;
     data.locations.forEach(function(location, index) {
       // Associated the feature with the location
       if (location.featureId !== undefined && !location.city) {
-        const feature = data.features.features[location.featureId];
+        const feature = findFeature(location.featureId);
         if (feature) {
           foundFeatures++;
           feature.properties.locationId = index;
+        } else {
+          console.log('Failed to find feature for', location);
         }
       }
     });

@@ -61,18 +61,6 @@
     "rating": 0.6470588235294118
   },
   {
-    "country": "BRA",
-    "type": "csv",
-    "priority": 1,
-    "url": "https://brasil.io/dataset/covid19/caso?place_type=city&format=csv",
-    "timeseries": true,
-    "aggregate": "county",
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.6274509803921569
-  },
-  {
     "country": "ESP",
     "url": "https://github.com/datadista/datasets/tree/master/COVID%2019",
     "priority": 1,
@@ -365,6 +353,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "priority": -1,
+    "country": "_JHU",
     "curators": [
       {
         "name": "JHU CSSE",
@@ -404,6 +393,39 @@
     "certValidation": true,
     "ssl": true,
     "rating": 0.5098039215686274
+  },
+  {
+    "country": "RUS",
+    "aggregate": "state",
+    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
+    "type": "json",
+    "curators": [
+      {
+        "name": "Yandex",
+        "url": "https://yandex.ru"
+      }
+    ],
+    "sources": [
+      {
+        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
+        "name": "Rospotrebnadzor",
+        "url": "https://www.rospotrebnadzor.ru/"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Arseniy Ivanov",
+        "twitter": "@freeatnet",
+        "github": "freeatnet",
+        "email": "arseniy+coronadatascraper@freeatnet.com"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
   },
   {
     "country": "USA",
@@ -603,25 +625,6 @@
         "name": "Georgia Department of Public Health"
       }
     ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "state": "ID",
-    "country": "USA",
-    "sources": [
-      {
-        "name": "IDHW",
-        "description": "Idaho Department of Health and Welfare"
-      }
-    ],
-    "url": "https://coronavirus.idaho.gov",
-    "type": "table",
-    "aggregate": "county",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -903,7 +906,7 @@
         "url": "https://www.health.act.gov.au"
       }
     ],
-    "state": "Australian Capital Territory",
+    "state": "iso2:AU-ACT",
     "type": "table",
     "url": "https://www.covid19.act.gov.au/updates/confirmed-case-information",
     "timeseries": false,
@@ -933,7 +936,7 @@
         "url": "https://ww2.health.wa.gov.au"
       }
     ],
-    "state": "Western Australia",
+    "state": "iso2:AU-WA",
     "type": "table",
     "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
     "timeseries": false,
@@ -1503,28 +1506,6 @@
     "rating": 0.43137254901960786
   },
   {
-    "county": "Merced County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://www.co.merced.ca.us/3350/Coronavirus-Disease-2019",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "table",
-    "ssl": true,
-    "rating": 0.43137254901960786
-  },
-  {
     "country": "CAN",
     "sources": [
       {
@@ -1743,26 +1724,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "AK",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "http://dhss.alaska.gov/dph",
-        "name": "Alaska Department of Health and Social Services",
-        "description": "Division of Public Health"
-      }
-    ],
-    "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
-    "type": "table",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.37254901960784315
-  },
-  {
     "country": "USA",
     "state": "HI",
     "priority": 1,
@@ -1848,6 +1809,36 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
+  },
+  {
+    "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "SA Government Health Department",
+        "name": "SA Health",
+        "url": "https://www.sahealth.sa.gov.au"
+      }
+    ],
+    "state": "iso2:AU-SA",
+    "type": "table",
+    "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.35294117647058826
   },
   {
     "county": "Clark County",
@@ -2110,29 +2101,6 @@
     "rating": 0.3137254901960784
   },
   {
-    "country": "PRI",
-    "type": "table",
-    "timeseries": false,
-    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
-    "sources": [
-      {
-        "url": "http://salud.gov.pr/",
-        "name": "Gobierno de Puerto Rico Departamento de Salud"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Jacob McGowan",
-        "github": "jacobmcgowan"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.29411764705882354
-  },
-  {
     "country": "AUS",
     "priority": 2,
     "sources": [
@@ -2142,39 +2110,9 @@
         "url": "https://www.health.nsw.gov.au"
       }
     ],
-    "state": "New South Wales",
+    "state": "iso2:AU-NSW",
     "type": "table",
     "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.27450980392156865
-  },
-  {
-    "country": "AUS",
-    "maintainers": [
-      {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "AUS",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
-      }
-    ],
-    "priority": 2,
-    "sources": [
-      {
-        "description": "SA Government Health Department",
-        "name": "SA Health",
-        "url": "https://www.sahealth.sa.gov.au"
-      }
-    ],
-    "state": "South Australia",
-    "type": "table",
-    "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -2213,7 +2151,7 @@
     "rating": 0.27450980392156865
   },
   {
-    "county": "Shasta County",
+    "county": "fips:06089",
     "state": "CA",
     "country": "USA",
     "maintainers": [
@@ -2233,6 +2171,26 @@
     "type": "table",
     "ssl": true,
     "rating": 0.27450980392156865
+  },
+  {
+    "state": "AK",
+    "country": "USA",
+    "sources": [
+      {
+        "url": "http://dhss.alaska.gov/dph",
+        "name": "Alaska Department of Health and Social Services",
+        "description": "Division of Public Health"
+      }
+    ],
+    "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx",
+    "type": "table",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.2549019607843137
   },
   {
     "county": "Butte County",
@@ -2448,7 +2406,7 @@
         "url": "https://coronavirus.nt.gov.au"
       }
     ],
-    "state": "Northern Territory",
+    "state": "iso2:AU-NT",
     "type": "table",
     "url": "https://coronavirus.nt.gov.au/",
     "timeseries": false,
@@ -2579,9 +2537,39 @@
         "url": "https://www.health.qld.gov.au"
       }
     ],
-    "state": "Queensland",
+    "state": "iso2:AU-QLD",
     "type": "paragraph",
     "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.058823529411764705
+  },
+  {
+    "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "Victoria State Government Health and Human Services Department",
+        "name": "Victoria State Government Health and Human Services",
+        "url": "https://www.dhhs.vic.gov.au"
+      }
+    ],
+    "state": "iso2:AU-VIC",
+    "type": "paragraph",
+    "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
