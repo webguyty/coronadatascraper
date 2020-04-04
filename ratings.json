@@ -101,24 +101,34 @@
     "rating": 0.6274509803921569
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
-    "type": "csv",
-    "country": "USA",
+    "maintainers": [
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "USA",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
-    "aggregate": "county",
     "priority": -1,
+    "country": "_JHU",
     "curators": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "JHU CSSE",
+        "url": "https://systems.jhu.edu/research/public-health/ncov/"
       }
     ],
     "headless": false,
     "certValidation": true,
+    "type": "list",
     "ssl": true,
-    "rating": 0.6274509803921569
+    "rating": 0.5882352941176471
   },
   {
     "country": "USA",
@@ -175,25 +185,6 @@
     "certValidation": true,
     "type": "csv",
     "url": "https://opendata.arcgis.com/datasets/a7887f1940b34bf5a02c6f7f27a5cb2c_0.csv",
-    "ssl": true,
-    "rating": 0.5686274509803921
-  },
-  {
-    "state": "MD",
-    "country": "USA",
-    "aggregate": "county",
-    "sources": [
-      {
-        "url": "https://health.maryland.gov/",
-        "name": "Maryland Department of Health"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "csv",
-    "url": "https://opendata.arcgis.com/datasets/fd5f93bf49cf4b35b330d6f500c1e8e6_0.csv",
     "ssl": true,
     "rating": 0.5686274509803921
   },
@@ -283,7 +274,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://www.dhs.wisconsin.gov/covid-19/data.htm",
+    "url": "https://www.dhs.wisconsin.gov/covid-19/county.htm",
     "type": "table",
     "ssl": true,
     "rating": 0.5490196078431373
@@ -357,36 +348,6 @@
     "rating": 0.5294117647058824
   },
   {
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "USA",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "timeseries": true,
-    "priority": -1,
-    "country": "_JHU",
-    "curators": [
-      {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.5098039215686274
-  },
-  {
     "country": "BRA",
     "type": "list",
     "priority": 1,
@@ -410,6 +371,37 @@
       }
     ],
     "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.5098039215686274
+  },
+  {
+    "county": "St. Louis County",
+    "state": "MO",
+    "country": "USA",
+    "aggregate": "county",
+    "priority": 1,
+    "sources": [
+      {
+        "url": "https://stlouisco.com/Your-Government/County-Executive/COVID-19",
+        "name": "St. Louis County COVID-19 page"
+      }
+    ],
+    "url": "https://opendata.arcgis.com/datasets/4b76809cf8084f87b5ee4e18c33c9d29_0.csv",
+    "headless": true,
+    "type": "table",
+    "maintainers": [
+      {
+        "name": "Brendan Slezak",
+        "email": "brendan.slezak@geospark.io",
+        "github": "slezakbs",
+        "country": "US",
+        "state": "VA",
+        "city": "Richmond",
+        "flag": "🇺🇸"
+      }
+    ],
+    "timeseries": false,
     "certValidation": true,
     "ssl": true,
     "rating": 0.5098039215686274
@@ -542,6 +534,25 @@
     "priority": 0,
     "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
     "type": "json",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
+    "state": "MD",
+    "country": "USA",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://health.maryland.gov/",
+        "name": "Maryland Department of Health"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "csv",
+    "url": "https://opendata.arcgis.com/datasets/fd5f93bf49cf4b35b330d6f500c1e8e6_0.csv",
     "ssl": true,
     "rating": 0.49019607843137253
   },
@@ -860,6 +871,30 @@
     "type": "table",
     "ssl": true,
     "rating": 0.47058823529411764
+  },
+  {
+    "country": "KOR",
+    "aggregate": "state",
+    "type": "table",
+    "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
+    "sources": [
+      {
+        "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
+        "name": "Ministry of Health and Welfare"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.45098039215686275
   },
   {
     "county": "Washoe County",
@@ -1653,25 +1688,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "NY",
-    "country": "USA",
-    "type": "table",
-    "aggregate": "county",
-    "sources": [
-      {
-        "url": "https://www.health.ny.gov",
-        "name": "New York State Department of Health"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "SD",
     "country": "USA",
     "sources": [
@@ -1784,25 +1800,6 @@
     "timeseries": false,
     "headless": true,
     "certValidation": true,
-    "ssl": true,
-    "rating": 0.37254901960784315
-  },
-  {
-    "state": "WV",
-    "country": "USA",
-    "sources": [
-      {
-        "url": "https://dhhr.wv.gov",
-        "name": "West Virginia Department of Health & Human Resources"
-      }
-    ],
-    "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
-    "type": "list",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
   },
@@ -2097,29 +2094,6 @@
     "rating": 0.3137254901960784
   },
   {
-    "country": "PRI",
-    "type": "table",
-    "timeseries": false,
-    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
-    "sources": [
-      {
-        "url": "http://salud.gov.pr/",
-        "name": "Gobierno de Puerto Rico Departamento de Salud"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Jacob McGowan",
-        "github": "jacobmcgowan"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.29411764705882354
-  },
-  {
     "country": "AUS",
     "priority": 2,
     "sources": [
@@ -2170,7 +2144,7 @@
     "rating": 0.27450980392156865
   },
   {
-    "county": "fips:06089",
+    "county": "Shasta County",
     "state": "CA",
     "country": "USA",
     "maintainers": [
@@ -2241,28 +2215,6 @@
     "rating": 0.2549019607843137
   },
   {
-    "county": "Calaveras County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://covid19.calaverasgov.us/",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
     "county": "Glenn County",
     "state": "CA",
     "country": "USA",
@@ -2280,28 +2232,6 @@
     "certValidation": true,
     "priority": 0,
     "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "county": "Kings County",
-    "state": "CA",
-    "country": "USA",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "USA",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://www.countyofkings.com/departments/health-welfare/public-health/coronavirus-disease-2019-covid-19/-fsiteid-1",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
     "type": "list",
     "ssl": true,
     "rating": 0.2549019607843137
