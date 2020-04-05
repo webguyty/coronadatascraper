@@ -1675,6 +1675,36 @@
     "rating": 0.4117647058823529
   },
   {
+    "aggregate": "state",
+    "country": "AUS",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "AUS",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 0.5,
+    "sources": [
+      {
+        "description": "Government of Western Australia, Department of Health",
+        "name": "WA Health",
+        "url": "https://ww2.health.wa.gov.au"
+      }
+    ],
+    "type": "table",
+    "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
     "country": "GBR",
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
@@ -1802,6 +1832,44 @@
     "certValidation": true,
     "ssl": true,
     "rating": 0.37254901960784315
+  },
+  {
+    "state": "WV",
+    "country": "USA",
+    "sources": [
+      {
+        "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+        "name": "West Virginia Department of Health & Human Resources"
+      }
+    ],
+    "url": "https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/187b4de8-78ef-40be-9510-7fa9a1ef89f2/modelsAndExploration",
+    "type": "list",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.37254901960784315
+  },
+  {
+    "country": "AUS",
+    "priority": 2,
+    "sources": [
+      {
+        "description": "NSW Government Health Department",
+        "name": "NSW Government Health",
+        "url": "https://www.health.nsw.gov.au"
+      }
+    ],
+    "state": "iso2:AU-NSW",
+    "type": "table",
+    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.35294117647058826
   },
   {
     "country": "AUS",
@@ -2092,25 +2160,6 @@
     "type": "list",
     "ssl": false,
     "rating": 0.3137254901960784
-  },
-  {
-    "country": "AUS",
-    "priority": 2,
-    "sources": [
-      {
-        "description": "NSW Government Health Department",
-        "name": "NSW Government Health",
-        "url": "https://www.health.nsw.gov.au"
-      }
-    ],
-    "state": "iso2:AU-NSW",
-    "type": "table",
-    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.27450980392156865
   },
   {
     "state": "Nova Scotia",

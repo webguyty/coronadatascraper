@@ -1,16 +1,16 @@
 {
-  "date": "2020-4-4",
+  "date": "2020-4-5",
   "sources": {
-    "numSources": 134,
+    "numSources": 135,
     "errors": []
   },
   "scrape": {
     "numCountries": 179,
-    "numStates": 336,
-    "numCounties": 3078,
+    "numStates": 337,
+    "numCounties": 3136,
     "numCities": 39,
-    "numDuplicates": 143,
-    "numErrors": 28,
+    "numDuplicates": 156,
+    "numErrors": 27,
     "crosscheckReports": {
       "fips:51600, iso2:us-va, iso1:us": {
         "location": {
@@ -106,11 +106,11 @@
             ],
             "timeseries": false,
             "certValidation": true,
-            "cases": 781,
-            "deaths": 7,
+            "cases": 862,
+            "deaths": 11,
             "recovered": 0,
-            "publishedDate": "2020-04-03T13:15:00.000Z",
-            "active": 774,
+            "publishedDate": "2020-04-04T13:45:00.000Z",
+            "active": 851,
             "ssl": true,
             "rating": 0.5098039215686274
           },
@@ -141,9 +141,9 @@
             "certValidation": true,
             "priority": 0,
             "county": "fips:29189",
-            "cases": 794,
-            "deaths": 3,
-            "publishedDate": "2020-04-03T18:56:27.489Z",
+            "cases": 864,
+            "deaths": 5,
+            "publishedDate": "2020-04-04T19:03:02.479Z",
             "ssl": true,
             "rating": 0.47058823529411764
           }
@@ -156,6 +156,9 @@
         },
         "used": 0,
         "dropped": [
+          0,
+          0,
+          0,
           0,
           0,
           1
@@ -224,15 +227,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-KS",
-            "deaths": 17,
-            "tested": 7074,
-            "cases": 620,
+            "deaths": 21,
+            "tested": 7578,
+            "cases": 698,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -370,7 +374,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06099",
-            "cases": 58,
+            "cases": 65,
             "deaths": 0,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -418,7 +422,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 58,
+            "cases": 65,
             "deaths": 0,
             "type": "list",
             "ssl": false,
@@ -464,7 +468,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06089",
-            "cases": 11,
+            "cases": 12,
             "deaths": 2,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -513,7 +517,7 @@
             "priority": 0,
             "url": "https://www.co.shasta.ca.us/covid-19/overview",
             "type": "table",
-            "cases": 11,
+            "cases": 17,
             "ssl": true,
             "rating": 0.27450980392156865
           }
@@ -557,7 +561,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06081",
-            "cases": 486,
+            "cases": 538,
             "deaths": 13,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -651,9 +655,9 @@
             "certValidation": true,
             "county": "fips:06079",
             "cases": 93,
-            "recovered": 57,
+            "recovered": 65,
             "deaths": 0,
-            "active": 36,
+            "active": 28,
             "ssl": true,
             "rating": 0.5686274509803921
           },
@@ -735,7 +739,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06077",
-            "cases": 185,
+            "cases": 189,
             "deaths": 11,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -784,7 +788,7 @@
             "certValidation": true,
             "priority": 0,
             "type": "table",
-            "cases": 185,
+            "cases": 191,
             "deaths": 11,
             "ssl": false,
             "rating": 0.3333333333333333
@@ -829,8 +833,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06075",
-            "cases": 497,
-            "deaths": 7,
+            "cases": 529,
+            "deaths": 8,
             "ssl": true,
             "rating": 0.49019607843137253
           },
@@ -877,8 +881,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 497,
-            "deaths": 7,
+            "cases": 529,
+            "deaths": 8,
             "ssl": true,
             "rating": 0.21568627450980393
           }
@@ -922,8 +926,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06073",
-            "cases": 1112,
-            "deaths": 17,
+            "cases": 1209,
+            "deaths": 18,
             "ssl": true,
             "rating": 0.49019607843137253
           },
@@ -970,8 +974,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 1112,
-            "deaths": 17,
+            "cases": 1209,
+            "deaths": 18,
             "type": "list",
             "ssl": true,
             "rating": 0.3333333333333333
@@ -1016,7 +1020,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06061",
-            "cases": 97,
+            "cases": 101,
             "deaths": 2,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -1064,7 +1068,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 97,
+            "cases": 101,
             "deaths": 2,
             "type": "list",
             "ssl": true,
@@ -1111,8 +1115,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06053",
-            "cases": 53,
-            "tested": 1014,
+            "cases": 57,
+            "tested": 1098,
             "deaths": 2,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -1197,7 +1201,7 @@
             "certValidation": true,
             "county": "fips:06051",
             "cases": 19,
-            "tested": 86,
+            "tested": 91,
             "deaths": 1,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -1289,11 +1293,11 @@
             "timeseries": false,
             "headless": false,
             "certValidation": true,
-            "cases": 12523,
-            "deaths": 280,
-            "recovered": 231,
-            "tested": 36487,
-            "active": 12012,
+            "cases": 13856,
+            "deaths": 318,
+            "recovered": 273,
+            "tested": 40561,
+            "active": 13265,
             "ssl": true,
             "rating": 0.5686274509803921
           },
@@ -1332,15 +1336,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-CA",
-            "deaths": 237,
-            "tested": 94800,
-            "cases": 10701,
+            "deaths": 276,
+            "tested": 126700,
+            "cases": 12026,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -1451,11 +1456,11 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06111",
-            "cases": 189,
-            "tested": 3537,
-            "recovered": 50,
+            "cases": 203,
+            "tested": 3892,
+            "recovered": 60,
             "deaths": 6,
-            "active": 133,
+            "active": 137,
             "ssl": true,
             "rating": 0.6470588235294118
           },
@@ -1591,10 +1596,10 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06107",
-            "cases": 81,
-            "recovered": 4,
-            "deaths": 3,
-            "active": 74,
+            "cases": 107,
+            "recovered": 5,
+            "deaths": 5,
+            "active": 97,
             "ssl": true,
             "rating": 0.5686274509803921
           },
@@ -1865,11 +1870,11 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06097",
-            "cases": 95,
-            "tested": 1915,
-            "recovered": 15,
+            "cases": 105,
+            "tested": 2271,
+            "recovered": 21,
             "deaths": 1,
-            "active": 79,
+            "active": 83,
             "ssl": true,
             "rating": 0.6470588235294118
           },
@@ -1936,7 +1941,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06095",
-            "cases": 61,
+            "cases": 73,
             "deaths": 1,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -2144,7 +2149,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06087",
-            "cases": 59,
+            "cases": 62,
             "deaths": 1,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -2212,8 +2217,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06085",
-            "cases": 1094,
-            "deaths": 38,
+            "cases": 1148,
+            "deaths": 39,
             "ssl": true,
             "rating": 0.49019607843137253
           },
@@ -2280,11 +2285,11 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06083",
-            "cases": 152,
-            "tested": 1271,
-            "recovered": 35,
+            "cases": 168,
+            "tested": 1358,
+            "recovered": 38,
             "deaths": 1,
-            "active": 116,
+            "active": 129,
             "ssl": true,
             "rating": 0.6470588235294118
           },
@@ -2352,8 +2357,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06071",
-            "cases": 353,
-            "tested": 4003,
+            "cases": 372,
+            "tested": 4230,
             "deaths": 13,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -2397,11 +2402,10 @@
         "discrepancies": [
           "cases",
           "tested",
-          "recovered"
-        ],
-        "agreements": [
+          "recovered",
           "deaths"
         ],
+        "agreements": [],
         "sources": [
           {
             "state": "iso2:US-CA",
@@ -2424,9 +2428,9 @@
             "county": "fips:06069",
             "cases": 23,
             "tested": 311,
-            "recovered": 11,
-            "deaths": 1,
-            "active": 11,
+            "recovered": 15,
+            "deaths": 2,
+            "active": 6,
             "ssl": true,
             "rating": 0.6470588235294118
           },
@@ -2560,10 +2564,10 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06065",
-            "cases": 638,
-            "recovered": 50,
-            "deaths": 15,
-            "active": 573,
+            "cases": 665,
+            "recovered": 60,
+            "deaths": 18,
+            "active": 587,
             "ssl": true,
             "rating": 0.5686274509803921
           },
@@ -2631,7 +2635,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06063",
-            "cases": 2,
+            "cases": 3,
             "tested": 127,
             "deaths": 0,
             "ssl": true,
@@ -2701,9 +2705,9 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06059",
-            "cases": 711,
-            "tested": 7791,
-            "deaths": 13,
+            "cases": 786,
+            "tested": 9797,
+            "deaths": 14,
             "ssl": true,
             "rating": 0.5686274509803921
           },
@@ -2770,7 +2774,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06057",
-            "cases": 30,
+            "cases": 31,
             "deaths": 1,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -2840,7 +2844,7 @@
             "certValidation": true,
             "county": "fips:06055",
             "cases": 20,
-            "tested": 409,
+            "tested": 486,
             "deaths": 2,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -3050,7 +3054,7 @@
             "certValidation": true,
             "county": "fips:06045",
             "cases": 4,
-            "tested": 258,
+            "tested": 260,
             "recovered": 2,
             "deaths": 0,
             "active": 2,
@@ -3122,7 +3126,7 @@
             "certValidation": true,
             "county": "fips:06043",
             "cases": 0,
-            "tested": 54,
+            "tested": 57,
             "deaths": 0,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -3191,7 +3195,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06041",
-            "cases": 131,
+            "cases": 137,
             "tested": 1337,
             "deaths": 6,
             "ssl": true,
@@ -3332,8 +3336,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06037",
-            "cases": 4566,
-            "deaths": 89,
+            "cases": 5277,
+            "deaths": 117,
             "ssl": true,
             "rating": 0.49019607843137253
           },
@@ -3608,8 +3612,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06029",
-            "cases": 199,
-            "tested": 4504,
+            "cases": 205,
+            "tested": 4720,
             "deaths": 2,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -3651,7 +3655,8 @@
           1
         ],
         "discrepancies": [
-          "cases"
+          "cases",
+          "tested"
         ],
         "agreements": [
           "recovered",
@@ -3678,9 +3683,10 @@
             "certValidation": true,
             "county": "fips:06027",
             "cases": 10,
+            "tested": 123,
             "deaths": 0,
             "ssl": true,
-            "rating": 0.49019607843137253
+            "rating": 0.5686274509803921
           },
           {
             "country": "iso1:US",
@@ -3746,8 +3752,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06025",
-            "cases": 52,
-            "tested": 389,
+            "cases": 55,
+            "tested": 417,
             "deaths": 1,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -3816,8 +3822,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06023",
-            "cases": 40,
-            "tested": 949,
+            "cases": 44,
+            "tested": 1006,
             "deaths": 0,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -3981,7 +3987,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06019",
-            "cases": 100,
+            "cases": 103,
             "tested": 1650,
             "deaths": 1,
             "ssl": true,
@@ -4029,7 +4035,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 100,
+            "cases": 103,
             "deaths": 1,
             "type": "list",
             "ssl": true,
@@ -4146,8 +4152,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06015",
-            "cases": 1,
-            "tested": 89,
+            "cases": 2,
+            "tested": 101,
             "deaths": 0,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -4195,8 +4201,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 1,
-            "tested": 93,
+            "cases": 2,
+            "tested": 101,
             "type": "list",
             "ssl": false,
             "rating": 0.3137254901960784
@@ -4242,8 +4248,8 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06013",
-            "cases": 307,
-            "tested": 4493,
+            "cases": 353,
+            "tested": 4929,
             "deaths": 5,
             "ssl": true,
             "rating": 0.5686274509803921
@@ -4735,7 +4741,7 @@
             "headless": false,
             "certValidation": true,
             "county": "fips:06001",
-            "cases": 443,
+            "cases": 537,
             "deaths": 12,
             "ssl": true,
             "rating": 0.49019607843137253
@@ -4789,9 +4795,712 @@
             "timeseries": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 416,
+            "cases": 510,
             "ssl": false,
             "rating": 0.0784313725490196
+          }
+        ]
+      },
+      "iso2:au-wa, aus": {
+        "location": {
+          "state": "iso2:AU-WA",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          0,
+          1
+        ],
+        "discrepancies": [
+          "tested",
+          "recovered",
+          "deaths"
+        ],
+        "agreements": [
+          "cases"
+        ],
+        "sources": [
+          {
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 2,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "state": "iso2:AU-WA",
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "tested": 16815,
+            "cases": 436,
+            "recovered": 92,
+            "deaths": 3,
+            "discard": 6,
+            "active": 341,
+            "ssl": true,
+            "rating": 0.43137254901960786
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-WA",
+            "cases": 436,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          }
+        ]
+      },
+      "iso2:au-vic, aus": {
+        "location": {
+          "state": "iso2:AU-VIC",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1,
+          2
+        ],
+        "discrepancies": [
+          "cases",
+          "deaths"
+        ],
+        "agreements": [],
+        "sources": [
+          {
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 2,
+            "sources": [
+              {
+                "description": "Victoria State Government Health and Human Services Department",
+                "name": "Victoria State Government Health and Human Services",
+                "url": "https://www.dhhs.vic.gov.au"
+              }
+            ],
+            "state": "iso2:AU-VIC",
+            "type": "paragraph",
+            "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 1135,
+            "ssl": true,
+            "rating": 0.058823529411764705
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-VIC",
+            "cases": 1085,
+            "deaths": 7,
+            "ssl": true,
+            "rating": 0.39215686274509803
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-VIC",
+            "cases": 1115,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          }
+        ]
+      },
+      "iso2:au-sa, aus": {
+        "location": {
+          "state": "iso2:AU-SA",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1,
+          2
+        ],
+        "discrepancies": [
+          "cases",
+          "recovered"
+        ],
+        "agreements": [
+          "deaths"
+        ],
+        "sources": [
+          {
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 2,
+            "sources": [
+              {
+                "description": "SA Government Health Department",
+                "name": "SA Health",
+                "url": "https://www.sahealth.sa.gov.au"
+              }
+            ],
+            "state": "iso2:AU-SA",
+            "type": "table",
+            "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
+            "scraper": {},
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 407,
+            "hospitalized": 8,
+            "recovered": 46,
+            "deaths": 0,
+            "active": 361,
+            "ssl": true,
+            "rating": 0.35294117647058826
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-SA",
+            "cases": 396,
+            "deaths": 0,
+            "ssl": true,
+            "rating": 0.39215686274509803
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-SA",
+            "cases": 407,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          }
+        ]
+      },
+      "iso2:au-qld, aus": {
+        "location": {
+          "state": "iso2:AU-QLD",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1,
+          2
+        ],
+        "discrepancies": [
+          "cases",
+          "deaths"
+        ],
+        "agreements": [],
+        "sources": [
+          {
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 2,
+            "sources": [
+              {
+                "description": "QLD Government Health Department",
+                "name": "QLD Government Health",
+                "url": "https://www.health.qld.gov.au"
+              }
+            ],
+            "state": "iso2:AU-QLD",
+            "type": "paragraph",
+            "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
+            "scraper": {},
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 907,
+            "ssl": true,
+            "rating": 0.058823529411764705
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-QLD",
+            "cases": 873,
+            "deaths": 4,
+            "ssl": true,
+            "rating": 0.39215686274509803
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-QLD",
+            "cases": 900,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          }
+        ]
+      },
+      "iso2:au-nt, aus": {
+        "location": {
+          "state": "iso2:AU-NT",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1,
+          2
+        ],
+        "discrepancies": [
+          "cases"
+        ],
+        "agreements": [
+          "deaths"
+        ],
+        "sources": [
+          {
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 2,
+            "sources": [
+              {
+                "name": "Northern Territory Government - Coronavirus site",
+                "url": "https://coronavirus.nt.gov.au"
+              }
+            ],
+            "state": "iso2:AU-NT",
+            "type": "table",
+            "url": "https://coronavirus.nt.gov.au/",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 26,
+            "ssl": true,
+            "rating": 0.19607843137254902
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-NT",
+            "cases": 21,
+            "deaths": 0,
+            "ssl": true,
+            "rating": 0.39215686274509803
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-NT",
+            "cases": 25,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          }
+        ]
+      },
+      "iso2:au-nsw, aus": {
+        "location": {
+          "state": "iso2:AU-NSW",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1,
+          2
+        ],
+        "discrepancies": [
+          "cases",
+          "tested",
+          "deaths"
+        ],
+        "agreements": [],
+        "sources": [
+          {
+            "country": "AUS",
+            "priority": 2,
+            "sources": [
+              {
+                "description": "NSW Government Health Department",
+                "name": "NSW Government Health",
+                "url": "https://www.health.nsw.gov.au"
+              }
+            ],
+            "state": "iso2:AU-NSW",
+            "type": "table",
+            "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 2580,
+            "deaths": 16,
+            "tested": 121443,
+            "ssl": true,
+            "rating": 0.35294117647058826
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-NSW",
+            "cases": 2389,
+            "deaths": 9,
+            "ssl": true,
+            "rating": 0.39215686274509803
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-NSW",
+            "cases": 2580,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          }
+        ]
+      },
+      "iso2:au-act, aus": {
+        "location": {
+          "state": "iso2:AU-ACT",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1,
+          2
+        ],
+        "discrepancies": [
+          "cases",
+          "tested",
+          "recovered",
+          "deaths"
+        ],
+        "agreements": [],
+        "sources": [
+          {
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 2,
+            "sources": [
+              {
+                "description": "ACT Government Health Department",
+                "name": "ACT Government Health",
+                "url": "https://www.health.act.gov.au"
+              }
+            ],
+            "state": "iso2:AU-ACT",
+            "type": "table",
+            "url": "https://www.covid19.act.gov.au/updates/confirmed-case-information",
+            "scraper": {},
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 96,
+            "recovered": 28,
+            "deaths": 2,
+            "tested": 5354,
+            "active": 66,
+            "ssl": true,
+            "rating": 0.43137254901960786
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-ACT",
+            "cases": 91,
+            "deaths": 1,
+            "ssl": true,
+            "rating": 0.39215686274509803
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-ACT",
+            "cases": 93,
+            "ssl": true,
+            "rating": 0.3137254901960784
           }
         ]
       },
@@ -4842,7 +5551,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 166,
+            "cases": 187,
             "ssl": true,
             "rating": 0.17647058823529413
           },
@@ -4858,6 +5567,7 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
@@ -4865,8 +5575,73 @@
             "certValidation": true,
             "state": "iso2:US-WY",
             "deaths": 0,
-            "tested": 2940,
-            "cases": 166,
+            "tested": 3132,
+            "cases": 187,
+            "ssl": true,
+            "rating": 0.49019607843137253
+          }
+        ]
+      },
+      "iso2:us-wv, iso1:us": {
+        "location": {
+          "state": "iso2:US-WV",
+          "country": "iso1:US"
+        },
+        "used": 0,
+        "dropped": [
+          1
+        ],
+        "discrepancies": [
+          "tested",
+          "deaths"
+        ],
+        "agreements": [
+          "cases"
+        ],
+        "sources": [
+          {
+            "state": "iso2:US-WV",
+            "country": "iso1:US",
+            "sources": [
+              {
+                "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
+                "name": "West Virginia Department of Health & Human Resources"
+              }
+            ],
+            "url": "https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/187b4de8-78ef-40be-9510-7fa9a1ef89f2/modelsAndExploration",
+            "type": "list",
+            "aggregate": "county",
+            "scraper": {},
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "priority": 0,
+            "cases": 282,
+            "ssl": true,
+            "rating": 0.29411764705882354
+          },
+          {
+            "country": "iso1:US",
+            "url": "https://covidtracking.com/api/states",
+            "type": "json",
+            "curators": [
+              {
+                "name": "The COVID Tracking Project",
+                "url": "https://covidtracking.com/",
+                "twitter": "@COVID19Tracking",
+                "github": "COVID19Tracking"
+              }
+            ],
+            "scraperTz": "America/Los_Angeles",
+            "aggregate": "state",
+            "priority": -0.5,
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:US-WV",
+            "deaths": 2,
+            "tested": 7686,
+            "cases": 282,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -4881,11 +5656,10 @@
         "dropped": [
           1
         ],
-        "discrepancies": [
-          "cases",
-          "tested"
-        ],
+        "discrepancies": [],
         "agreements": [
+          "cases",
+          "tested",
           "deaths"
         ],
         "sources": [
@@ -4906,9 +5680,9 @@
             "priority": 0,
             "url": "https://www.dhs.wisconsin.gov/covid-19/county.htm",
             "type": "table",
-            "cases": 1916,
-            "tested": 24293,
-            "deaths": 37,
+            "cases": 2112,
+            "tested": 25971,
+            "deaths": 56,
             "ssl": true,
             "rating": 0.47058823529411764
           },
@@ -4924,15 +5698,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-WI",
-            "deaths": 37,
-            "tested": 24289,
-            "cases": 1912,
+            "deaths": 56,
+            "tested": 25971,
+            "cases": 2112,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -4948,12 +5723,11 @@
           1
         ],
         "discrepancies": [
-          "tested"
-        ],
-        "agreements": [
           "cases",
+          "tested",
           "deaths"
         ],
+        "agreements": [],
         "sources": [
           {
             "state": "iso2:US-WA",
@@ -4972,8 +5746,8 @@
             "priority": 0,
             "url": "https://services8.arcgis.com/rGGrs6HCnw87OFOT/arcgis/rest/services/CountyCases/FeatureServer/0/query?f=json&where=(CV_State_Cases%3E0)&returnGeometry=false&outFields=*&orderByFields=CNTY_NAME%20asc",
             "type": "json",
-            "cases": 6966,
-            "deaths": 284,
+            "cases": 7591,
+            "deaths": 310,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -4989,6 +5763,7 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
@@ -5046,7 +5821,7 @@
             "priority": 0,
             "url": "http://www.vdh.virginia.gov/content/uploads/sites/182/2020/03/VDH-COVID-19-PublicUseDataset-Cases.csv",
             "type": "csv",
-            "cases": 2012,
+            "cases": 2407,
             "ssl": false,
             "rating": 0.3137254901960784
           },
@@ -5062,15 +5837,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-VA",
-            "deaths": 46,
-            "tested": 19005,
-            "cases": 2012,
+            "deaths": 52,
+            "tested": 21552,
+            "cases": 2407,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5109,9 +5885,9 @@
             "priority": 0,
             "url": "https://coronavirus-dashboard.utah.gov/",
             "type": "table",
-            "tested": 24248,
-            "cases": 1246,
-            "deaths": 7,
+            "tested": 28043,
+            "cases": 1428,
+            "deaths": 8,
             "ssl": true,
             "rating": 0.47058823529411764
           },
@@ -5127,15 +5903,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-UT",
-            "deaths": 7,
-            "tested": 24248,
-            "cases": 1246,
+            "deaths": 8,
+            "tested": 28043,
+            "cases": 1428,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5176,8 +5953,8 @@
             "priority": 0,
             "url": "https://opendata.arcgis.com/datasets/bc83058386d2434ca8cf90b26dc6b580_0.csv",
             "type": "csv",
-            "cases": 5330,
-            "deaths": 90,
+            "cases": 6110,
+            "deaths": 105,
             "ssl": false,
             "rating": 0.39215686274509803
           },
@@ -5193,15 +5970,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-TX",
-            "deaths": 90,
-            "tested": 55764,
-            "cases": 5330,
+            "deaths": 105,
+            "tested": 63751,
+            "cases": 6110,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5242,8 +6020,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 3067,
-            "tested": 37839,
+            "cases": 3321,
+            "tested": 41391,
             "ssl": true,
             "rating": 0.39215686274509803
           },
@@ -5259,15 +6037,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-TN",
-            "deaths": 37,
-            "tested": 37839,
-            "cases": 3067,
+            "deaths": 43,
+            "tested": 41391,
+            "cases": 3321,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5306,7 +6085,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 69,
+            "cases": 76,
             "ssl": true,
             "rating": 0.3137254901960784
           },
@@ -5322,6 +6101,7 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
@@ -5329,8 +6109,8 @@
             "certValidation": true,
             "state": "iso2:US-SD",
             "deaths": 2,
-            "tested": 4783,
-            "cases": 187,
+            "tested": 5225,
+            "cases": 212,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5364,8 +6144,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 1700,
-            "deaths": 34,
+            "cases": 1917,
+            "deaths": 40,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -5381,15 +6161,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-SC",
-            "deaths": 34,
-            "tested": 16159,
-            "cases": 1700,
+            "deaths": 40,
+            "tested": 18314,
+            "cases": 1917,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5428,7 +6209,7 @@
             "timeseries": false,
             "headless": true,
             "certValidation": true,
-            "cases": 711,
+            "cases": 806,
             "deaths": 0,
             "aggregate": "county",
             "ssl": true,
@@ -5446,15 +6227,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-RI",
-            "deaths": 14,
-            "tested": 5123,
-            "cases": 711,
+            "deaths": 17,
+            "tested": 6390,
+            "cases": 806,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5493,9 +6275,9 @@
             "priority": 0,
             "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Cases.aspx",
             "type": "table",
-            "cases": 8420,
-            "deaths": 102,
-            "tested": 62115,
+            "cases": 10017,
+            "deaths": 136,
+            "tested": 70030,
             "ssl": true,
             "rating": 0.47058823529411764
           },
@@ -5511,15 +6293,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-PA",
-            "deaths": 102,
-            "tested": 62115,
-            "cases": 8420,
+            "deaths": 136,
+            "tested": 70030,
+            "cases": 10017,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5559,9 +6342,9 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "tested": 17434,
-            "cases": 899,
-            "deaths": 22,
+            "tested": 18925,
+            "cases": 999,
+            "deaths": 26,
             "ssl": true,
             "rating": 0.47058823529411764
           },
@@ -5577,15 +6360,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-OR",
-            "deaths": 22,
-            "tested": 17434,
-            "cases": 899,
+            "deaths": 26,
+            "tested": 18925,
+            "cases": 999,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5633,8 +6417,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 988,
-            "deaths": 38,
+            "cases": 1159,
+            "deaths": 42,
             "ssl": true,
             "rating": 0.39215686274509803
           },
@@ -5650,15 +6434,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-OK",
-            "deaths": 38,
-            "tested": 2303,
-            "cases": 988,
+            "deaths": 42,
+            "tested": 2521,
+            "cases": 1159,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5698,8 +6483,8 @@
             "priority": 0,
             "url": "https://coronavirus.ohio.gov/static/COVIDSummaryData.csv",
             "type": "csv",
-            "cases": 3312,
-            "deaths": 91,
+            "cases": 3739,
+            "deaths": 102,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -5715,15 +6500,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-OH",
-            "deaths": 91,
-            "tested": 38375,
-            "cases": 3312,
+            "deaths": 102,
+            "tested": 41871,
+            "cases": 3739,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5762,8 +6548,8 @@
             "timeseries": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 495,
-            "deaths": 10,
+            "cases": 543,
+            "deaths": 11,
             "ssl": true,
             "rating": 0.39215686274509803
           },
@@ -5779,15 +6565,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-NM",
-            "deaths": 10,
-            "tested": 15632,
-            "cases": 495,
+            "deaths": 11,
+            "tested": 16828,
+            "cases": 543,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5837,15 +6624,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-NJ",
-            "deaths": 646,
-            "tested": 67503,
-            "cases": 29895,
+            "deaths": 846,
+            "tested": 75356,
+            "cases": 34124,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5886,7 +6674,7 @@
             "timeseries": false,
             "headless": false,
             "certValidation": true,
-            "cases": 287,
+            "cases": 324,
             "ssl": true,
             "rating": 0.29411764705882354
           },
@@ -5902,15 +6690,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-NE",
-            "deaths": 6,
-            "tested": 4875,
-            "cases": 285,
+            "deaths": 8,
+            "tested": 5472,
+            "cases": 323,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -5926,12 +6715,11 @@
           1
         ],
         "discrepancies": [
+          "cases",
           "tested",
           "deaths"
         ],
-        "agreements": [
-          "cases"
-        ],
+        "agreements": [],
         "sources": [
           {
             "state": "iso2:US-ND",
@@ -5966,6 +6754,7 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
@@ -5973,8 +6762,8 @@
             "certValidation": true,
             "state": "iso2:US-ND",
             "deaths": 3,
-            "tested": 5798,
-            "cases": 173,
+            "tested": 6207,
+            "cases": 186,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6006,8 +6795,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 2093,
-            "deaths": 19,
+            "cases": 2402,
+            "deaths": 24,
             "type": "csv",
             "ssl": true,
             "rating": 0.4117647058823529
@@ -6024,15 +6813,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-NC",
-            "deaths": 19,
-            "tested": 31598,
-            "cases": 2093,
+            "deaths": 24,
+            "tested": 38773,
+            "cases": 2402,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6065,7 +6855,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 262,
+            "cases": 281,
             "ssl": true,
             "rating": 0.3333333333333333
           },
@@ -6081,15 +6871,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MT",
-            "deaths": 5,
-            "tested": 6057,
-            "cases": 262,
+            "deaths": 6,
+            "tested": 6519,
+            "cases": 281,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6129,8 +6920,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 1358,
-            "deaths": 28,
+            "cases": 1455,
+            "deaths": 30,
             "ssl": true,
             "rating": 0.39215686274509803
           },
@@ -6146,15 +6937,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MS",
-            "deaths": 29,
-            "tested": 6111,
-            "cases": 1358,
+            "deaths": 35,
+            "tested": 6588,
+            "cases": 1455,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6203,8 +6995,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 2113,
-            "deaths": 19,
+            "cases": 2291,
+            "deaths": 24,
             "ssl": true,
             "rating": 0.39215686274509803
           },
@@ -6220,15 +7012,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MO",
-            "deaths": 19,
-            "tested": 26840,
-            "cases": 2113,
+            "deaths": 24,
+            "tested": 27173,
+            "cases": 2291,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6271,7 +7064,7 @@
             "priority": 0,
             "url": "https://services1.arcgis.com/RQG3sksSXcoDoIfj/arcgis/rest/services/MN_COVID19_County_Tracking_Public_View/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
             "type": "json",
-            "cases": 788,
+            "cases": 863,
             "ssl": true,
             "rating": 0.3333333333333333
           },
@@ -6287,15 +7080,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MN",
-            "deaths": 22,
-            "tested": 24227,
-            "cases": 789,
+            "deaths": 24,
+            "tested": 25423,
+            "cases": 865,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6312,11 +7106,10 @@
         ],
         "discrepancies": [
           "cases",
-          "tested"
-        ],
-        "agreements": [
+          "tested",
           "deaths"
         ],
+        "agreements": [],
         "sources": [
           {
             "state": "iso2:US-MI",
@@ -6350,15 +7143,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MI",
-            "deaths": 479,
-            "tested": 24637,
-            "cases": 12744,
+            "deaths": 540,
+            "tested": 26118,
+            "cases": 14225,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6399,10 +7193,10 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 432,
-            "recovered": 113,
-            "deaths": 75,
-            "active": 244,
+            "cases": 456,
+            "recovered": 140,
+            "deaths": 83,
+            "active": 233,
             "ssl": true,
             "rating": 0.47058823529411764
           },
@@ -6418,15 +7212,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-ME",
-            "deaths": 9,
-            "tested": 6520,
-            "cases": 432,
+            "deaths": 10,
+            "tested": 6544,
+            "cases": 456,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6466,8 +7261,8 @@
             "priority": 0,
             "type": "csv",
             "url": "https://opendata.arcgis.com/datasets/fd5f93bf49cf4b35b330d6f500c1e8e6_0.csv",
-            "cases": 2758,
-            "deaths": 42,
+            "cases": 3125,
+            "deaths": 53,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -6483,15 +7278,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MD",
-            "deaths": 42,
-            "tested": 23690,
-            "cases": 2758,
+            "deaths": 53,
+            "tested": 25610,
+            "cases": 3125,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6550,7 +7346,7 @@
             "priority": 0,
             "type": "json",
             "url": "https://services1.arcgis.com/TXaY625xGc0yvAuQ/arcgis/rest/services/COVID_CASES_MA/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
-            "cases": 10402,
+            "cases": 11736,
             "ssl": true,
             "rating": 0.3333333333333333
           },
@@ -6566,15 +7362,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-MA",
-            "deaths": 192,
-            "tested": 62962,
-            "cases": 10402,
+            "deaths": 216,
+            "tested": 68800,
+            "cases": 11736,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6614,8 +7411,8 @@
             "priority": 0,
             "url": "https://services5.arcgis.com/O5K6bb5dZVZcTo5M/arcgis/rest/services/Cases_by_Parish_2/FeatureServer/0/query?f=json&where=PFIPS%20%3C%3E%2099999&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=Deaths%20desc%2CCases%20desc%2CParish%20asc&resultOffset=0&resultRecordCount=65&cacheHint=true",
             "type": "json",
-            "cases": 10297,
-            "deaths": 370,
+            "cases": 12496,
+            "deaths": 409,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -6631,15 +7428,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-LA",
-            "deaths": 370,
-            "tested": 53645,
-            "cases": 10297,
+            "deaths": 409,
+            "tested": 58498,
+            "cases": 12496,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6657,10 +7455,11 @@
         "discrepancies": [
           "cases",
           "tested",
-          "recovered",
+          "recovered"
+        ],
+        "agreements": [
           "deaths"
         ],
-        "agreements": [],
         "sources": [
           {
             "country": "iso1:US",
@@ -6686,10 +7485,10 @@
             "timeseries": false,
             "headless": false,
             "certValidation": true,
-            "cases": 960,
-            "deaths": 36,
-            "recovered": 108,
-            "active": 816,
+            "cases": 1036,
+            "deaths": 40,
+            "recovered": 109,
+            "active": 887,
             "type": "list",
             "ssl": true,
             "rating": 0.45098039215686275
@@ -6706,15 +7505,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-KY",
-            "deaths": 37,
-            "tested": 15572,
-            "cases": 831,
+            "deaths": 40,
+            "tested": 16663,
+            "cases": 917,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6746,8 +7546,8 @@
             "timeseries": false,
             "headless": false,
             "certValidation": true,
-            "cases": 3437,
-            "deaths": 102,
+            "cases": 3953,
+            "deaths": 116,
             "type": "csv",
             "ssl": true,
             "rating": 0.4117647058823529
@@ -6764,15 +7564,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-IN",
-            "deaths": 102,
-            "tested": 17835,
-            "cases": 3437,
+            "deaths": 116,
+            "tested": 19800,
+            "cases": 3953,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6788,11 +7589,12 @@
           1
         ],
         "discrepancies": [
+          "tested"
+        ],
+        "agreements": [
           "cases",
-          "tested",
           "deaths"
         ],
-        "agreements": [],
         "sources": [
           {
             "state": "iso2:US-IL",
@@ -6810,8 +7612,8 @@
             "headless": false,
             "certValidation": true,
             "url": "http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json",
-            "cases": 8851,
-            "deaths": 209,
+            "cases": 10357,
+            "deaths": 243,
             "type": "json",
             "ssl": false,
             "rating": 0.39215686274509803
@@ -6828,15 +7630,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-IL",
-            "deaths": 210,
-            "tested": 48048,
-            "cases": 8904,
+            "deaths": 243,
+            "tested": 53581,
+            "cases": 10357,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6852,11 +7655,11 @@
           1
         ],
         "discrepancies": [
-          "tested"
+          "tested",
+          "deaths"
         ],
         "agreements": [
-          "cases",
-          "deaths"
+          "cases"
         ],
         "sources": [
           {
@@ -6877,7 +7680,7 @@
             "priority": 0,
             "url": "https://opendata.arcgis.com/datasets/6a84756c2e444a87828bb7ce699fdac6_0.csv",
             "type": "csv",
-            "cases": 699,
+            "cases": 786,
             "deaths": 11,
             "ssl": true,
             "rating": 0.37254901960784315
@@ -6894,15 +7697,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-IA",
-            "deaths": 11,
-            "tested": 9453,
-            "cases": 699,
+            "deaths": 14,
+            "tested": 10240,
+            "cases": 786,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -6950,7 +7754,7 @@
             "certValidation": true,
             "url": "https://health.hawaii.gov/coronavirusdisease2019/",
             "type": "list",
-            "cases": 306,
+            "cases": 341,
             "ssl": true,
             "rating": 0.29411764705882354
           },
@@ -6966,15 +7770,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-HI",
-            "deaths": 3,
-            "tested": 12278,
-            "cases": 319,
+            "deaths": 4,
+            "tested": 12947,
+            "cases": 343,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7014,8 +7819,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 5967,
-            "deaths": 198,
+            "cases": 6383,
+            "deaths": 208,
             "ssl": true,
             "rating": 0.39215686274509803
           },
@@ -7031,15 +7836,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-GA",
-            "deaths": 198,
-            "tested": 25401,
-            "cases": 5967,
+            "deaths": 208,
+            "tested": 26517,
+            "cases": 6383,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7079,9 +7885,9 @@
             "certValidation": true,
             "type": "csv",
             "url": "https://opendata.arcgis.com/datasets/a7887f1940b34bf5a02c6f7f27a5cb2c_0.csv",
-            "tested": 95835,
-            "cases": 10268,
-            "deaths": 170,
+            "tested": 107313,
+            "cases": 11545,
+            "deaths": 195,
             "ssl": true,
             "rating": 0.49019607843137253
           },
@@ -7097,15 +7903,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-FL",
-            "deaths": 170,
-            "tested": 95800,
-            "cases": 10268,
+            "deaths": 195,
+            "tested": 107265,
+            "cases": 11545,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7146,7 +7953,7 @@
             "priority": 0,
             "url": "https://services1.arcgis.com/PlCPCPzGOwulHUHo/arcgis/rest/services/DEMA_COVID_County_Boundary_Time_VIEW/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&resultRecordCount=50&cacheHint=true",
             "type": "json",
-            "cases": 450,
+            "cases": 593,
             "deaths": 14,
             "ssl": true,
             "rating": 0.4117647058823529
@@ -7163,6 +7970,7 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
@@ -7170,8 +7978,8 @@
             "certValidation": true,
             "state": "iso2:US-DE",
             "deaths": 14,
-            "tested": 5445,
-            "cases": 450,
+            "tested": 6467,
+            "cases": 593,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7225,15 +8033,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-DC",
-            "deaths": 15,
-            "tested": 5584,
-            "cases": 757,
+            "deaths": 21,
+            "tested": 6438,
+            "cases": 902,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7280,8 +8089,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 4696,
-            "deaths": 130,
+            "cases": 5035,
+            "deaths": 164,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -7297,15 +8106,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-CT",
-            "deaths": 132,
-            "tested": 20016,
-            "cases": 4915,
+            "deaths": 165,
+            "tested": 22029,
+            "cases": 5276,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7339,8 +8149,8 @@
             "certValidation": true,
             "url": "https://opendata.arcgis.com/datasets/fbae539746324ca69ff34f086286845b_0.csv",
             "type": "csv",
-            "cases": 4015,
-            "deaths": 111,
+            "cases": 4354,
+            "deaths": 126,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -7356,15 +8166,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-CO",
-            "deaths": 111,
-            "tested": 22071,
-            "cases": 4173,
+            "deaths": 126,
+            "tested": 23900,
+            "cases": 4565,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7404,7 +8215,7 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 1769,
+            "cases": 2019,
             "ssl": true,
             "rating": 0.3333333333333333
           },
@@ -7420,15 +8231,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-AZ",
-            "deaths": 41,
-            "tested": 24673,
-            "cases": 1769,
+            "deaths": 52,
+            "tested": 27160,
+            "cases": 2019,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7477,11 +8289,11 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 738,
-            "deaths": 12,
-            "tested": 9791,
-            "recovered": 75,
-            "active": 651,
+            "cases": 743,
+            "deaths": 14,
+            "tested": 10370,
+            "recovered": 80,
+            "active": 649,
             "ssl": true,
             "rating": 0.5686274509803921
           },
@@ -7497,15 +8309,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-AR",
-            "deaths": 12,
-            "tested": 9791,
-            "cases": 738,
+            "deaths": 14,
+            "tested": 10370,
+            "cases": 743,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7545,8 +8358,8 @@
             "headless": false,
             "certValidation": true,
             "priority": 0,
-            "cases": 1535,
-            "deaths": 21,
+            "cases": 1633,
+            "deaths": 26,
             "ssl": true,
             "rating": 0.4117647058823529
           },
@@ -7562,15 +8375,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-AL",
-            "deaths": 38,
-            "tested": 9722,
-            "cases": 1535,
+            "deaths": 44,
+            "tested": 10906,
+            "cases": 1633,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7624,15 +8438,16 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
             "state": "iso2:US-AK",
-            "deaths": 3,
-            "tested": 6016,
-            "cases": 157,
+            "deaths": 5,
+            "tested": 6040,
+            "cases": 171,
             "ssl": true,
             "rating": 0.49019607843137253
           }
@@ -7673,7 +8488,7 @@
             "certValidation": true,
             "priority": 0,
             "state": "Nova Scotia",
-            "cases": 207,
+            "cases": 236,
             "deaths": 0,
             "ssl": true,
             "rating": 0.4117647058823529
@@ -7700,25 +8515,44 @@
           }
         ]
       },
-      "iso2:au-wa, aus": {
+      "aus": {
         "location": {
-          "state": "iso2:AU-WA",
           "country": "AUS"
         },
         "used": 0,
         "dropped": [
-          1
+          1,
+          2
         ],
         "discrepancies": [
-          "tested",
+          "cases",
           "recovered",
           "deaths"
         ],
-        "agreements": [
-          "cases"
-        ],
+        "agreements": [],
         "sources": [
           {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "cases": 5635,
+            "ssl": true,
+            "rating": 0.27450980392156865
+          },
+          {
+            "aggregate": "state",
             "country": "AUS",
             "maintainers": [
               {
@@ -7731,7 +8565,7 @@
                 "flag": "🇦🇺"
               }
             ],
-            "priority": 2,
+            "priority": 0.5,
             "sources": [
               {
                 "description": "Government of Western Australia, Department of Health",
@@ -7739,494 +8573,15 @@
                 "url": "https://ww2.health.wa.gov.au"
               }
             ],
-            "state": "iso2:AU-WA",
             "type": "table",
             "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
             "timeseries": false,
             "headless": false,
             "certValidation": true,
-            "tested": 16022,
-            "cases": 422,
-            "recovered": 92,
-            "deaths": 3,
-            "discard": 9,
-            "active": 327,
-            "ssl": true,
-            "rating": 0.43137254901960786
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-WA",
-            "cases": 422,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "iso2:au-vic, aus": {
-        "location": {
-          "state": "iso2:AU-VIC",
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "cases"
-        ],
-        "agreements": [],
-        "sources": [
-          {
-            "country": "AUS",
-            "maintainers": [
-              {
-                "name": "Cameron Chamberlain",
-                "email": "corona@camjc.com",
-                "github": "camjc",
-                "country": "AUS",
-                "state": "Victoria",
-                "city": "Melbourne",
-                "flag": "🇦🇺"
-              }
-            ],
-            "priority": 2,
-            "sources": [
-              {
-                "description": "Victoria State Government Health and Human Services Department",
-                "name": "Victoria State Government Health and Human Services",
-                "url": "https://www.dhhs.vic.gov.au"
-              }
-            ],
-            "state": "iso2:AU-VIC",
-            "type": "paragraph",
-            "url": "https://www.dhhs.vic.gov.au/media-hub-coronavirus-disease-covid-19",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 1115,
-            "ssl": true,
-            "rating": 0.058823529411764705
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-VIC",
-            "cases": 1085,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "iso2:au-sa, aus": {
-        "location": {
-          "state": "iso2:AU-SA",
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "recovered"
-        ],
-        "agreements": [
-          "cases",
-          "deaths"
-        ],
-        "sources": [
-          {
-            "country": "AUS",
-            "maintainers": [
-              {
-                "name": "Cameron Chamberlain",
-                "email": "corona@camjc.com",
-                "github": "camjc",
-                "country": "AUS",
-                "state": "Victoria",
-                "city": "Melbourne",
-                "flag": "🇦🇺"
-              }
-            ],
-            "priority": 2,
-            "sources": [
-              {
-                "description": "SA Government Health Department",
-                "name": "SA Health",
-                "url": "https://www.sahealth.sa.gov.au"
-              }
-            ],
-            "state": "iso2:AU-SA",
-            "type": "table",
-            "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/covid+2019/latest+updates/confirmed+and+suspected+cases+of+covid-19+in+south+australia",
-            "scraper": {},
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 396,
-            "hospitalized": 8,
-            "recovered": 46,
-            "deaths": 0,
-            "active": 350,
+            "cases": 5364,
+            "deaths": 26,
             "ssl": true,
             "rating": 0.35294117647058826
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-SA",
-            "cases": 396,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "iso2:au-qld, aus": {
-        "location": {
-          "state": "iso2:AU-QLD",
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "cases"
-        ],
-        "agreements": [],
-        "sources": [
-          {
-            "country": "AUS",
-            "maintainers": [
-              {
-                "name": "Cameron Chamberlain",
-                "email": "corona@camjc.com",
-                "github": "camjc",
-                "country": "AUS",
-                "state": "Victoria",
-                "city": "Melbourne",
-                "flag": "🇦🇺"
-              }
-            ],
-            "priority": 2,
-            "sources": [
-              {
-                "description": "QLD Government Health Department",
-                "name": "QLD Government Health",
-                "url": "https://www.health.qld.gov.au"
-              }
-            ],
-            "state": "iso2:AU-QLD",
-            "type": "paragraph",
-            "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-            "scraper": {},
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 900,
-            "ssl": true,
-            "rating": 0.058823529411764705
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-QLD",
-            "cases": 873,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "iso2:au-nt, aus": {
-        "location": {
-          "state": "iso2:AU-NT",
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "cases"
-        ],
-        "agreements": [],
-        "sources": [
-          {
-            "country": "AUS",
-            "maintainers": [
-              {
-                "name": "Cameron Chamberlain",
-                "email": "corona@camjc.com",
-                "github": "camjc",
-                "country": "AUS",
-                "state": "Victoria",
-                "city": "Melbourne",
-                "flag": "🇦🇺"
-              }
-            ],
-            "priority": 2,
-            "sources": [
-              {
-                "name": "Northern Territory Government - Coronavirus site",
-                "url": "https://coronavirus.nt.gov.au"
-              }
-            ],
-            "state": "iso2:AU-NT",
-            "type": "table",
-            "url": "https://coronavirus.nt.gov.au/",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 26,
-            "ssl": true,
-            "rating": 0.19607843137254902
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-NT",
-            "cases": 21,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "iso2:au-nsw, aus": {
-        "location": {
-          "state": "iso2:AU-NSW",
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "cases",
-          "tested"
-        ],
-        "agreements": [],
-        "sources": [
-          {
-            "country": "AUS",
-            "priority": 2,
-            "sources": [
-              {
-                "description": "NSW Government Health Department",
-                "name": "NSW Government Health",
-                "url": "https://www.health.nsw.gov.au"
-              }
-            ],
-            "state": "iso2:AU-NSW",
-            "type": "table",
-            "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 2389,
-            "tested": 114455,
-            "ssl": true,
-            "rating": 0.27450980392156865
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-NSW",
-            "cases": 2493,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "iso2:au-act, aus": {
-        "location": {
-          "state": "iso2:AU-ACT",
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "tested",
-          "recovered",
-          "deaths"
-        ],
-        "agreements": [
-          "cases"
-        ],
-        "sources": [
-          {
-            "country": "AUS",
-            "maintainers": [
-              {
-                "name": "Cameron Chamberlain",
-                "email": "corona@camjc.com",
-                "github": "camjc",
-                "country": "AUS",
-                "state": "Victoria",
-                "city": "Melbourne",
-                "flag": "🇦🇺"
-              }
-            ],
-            "priority": 2,
-            "sources": [
-              {
-                "description": "ACT Government Health Department",
-                "name": "ACT Government Health",
-                "url": "https://www.health.act.gov.au"
-              }
-            ],
-            "state": "iso2:AU-ACT",
-            "type": "table",
-            "url": "https://www.covid19.act.gov.au/updates/confirmed-case-information",
-            "scraper": {},
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 91,
-            "recovered": 18,
-            "deaths": 1,
-            "tested": 5131,
-            "active": 72,
-            "ssl": true,
-            "rating": 0.43137254901960786
-          },
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "state": "iso2:AU-ACT",
-            "cases": 91,
-            "ssl": true,
-            "rating": 0.3137254901960784
-          }
-        ]
-      },
-      "aus": {
-        "location": {
-          "country": "AUS"
-        },
-        "used": 0,
-        "dropped": [
-          1
-        ],
-        "discrepancies": [
-          "cases",
-          "recovered",
-          "deaths"
-        ],
-        "agreements": [],
-        "sources": [
-          {
-            "aggregate": "state",
-            "country": "AUS",
-            "priority": 1,
-            "sources": [
-              {
-                "description": "Australian Government Department of Health",
-                "name": "Australian Government Department of Health",
-                "url": "https://www.health.gov.au/"
-              }
-            ],
-            "type": "table",
-            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-            "timeseries": false,
-            "headless": false,
-            "certValidation": true,
-            "cases": 5454,
-            "ssl": true,
-            "rating": 0.27450980392156865
           },
           {
             "maintainers": [
@@ -8246,6 +8601,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "AUS",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -8256,13 +8612,84 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "state",
-            "cases": 5330,
-            "recovered": 649,
-            "deaths": 28,
-            "active": 4653,
+            "cases": 5550,
+            "recovered": 701,
+            "deaths": 30,
+            "active": 4819,
             "type": "list",
             "ssl": true,
             "rating": 0.5490196078431373
+          }
+        ]
+      },
+      "iso2:au-tas, aus": {
+        "location": {
+          "state": "iso2:AU-TAS",
+          "country": "AUS"
+        },
+        "used": 0,
+        "dropped": [
+          1
+        ],
+        "discrepancies": [
+          "cases",
+          "deaths"
+        ],
+        "agreements": [],
+        "sources": [
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "priority": 1,
+            "sources": [
+              {
+                "description": "Australian Government Department of Health",
+                "name": "Australian Government Department of Health",
+                "url": "https://www.health.gov.au/"
+              }
+            ],
+            "type": "table",
+            "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-TAS",
+            "cases": 79,
+            "ssl": true,
+            "rating": 0.3137254901960784
+          },
+          {
+            "aggregate": "state",
+            "country": "AUS",
+            "maintainers": [
+              {
+                "name": "Cameron Chamberlain",
+                "email": "corona@camjc.com",
+                "github": "camjc",
+                "country": "AUS",
+                "state": "Victoria",
+                "city": "Melbourne",
+                "flag": "🇦🇺"
+              }
+            ],
+            "priority": 0.5,
+            "sources": [
+              {
+                "description": "Government of Western Australia, Department of Health",
+                "name": "WA Health",
+                "url": "https://ww2.health.wa.gov.au"
+              }
+            ],
+            "type": "table",
+            "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+            "timeseries": false,
+            "headless": false,
+            "certValidation": true,
+            "state": "iso2:AU-TAS",
+            "cases": 73,
+            "deaths": 2,
+            "ssl": true,
+            "rating": 0.39215686274509803
           }
         ]
       },
@@ -8294,14 +8721,15 @@
                 "github": "COVID19Tracking"
               }
             ],
+            "scraperTz": "America/Los_Angeles",
             "aggregate": "state",
             "priority": -0.5,
             "timeseries": false,
             "headless": false,
             "certValidation": true,
-            "cases": 274316,
-            "deaths": 7040,
-            "tested": 1500578,
+            "cases": 307280,
+            "deaths": 8355,
+            "tested": 1654459,
             "ssl": true,
             "rating": 0.45098039215686275
           },
@@ -8323,6 +8751,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "iso1:US",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -8333,14 +8762,14 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "country",
-            "cases": 275586,
-            "deaths": 7087,
+            "cases": 308850,
+            "deaths": 8407,
             "coordinates": [
               -95.7129,
               37.0902
             ],
-            "recovered": 9707,
-            "active": 258792,
+            "recovered": 14652,
+            "active": 285791,
             "type": "list",
             "ssl": true,
             "rating": 0.5490196078431373
@@ -8400,10 +8829,10 @@
             ],
             "headless": false,
             "certValidation": true,
-            "cases": 117710,
-            "recovered": 30513,
-            "deaths": 10935,
-            "active": 76262,
+            "cases": 124736,
+            "recovered": 34219,
+            "deaths": 11744,
+            "active": 78773,
             "ssl": true,
             "rating": 0.5882352941176471
           },
@@ -8425,6 +8854,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "ESP",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -8435,14 +8865,14 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "country",
-            "cases": 119199,
-            "deaths": 11198,
+            "cases": 126168,
+            "deaths": 11947,
             "coordinates": [
               -4,
               40
             ],
-            "recovered": 30513,
-            "active": 77488,
+            "recovered": 34219,
+            "active": 80002,
             "type": "list",
             "ssl": true,
             "rating": 0.5490196078431373
@@ -8473,11 +8903,11 @@
             "priority": 1,
             "headless": false,
             "certValidation": true,
-            "cases": 118268,
-            "recovered": 19547,
-            "deaths": 14542,
-            "tested": 605873,
-            "active": 84179,
+            "cases": 123040,
+            "recovered": 20751,
+            "deaths": 15216,
+            "tested": 642179,
+            "active": 87073,
             "type": "csv",
             "ssl": true,
             "rating": 0.6666666666666666
@@ -8500,6 +8930,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "ITA",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -8510,14 +8941,14 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "country",
-            "cases": 119827,
-            "deaths": 14681,
+            "cases": 124632,
+            "deaths": 15362,
             "coordinates": [
               12,
               43
             ],
-            "recovered": 19758,
-            "active": 85388,
+            "recovered": 20996,
+            "active": 88274,
             "type": "list",
             "ssl": true,
             "rating": 0.5490196078431373
@@ -8533,12 +8964,11 @@
           1
         ],
         "discrepancies": [
+          "cases",
           "recovered",
           "deaths"
         ],
-        "agreements": [
-          "cases"
-        ],
+        "agreements": [],
         "sources": [
           {
             "country": "FRA",
@@ -8547,10 +8977,10 @@
             "priority": 1,
             "headless": false,
             "certValidation": true,
-            "cases": 64338,
-            "deaths": 5091,
-            "recovered": 14007,
-            "active": 45240,
+            "cases": 68605,
+            "deaths": 5532,
+            "recovered": 15437,
+            "active": 47636,
             "type": "csv",
             "ssl": true,
             "rating": 0.47058823529411764
@@ -8573,6 +9003,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "FRA",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -8583,14 +9014,14 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "country",
-            "cases": 64338,
-            "deaths": 6507,
+            "cases": 89953,
+            "deaths": 7560,
             "coordinates": [
               2.2137,
               46.2276
             ],
-            "recovered": 14008,
-            "active": 43823,
+            "recovered": 15438,
+            "active": 66955,
             "type": "list",
             "ssl": true,
             "rating": 0.5490196078431373
@@ -8622,7 +9053,7 @@
             "headless": false,
             "certValidation": true,
             "deaths": 3,
-            "recovered": 34,
+            "recovered": 35,
             "state": "Martinique",
             "feature": {
               "type": "Feature",
@@ -10171,6 +10602,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "FRA",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -10181,7 +10613,7 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "state",
-            "cases": 143,
+            "cases": 145,
             "deaths": 3,
             "coordinates": [
               -61.0242,
@@ -10189,7 +10621,7 @@
             ],
             "recovered": 27,
             "state": "Martinique",
-            "active": 113,
+            "active": 115,
             "type": "list",
             "ssl": true,
             "rating": 0.5882352941176471
@@ -10221,7 +10653,7 @@
             "headless": false,
             "certValidation": true,
             "deaths": 2,
-            "recovered": 2,
+            "recovered": 7,
             "state": "Mayotte",
             "feature": {
               "type": "Feature",
@@ -11536,6 +11968,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "FRA",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -11546,15 +11979,15 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "state",
-            "cases": 128,
+            "cases": 134,
             "deaths": 2,
             "coordinates": [
               45.1662,
               -12.8275
             ],
-            "recovered": 10,
+            "recovered": 14,
             "state": "Mayotte",
-            "active": 116,
+            "active": 118,
             "type": "list",
             "ssl": true,
             "rating": 0.5882352941176471
@@ -11585,7 +12018,7 @@
             "headless": false,
             "certValidation": true,
             "deaths": 8,
-            "recovered": 34,
+            "recovered": 35,
             "state": "Guadeloupe",
             "feature": {
               "type": "Feature",
@@ -12760,6 +13193,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "FRA",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -12770,7 +13204,7 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "state",
-            "cases": 130,
+            "cases": 134,
             "deaths": 7,
             "coordinates": [
               -61.5833,
@@ -12778,7 +13212,7 @@
             ],
             "recovered": 24,
             "state": "Guadeloupe",
-            "active": 99,
+            "active": 103,
             "type": "list",
             "ssl": true,
             "rating": 0.5882352941176471
@@ -12794,12 +13228,11 @@
           1
         ],
         "discrepancies": [
-          "recovered"
-        ],
-        "agreements": [
           "cases",
+          "recovered",
           "deaths"
         ],
+        "agreements": [],
         "sources": [
           {
             "country": "BRA",
@@ -12827,8 +13260,8 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "state",
-            "cases": 9056,
-            "deaths": 359,
+            "cases": 10278,
+            "deaths": 432,
             "ssl": true,
             "rating": 0.47058823529411764
           },
@@ -12850,6 +13283,7 @@
             "timeseries": true,
             "priority": -1,
             "country": "BRA",
+            "scraperTz": "America/Los_Angeles",
             "curators": [
               {
                 "name": "JHU CSSE",
@@ -12860,14 +13294,14 @@
             "headless": false,
             "certValidation": true,
             "aggregate": "country",
-            "cases": 9056,
-            "deaths": 359,
+            "cases": 10360,
+            "deaths": 445,
             "coordinates": [
               -51.9253,
               -14.235
             ],
             "recovered": 127,
-            "active": 8570,
+            "active": 9788,
             "type": "list",
             "ssl": true,
             "rating": 0.5490196078431373
@@ -12898,7 +13332,7 @@
         "name": "USA",
         "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
         "type": "Error",
-        "err": "Error: Timeseries does not contain a sample for SCRAPE_DATE 2020-4-4"
+        "err": "Error: Timeseries does not contain a sample for SCRAPE_DATE 2020-4-5"
       },
       {
         "name": "Calaveras County, CA, USA",
@@ -13015,7 +13449,7 @@
         "err": "Error: Unexpected table layout/labels"
       },
       {
-        "name": "Guam, USA",
+        "name": "GU, USA",
         "url": "http://dphss.guam.gov/2019-novel-coronavirus-2019-n-cov/",
         "type": "DeprecatedError",
         "err": "DeprecatedError: Guam stopped offering totals on their website, but there's a sweet coloring book"
@@ -13034,20 +13468,14 @@
       },
       {
         "name": "NY, USA",
-        "url": "https://coronavirus.health.ny.gov/county-county-breakdown-positive-cases",
+        "url": "https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD",
         "type": "Error",
-        "err": "Error: Attempted to addEmptyRegions with without providing any actual cases"
-      },
-      {
-        "name": "WV, USA",
-        "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
-        "type": "TypeError",
-        "err": "TypeError: Cannot read property 'split' of undefined"
+        "err": "Error: Timeseries does not contain a sample for SCRAPE_DATE 2020-4-5"
       }
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 3552,
+    "numFeaturesFound": 3607,
     "missingFeatures": [
       "French Polynesia, FRA",
       "New Caledonia, FRA",
@@ -13055,6 +13483,7 @@
       "Aruba, NLD",
       "Channel Islands, GBR",
       "Turks and Caicos Islands, GBR",
+      "Falkland Islands (Islas Malvinas), GBR",
       "Zurich, CHE",
       "Quarantine, KOR",
       "Kingston upon Hull, City of, England, GBR",
@@ -13075,12 +13504,15 @@
       "Tayside, Scotland, GBR",
       "Eileanan Siar (Western Isles), Scotland, GBR",
       "Scotland, GBR",
-      "ASutcmhniseornCCoouunntyty, iso2:US-KS, iso1:US",
-      "BWaorotodnsoCnoCuonutynty, iso2:US-KS, iso1:US",
-      "BWoyuarnbdoontCteouCnotuynty, iso2:US-KS, iso1:US",
+      "Unassigned County, iso2:US-IL, iso1:US",
+      "AShtcahwisnoeneCCoouunnttyy, iso2:US-KS, iso1:US",
+      "BStaarfftoonrdCoCuonutnyty, iso2:US-KS, iso1:US",
+      "BStoeuvrebnosnCCoouunnttyy, iso2:US-KS, iso1:US",
+      "BSuumtlenreCroCuonutnyty, iso2:US-KS, iso1:US",
+      "CWhoaoudtsaounquCaouCnotuynty, iso2:US-KS, iso1:US",
+      "CWhyearnodkoeettCeoCuonutnyty, iso2:US-KS, iso1:US",
       "St Clair County, iso2:US-MI, iso1:US",
       "St Joseph County, iso2:US-MI, iso1:US",
-      "Counties not identified County, iso2:US-NM, iso1:US",
       "Barrington, fips:44001, iso2:US-RI, iso1:US",
       "Bristol, fips:44001, iso2:US-RI, iso1:US",
       "Burrillville, fips:44007, iso2:US-RI, iso1:US",
@@ -13123,7 +13555,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 3271,
+    "numLocationsWithPopulation": 3326,
     "missingPopulations": [
       "Greenland, DNK",
       "French Guiana, FRA",
@@ -13143,6 +13575,7 @@
       "British Virgin Islands, GBR",
       "Turks and Caicos Islands, GBR",
       "Bonaire, Sint Eustatius and Saba, NLD",
+      "Falkland Islands (Islas Malvinas), GBR",
       "Zurich, CHE",
       "Quarantine, KOR",
       "Республика Северная Осетия — Алания, RUS",
@@ -13281,9 +13714,13 @@
       "(unassigned), iso2:US-AR, iso1:US",
       "(unassigned), iso2:US-FL, iso1:US",
       "(unassigned), iso2:US-GA, iso1:US",
-      "ASutcmhniseornCCoouunntyty, iso2:US-KS, iso1:US",
-      "BWaorotodnsoCnoCuonutynty, iso2:US-KS, iso1:US",
-      "BWoyuarnbdoontCteouCnotuynty, iso2:US-KS, iso1:US",
+      "Unassigned County, iso2:US-IL, iso1:US",
+      "AShtcahwisnoeneCCoouunnttyy, iso2:US-KS, iso1:US",
+      "BStaarfftoonrdCoCuonutnyty, iso2:US-KS, iso1:US",
+      "BStoeuvrebnosnCCoouunnttyy, iso2:US-KS, iso1:US",
+      "BSuumtlenreCroCuonutnyty, iso2:US-KS, iso1:US",
+      "CWhoaoudtsaounquCaouCnotuynty, iso2:US-KS, iso1:US",
+      "CWhyearnodkoeettCeoCuonutnyty, iso2:US-KS, iso1:US",
       "(unassigned), iso2:US-LA, iso1:US",
       "(unassigned), iso2:US-MA, iso1:US",
       "(unassigned), iso2:US-ME, iso1:US",
@@ -13291,7 +13728,6 @@
       "St Joseph County, iso2:US-MI, iso1:US",
       "(unassigned), iso2:US-MI, iso1:US",
       "(unassigned), iso2:US-MO, iso1:US",
-      "Counties not identified County, iso2:US-NM, iso1:US",
       "Barrington, fips:44001, iso2:US-RI, iso1:US",
       "Bristol, fips:44001, iso2:US-RI, iso1:US",
       "Burrillville, fips:44007, iso2:US-RI, iso1:US",
@@ -13335,7 +13771,7 @@
     ]
   },
   "transformIds": {
-    "idsResolved": 2984
+    "idsResolved": 3039
   },
   "validate": {
     "errors": []
