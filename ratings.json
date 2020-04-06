@@ -672,6 +672,25 @@
     "rating": 0.49019607843137253
   },
   {
+    "state": "NY",
+    "country": "iso1:US",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e",
+        "name": "New York State Department of Health"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://health.data.ny.gov/api/views/xdss-u53e/rows.csv?accessType=DOWNLOAD",
+    "type": "csv",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "state": "OH",
     "country": "iso1:US",
     "aggregate": "county",
@@ -1781,6 +1800,25 @@
     "rating": 0.39215686274509803
   },
   {
+    "state": "ID",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "name": "IDHW",
+        "description": "Idaho State Government"
+      }
+    ],
+    "type": "table",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://public.tableau.com/views/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true",
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
     "state": "SD",
     "country": "iso1:US",
     "sources": [
@@ -2118,6 +2156,25 @@
     "type": "list",
     "ssl": true,
     "rating": 0.3333333333333333
+  },
+  {
+    "aggregate": "state",
+    "country": "iso1:AU",
+    "priority": 1,
+    "sources": [
+      {
+        "description": "Australian Government Department of Health",
+        "name": "Australian Government Department of Health",
+        "url": "https://www.health.gov.au/"
+      }
+    ],
+    "type": "table",
+    "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.3137254901960784
   },
   {
     "country": "iso1:VI",
