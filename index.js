@@ -122,6 +122,102 @@
     });
   };
 
+  const replacements = {
+    'Cabinet for Health and Family Services': 'HFS',
+    'Department of Health & Human Resources': 'DHHR',
+    'Department of Health and Human Services': 'HHS',
+    'Emergency and Preparedness Information': 'E&P',
+    'Health and Human Services': 'HHS',
+    'Department of Health': 'DoH',
+    'Public Health Department': 'DPH',
+    'Department of Public Health': 'DoH',
+    Department: 'Dept.',
+    Information: 'Info.'
+  };
+  function shortenName(name) {
+    for (const [search, replace] of Object.entries(replacements)) {
+      name = name.split(' - ').shift();
+      name = name.replace(search, replace);
+    }
+    return name;
+  }
+
+  const getURLFromContributor = function(curator) {
+    if (!curator) {
+      return '';
+    }
+
+    let url;
+    if (curator.url) {
+      url = curator.url;
+    } else if (curator.twitter) {
+      url = `https://twitter.com/${curator.twitter.replace('@', '')}`;
+    } else if (curator.github) {
+      url = `https://github.com/${curator.github}`;
+    } else if (curator.email) {
+      url = `mailto:${curator.email}`;
+    }
+    return url;
+  };
+
+  /**
+   * @param {{name: string, country: string?, flag: string?}[]} contributors
+   */
+  const getContributors = function(contributors, options = { link: true, shortNames: false }) {
+    let html = '';
+
+    if (contributors) {
+      for (const [index, contributor] of Object.entries(contributors)) {
+        // Only show first source
+        if (options.shortNames && index > 0) {
+          break;
+        }
+
+        if (index !== '0') {
+          html += ', ';
+        }
+        const contributorURL = options.link && getURLFromContributor(contributor);
+        if (contributorURL) {
+          html += `<a href="${contributorURL}" class="spectrum-Link">`;
+        }
+        if (options.shortNames) {
+          html += shortenName(contributor.name);
+        } else {
+          html += contributor.name;
+        }
+        if (contributorURL) {
+          html += `</a>`;
+        }
+        if (contributor && (contributor.country || contributor.flag)) {
+          html += ' ';
+          html += contributor.flag ? contributor.flag : `(${contributor.country})`;
+        }
+      }
+    }
+
+    return html;
+  };
+
+  /**
+   * @param {{name: string, country: string?, flag: string?}[]} contributors
+   */
+  const getSource = function(location, options = { link: true, shortNames: false }) {
+    const sourceURLShort = location.url.match(/^(?:https?:\/\/)?(?:[^@/\n]+@)?(?:www\.)?([^:/?\n]+)/)[1];
+    let html = '';
+    if (location.curators || location.sources) {
+      html += getContributors(location.curators || location.sources, options);
+    } else {
+      if (options.link) {
+        html += `<a class="spectrum-Link" target="_blank" href="${location.url}">`;
+      }
+      html += sourceURLShort;
+      if (options.link) {
+        html += `</a>`;
+      }
+    }
+    return html;
+  };
+
   const getRatio = function(fractional, total) {
     if (fractional === 0) {
       return '-';
@@ -1872,17 +1968,6 @@
       let htmlString = `<div class="cds-Popup">`;
       htmlString += `<h6 class="spectrum-Heading spectrum-Heading--XXS">${location.name}</h6>`;
       htmlString += `<table class="cds-Popup-table spectrum-Body spectrum-Body--XS"><tbody>`;
-      if (location.population !== undefined) {
-        htmlString += `<tr><th>Population:</th><td>${location.population.toLocaleString()}</td></tr>`;
-      } else {
-        htmlString += `<tr><th colspan="2">NO POPULATION DATA</th></tr>`;
-      }
-      if (location.population && locationData.cases) {
-        htmlString += `<tr><th>Infected:</th><td>${getRatio(locationData.cases, location.population)}</td></tr>`;
-      }
-      if (location.population && locationData.cases) {
-        htmlString += `<tr><th>Infected %:</th><td>${getPercent(locationData.cases, location.population)}</td></tr>`;
-      }
       if (locationData.cases !== undefined) {
         htmlString += `<tr><th>Cases:</th><td>${locationData.cases.toLocaleString()}</td></tr>`;
       }
@@ -1895,6 +1980,27 @@
       if (locationData.active && locationData.active !== locationData.cases) {
         htmlString += `<tr><th>Active:</th><td>${locationData.active.toLocaleString()}</td></tr>`;
       }
+      if (location.population && locationData.cases) {
+        htmlString += `<tr><th>Infected:</th><td>${getRatio(locationData.cases, location.population)} (${getPercent(
+        locationData.cases,
+        location.population
+      )})</td></tr>`;
+      }
+      if (location.population !== undefined) {
+        htmlString += `<tr><th>Population:</th><td>${location.population.toLocaleString()}</td></tr>`;
+        if (location.populationDensity !== undefined) {
+          let density = location.populationDensity / 0.621371;
+          if (density < 1) {
+            density = (location.populationDensity / 0.621371).toFixed(2);
+          } else {
+            density = Math.floor(density);
+          }
+          htmlString += `<tr><th>Density:</th><td>${density.toLocaleString()} persons / sq. mi</td></tr>`;
+        }
+      } else {
+        htmlString += `<tr><th colspan="2">NO POPULATION DATA</th></tr>`;
+      }
+      htmlString += `<tr><th>Source:</th><td>${getSource(location, { link: false, shortNames: true })}</td></tr>`;
       htmlString += `</tbody></table>`;
       htmlString += `</div>`;
       return htmlString;
@@ -2167,82 +2273,6 @@
       history.pushState(null, '', `#${url$1}`, '');
     }
   }
-
-  const replacements = {
-    'Cabinet for Health and Family Services': 'HFS',
-    'Department of Health & Human Resources': 'DHHR',
-    'Department of Health and Human Services': 'HHS',
-    'Emergency and Preparedness Information': 'E&P',
-    'Health and Human Services': 'HHS',
-    'Department of Health': 'DoH',
-    'Public Health Department': 'DPH',
-    'Department of Public Health': 'DoH',
-    Department: 'Dept.',
-    Information: 'Info.'
-  };
-  function shortenName(name) {
-    for (const [search, replace] of Object.entries(replacements)) {
-      name = name.split(' - ').shift();
-      name = name.replace(search, replace);
-    }
-    return name;
-  }
-
-  const getURLFromContributor = function(curator) {
-    if (!curator) {
-      return '';
-    }
-
-    let url;
-    if (curator.url) {
-      url = curator.url;
-    } else if (curator.twitter) {
-      url = `https://twitter.com/${curator.twitter.replace('@', '')}`;
-    } else if (curator.github) {
-      url = `https://github.com/${curator.github}`;
-    } else if (curator.email) {
-      url = `mailto:${curator.email}`;
-    }
-    return url;
-  };
-
-  /**
-   * @param {{name: string, country: string?, flag: string?}[]} contributors
-   */
-  const getContributors = function(contributors, options = { link: true, shortNames: false }) {
-    let html = '';
-
-    if (contributors) {
-      for (const [index, contributor] of Object.entries(contributors)) {
-        // Only show first source
-        if (options.shortNames && index > 0) {
-          break;
-        }
-
-        if (index !== '0') {
-          html += ', ';
-        }
-        const contributorURL = options.link && getURLFromContributor(contributor);
-        if (contributorURL) {
-          html += `<a href="${contributorURL}" class="spectrum-Link">`;
-        }
-        if (options.shortNames) {
-          html += shortenName(contributor.name);
-        } else {
-          html += contributor.name;
-        }
-        if (contributorURL) {
-          html += `</a>`;
-        }
-        if (contributor && (contributor.country || contributor.flag)) {
-          html += ' ';
-          html += contributor.flag ? contributor.flag : `(${contributor.country})`;
-        }
-      }
-    }
-
-    return html;
-  };
 
   /* global document, window */
 
