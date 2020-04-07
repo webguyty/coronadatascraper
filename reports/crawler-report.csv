@@ -1,5 +1,6 @@
 date,country,state,county,city,type,description,severity,category
 2020-04-06,iso1:CH,,,,scraper failed,TypeError: Cannot read property 'AG' of undefined,critical,scraper failure
+2020-04-06,iso1:RU,,,,scraper failed,TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is null.,critical,scraper failure
 2020-04-06,iso1:VI,,,,scraper failed,Error: Unexpected results; there was likely an error parsing COVID-19 cases,critical,scraper failure
 2020-04-06,iso1:US,CA,Calaveras County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
 2020-04-06,iso1:US,CA,Kern County,,scraper failed,"Error: Kern County, CA now uses a PNG and PDF",critical,scraper failure
@@ -128,8 +129,6 @@ date,country,state,county,city,type,description,severity,category
 2020-04-06,iso1:IN,Jharkhand,,,missing population,,low,population
 2020-04-06,iso1:IN,Tripura,,,missing population,,low,population
 2020-04-06,iso1:KR,(unassigned),,,missing population,,low,population
-2020-04-06,iso1:RU,Республика Северная Осетия — Алания,,,missing population,,low,population
-2020-04-06,iso1:RU,Республика Чувашия,,,missing population,,low,population
 2020-04-06,iso1:US,iso2:US-MD,,Baltimore city,missing population,,low,population
 2020-04-06,iso1:US,iso2:US-MO,,Kansas City,missing population,,low,population
 2020-04-06,iso1:US,iso2:US-MO,,St. Louis city,missing population,,low,population

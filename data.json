@@ -15509,3524 +15509,6 @@
     "level": "country"
   },
   {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Алтайский край",
-    "cases": 12,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      82.4798643972741,
-      52.56088896735193
-    ],
-    "population": 2317052,
-    "active": 12,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Barnaul"
-    ],
-    "featureId": 402,
-    "countryId": "iso1:RU",
-    "name": "Алтайский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Амурская область",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      127.31298384038189,
-      52.94829335874619
-    ],
-    "population": 790676,
-    "active": 4,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yakutsk"
-    ],
-    "featureId": 403,
-    "countryId": "iso1:RU",
-    "name": "Амурская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Архангельская область",
-    "cases": 14,
-    "recovered": 3,
-    "deaths": 0,
-    "coordinates": [
-      52.40648013605133,
-      71.25419668220843
-    ],
-    "population": 1092277,
-    "active": 11,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 404,
-    "countryId": "iso1:RU",
-    "name": "Архангельская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Астраханская область",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      47.10724671439908,
-      47.217078355467635
-    ],
-    "population": 1005967,
-    "active": 5,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Astrakhan"
-    ],
-    "featureId": 405,
-    "countryId": "iso1:RU",
-    "name": "Астраханская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Белгородская область",
-    "cases": 11,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      37.257911820915325,
-      50.611976016414836
-    ],
-    "population": 1547532,
-    "active": 11,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 406,
-    "countryId": "iso1:RU",
-    "name": "Белгородская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Брянская область",
-    "cases": 24,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      33.2805060190266,
-      52.92660191489801
-    ],
-    "population": 1192570,
-    "active": 24,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 407,
-    "countryId": "iso1:RU",
-    "name": "Брянская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Владимирская область",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 1,
-    "coordinates": [
-      40.61775882331102,
-      55.9653568590318
-    ],
-    "population": 1358538,
-    "active": 4,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 408,
-    "countryId": "iso1:RU",
-    "name": "Владимирская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Волгоградская область",
-    "cases": 15,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      44.301002410981965,
-      49.34476614034509
-    ],
-    "population": 2491751,
-    "active": 14,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Volgograd"
-    ],
-    "featureId": 409,
-    "countryId": "iso1:RU",
-    "name": "Волгоградская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Вологодская область",
-    "cases": 23,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      40.921719597981024,
-      60.04233022695837
-    ],
-    "population": 1160721,
-    "active": 23,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 410,
-    "countryId": "iso1:RU",
-    "name": "Вологодская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Воронежская область",
-    "cases": 23,
-    "recovered": 4,
-    "deaths": 0,
-    "coordinates": [
-      40.54008914549763,
-      50.82018036194679
-    ],
-    "population": 2323657,
-    "active": 19,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 411,
-    "countryId": "iso1:RU",
-    "name": "Воронежская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Еврейская автономная область",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      132.75993778190755,
-      48.57703562786032
-    ],
-    "population": 158381,
-    "active": 3,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Vladivostok"
-    ],
-    "featureId": 412,
-    "countryId": "iso1:RU",
-    "name": "Еврейская автономная область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Забайкальский край",
-    "cases": 1,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      114.93598067831564,
-      53.76782989901964
-    ],
-    "population": 1059657,
-    "active": 0,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Chita"
-    ],
-    "featureId": 413,
-    "countryId": "iso1:RU",
-    "name": "Забайкальский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ивановская область",
-    "cases": 33,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      41.5570813335367,
-      57.059127305630625
-    ],
-    "population": 997196,
-    "active": 32,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 414,
-    "countryId": "iso1:RU",
-    "name": "Ивановская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Иркутская область",
-    "cases": 11,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      107.40531009328615,
-      57.70678803189213
-    ],
-    "population": 2390827,
-    "active": 11,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Irkutsk"
-    ],
-    "featureId": 415,
-    "countryId": "iso1:RU",
-    "name": "Иркутская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Кабардино-Балкарская Республика",
-    "cases": 8,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      43.39782079804138,
-      43.44054826788823
-    ],
-    "population": 868174,
-    "active": 8,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 416,
-    "countryId": "iso1:RU",
-    "name": "Кабардино-Балкарская Республика, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Калининградская область",
-    "cases": 19,
-    "recovered": 5,
-    "deaths": 0,
-    "coordinates": [
-      21.221198564000076,
-      54.81279754841499
-    ],
-    "population": 1012253,
-    "active": 14,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Kaliningrad"
-    ],
-    "featureId": 417,
-    "countryId": "iso1:RU",
-    "name": "Калининградская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Калужская область",
-    "cases": 7,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      35.38014570536001,
-      54.29542003021021
-    ],
-    "population": 1000070,
-    "active": 6,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 418,
-    "countryId": "iso1:RU",
-    "name": "Калужская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Камчатский край",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      165.0098144713644,
-      57.908945618725426
-    ],
-    "population": 312438,
-    "active": 2,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Etc/GMT-11"
-    ],
-    "featureId": 419,
-    "countryId": "iso1:RU",
-    "name": "Камчатский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Кемеровская область",
-    "cases": 5,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      86.92687015138634,
-      54.50048503315773
-    ],
-    "population": 2657758,
-    "active": 3,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Novokuznetsk"
-    ],
-    "featureId": 420,
-    "countryId": "iso1:RU",
-    "name": "Кемеровская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Кировская область",
-    "cases": 18,
-    "recovered": 3,
-    "deaths": 0,
-    "coordinates": [
-      50.131648390410874,
-      58.579512539871786
-    ],
-    "population": 1262549,
-    "active": 15,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Kirov"
-    ],
-    "featureId": 421,
-    "countryId": "iso1:RU",
-    "name": "Кировская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Костромская область",
-    "cases": 9,
-    "recovered": 0,
-    "deaths": 1,
-    "coordinates": [
-      43.993676792350044,
-      58.45444265380539
-    ],
-    "population": 633392,
-    "active": 8,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 422,
-    "countryId": "iso1:RU",
-    "name": "Костромская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Краснодарский край",
-    "cases": 50,
-    "recovered": 8,
-    "deaths": 0,
-    "coordinates": [
-      39.16124006450244,
-      45.125972212745225
-    ],
-    "population": 5677786,
-    "active": 42,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 423,
-    "countryId": "iso1:RU",
-    "name": "Краснодарский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Красноярский край",
-    "cases": 32,
-    "recovered": 5,
-    "deaths": 0,
-    "coordinates": [
-      95.03223717550006,
-      66.5351217717118
-    ],
-    "population": 2867875,
-    "active": 27,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Krasnoyarsk"
-    ],
-    "featureId": 424,
-    "countryId": "iso1:RU",
-    "name": "Красноярский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Курганская область",
-    "cases": 2,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      65.35707555947121,
-      55.50209433754868
-    ],
-    "population": 826941,
-    "active": 1,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 425,
-    "countryId": "iso1:RU",
-    "name": "Курганская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Курская область",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      36.26887658416072,
-      51.659870307068985
-    ],
-    "population": 1103059,
-    "active": 4,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 426,
-    "countryId": "iso1:RU",
-    "name": "Курская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ленинградская область",
-    "cases": 62,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      31.690953920473945,
-      59.880169583309595
-    ],
-    "population": 1876392,
-    "active": 61,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 427,
-    "countryId": "iso1:RU",
-    "name": "Ленинградская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Липецкая область",
-    "cases": 26,
-    "recovered": 4,
-    "deaths": 0,
-    "coordinates": [
-      39.21200483550473,
-      52.73360321726463
-    ],
-    "population": 1139492,
-    "active": 22,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 428,
-    "countryId": "iso1:RU",
-    "name": "Липецкая область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Магаданская область",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      154.0896956729169,
-      62.60417145339284
-    ],
-    "population": 140199,
-    "active": 1,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Magadan"
-    ],
-    "featureId": 429,
-    "countryId": "iso1:RU",
-    "name": "Магаданская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Москва",
-    "cases": 4484,
-    "recovered": 206,
-    "deaths": 29,
-    "coordinates": [
-      37.37360600816072,
-      55.44724463183428
-    ],
-    "population": 12692466,
-    "active": 4249,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 430,
-    "countryId": "iso1:RU",
-    "name": "Москва, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Московская область",
-    "cases": 387,
-    "recovered": 34,
-    "deaths": 3,
-    "coordinates": [
-      37.69028893423692,
-      55.594087530914805
-    ],
-    "population": 7687647,
-    "active": 350,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 431,
-    "countryId": "iso1:RU",
-    "name": "Московская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Мурманская область",
-    "cases": 18,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      34.90373905100009,
-      68.00938548400006
-    ],
-    "population": 741511,
-    "active": 17,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 432,
-    "countryId": "iso1:RU",
-    "name": "Мурманская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Нижегородская область",
-    "cases": 56,
-    "recovered": 4,
-    "deaths": 0,
-    "coordinates": [
-      44.77275068549571,
-      56.278012193807655
-    ],
-    "population": 3203818,
-    "active": 52,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 433,
-    "countryId": "iso1:RU",
-    "name": "Нижегородская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Новгородская область",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      32.91590335475601,
-      58.17642344813359
-    ],
-    "population": 596173,
-    "active": 5,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 434,
-    "countryId": "iso1:RU",
-    "name": "Новгородская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Новосибирская область",
-    "cases": 11,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      80.08842451353044,
-      55.288846533540664
-    ],
-    "population": 2798251,
-    "active": 9,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Novosibirsk"
-    ],
-    "featureId": 435,
-    "countryId": "iso1:RU",
-    "name": "Новосибирская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Омская область",
-    "cases": 10,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      73.36966149263375,
-      56.014791818937255
-    ],
-    "population": 1926562,
-    "active": 10,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Omsk"
-    ],
-    "featureId": 436,
-    "countryId": "iso1:RU",
-    "name": "Омская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Оренбургская область",
-    "cases": 14,
-    "recovered": 1,
-    "deaths": 1,
-    "coordinates": [
-      56.20663392436609,
-      52.42594798177135
-    ],
-    "population": 1956256,
-    "active": 12,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 437,
-    "countryId": "iso1:RU",
-    "name": "Оренбургская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Орловская область",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      36.42168419751766,
-      52.79009847666333
-    ],
-    "population": 733682,
-    "active": 7,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 438,
-    "countryId": "iso1:RU",
-    "name": "Орловская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Пензенская область",
-    "cases": 32,
-    "recovered": 1,
-    "deaths": 1,
-    "coordinates": [
-      44.538553094549655,
-      53.16538564742967
-    ],
-    "population": 1304825,
-    "active": 30,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 439,
-    "countryId": "iso1:RU",
-    "name": "Пензенская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Пермский край",
-    "cases": 21,
-    "recovered": 3,
-    "deaths": 2,
-    "coordinates": [
-      55.62097741027924,
-      58.89513926886215
-    ],
-    "population": 2599301,
-    "active": 16,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 440,
-    "countryId": "iso1:RU",
-    "name": "Пермский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Приморский край",
-    "cases": 7,
-    "recovered": 2,
-    "deaths": 1,
-    "coordinates": [
-      134.7167686551439,
-      45.36984996141917
-    ],
-    "population": 1895305,
-    "active": 4,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Vladivostok"
-    ],
-    "featureId": 441,
-    "countryId": "iso1:RU",
-    "name": "Приморский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Псковская область",
-    "cases": 10,
-    "recovered": 3,
-    "deaths": 2,
-    "coordinates": [
-      29.42523746466557,
-      57.29607624962487
-    ],
-    "population": 626046,
-    "active": 5,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 442,
-    "countryId": "iso1:RU",
-    "name": "Псковская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Адыгея",
-    "cases": 13,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      39.676369256436004,
-      44.47209198665581
-    ],
-    "population": 463453,
-    "active": 13,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 443,
-    "countryId": "iso1:RU",
-    "name": "Республика Адыгея, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Башкортостан",
-    "cases": 10,
-    "recovered": 5,
-    "deaths": 0,
-    "coordinates": [
-      56.56066165526113,
-      54.04502187745766
-    ],
-    "population": 4037811,
-    "active": 5,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 444,
-    "countryId": "iso1:RU",
-    "name": "Республика Башкортостан, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Бурятия",
-    "cases": 43,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      107.78094607959787,
-      53.60371260690127
-    ],
-    "population": 986109,
-    "active": 43,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Irkutsk"
-    ],
-    "featureId": 445,
-    "countryId": "iso1:RU",
-    "name": "Республика Бурятия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Дагестан",
-    "cases": 30,
-    "recovered": 4,
-    "deaths": 0,
-    "coordinates": [
-      46.85152408187915,
-      43.09894854938602
-    ],
-    "population": 3111353,
-    "active": 26,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 446,
-    "countryId": "iso1:RU",
-    "name": "Республика Дагестан, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Ингушетия",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      44.835279168249,
-      43.14869771655038
-    ],
-    "population": 506688,
-    "active": 1,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 447,
-    "countryId": "iso1:RU",
-    "name": "Республика Ингушетия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Калмыкия",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      44.59612613267237,
-      46.50346660390062
-    ],
-    "population": 271035,
-    "active": 7,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 448,
-    "countryId": "iso1:RU",
-    "name": "Республика Калмыкия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Карелия",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      33.60183197741381,
-      63.66492564570197
-    ],
-    "population": 614628,
-    "active": 2,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 449,
-    "countryId": "iso1:RU",
-    "name": "Республика Карелия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Коми",
-    "cases": 90,
-    "recovered": 1,
-    "deaths": 3,
-    "coordinates": [
-      55.824065789704406,
-      63.8317630077066
-    ],
-    "population": 820171,
-    "active": 86,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 450,
-    "countryId": "iso1:RU",
-    "name": "Республика Коми, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Крым",
-    "cases": 21,
-    "recovered": 6,
-    "deaths": 0,
-    "coordinates": [
-      34.563202345000064,
-      45.289353574844
-    ],
-    "population": 1912025,
-    "active": 15,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Simferopol"
-    ],
-    "featureId": 451,
-    "countryId": "iso1:RU",
-    "name": "Республика Крым, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Марий Эл",
-    "cases": 13,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      47.91545291506995,
-      56.5604238960959
-    ],
-    "population": 679094,
-    "active": 13,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 452,
-    "countryId": "iso1:RU",
-    "name": "Республика Марий Эл, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Мордовия",
-    "cases": 6,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      44.47003014472537,
-      54.42051575424861
-    ],
-    "population": 790829,
-    "active": 4,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 453,
-    "countryId": "iso1:RU",
-    "name": "Республика Мордовия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Саха (Якутия)",
-    "cases": 15,
-    "recovered": 4,
-    "deaths": 0,
-    "coordinates": [
-      134.19354577062074,
-      66.10226602223707
-    ],
-    "population": 970105,
-    "active": 11,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Vladivostok"
-    ],
-    "featureId": 454,
-    "countryId": "iso1:RU",
-    "name": "Республика Саха (Якутия), Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Северная Осетия — Алания",
-    "cases": 8,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      44.161397482407864,
-      43.19804830578465
-    ],
-    "active": 8,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 455,
-    "countryId": "iso1:RU",
-    "name": "Республика Северная Осетия — Алания, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Татарстан",
-    "cases": 41,
-    "recovered": 6,
-    "deaths": 0,
-    "coordinates": [
-      50.70933922692376,
-      55.3216364610538
-    ],
-    "population": 3902642,
-    "active": 35,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 456,
-    "countryId": "iso1:RU",
-    "name": "Республика Татарстан, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Хакасия",
-    "cases": 5,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      89.84276452016641,
-      53.380970428192654
-    ],
-    "population": 534186,
-    "active": 4,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Krasnoyarsk"
-    ],
-    "featureId": 457,
-    "countryId": "iso1:RU",
-    "name": "Республика Хакасия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Республика Чувашия",
-    "cases": 3,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      47.16624799999519,
-      55.48089030609273
-    ],
-    "active": 2,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 458,
-    "countryId": "iso1:RU",
-    "name": "Республика Чувашия, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ростовская область",
-    "cases": 9,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      41.267486203128044,
-      48.08657420483567
-    ],
-    "population": 4195327,
-    "active": 9,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 459,
-    "countryId": "iso1:RU",
-    "name": "Ростовская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Рязанская область",
-    "cases": 17,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      40.687211948222824,
-      54.34107615803825
-    ],
-    "population": 1108924,
-    "active": 15,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 460,
-    "countryId": "iso1:RU",
-    "name": "Рязанская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Самарская область",
-    "cases": 17,
-    "recovered": 9,
-    "deaths": 0,
-    "coordinates": [
-      50.24352786651778,
-      53.19935038586158
-    ],
-    "population": 3179026,
-    "active": 8,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Samara"
-    ],
-    "featureId": 461,
-    "countryId": "iso1:RU",
-    "name": "Самарская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Санкт-Петербург",
-    "cases": 226,
-    "recovered": 32,
-    "deaths": 2,
-    "coordinates": [
-      30.0870441013015,
-      59.93793091458002
-    ],
-    "population": 5392992,
-    "active": 192,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 462,
-    "countryId": "iso1:RU",
-    "name": "Санкт-Петербург, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Саратовская область",
-    "cases": 19,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      46.63994897159279,
-      51.3108997632721
-    ],
-    "population": 2421785,
-    "active": 18,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Saratov"
-    ],
-    "featureId": 463,
-    "countryId": "iso1:RU",
-    "name": "Саратовская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Сахалинская область",
-    "cases": 6,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      149.07801019350006,
-      49.06702301650006
-    ],
-    "population": 488453,
-    "active": 6,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Etc/GMT-10"
-    ],
-    "featureId": 464,
-    "countryId": "iso1:RU",
-    "name": "Сахалинская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Свердловская область",
-    "cases": 44,
-    "recovered": 13,
-    "deaths": 0,
-    "coordinates": [
-      61.707634312023856,
-      59.02801229533114
-    ],
-    "population": 4310861,
-    "active": 31,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 465,
-    "countryId": "iso1:RU",
-    "name": "Свердловская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Севастополь",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      33.61585907774102,
-      44.62521949229629
-    ],
-    "population": 448829,
-    "active": 5,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Simferopol"
-    ],
-    "featureId": 466,
-    "countryId": "iso1:RU",
-    "name": "Севастополь, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Смоленская область",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      33.08387719402245,
-      54.75278613861631
-    ],
-    "population": 934747,
-    "active": 3,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 467,
-    "countryId": "iso1:RU",
-    "name": "Смоленская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ставропольский край",
-    "cases": 20,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      43.27635623560175,
-      44.95066742621074
-    ],
-    "population": 2803021,
-    "active": 18,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 468,
-    "countryId": "iso1:RU",
-    "name": "Ставропольский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Тамбовская область",
-    "cases": 15,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      41.59485680569699,
-      52.711950792095365
-    ],
-    "population": 1006962,
-    "active": 13,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 469,
-    "countryId": "iso1:RU",
-    "name": "Тамбовская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Тверская область",
-    "cases": 8,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      34.561591017261605,
-      57.24892192275851
-    ],
-    "population": 1260345,
-    "active": 6,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 470,
-    "countryId": "iso1:RU",
-    "name": "Тверская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Томская область",
-    "cases": 3,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      82.23537356953457,
-      58.36996460628154
-    ],
-    "population": 1079051,
-    "active": 2,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Tomsk"
-    ],
-    "featureId": 471,
-    "countryId": "iso1:RU",
-    "name": "Томская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Тульская область",
-    "cases": 39,
-    "recovered": 4,
-    "deaths": 0,
-    "coordinates": [
-      37.42038292777988,
-      53.90495290810023
-    ],
-    "population": 1466025,
-    "active": 35,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 472,
-    "countryId": "iso1:RU",
-    "name": "Тульская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Тюменская область",
-    "cases": 11,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      69.99937625501013,
-      57.561332197545134
-    ],
-    "population": 1537684,
-    "active": 9,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 473,
-    "countryId": "iso1:RU",
-    "name": "Тюменская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Удмуртская Республика",
-    "cases": 5,
-    "recovered": 3,
-    "deaths": 0,
-    "coordinates": [
-      52.736450636787424,
-      57.197697659119655
-    ],
-    "population": 1501005,
-    "active": 2,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Samara"
-    ],
-    "featureId": 474,
-    "countryId": "iso1:RU",
-    "name": "Удмуртская Республика, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ульяновская область",
-    "cases": 2,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      48.023870070097615,
-      53.726798407770275
-    ],
-    "population": 1229687,
-    "active": 1,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Ulyanovsk"
-    ],
-    "featureId": 475,
-    "countryId": "iso1:RU",
-    "name": "Ульяновская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Хабаровский край",
-    "cases": 11,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      138.80256676644308,
-      54.60521131789798
-    ],
-    "population": 1315310,
-    "active": 11,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Etc/GMT-9"
-    ],
-    "featureId": 476,
-    "countryId": "iso1:RU",
-    "name": "Хабаровский край, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ханты-Мансийский АО",
-    "cases": 19,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      72.59394656733019,
-      62.153105780807095
-    ],
-    "population": 1674086,
-    "active": 17,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 477,
-    "countryId": "iso1:RU",
-    "name": "Ханты-Мансийский АО, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Челябинская область",
-    "cases": 31,
-    "recovered": 2,
-    "deaths": 0,
-    "coordinates": [
-      60.232748754424904,
-      54.17980474289456
-    ],
-    "population": 3466960,
-    "active": 29,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 478,
-    "countryId": "iso1:RU",
-    "name": "Челябинская область, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Чеченская Республика",
-    "cases": 16,
-    "recovered": 0,
-    "deaths": 1,
-    "coordinates": [
-      45.71222822445296,
-      43.24292079784596
-    ],
-    "population": 1476752,
-    "active": 15,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 479,
-    "countryId": "iso1:RU",
-    "name": "Чеченская Республика, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ямало-Ненецкий автономный округ",
-    "cases": 12,
-    "recovered": 0,
-    "deaths": 0,
-    "coordinates": [
-      74.02326500822352,
-      67.86568716126831
-    ],
-    "population": 544008,
-    "active": 12,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 480,
-    "countryId": "iso1:RU",
-    "name": "Ямало-Ненецкий автономный округ, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ярославская область",
-    "cases": 6,
-    "recovered": 1,
-    "deaths": 0,
-    "coordinates": [
-      39.256808302611034,
-      57.74603628194882
-    ],
-    "population": 1253189,
-    "active": 5,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 481,
-    "countryId": "iso1:RU",
-    "name": "Ярославская область, Russia",
-    "level": "state"
-  },
-  {
     "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
     "country": "United States",
     "aggregate": "county",
@@ -19321,39 +15803,6 @@
     "stateId": "iso2:US-AK",
     "countyId": "fips:02290",
     "name": "Yukon-Koyukuk Census Area, Alaska, United States",
-    "level": "county"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
-    "country": "United States",
-    "aggregate": "county",
-    "curators": [
-      {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
-      }
-    ],
-    "state": "Washington, D.C.",
-    "cases": 998,
-    "deaths": 22,
-    "county": "District of Columbia",
-    "rating": 0.6274509803921569,
-    "coordinates": [
-      -77.014576,
-      38.8935965
-    ],
-    "tz": [
-      "America/New_York"
-    ],
-    "featureId": "fips:11001",
-    "population": 705749,
-    "populationDensity": 3982.4076035887733,
-    "countryId": "iso1:US",
-    "stateId": "iso2:US-DC",
-    "countyId": "fips:11001",
-    "name": "District of Columbia, Washington, D.C., United States",
     "level": "county"
   },
   {
@@ -21634,6 +18083,38 @@
       }
     ],
     "aggregate": "state",
+    "state": "Washington, D.C.",
+    "deaths": 24,
+    "tested": 7453,
+    "cases": 1097,
+    "rating": 0.49019607843137253,
+    "coordinates": [
+      -77.0145,
+      38.894000000000005
+    ],
+    "tz": [
+      "America/New_York"
+    ],
+    "featureId": "iso2:US-DC",
+    "population": 705749,
+    "populationDensity": 4062.99618523518,
+    "countryId": "iso1:US",
+    "stateId": "iso2:US-DC",
+    "name": "Washington, D.C., United States",
+    "level": "state"
+  },
+  {
+    "country": "United States",
+    "url": "https://covidtracking.com/api/states",
+    "curators": [
+      {
+        "name": "The COVID Tracking Project",
+        "url": "https://covidtracking.com/",
+        "twitter": "@COVID19Tracking",
+        "github": "COVID19Tracking"
+      }
+    ],
+    "aggregate": "state",
     "state": "New Hampshire",
     "deaths": 9,
     "tested": 8783,
@@ -22917,7 +19398,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 566,
+    "featureId": 486,
     "countryId": "iso1:GB",
     "name": "Hartlepool, England, United Kingdom",
     "level": "county"
@@ -22937,7 +19418,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 567,
+    "featureId": 487,
     "countryId": "iso1:GB",
     "name": "Middlesbrough, England, United Kingdom",
     "level": "county"
@@ -22957,7 +19438,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 568,
+    "featureId": 488,
     "countryId": "iso1:GB",
     "name": "Redcar and Cleveland, England, United Kingdom",
     "level": "county"
@@ -22977,7 +19458,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 569,
+    "featureId": 489,
     "countryId": "iso1:GB",
     "name": "Stockton-on-Tees, England, United Kingdom",
     "level": "county"
@@ -22997,7 +19478,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 570,
+    "featureId": 490,
     "countryId": "iso1:GB",
     "name": "Darlington, England, United Kingdom",
     "level": "county"
@@ -23017,7 +19498,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 571,
+    "featureId": 491,
     "countryId": "iso1:GB",
     "name": "Halton, England, United Kingdom",
     "level": "county"
@@ -23037,7 +19518,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 572,
+    "featureId": 492,
     "countryId": "iso1:GB",
     "name": "Warrington, England, United Kingdom",
     "level": "county"
@@ -23057,7 +19538,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 573,
+    "featureId": 493,
     "countryId": "iso1:GB",
     "name": "Blackburn with Darwen, England, United Kingdom",
     "level": "county"
@@ -23077,7 +19558,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 574,
+    "featureId": 494,
     "countryId": "iso1:GB",
     "name": "Blackpool, England, United Kingdom",
     "level": "county"
@@ -23109,7 +19590,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 575,
+    "featureId": 495,
     "countryId": "iso1:GB",
     "name": "East Riding of Yorkshire, England, United Kingdom",
     "level": "county"
@@ -23129,7 +19610,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 576,
+    "featureId": 496,
     "countryId": "iso1:GB",
     "name": "North East Lincolnshire, England, United Kingdom",
     "level": "county"
@@ -23149,7 +19630,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 577,
+    "featureId": 497,
     "countryId": "iso1:GB",
     "name": "North Lincolnshire, England, United Kingdom",
     "level": "county"
@@ -23169,7 +19650,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 578,
+    "featureId": 498,
     "countryId": "iso1:GB",
     "name": "York, England, United Kingdom",
     "level": "county"
@@ -23189,7 +19670,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 579,
+    "featureId": 499,
     "countryId": "iso1:GB",
     "name": "Derby, England, United Kingdom",
     "level": "county"
@@ -23209,7 +19690,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 580,
+    "featureId": 500,
     "countryId": "iso1:GB",
     "name": "Leicester, England, United Kingdom",
     "level": "county"
@@ -23229,7 +19710,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 581,
+    "featureId": 501,
     "countryId": "iso1:GB",
     "name": "Rutland, England, United Kingdom",
     "level": "county"
@@ -23249,7 +19730,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 582,
+    "featureId": 502,
     "countryId": "iso1:GB",
     "name": "Nottingham, England, United Kingdom",
     "level": "county"
@@ -23281,7 +19762,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 583,
+    "featureId": 503,
     "countryId": "iso1:GB",
     "name": "Telford and Wrekin, England, United Kingdom",
     "level": "county"
@@ -23301,7 +19782,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 584,
+    "featureId": 504,
     "countryId": "iso1:GB",
     "name": "Stoke-on-Trent, England, United Kingdom",
     "level": "county"
@@ -23321,7 +19802,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 585,
+    "featureId": 505,
     "countryId": "iso1:GB",
     "name": "Bath and North East Somerset, England, United Kingdom",
     "level": "county"
@@ -23353,7 +19834,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 586,
+    "featureId": 506,
     "countryId": "iso1:GB",
     "name": "North Somerset, England, United Kingdom",
     "level": "county"
@@ -23373,7 +19854,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 587,
+    "featureId": 507,
     "countryId": "iso1:GB",
     "name": "South Gloucestershire, England, United Kingdom",
     "level": "county"
@@ -23393,7 +19874,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 588,
+    "featureId": 508,
     "countryId": "iso1:GB",
     "name": "Plymouth, England, United Kingdom",
     "level": "county"
@@ -23413,7 +19894,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 589,
+    "featureId": 509,
     "countryId": "iso1:GB",
     "name": "Torbay, England, United Kingdom",
     "level": "county"
@@ -23433,7 +19914,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 590,
+    "featureId": 510,
     "countryId": "iso1:GB",
     "name": "Swindon, England, United Kingdom",
     "level": "county"
@@ -23453,7 +19934,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 591,
+    "featureId": 511,
     "countryId": "iso1:GB",
     "name": "Peterborough, England, United Kingdom",
     "level": "county"
@@ -23473,7 +19954,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 592,
+    "featureId": 512,
     "countryId": "iso1:GB",
     "name": "Luton, England, United Kingdom",
     "level": "county"
@@ -23493,7 +19974,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 593,
+    "featureId": 513,
     "countryId": "iso1:GB",
     "name": "Southend-on-Sea, England, United Kingdom",
     "level": "county"
@@ -23513,7 +19994,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 594,
+    "featureId": 514,
     "countryId": "iso1:GB",
     "name": "Thurrock, England, United Kingdom",
     "level": "county"
@@ -23533,7 +20014,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 595,
+    "featureId": 515,
     "countryId": "iso1:GB",
     "name": "Medway, England, United Kingdom",
     "level": "county"
@@ -23553,7 +20034,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 596,
+    "featureId": 516,
     "countryId": "iso1:GB",
     "name": "Bracknell Forest, England, United Kingdom",
     "level": "county"
@@ -23573,7 +20054,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 597,
+    "featureId": 517,
     "countryId": "iso1:GB",
     "name": "West Berkshire, England, United Kingdom",
     "level": "county"
@@ -23593,7 +20074,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 598,
+    "featureId": 518,
     "countryId": "iso1:GB",
     "name": "Reading, England, United Kingdom",
     "level": "county"
@@ -23613,7 +20094,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 599,
+    "featureId": 519,
     "countryId": "iso1:GB",
     "name": "Slough, England, United Kingdom",
     "level": "county"
@@ -23633,7 +20114,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 600,
+    "featureId": 520,
     "countryId": "iso1:GB",
     "name": "Windsor and Maidenhead, England, United Kingdom",
     "level": "county"
@@ -23653,7 +20134,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 601,
+    "featureId": 521,
     "countryId": "iso1:GB",
     "name": "Wokingham, England, United Kingdom",
     "level": "county"
@@ -23673,7 +20154,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 602,
+    "featureId": 522,
     "countryId": "iso1:GB",
     "name": "Milton Keynes, England, United Kingdom",
     "level": "county"
@@ -23693,7 +20174,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 603,
+    "featureId": 523,
     "countryId": "iso1:GB",
     "name": "Brighton and Hove, England, United Kingdom",
     "level": "county"
@@ -23713,7 +20194,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 604,
+    "featureId": 524,
     "countryId": "iso1:GB",
     "name": "Portsmouth, England, United Kingdom",
     "level": "county"
@@ -23733,7 +20214,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 605,
+    "featureId": 525,
     "countryId": "iso1:GB",
     "name": "Southampton, England, United Kingdom",
     "level": "county"
@@ -23753,7 +20234,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 606,
+    "featureId": 526,
     "countryId": "iso1:GB",
     "name": "Isle of Wight, England, United Kingdom",
     "level": "county"
@@ -23773,7 +20254,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 607,
+    "featureId": 527,
     "countryId": "iso1:GB",
     "name": "County Durham, England, United Kingdom",
     "level": "county"
@@ -23793,7 +20274,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 608,
+    "featureId": 528,
     "countryId": "iso1:GB",
     "name": "Cheshire East, England, United Kingdom",
     "level": "county"
@@ -23813,7 +20294,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 609,
+    "featureId": 529,
     "countryId": "iso1:GB",
     "name": "Cheshire West and Chester, England, United Kingdom",
     "level": "county"
@@ -23833,7 +20314,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 610,
+    "featureId": 530,
     "countryId": "iso1:GB",
     "name": "Shropshire, England, United Kingdom",
     "level": "county"
@@ -23865,7 +20346,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 611,
+    "featureId": 531,
     "countryId": "iso1:GB",
     "name": "Wiltshire, England, United Kingdom",
     "level": "county"
@@ -23885,7 +20366,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 612,
+    "featureId": 532,
     "countryId": "iso1:GB",
     "name": "Bedford, England, United Kingdom",
     "level": "county"
@@ -23905,7 +20386,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 613,
+    "featureId": 533,
     "countryId": "iso1:GB",
     "name": "Central Bedfordshire, England, United Kingdom",
     "level": "county"
@@ -23925,7 +20406,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 614,
+    "featureId": 534,
     "countryId": "iso1:GB",
     "name": "Northumberland, England, United Kingdom",
     "level": "county"
@@ -23957,7 +20438,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 615,
+    "featureId": 535,
     "countryId": "iso1:GB",
     "name": "Dorset, England, United Kingdom",
     "level": "county"
@@ -23977,7 +20458,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 616,
+    "featureId": 536,
     "countryId": "iso1:GB",
     "name": "Bolton, England, United Kingdom",
     "level": "county"
@@ -23997,7 +20478,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 617,
+    "featureId": 537,
     "countryId": "iso1:GB",
     "name": "Bury, England, United Kingdom",
     "level": "county"
@@ -24017,7 +20498,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 618,
+    "featureId": 538,
     "countryId": "iso1:GB",
     "name": "Manchester, England, United Kingdom",
     "level": "county"
@@ -24037,7 +20518,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 619,
+    "featureId": 539,
     "countryId": "iso1:GB",
     "name": "Oldham, England, United Kingdom",
     "level": "county"
@@ -24057,7 +20538,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 620,
+    "featureId": 540,
     "countryId": "iso1:GB",
     "name": "Rochdale, England, United Kingdom",
     "level": "county"
@@ -24077,7 +20558,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 621,
+    "featureId": 541,
     "countryId": "iso1:GB",
     "name": "Salford, England, United Kingdom",
     "level": "county"
@@ -24097,7 +20578,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 622,
+    "featureId": 542,
     "countryId": "iso1:GB",
     "name": "Stockport, England, United Kingdom",
     "level": "county"
@@ -24117,7 +20598,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 623,
+    "featureId": 543,
     "countryId": "iso1:GB",
     "name": "Tameside, England, United Kingdom",
     "level": "county"
@@ -24137,7 +20618,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 624,
+    "featureId": 544,
     "countryId": "iso1:GB",
     "name": "Trafford, England, United Kingdom",
     "level": "county"
@@ -24157,7 +20638,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 625,
+    "featureId": 545,
     "countryId": "iso1:GB",
     "name": "Wigan, England, United Kingdom",
     "level": "county"
@@ -24177,7 +20658,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 626,
+    "featureId": 546,
     "countryId": "iso1:GB",
     "name": "Knowsley, England, United Kingdom",
     "level": "county"
@@ -24197,7 +20678,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 627,
+    "featureId": 547,
     "countryId": "iso1:GB",
     "name": "Liverpool, England, United Kingdom",
     "level": "county"
@@ -24229,7 +20710,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 628,
+    "featureId": 548,
     "countryId": "iso1:GB",
     "name": "Sefton, England, United Kingdom",
     "level": "county"
@@ -24261,7 +20742,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 629,
+    "featureId": 549,
     "countryId": "iso1:GB",
     "name": "Barnsley, England, United Kingdom",
     "level": "county"
@@ -24281,7 +20762,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 630,
+    "featureId": 550,
     "countryId": "iso1:GB",
     "name": "Doncaster, England, United Kingdom",
     "level": "county"
@@ -24301,7 +20782,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 631,
+    "featureId": 551,
     "countryId": "iso1:GB",
     "name": "Rotherham, England, United Kingdom",
     "level": "county"
@@ -24321,7 +20802,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 632,
+    "featureId": 552,
     "countryId": "iso1:GB",
     "name": "Sheffield, England, United Kingdom",
     "level": "county"
@@ -24341,7 +20822,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 633,
+    "featureId": 553,
     "countryId": "iso1:GB",
     "name": "Newcastle upon Tyne, England, United Kingdom",
     "level": "county"
@@ -24361,7 +20842,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 634,
+    "featureId": 554,
     "countryId": "iso1:GB",
     "name": "North Tyneside, England, United Kingdom",
     "level": "county"
@@ -24381,7 +20862,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 635,
+    "featureId": 555,
     "countryId": "iso1:GB",
     "name": "South Tyneside, England, United Kingdom",
     "level": "county"
@@ -24401,7 +20882,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 636,
+    "featureId": 556,
     "countryId": "iso1:GB",
     "name": "Sunderland, England, United Kingdom",
     "level": "county"
@@ -24421,7 +20902,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 637,
+    "featureId": 557,
     "countryId": "iso1:GB",
     "name": "Birmingham, England, United Kingdom",
     "level": "county"
@@ -24441,7 +20922,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 638,
+    "featureId": 558,
     "countryId": "iso1:GB",
     "name": "Coventry, England, United Kingdom",
     "level": "county"
@@ -24461,7 +20942,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 639,
+    "featureId": 559,
     "countryId": "iso1:GB",
     "name": "Dudley, England, United Kingdom",
     "level": "county"
@@ -24481,7 +20962,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 640,
+    "featureId": 560,
     "countryId": "iso1:GB",
     "name": "Sandwell, England, United Kingdom",
     "level": "county"
@@ -24501,7 +20982,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 641,
+    "featureId": 561,
     "countryId": "iso1:GB",
     "name": "Solihull, England, United Kingdom",
     "level": "county"
@@ -24521,7 +21002,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 642,
+    "featureId": 562,
     "countryId": "iso1:GB",
     "name": "Walsall, England, United Kingdom",
     "level": "county"
@@ -24541,7 +21022,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 643,
+    "featureId": 563,
     "countryId": "iso1:GB",
     "name": "Wolverhampton, England, United Kingdom",
     "level": "county"
@@ -24561,7 +21042,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 644,
+    "featureId": 564,
     "countryId": "iso1:GB",
     "name": "Bradford, England, United Kingdom",
     "level": "county"
@@ -24581,7 +21062,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 645,
+    "featureId": 565,
     "countryId": "iso1:GB",
     "name": "Calderdale, England, United Kingdom",
     "level": "county"
@@ -24601,7 +21082,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 646,
+    "featureId": 566,
     "countryId": "iso1:GB",
     "name": "Kirklees, England, United Kingdom",
     "level": "county"
@@ -24621,7 +21102,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 647,
+    "featureId": 567,
     "countryId": "iso1:GB",
     "name": "Leeds, England, United Kingdom",
     "level": "county"
@@ -24641,7 +21122,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 648,
+    "featureId": 568,
     "countryId": "iso1:GB",
     "name": "Wakefield, England, United Kingdom",
     "level": "county"
@@ -24661,7 +21142,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 649,
+    "featureId": 569,
     "countryId": "iso1:GB",
     "name": "Gateshead, England, United Kingdom",
     "level": "county"
@@ -24681,7 +21162,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 650,
+    "featureId": 570,
     "countryId": "iso1:GB",
     "name": "Barking and Dagenham, England, United Kingdom",
     "level": "county"
@@ -24701,7 +21182,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 651,
+    "featureId": 571,
     "countryId": "iso1:GB",
     "name": "Barnet, England, United Kingdom",
     "level": "county"
@@ -24721,7 +21202,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 652,
+    "featureId": 572,
     "countryId": "iso1:GB",
     "name": "Bexley, England, United Kingdom",
     "level": "county"
@@ -24741,7 +21222,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 653,
+    "featureId": 573,
     "countryId": "iso1:GB",
     "name": "Brent, England, United Kingdom",
     "level": "county"
@@ -24761,7 +21242,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 654,
+    "featureId": 574,
     "countryId": "iso1:GB",
     "name": "Bromley, England, United Kingdom",
     "level": "county"
@@ -24781,7 +21262,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 655,
+    "featureId": 575,
     "countryId": "iso1:GB",
     "name": "Camden, England, United Kingdom",
     "level": "county"
@@ -24801,7 +21282,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 656,
+    "featureId": 576,
     "countryId": "iso1:GB",
     "name": "Croydon, England, United Kingdom",
     "level": "county"
@@ -24821,7 +21302,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 657,
+    "featureId": 577,
     "countryId": "iso1:GB",
     "name": "Ealing, England, United Kingdom",
     "level": "county"
@@ -24841,7 +21322,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 658,
+    "featureId": 578,
     "countryId": "iso1:GB",
     "name": "Enfield, England, United Kingdom",
     "level": "county"
@@ -24861,7 +21342,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 659,
+    "featureId": 579,
     "countryId": "iso1:GB",
     "name": "Greenwich, England, United Kingdom",
     "level": "county"
@@ -24893,7 +21374,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 660,
+    "featureId": 580,
     "countryId": "iso1:GB",
     "name": "Hammersmith and Fulham, England, United Kingdom",
     "level": "county"
@@ -24913,7 +21394,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 661,
+    "featureId": 581,
     "countryId": "iso1:GB",
     "name": "Haringey, England, United Kingdom",
     "level": "county"
@@ -24933,7 +21414,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 662,
+    "featureId": 582,
     "countryId": "iso1:GB",
     "name": "Harrow, England, United Kingdom",
     "level": "county"
@@ -24953,7 +21434,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 663,
+    "featureId": 583,
     "countryId": "iso1:GB",
     "name": "Havering, England, United Kingdom",
     "level": "county"
@@ -24973,7 +21454,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 664,
+    "featureId": 584,
     "countryId": "iso1:GB",
     "name": "Hillingdon, England, United Kingdom",
     "level": "county"
@@ -24993,7 +21474,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 665,
+    "featureId": 585,
     "countryId": "iso1:GB",
     "name": "Hounslow, England, United Kingdom",
     "level": "county"
@@ -25013,7 +21494,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 666,
+    "featureId": 586,
     "countryId": "iso1:GB",
     "name": "Islington, England, United Kingdom",
     "level": "county"
@@ -25033,7 +21514,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 667,
+    "featureId": 587,
     "countryId": "iso1:GB",
     "name": "Kensington and Chelsea, England, United Kingdom",
     "level": "county"
@@ -25053,7 +21534,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 668,
+    "featureId": 588,
     "countryId": "iso1:GB",
     "name": "Kingston upon Thames, England, United Kingdom",
     "level": "county"
@@ -25073,7 +21554,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 669,
+    "featureId": 589,
     "countryId": "iso1:GB",
     "name": "Lambeth, England, United Kingdom",
     "level": "county"
@@ -25093,7 +21574,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 670,
+    "featureId": 590,
     "countryId": "iso1:GB",
     "name": "Lewisham, England, United Kingdom",
     "level": "county"
@@ -25113,7 +21594,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 671,
+    "featureId": 591,
     "countryId": "iso1:GB",
     "name": "Merton, England, United Kingdom",
     "level": "county"
@@ -25133,7 +21614,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 672,
+    "featureId": 592,
     "countryId": "iso1:GB",
     "name": "Newham, England, United Kingdom",
     "level": "county"
@@ -25153,7 +21634,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 673,
+    "featureId": 593,
     "countryId": "iso1:GB",
     "name": "Redbridge, England, United Kingdom",
     "level": "county"
@@ -25173,7 +21654,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 674,
+    "featureId": 594,
     "countryId": "iso1:GB",
     "name": "Richmond upon Thames, England, United Kingdom",
     "level": "county"
@@ -25193,7 +21674,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 675,
+    "featureId": 595,
     "countryId": "iso1:GB",
     "name": "Southwark, England, United Kingdom",
     "level": "county"
@@ -25213,7 +21694,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 676,
+    "featureId": 596,
     "countryId": "iso1:GB",
     "name": "Sutton, England, United Kingdom",
     "level": "county"
@@ -25233,7 +21714,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 677,
+    "featureId": 597,
     "countryId": "iso1:GB",
     "name": "Tower Hamlets, England, United Kingdom",
     "level": "county"
@@ -25253,7 +21734,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 678,
+    "featureId": 598,
     "countryId": "iso1:GB",
     "name": "Waltham Forest, England, United Kingdom",
     "level": "county"
@@ -25273,7 +21754,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 679,
+    "featureId": 599,
     "countryId": "iso1:GB",
     "name": "Wandsworth, England, United Kingdom",
     "level": "county"
@@ -25293,7 +21774,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 680,
+    "featureId": 600,
     "countryId": "iso1:GB",
     "name": "Westminster, England, United Kingdom",
     "level": "county"
@@ -25313,7 +21794,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 681,
+    "featureId": 601,
     "countryId": "iso1:GB",
     "name": "Buckinghamshire, England, United Kingdom",
     "level": "county"
@@ -25333,7 +21814,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 682,
+    "featureId": 602,
     "countryId": "iso1:GB",
     "name": "Cambridgeshire, England, United Kingdom",
     "level": "county"
@@ -25353,7 +21834,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 683,
+    "featureId": 603,
     "countryId": "iso1:GB",
     "name": "Cumbria, England, United Kingdom",
     "level": "county"
@@ -25373,7 +21854,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 684,
+    "featureId": 604,
     "countryId": "iso1:GB",
     "name": "Derbyshire, England, United Kingdom",
     "level": "county"
@@ -25393,7 +21874,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 685,
+    "featureId": 605,
     "countryId": "iso1:GB",
     "name": "Devon, England, United Kingdom",
     "level": "county"
@@ -25413,7 +21894,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 686,
+    "featureId": 606,
     "countryId": "iso1:GB",
     "name": "East Sussex, England, United Kingdom",
     "level": "county"
@@ -25433,7 +21914,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 687,
+    "featureId": 607,
     "countryId": "iso1:GB",
     "name": "Essex, England, United Kingdom",
     "level": "county"
@@ -25453,7 +21934,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 688,
+    "featureId": 608,
     "countryId": "iso1:GB",
     "name": "Gloucestershire, England, United Kingdom",
     "level": "county"
@@ -25473,7 +21954,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 689,
+    "featureId": 609,
     "countryId": "iso1:GB",
     "name": "Hampshire, England, United Kingdom",
     "level": "county"
@@ -25493,7 +21974,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 690,
+    "featureId": 610,
     "countryId": "iso1:GB",
     "name": "Hertfordshire, England, United Kingdom",
     "level": "county"
@@ -25513,7 +21994,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 691,
+    "featureId": 611,
     "countryId": "iso1:GB",
     "name": "Kent, England, United Kingdom",
     "level": "county"
@@ -25533,7 +22014,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 692,
+    "featureId": 612,
     "countryId": "iso1:GB",
     "name": "Lancashire, England, United Kingdom",
     "level": "county"
@@ -25553,7 +22034,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 693,
+    "featureId": 613,
     "countryId": "iso1:GB",
     "name": "Leicestershire, England, United Kingdom",
     "level": "county"
@@ -25573,7 +22054,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 694,
+    "featureId": 614,
     "countryId": "iso1:GB",
     "name": "Lincolnshire, England, United Kingdom",
     "level": "county"
@@ -25593,7 +22074,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 695,
+    "featureId": 615,
     "countryId": "iso1:GB",
     "name": "Norfolk, England, United Kingdom",
     "level": "county"
@@ -25613,7 +22094,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 696,
+    "featureId": 616,
     "countryId": "iso1:GB",
     "name": "Northamptonshire, England, United Kingdom",
     "level": "county"
@@ -25633,7 +22114,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 697,
+    "featureId": 617,
     "countryId": "iso1:GB",
     "name": "North Yorkshire, England, United Kingdom",
     "level": "county"
@@ -25653,7 +22134,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 698,
+    "featureId": 618,
     "countryId": "iso1:GB",
     "name": "Nottinghamshire, England, United Kingdom",
     "level": "county"
@@ -25673,7 +22154,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 699,
+    "featureId": 619,
     "countryId": "iso1:GB",
     "name": "Oxfordshire, England, United Kingdom",
     "level": "county"
@@ -25693,7 +22174,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 700,
+    "featureId": 620,
     "countryId": "iso1:GB",
     "name": "Somerset, England, United Kingdom",
     "level": "county"
@@ -25713,7 +22194,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 701,
+    "featureId": 621,
     "countryId": "iso1:GB",
     "name": "Staffordshire, England, United Kingdom",
     "level": "county"
@@ -25733,7 +22214,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 702,
+    "featureId": 622,
     "countryId": "iso1:GB",
     "name": "Suffolk, England, United Kingdom",
     "level": "county"
@@ -25753,7 +22234,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 703,
+    "featureId": 623,
     "countryId": "iso1:GB",
     "name": "Surrey, England, United Kingdom",
     "level": "county"
@@ -25773,7 +22254,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 704,
+    "featureId": 624,
     "countryId": "iso1:GB",
     "name": "Warwickshire, England, United Kingdom",
     "level": "county"
@@ -25793,7 +22274,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 705,
+    "featureId": 625,
     "countryId": "iso1:GB",
     "name": "West Sussex, England, United Kingdom",
     "level": "county"
@@ -25813,7 +22294,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 706,
+    "featureId": 626,
     "countryId": "iso1:GB",
     "name": "Worcestershire, England, United Kingdom",
     "level": "county"
@@ -25857,7 +22338,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 707,
+    "featureId": 627,
     "countryId": "iso1:GB",
     "name": "Dumfries and Galloway, Scotland, United Kingdom",
     "level": "county"
@@ -25877,7 +22358,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 708,
+    "featureId": 628,
     "countryId": "iso1:GB",
     "name": "Fife, Scotland, United Kingdom",
     "level": "county"
@@ -25933,7 +22414,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 709,
+    "featureId": 629,
     "countryId": "iso1:GB",
     "name": "Highland, Scotland, United Kingdom",
     "level": "county"
@@ -25977,7 +22458,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 710,
+    "featureId": 630,
     "countryId": "iso1:GB",
     "name": "Orkney, Scotland, United Kingdom",
     "level": "county"
@@ -25997,7 +22478,7 @@
     "tz": [
       "Europe/London"
     ],
-    "featureId": 711,
+    "featureId": 631,
     "countryId": "iso1:GB",
     "name": "Shetland, Scotland, United Kingdom",
     "level": "county"
@@ -35865,6 +32346,7 @@
   {
     "state": "Washington, D.C.",
     "country": "United States",
+    "county": "District of Columbia",
     "sources": [
       {
         "name": "DC Public Health Laboratory"
@@ -35873,21 +32355,22 @@
     "url": "https://coronavirus.dc.gov/page/coronavirus-data",
     "cases": 495,
     "tested": 3759,
-    "rating": 0.13725490196078433,
+    "rating": 0.21568627450980393,
     "coordinates": [
-      -77.0145,
-      38.894000000000005
+      -77.014576,
+      38.8935965
     ],
     "tz": [
       "America/New_York"
     ],
-    "featureId": "iso2:US-DC",
+    "featureId": "fips:11001",
     "population": 705749,
-    "populationDensity": 4062.99618523518,
+    "populationDensity": 3982.4076035887733,
     "countryId": "iso1:US",
     "stateId": "iso2:US-DC",
-    "name": "Washington, D.C., United States",
-    "level": "state"
+    "countyId": "fips:11001",
+    "name": "District of Columbia, Washington, D.C., United States",
+    "level": "county"
   },
   {
     "state": "Delaware",
