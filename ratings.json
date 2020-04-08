@@ -496,6 +496,39 @@
     "rating": 0.5098039215686274
   },
   {
+    "country": "iso1:RU",
+    "aggregate": "state",
+    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
+    "type": "json",
+    "curators": [
+      {
+        "name": "Yandex",
+        "url": "https://yandex.ru"
+      }
+    ],
+    "sources": [
+      {
+        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
+        "name": "Rospotrebnadzor",
+        "url": "https://www.rospotrebnadzor.ru/"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Arseniy Ivanov",
+        "twitter": "@freeatnet",
+        "github": "freeatnet",
+        "email": "arseniy+coronadatascraper@freeatnet.com"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "country": "iso1:US",
     "url": "https://covidtracking.com/api/states",
     "type": "json",
@@ -1767,25 +1800,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "ID",
-    "country": "iso1:US",
-    "sources": [
-      {
-        "name": "IDHW",
-        "description": "Idaho State Government"
-      }
-    ],
-    "type": "table",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://public.tableau.com/views/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true",
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "SD",
     "country": "iso1:US",
     "sources": [
@@ -2341,50 +2355,6 @@
         "flag": "🇺🇸"
       }
     ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "county": "Glenn County",
-    "state": "CA",
-    "country": "iso1:US",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "iso1:US",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19",
-    "type": "list",
-    "ssl": true,
-    "rating": 0.2549019607843137
-  },
-  {
-    "county": "Yolo County",
-    "state": "CA",
-    "country": "iso1:US",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "iso1:US",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
