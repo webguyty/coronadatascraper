@@ -12925,30 +12925,6 @@
     "level": "country"
   },
   {
-    "country": "Switzerland",
-    "county": "Zurich",
-    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
-    "recovered": 0,
-    "deaths": 57,
-    "cases": 2807,
-    "active": 2750,
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      8.6715,
-      47.427499999999995
-    ],
-    "tz": [
-      "Europe/Zurich"
-    ],
-    "featureId": "iso2:CH-ZH",
-    "population": 1520968,
-    "populationDensity": 874.5594612083258,
-    "countryId": "iso1:CH",
-    "countyId": "iso2:CH-ZH",
-    "name": "Zurich, Switzerland",
-    "level": "county"
-  },
-  {
     "country": "Canada",
     "sources": [
       {
@@ -13365,6 +13341,30 @@
     "countryId": "iso1:CA",
     "name": "Canada",
     "level": "country"
+  },
+  {
+    "country": "Switzerland",
+    "county": "Zurich",
+    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
+    "recovered": 0,
+    "deaths": 57,
+    "cases": 2807,
+    "active": 2750,
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      8.6715,
+      47.427499999999995
+    ],
+    "tz": [
+      "Europe/Zurich"
+    ],
+    "featureId": "iso2:CH-ZH",
+    "population": 1520968,
+    "populationDensity": 874.5594612083258,
+    "countryId": "iso1:CH",
+    "countyId": "iso2:CH-ZH",
+    "name": "Zurich, Switzerland",
+    "level": "county"
   },
   {
     "country": "Spain",
@@ -74766,8 +74766,8 @@
     "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
     "aggregate": "county",
     "county": "Wayne County",
-    "cases": 3802,
-    "deaths": 195,
+    "cases": 9626,
+    "deaths": 446,
     "rating": 0.47058823529411764,
     "coordinates": [
       -83.211127,
@@ -75192,8 +75192,8 @@
     ],
     "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98163-520743--,00.html",
     "aggregate": "county",
-    "cases": 20328,
-    "deaths": 959,
+    "cases": 26152,
+    "deaths": 1210,
     "rating": 0.39215686274509803,
     "coordinates": [
       -86.416,
