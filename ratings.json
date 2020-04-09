@@ -45,7 +45,6 @@
     "priority": 1,
     "type": "csv",
     "aggregate": "county",
-    "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
     "curators": [
       {
         "name": "The Mercury News",
@@ -57,6 +56,7 @@
     "timeseries": false,
     "headless": false,
     "certValidation": true,
+    "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
     "ssl": true,
     "rating": 0.6470588235294118
   },
@@ -240,6 +240,44 @@
     "rating": 0.5686274509803921
   },
   {
+    "state": "MA",
+    "country": "iso1:US",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://www.mass.gov/orgs/department-of-public-health",
+        "name": "Massachusetts DPH",
+        "description": "Massachusetts Department of Public Health"
+      },
+      {
+        "url": "http://memamaps.maps.arcgis.com/apps/MapSeries/index.html?appid=9ef7ef55e4644af29e9ca07bfe6a509f",
+        "name": "Massachusetts Emergency Management Agency"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "url": "https://aed3.github.io",
+        "county": "iso1:US",
+        "flag": "🇺🇸"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "type": "json",
+    "url": "https://services1.arcgis.com/TXaY625xGc0yvAuQ/arcgis/rest/services/COVID_CASES_MA/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
+    "ssl": true,
+    "rating": 0.5686274509803921
+  },
+  {
     "country": "iso1:CH",
     "county": "iso2:CH-ZH",
     "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
@@ -349,6 +387,35 @@
     "type": "table",
     "ssl": true,
     "rating": 0.5490196078431373
+  },
+  {
+    "country": "iso1:UA",
+    "sources": [
+      {
+        "url": "https://www.rnbo.gov.ua/en/",
+        "name": "National Security and Defense Council of Ukraine"
+      }
+    ],
+    "type": "json",
+    "aggregate": "state",
+    "maintainers": [
+      {
+        "name": "Christopher Rucinski",
+        "email": "ciscorucinski@gmail.com",
+        "github": "ciscorucinski",
+        "country": "KOR",
+        "state": "Seoul",
+        "city": "Gwanak-gu",
+        "flag": "🇰🇷"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-08",
+    "ssl": true,
+    "rating": 0.5294117647058824
   },
   {
     "state": "IA",
@@ -823,25 +890,6 @@
     "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420.html",
     "type": "table",
     "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "state": "ND",
-    "country": "iso1:US",
-    "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases",
-    "type": "table",
-    "aggregate": "county",
-    "sources": [
-      {
-        "name": "North Dakota Department of Health",
-        "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
-      }
-    ],
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -1683,44 +1731,6 @@
     "rating": 0.4117647058823529
   },
   {
-    "state": "MA",
-    "country": "iso1:US",
-    "aggregate": "county",
-    "sources": [
-      {
-        "url": "https://www.mass.gov/orgs/department-of-public-health",
-        "name": "Massachusetts DPH",
-        "description": "Massachusetts Department of Public Health"
-      },
-      {
-        "url": "http://memamaps.maps.arcgis.com/apps/MapSeries/index.html?appid=9ef7ef55e4644af29e9ca07bfe6a509f",
-        "name": "Massachusetts Emergency Management Agency"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      },
-      {
-        "name": "Albert III",
-        "github": "aed3",
-        "url": "https://aed3.github.io",
-        "county": "iso1:US",
-        "flag": "🇺🇸"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "json",
-    "url": "https://services1.arcgis.com/TXaY625xGc0yvAuQ/arcgis/rest/services/COVID_CASES_MA/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
-    "ssl": true,
-    "rating": 0.4117647058823529
-  },
-  {
     "state": "MN",
     "country": "iso1:US",
     "sources": [
@@ -1787,15 +1797,39 @@
     "rating": 0.39215686274509803
   },
   {
-    "country": "iso1:GB",
-    "state": "Scotland",
-    "url": "https://www.gov.scot/coronavirus-covid-19/",
-    "aggregate": "county",
+    "state": "DC",
+    "country": "iso1:US",
+    "county": "District of Columbia",
+    "timeseries": true,
+    "sources": [
+      {
+        "name": "DC Public Health Laboratory"
+      }
+    ],
+    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
+    "type": "csv",
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
+    "state": "ID",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "name": "IDHW",
+        "description": "Idaho State Government"
+      }
+    ],
     "type": "table",
+    "aggregate": "county",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
     "priority": 0,
+    "url": "https://public.tableau.com/views/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true",
     "ssl": true,
     "rating": 0.39215686274509803
   },
@@ -1933,6 +1967,25 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
+  },
+  {
+    "country": "iso1:AU",
+    "priority": 2,
+    "sources": [
+      {
+        "description": "NSW Government Health Department",
+        "name": "NSW Government Health",
+        "url": "https://www.health.nsw.gov.au"
+      }
+    ],
+    "state": "iso2:AU-NSW",
+    "type": "table",
+    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.35294117647058826
   },
   {
     "country": "iso1:AU",
@@ -2158,6 +2211,24 @@
     "rating": 0.3137254901960784
   },
   {
+    "country": "iso1:ID",
+    "priority": 1,
+    "sources": [
+      {
+        "description": "Ministry of Health Republic of Indonesia",
+        "name": "Ministry of Health Republic of Indonesia",
+        "url": "https://www.kemkes.go.id/"
+      }
+    ],
+    "type": "table",
+    "url": "https://www.kemkes.go.id/",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.3137254901960784
+  },
+  {
     "country": "iso1:NZ",
     "priority": 1,
     "sources": [
@@ -2243,25 +2314,6 @@
     "rating": 0.29411764705882354
   },
   {
-    "country": "iso1:AU",
-    "priority": 2,
-    "sources": [
-      {
-        "description": "NSW Government Health Department",
-        "name": "NSW Government Health",
-        "url": "https://www.health.nsw.gov.au"
-      }
-    ],
-    "state": "iso2:AU-NSW",
-    "type": "table",
-    "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.27450980392156865
-  },
-  {
     "state": "iso2:CA-NS",
     "country": "iso1:CA",
     "url": "https://novascotia.ca/coronavirus/COVID-19-cases.csv",
@@ -2277,6 +2329,19 @@
     "headless": false,
     "priority": 0,
     "ssl": false,
+    "rating": 0.27450980392156865
+  },
+  {
+    "country": "iso1:GB",
+    "state": "Scotland",
+    "url": "https://www.gov.scot/coronavirus-covid-19/",
+    "aggregate": "county",
+    "type": "table",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
     "rating": 0.27450980392156865
   },
   {
@@ -2441,24 +2506,6 @@
     "rating": 0.21568627450980393
   },
   {
-    "state": "DC",
-    "country": "iso1:US",
-    "county": "District of Columbia",
-    "sources": [
-      {
-        "name": "DC Public Health Laboratory"
-      }
-    ],
-    "url": "https://coronavirus.dc.gov/page/coronavirus-data",
-    "type": "paragraph",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.21568627450980393
-  },
-  {
     "country": "iso1:AU",
     "maintainers": [
       {
@@ -2570,36 +2617,6 @@
     "priority": 0,
     "ssl": false,
     "rating": 0.0784313725490196
-  },
-  {
-    "country": "iso1:AU",
-    "maintainers": [
-      {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "iso1:AU",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
-      }
-    ],
-    "priority": 2,
-    "sources": [
-      {
-        "description": "QLD Government Health Department",
-        "name": "QLD Government Health",
-        "url": "https://www.health.qld.gov.au"
-      }
-    ],
-    "state": "iso2:AU-QLD",
-    "type": "paragraph",
-    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.058823529411764705
   },
   {
     "country": "iso1:AU",
