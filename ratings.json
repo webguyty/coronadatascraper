@@ -413,7 +413,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-08",
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-09",
     "ssl": true,
     "rating": 0.5294117647058824
   },
@@ -484,34 +484,6 @@
     "priority": 0,
     "ssl": false,
     "rating": 0.5294117647058824
-  },
-  {
-    "country": "iso1:BR",
-    "type": "list",
-    "priority": 1,
-    "sources": [
-      {
-        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
-        "name": "SVS-MS",
-        "url": "https://covid.saude.gov.br/"
-      }
-    ],
-    "url": "https://covid.saude.gov.br/",
-    "timeseries": true,
-    "maintainers": [
-      {
-        "name": "Felipe Roberto",
-        "email": "contato@feliperoberto.com.br",
-        "url": "http://feliperoberto.com.br",
-        "github": "feliperoberto",
-        "country": "iso1:BR",
-        "flag": "🇧🇷"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.5098039215686274
   },
   {
     "state": "MI",
@@ -1003,30 +975,6 @@
     "rating": 0.47058823529411764
   },
   {
-    "country": "iso1:KR",
-    "aggregate": "state",
-    "type": "table",
-    "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
-    "sources": [
-      {
-        "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
-        "name": "Ministry of Health and Welfare"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Jacob McGowan",
-        "github": "jacobmcgowan"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.45098039215686275
-  },
-  {
     "county": "Washoe County",
     "state": "NV",
     "country": "iso1:US",
@@ -1045,36 +993,6 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.45098039215686275
-  },
-  {
-    "country": "iso1:AU",
-    "maintainers": [
-      {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "iso1:AU",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
-      }
-    ],
-    "priority": 2,
-    "sources": [
-      {
-        "description": "ACT Government Health Department",
-        "name": "ACT Government Health",
-        "url": "https://www.health.act.gov.au"
-      }
-    ],
-    "state": "iso2:AU-ACT",
-    "type": "table",
-    "url": "https://www.covid19.act.gov.au/updates/confirmed-case-information",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.43137254901960786
   },
   {
     "country": "iso1:AU",
@@ -1815,25 +1733,6 @@
     "rating": 0.39215686274509803
   },
   {
-    "state": "ID",
-    "country": "iso1:US",
-    "sources": [
-      {
-        "name": "IDHW",
-        "description": "Idaho State Government"
-      }
-    ],
-    "type": "table",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://public.tableau.com/views/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true",
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
     "state": "SD",
     "country": "iso1:US",
     "sources": [
@@ -1967,6 +1866,64 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.37254901960784315
+  },
+  {
+    "country": "iso1:BR",
+    "type": "list",
+    "priority": 1,
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "timeseries": true,
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "iso1:BR",
+        "flag": "🇧🇷"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.35294117647058826
+  },
+  {
+    "country": "iso1:AU",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "ACT Government Health Department",
+        "name": "ACT Government Health",
+        "url": "https://www.health.act.gov.au"
+      }
+    ],
+    "state": "iso2:AU-ACT",
+    "type": "table",
+    "url": "https://www.covid19.act.gov.au",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.35294117647058826
   },
   {
     "country": "iso1:AU",
@@ -2204,24 +2161,6 @@
     ],
     "type": "table",
     "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.3137254901960784
-  },
-  {
-    "country": "iso1:ID",
-    "priority": 1,
-    "sources": [
-      {
-        "description": "Ministry of Health Republic of Indonesia",
-        "name": "Ministry of Health Republic of Indonesia",
-        "url": "https://www.kemkes.go.id/"
-      }
-    ],
-    "type": "table",
-    "url": "https://www.kemkes.go.id/",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -2484,6 +2423,36 @@
     "rating": 0.23529411764705882
   },
   {
+    "country": "iso1:AU",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "QLD Government Health Department",
+        "name": "QLD Government Health",
+        "url": "https://www.health.qld.gov.au"
+      }
+    ],
+    "state": "iso2:AU-QLD",
+    "type": "paragraph",
+    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.21568627450980393
+  },
+  {
     "county": "San Francisco County",
     "state": "CA",
     "country": "iso1:US",
@@ -2589,34 +2558,6 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.13725490196078433
-  },
-  {
-    "county": "Alameda County",
-    "state": "CA",
-    "country": "iso1:US",
-    "sources": [
-      {
-        "url": "http://www.acphd.org",
-        "name": "Alameda County Public Health Department"
-      }
-    ],
-    "url": "http://www.acphd.org/2019-ncov.aspx",
-    "headless": true,
-    "type": "paragraph",
-    "maintainers": [
-      {
-        "name": "John Bencina",
-        "github": "jbencina",
-        "country": "iso1:US",
-        "state": "CA",
-        "flag": "🇺🇸"
-      }
-    ],
-    "timeseries": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.0784313725490196
   },
   {
     "country": "iso1:AU",
