@@ -12984,30 +12984,6 @@
     "level": "country"
   },
   {
-    "country": "Switzerland",
-    "county": "Zurich",
-    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
-    "recovered": 0,
-    "deaths": 64,
-    "cases": 2929,
-    "active": 2865,
-    "rating": 0.5490196078431373,
-    "coordinates": [
-      8.6715,
-      47.427499999999995
-    ],
-    "tz": [
-      "Europe/Zurich"
-    ],
-    "featureId": "iso2:CH-ZH",
-    "population": 1520968,
-    "populationDensity": 874.5594612083258,
-    "countryId": "iso1:CH",
-    "countyId": "iso2:CH-ZH",
-    "name": "Zurich, Switzerland",
-    "level": "county"
-  },
-  {
     "country": "Canada",
     "sources": [
       {
@@ -13424,6 +13400,30 @@
     "countryId": "iso1:CA",
     "name": "Canada",
     "level": "country"
+  },
+  {
+    "country": "Switzerland",
+    "county": "Zurich",
+    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
+    "recovered": 0,
+    "deaths": 64,
+    "cases": 2929,
+    "active": 2865,
+    "rating": 0.5490196078431373,
+    "coordinates": [
+      8.6715,
+      47.427499999999995
+    ],
+    "tz": [
+      "Europe/Zurich"
+    ],
+    "featureId": "iso2:CH-ZH",
+    "population": 1520968,
+    "populationDensity": 874.5594612083258,
+    "countryId": "iso1:CH",
+    "countyId": "iso2:CH-ZH",
+    "name": "Zurich, Switzerland",
+    "level": "county"
   },
   {
     "country": "Spain",
