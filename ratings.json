@@ -350,26 +350,6 @@
     "rating": 0.5490196078431373
   },
   {
-    "state": "TN",
-    "country": "iso1:US",
-    "sources": [
-      {
-        "url": "https://www.tn.gov/health/cedep",
-        "name": "Tennessee Department of Health CEDEP",
-        "description": "Communicable and Environmental Diseases and Emergency Preparedness Division"
-      }
-    ],
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "type": "table",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.5490196078431373
-  },
-  {
     "state": "WI",
     "country": "iso1:US",
     "aggregate": "county",
@@ -413,7 +393,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-09",
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-10",
     "ssl": true,
     "rating": 0.5294117647058824
   },
@@ -484,6 +464,34 @@
     "priority": 0,
     "ssl": false,
     "rating": 0.5294117647058824
+  },
+  {
+    "country": "iso1:BR",
+    "type": "list",
+    "priority": 1,
+    "sources": [
+      {
+        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
+        "name": "SVS-MS",
+        "url": "https://covid.saude.gov.br/"
+      }
+    ],
+    "url": "https://covid.saude.gov.br/",
+    "timeseries": true,
+    "maintainers": [
+      {
+        "name": "Felipe Roberto",
+        "email": "contato@feliperoberto.com.br",
+        "url": "http://feliperoberto.com.br",
+        "github": "feliperoberto",
+        "country": "iso1:BR",
+        "flag": "🇧🇷"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.5098039215686274
   },
   {
     "state": "MI",
@@ -1605,7 +1613,7 @@
   },
   {
     "country": "iso1:GB",
-    "state": "England",
+    "state": "iso2:GB-ENG",
     "url": "https://www.arcgis.com/sharing/rest/content/items/b684319181f94875a6879bbc833ca3a6/data",
     "aggregate": "county",
     "type": "csv",
@@ -1729,6 +1737,25 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
+    "state": "ID",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "name": "IDHW",
+        "description": "Idaho State Government"
+      }
+    ],
+    "type": "table",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://public.tableau.com/views/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true",
     "ssl": true,
     "rating": 0.39215686274509803
   },
@@ -1868,34 +1895,6 @@
     "rating": 0.37254901960784315
   },
   {
-    "country": "iso1:BR",
-    "type": "list",
-    "priority": 1,
-    "sources": [
-      {
-        "description": "Secretaria de Vigilância em Saúde do Ministério da Saúde",
-        "name": "SVS-MS",
-        "url": "https://covid.saude.gov.br/"
-      }
-    ],
-    "url": "https://covid.saude.gov.br/",
-    "timeseries": true,
-    "maintainers": [
-      {
-        "name": "Felipe Roberto",
-        "email": "contato@feliperoberto.com.br",
-        "url": "http://feliperoberto.com.br",
-        "github": "feliperoberto",
-        "country": "iso1:BR",
-        "flag": "🇧🇷"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.35294117647058826
-  },
-  {
     "country": "iso1:AU",
     "maintainers": [
       {
@@ -1938,6 +1937,36 @@
     "state": "iso2:AU-NSW",
     "type": "table",
     "url": "https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.35294117647058826
+  },
+  {
+    "country": "iso1:AU",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 2,
+    "sources": [
+      {
+        "description": "QLD Government Health Department",
+        "name": "QLD Government Health",
+        "url": "https://www.health.qld.gov.au"
+      }
+    ],
+    "state": "iso2:AU-QLD",
+    "type": "table",
+    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -2161,6 +2190,24 @@
     ],
     "type": "table",
     "url": "https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.3137254901960784
+  },
+  {
+    "country": "iso1:ID",
+    "priority": 1,
+    "sources": [
+      {
+        "description": "Ministry of Health Republic of Indonesia",
+        "name": "Ministry of Health Republic of Indonesia",
+        "url": "https://www.kemkes.go.id/"
+      }
+    ],
+    "type": "table",
+    "url": "https://www.kemkes.go.id/",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -2421,36 +2468,6 @@
     "type": "list",
     "ssl": false,
     "rating": 0.23529411764705882
-  },
-  {
-    "country": "iso1:AU",
-    "maintainers": [
-      {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "iso1:AU",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
-      }
-    ],
-    "priority": 2,
-    "sources": [
-      {
-        "description": "QLD Government Health Department",
-        "name": "QLD Government Health",
-        "url": "https://www.health.qld.gov.au"
-      }
-    ],
-    "state": "iso2:AU-QLD",
-    "type": "paragraph",
-    "url": "https://www.health.qld.gov.au/news-events/doh-media-releases",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.21568627450980393
   },
   {
     "county": "San Francisco County",

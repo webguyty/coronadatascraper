@@ -2544,7 +2544,7 @@
     return html;
   }
 
-  function generateCrossCheckReport(reports, date) {
+  function generateCrossCheckReport(reports) {
     let html = '';
     for (const [, crosscheckReport] of Object.entries(reports)) {
       // Only show reports where we disgaree
