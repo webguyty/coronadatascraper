@@ -131562,7 +131562,7 @@
       }
     ],
     "county": "Campbell County",
-    "cases": 103,
+    "cases": 13,
     "rating": 0.2549019607843137,
     "coordinates": [
       -105.54980295951151,
@@ -131650,7 +131650,7 @@
       }
     ],
     "county": "Converse County",
-    "cases": 48,
+    "cases": 12,
     "rating": 0.2549019607843137,
     "coordinates": [
       -105.4852865,
@@ -131738,7 +131738,7 @@
       }
     ],
     "county": "Fremont County",
-    "cases": 407,
+    "cases": 47,
     "rating": 0.2549019607843137,
     "coordinates": [
       -108.7775295,
@@ -131782,7 +131782,7 @@
       }
     ],
     "county": "Goshen County",
-    "cases": 31,
+    "cases": 4,
     "rating": 0.2549019607843137,
     "coordinates": [
       -104.35408949999999,
@@ -131870,7 +131870,7 @@
       }
     ],
     "county": "Johnson County",
-    "cases": 92,
+    "cases": 11,
     "rating": 0.2549019607843137,
     "coordinates": [
       -106.689132,
@@ -131914,7 +131914,7 @@
       }
     ],
     "county": "Laramie County",
-    "cases": 5823,
+    "cases": 81,
     "rating": 0.2549019607843137,
     "coordinates": [
       -104.666398,
@@ -131958,7 +131958,7 @@
       }
     ],
     "county": "Lincoln County",
-    "cases": 44,
+    "cases": 8,
     "rating": 0.2549019607843137,
     "coordinates": [
       -110.54675850000001,
@@ -132002,7 +132002,7 @@
       }
     ],
     "county": "Natrona County",
-    "cases": 308,
+    "cases": 38,
     "rating": 0.2549019607843137,
     "coordinates": [
       -106.8070975,
@@ -132046,7 +132046,7 @@
       }
     ],
     "county": "Niobrara County",
-    "cases": 11,
+    "cases": 2,
     "rating": 0.2549019607843137,
     "coordinates": [
       -104.47626199999999,
@@ -132178,7 +132178,7 @@
       }
     ],
     "county": "Sheridan County",
-    "cases": 123,
+    "cases": 15,
     "rating": 0.2549019607843137,
     "coordinates": [
       -106.9605995,
@@ -132222,7 +132222,7 @@
       }
     ],
     "county": "Sublette County",
-    "cases": 12,
+    "cases": 3,
     "rating": 0.2549019607843137,
     "coordinates": [
       -109.833639,
@@ -132266,7 +132266,7 @@
       }
     ],
     "county": "Sweetwater County",
-    "cases": 73,
+    "cases": 10,
     "rating": 0.2549019607843137,
     "coordinates": [
       -108.7790415,
@@ -132310,7 +132310,7 @@
       }
     ],
     "county": "Teton County",
-    "cases": 5319,
+    "cases": 72,
     "rating": 0.2549019607843137,
     "coordinates": [
       -110.553384863562,
@@ -132398,7 +132398,7 @@
       }
     ],
     "county": "Washakie County",
-    "cases": 53,
+    "cases": 8,
     "rating": 0.2549019607843137,
     "coordinates": [
       -107.830746,
@@ -132485,7 +132485,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "cases": 12463,
+    "cases": 340,
     "rating": 0.17647058823529413,
     "coordinates": [
       -107.554,
