@@ -61,6 +61,26 @@
     "rating": 0.6470588235294118
   },
   {
+    "state": "TN",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "url": "https://www.tn.gov/health/cedep",
+        "name": "Tennessee Department of Health CEDEP",
+        "description": "Communicable and Environmental Diseases and Emergency Preparedness Division"
+      }
+    ],
+    "url": "https://services1.arcgis.com/YuVBSS7Y1of2Qud1/arcgis/rest/services/TN_Covid_Counties/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&spatialRel=esriSpatialRelIntersects&outFields=*&orderByFields=NAME%20asc&resultOffset=0&resultRecordCount=96&cacheHint=true",
+    "type": "json",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.6470588235294118
+  },
+  {
     "country": "iso1:ES",
     "url": "https://github.com/datadista/datasets/tree/master/COVID%2019",
     "priority": 1,
@@ -278,18 +298,6 @@
     "rating": 0.5686274509803921
   },
   {
-    "country": "iso1:CH",
-    "county": "iso2:CH-ZH",
-    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/fallzahlen_kanton_total_csv/COVID19_Fallzahlen_Kanton_ZH_total.csv",
-    "timeseries": true,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "type": "csv",
-    "ssl": true,
-    "rating": 0.5490196078431373
-  },
-  {
     "state": "IL",
     "country": "iso1:US",
     "priority": 1,
@@ -393,7 +401,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-10",
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
     "ssl": true,
     "rating": 0.5294117647058824
   },
@@ -642,6 +650,25 @@
     "rating": 0.49019607843137253
   },
   {
+    "state": "ID",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "name": "IDHW",
+        "description": "Idaho State Government"
+      }
+    ],
+    "type": "json",
+    "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://services1.arcgis.com/CNPdEkvnGl65jCX8/arcgis/rest/services/iyptX/FeatureServer/0/query?f=json&where=1=1&returnGeometry=false&outFields=*",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "country": "iso1:US",
     "state": "IN",
     "priority": 1,
@@ -702,6 +729,25 @@
     "certValidation": true,
     "priority": 0,
     "type": "csv",
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
+    "state": "ND",
+    "country": "iso1:US",
+    "url": "https://static.dwcdn.net/data/yuhr0.csv",
+    "type": "csv",
+    "aggregate": "county",
+    "sources": [
+      {
+        "name": "North Dakota Department of Health",
+        "url": "https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
     "ssl": true,
     "rating": 0.49019607843137253
   },
@@ -770,6 +816,34 @@
     "rating": 0.49019607843137253
   },
   {
+    "state": "VT",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "url": "https://www.healthvermont.gov/response/coronavirus-covid-19",
+        "name": "Vermont Department of Health"
+      }
+    ],
+    "url": "https://services1.arcgis.com/BkFxaEFNwHqX3tAw/arcgis/rest/services/VT_Counties_Cases/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
+    "type": "json",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "url": "https://aed3.github.io",
+        "county": "iso1:US",
+        "flag": "🇺🇸"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "state": "WA",
     "country": "iso1:US",
     "sources": [
@@ -789,17 +863,6 @@
     "rating": 0.49019607843137253
   },
   {
-    "country": "iso1:FR",
-    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
-    "timeseries": true,
-    "priority": 1,
-    "headless": false,
-    "certValidation": true,
-    "type": "csv",
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
     "country": "iso1:IN",
     "url": "https://www.mohfw.gov.in/",
     "type": "table",
@@ -808,6 +871,31 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
+    "country": "iso1:ZA",
+    "url": "https://github.com/dsfsi/covid19za",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "sources": [
+      {
+        "description": "COVID 19 Data for South Africa created, maintained and hosted by Data Science for Social Impact research group, led by Dr. Vukosi Marivate, at the University of Pretoria.",
+        "url": "https://github.com/dsfsi/covid19za",
+        "name": "Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
     "ssl": true,
     "rating": 0.47058823529411764
   },
@@ -983,6 +1071,39 @@
     "rating": 0.47058823529411764
   },
   {
+    "country": "iso1:KR",
+    "aggregate": "state",
+    "type": "table",
+    "url": "http://ncov.mohw.go.kr/en/bdBoardList.do?brdId=16&brdGubun=162&dataGubun=&ncvContSeq=&contSeq=&board_id=",
+    "sources": [
+      {
+        "url": "http://ncov.mohw.go.kr/",
+        "name": "Ministry of Health and Welfare"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      },
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.45098039215686275
+  },
+  {
     "county": "Washoe County",
     "state": "NV",
     "country": "iso1:US",
@@ -1001,6 +1122,24 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.45098039215686275
+  },
+  {
+    "country": "iso1:CH",
+    "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.43137254901960786
   },
   {
     "country": "iso1:AU",
@@ -1737,25 +1876,6 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "ssl": true,
-    "rating": 0.39215686274509803
-  },
-  {
-    "state": "ID",
-    "country": "iso1:US",
-    "sources": [
-      {
-        "name": "IDHW",
-        "description": "Idaho State Government"
-      }
-    ],
-    "type": "table",
-    "aggregate": "county",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://public.tableau.com/views/DPHIdahoCOVID-19Dashboard_V2/DPHCOVID19Dashboard2?%3Aembed=y&%3AshowVizHome=no&%3Adisplay_count=y&%3Adisplay_static_image=y&%3AbootstrapWhenNotified=true",
     "ssl": true,
     "rating": 0.39215686274509803
   },
