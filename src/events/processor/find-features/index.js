@@ -1,4 +1,3 @@
-import geoTz from 'geo-tz';
 import { join } from 'path';
 import reporter from '../../../shared/lib/error-reporter.js';
 import * as fs from '../../../shared/lib/fs.js';
@@ -6,13 +5,8 @@ import * as countryLevels from '../../../shared/lib/geography/country-levels.js'
 import * as geography from '../../../shared/lib/geography/index.js';
 import * as turf from '../../../shared/lib/geography/turf.js';
 import log from '../../../shared/lib/log.js';
-import espGeoJson from '../vendor/esp.json';
 
 const DEBUG = false;
-
-// sets the caching strategy of the geo-tz library to store data in memory
-// without an expiring timeout
-geoTz.setCache({ expires: 0 });
 
 function cleanProps(obj) {
   if (obj.wikipedia === -99) {
@@ -152,10 +146,6 @@ const generateFeatures = ({ locations, report, options, sourceRatings }) => {
       console.log('Storing %s in %s', location.name, feature.properties.name);
     }
 
-    if (location.coordinates) {
-      location.tz = geoTz(location.coordinates[1], location.coordinates[0]);
-    }
-
     if (!location.feature) {
       // unless the location comes with its own feature
       // if it has an id, we use it
@@ -217,6 +207,7 @@ const generateFeatures = ({ locations, report, options, sourceRatings }) => {
       const clId = countryLevels.getIdFromLocation(location);
       if (clId) {
         const feature = await countryLevels.getFeature(clId);
+        location.tz = await countryLevels.getTimezone(clId);
         storeFeature(feature, location);
         continue;
       }
@@ -234,12 +225,6 @@ const generateFeatures = ({ locations, report, options, sourceRatings }) => {
           delete location.feature;
           continue;
         }
-      }
-
-      // Breaks France
-      if (country === 'REU' || country === 'MTQ' || country === 'GUF') {
-        log.warn('  ⚠️  Skipping %s because it breaks France', geography.getName(location));
-        continue;
       }
 
       if (county === '(unassigned)') {
@@ -280,12 +265,6 @@ const generateFeatures = ({ locations, report, options, sourceRatings }) => {
                 continue locationLoop;
               }
             }
-          }
-        } else if (country === 'ES') {
-          const feature = espGeoJson.features.find(d => d.properties.name === state);
-          if (feature) {
-            found = true;
-            storeFeature(feature, location);
           }
         } else {
           // Check if the location exists within our provinces

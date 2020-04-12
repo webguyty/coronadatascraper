@@ -109,6 +109,14 @@ export const getName = async id => {
   return locationData.name;
 };
 
+export const getTimezone = async id => {
+  const locationData = await getLocationData(id);
+  if (Array.isArray(locationData)) {
+    return locationData[0].timezone || null;
+  }
+  return locationData.timezone || null;
+};
+
 // this function transforms ids to Id columns and replaces names
 // with human readable version
 // it mutates the object

@@ -117,7 +117,7 @@ async function generateCSV(timeseriesByLocation) {
       } else if (column === 'long') {
         row.push(location.coordinates ? location.coordinates[0] : '');
       } else if (column === 'tz') {
-        row.push(location[column] ? location[column].join(',') : null);
+        row.push(location[column]);
       } else {
         row.push(location[column]);
       }
