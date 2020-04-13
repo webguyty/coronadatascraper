@@ -1,6 +1,7 @@
 import assert from 'assert';
 import iso2Codes from 'country-levels/iso2.json';
 import usStates from '../../vendor/usa-states.json';
+import * as countryLevels from './country-levels.js';
 
 // eslint-disable-next-line import/prefer-default-export
 export const calculateScraperTz = async location => {
@@ -21,6 +22,14 @@ export const calculateScraperTz = async location => {
     assert(stateData, `calculateScraperTz: State data not found for ${state}, ${location._path}`);
     assert(stateData.timezone, `calculateScraperTz: State missing timezone informatin ${state}`);
     return stateData.timezone;
+  }
+
+  if (countryLevels.isId(state)) {
+    return countryLevels.getTimezone(state);
+  }
+
+  if (countryLevels.isId(country)) {
+    return countryLevels.getTimezone(country);
   }
 
   return 'UTC';

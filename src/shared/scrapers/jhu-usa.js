@@ -20,6 +20,7 @@ const scraper = {
   priority: -1,
   country: 'iso1:US',
   aggregate: 'county',
+  scraperTz: 'America/Los_Angeles',
   curators: [
     {
       name: 'JHU CSSE',
