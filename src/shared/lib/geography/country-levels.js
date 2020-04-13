@@ -112,9 +112,9 @@ export const getName = async id => {
 export const getTimezone = async id => {
   const locationData = await getLocationData(id);
   if (Array.isArray(locationData)) {
-    return locationData[0].timezone || null;
+    return locationData[0].timezone || 'UTC';
   }
-  return locationData.timezone || null;
+  return locationData.timezone || 'UTC';
 };
 
 // this function transforms ids to Id columns and replaces names
