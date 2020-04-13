@@ -932,6 +932,18 @@
     "rating": 0.49019607843137253
   },
   {
+    "country": "iso1:IN",
+    "url": "https://www.mohfw.gov.in/",
+    "type": "table",
+    "aggregate": "state",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.47058823529411764
+  },
+  {
     "country": "iso1:ZA",
     "url": "https://github.com/dsfsi/covid19za",
     "timeseries": true,

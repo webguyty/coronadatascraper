@@ -1,7 +1,6 @@
 date,country,state,county,city,type,description,severity,category
 2020-04-12,iso1:BE,,,,scraper failed,AssertionError [ERR_ASSERTION]: Missing iso2 code for province iso2:BE-WHT,critical,scraper failure
 2020-04-12,iso1:FR,,,,scraper failed,AssertionError [ERR_ASSERTION]: Missing iso2 code for département iso2:FR-10,critical,scraper failure
-2020-04-12,iso1:IN,,,,scraper failed,Error: Someone needs to scrape this new page properly,critical,scraper failure
 2020-04-12,iso1:CA,iso2:CA-NS,,,scraper failed,Error: Someone needs to scrape this new data properly,critical,scraper failure
 2020-04-12,iso1:US,CA,Alameda County,,scraper failed,TypeError: Cannot read property 'match' of null,critical,scraper failure
 2020-04-12,iso1:US,CA,Calaveras County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
@@ -124,8 +123,7 @@ date,country,state,county,city,type,description,severity,category
 2020-04-12,iso1:KR,iso2:KR-48,,,missing population,,low,population
 2020-04-12,iso1:KR,iso2:KR-49,,,missing population,,low,population
 2020-04-12,iso1:KR,(unassigned),,,missing population,,low,population
-2020-04-12,iso1:RU,Республика Северная Осетия — Алания,,,missing population,,low,population
-2020-04-12,iso1:RU,Республика Чувашия,,,missing population,,low,population
+2020-04-12,iso1:RU,iso2:RU-SEV,,,missing population,,low,population
 2020-04-12,iso1:SA,iso2:SA-02,,,missing population,,low,population
 2020-04-12,iso1:SA,iso2:SA-09,,,missing population,,low,population
 2020-04-12,iso1:SA,iso2:SA-03,,,missing population,,low,population

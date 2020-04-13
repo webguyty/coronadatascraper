@@ -99805,29 +99805,10 @@
     "level": "country"
   },
   {
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
     "country": "India",
-    "curators": [
-      {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
-      }
-    ],
-    "aggregate": "country",
-    "rating": 0.5490196078431373,
+    "url": "https://www.mohfw.gov.in/",
+    "aggregate": "state",
+    "rating": 0.43137254901960786,
     "coordinates": [
       82.786,
       21.2135
@@ -101773,29 +101754,31 @@
     "level": "country"
   },
   {
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
     "country": "Russia",
+    "aggregate": "state",
+    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
     "curators": [
       {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+        "name": "Yandex",
+        "url": "https://yandex.ru"
       }
     ],
-    "aggregate": "country",
-    "rating": 0.5490196078431373,
+    "sources": [
+      {
+        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
+        "name": "Rospotrebnadzor",
+        "url": "https://www.rospotrebnadzor.ru/"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Arseniy Ivanov",
+        "twitter": "@freeatnet",
+        "github": "freeatnet",
+        "email": "arseniy+coronadatascraper@freeatnet.com"
+      }
+    ],
+    "rating": 0.45098039215686275,
     "coordinates": [
       0,
       61.522
@@ -120000,19 +119983,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Москва",
+    "state": "Moscow",
+    "rating": 0.49019607843137253,
     "coordinates": [
-      37.37360600816072,
-      55.44724463183428
+      37.385,
+      55.581500000000005
     ],
+    "tz": [
+      "Europe/Moscow"
+    ],
+    "featureId": "iso2:RU-MOW",
     "population": 12692466,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 445,
+    "populationDensity": 5025.107241967261,
     "countryId": "iso1:RU",
-    "name": "Москва, Russia",
+    "stateId": "iso2:RU-MOW",
+    "name": "Moscow, Russia",
     "level": "state"
   },
   {
@@ -120040,19 +120025,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Московская область",
-    "coordinates": [
-      37.69028893423692,
-      55.594087530914805
-    ],
-    "population": 7687647,
+    "state": "Moscow Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      37.67400000000001,
+      55.608000000000004
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 446,
+    "featureId": "iso2:RU-MOS",
+    "population": 7503385,
+    "populationDensity": 169.3194111023738,
     "countryId": "iso1:RU",
-    "name": "Московская область, Russia",
+    "stateId": "iso2:RU-MOS",
+    "name": "Moscow Oblast, Russia",
     "level": "state"
   },
   {
@@ -120080,19 +120067,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Санкт-Петербург",
-    "coordinates": [
-      30.0870441013015,
-      59.93793091458002
-    ],
-    "population": 5392992,
+    "state": "Saint Petersburg",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      30.0935,
+      59.944500000000005
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 478,
+    "featureId": "iso2:RU-SPE",
+    "population": 5351935,
+    "populationDensity": 3777.2714119688185,
     "countryId": "iso1:RU",
-    "name": "Санкт-Петербург, Russia",
+    "stateId": "iso2:RU-SPE",
+    "name": "Saint Petersburg, Russia",
     "level": "state"
   },
   {
@@ -120120,19 +120109,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Самарская область",
-    "coordinates": [
-      50.24352786651778,
-      53.19935038586158
-    ],
-    "population": 3179026,
+    "state": "Samara Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      50.248999999999995,
+      53.2205
+    ],
     "tz": [
       "Europe/Samara"
     ],
-    "featureId": 477,
+    "featureId": "iso2:RU-SAM",
+    "population": 3193514,
+    "populationDensity": 59.70718592800135,
     "countryId": "iso1:RU",
-    "name": "Самарская область, Russia",
+    "stateId": "iso2:RU-SAM",
+    "name": "Samara Oblast, Russia",
     "level": "state"
   },
   {
@@ -120160,19 +120151,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Саха (Якутия)",
-    "coordinates": [
-      134.19354577062074,
-      66.10226602223707
-    ],
-    "population": 970105,
+    "state": "Sakha Republic",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      134.182,
+      66.2995
+    ],
     "tz": [
       "Asia/Vladivostok"
     ],
-    "featureId": 469,
+    "featureId": "iso2:RU-SA",
+    "population": 970105,
+    "populationDensity": 0.31750640612305414,
     "countryId": "iso1:RU",
-    "name": "Республика Саха (Якутия), Russia",
+    "stateId": "iso2:RU-SA",
+    "name": "Sakha Republic, Russia",
     "level": "state"
   },
   {
@@ -120200,19 +120193,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Свердловская область",
-    "coordinates": [
-      61.707634312023856,
-      59.02801229533114
-    ],
-    "population": 4310861,
+    "state": "Sverdlovsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      61.706,
+      59
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 481,
+    "featureId": "iso2:RU-SVE",
+    "population": 4325256,
+    "populationDensity": 22.346917885053042,
     "countryId": "iso1:RU",
-    "name": "Свердловская область, Russia",
+    "stateId": "iso2:RU-SVE",
+    "name": "Sverdlovsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -120240,19 +120235,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Калининградская область",
-    "coordinates": [
-      21.221198564000076,
-      54.81279754841499
-    ],
-    "population": 1012253,
+    "state": "Kaliningrad",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      21.2565,
+      54.809
+    ],
     "tz": [
       "Europe/Kaliningrad"
     ],
-    "featureId": 431,
+    "featureId": "iso2:RU-KGD",
+    "population": 994599,
+    "populationDensity": 73.84783711570748,
     "countryId": "iso1:RU",
-    "name": "Калининградская область, Russia",
+    "stateId": "iso2:RU-KGD",
+    "name": "Kaliningrad, Russia",
     "level": "state"
   },
   {
@@ -120280,19 +120277,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Кировская область",
-    "coordinates": [
-      50.131648390410874,
-      58.579512539871786
-    ],
-    "population": 1262549,
+    "state": "Kirov Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      50.0955,
+      58.572500000000005
+    ],
     "tz": [
       "Europe/Kirov"
     ],
-    "featureId": 436,
+    "featureId": "iso2:RU-KIR",
+    "population": 1283238,
+    "populationDensity": 10.673296395476108,
     "countryId": "iso1:RU",
-    "name": "Кировская область, Russia",
+    "stateId": "iso2:RU-KIR",
+    "name": "Kirov Oblast, Russia",
     "level": "state"
   },
   {
@@ -120320,19 +120319,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Новосибирская область",
-    "coordinates": [
-      80.08842451353044,
-      55.288846533540664
-    ],
-    "population": 2798251,
+    "state": "Novosibirsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      80.102,
+      55.2645
+    ],
     "tz": [
       "Asia/Novosibirsk"
     ],
-    "featureId": 450,
+    "featureId": "iso2:RU-NVS",
+    "population": 2788849,
+    "populationDensity": 15.71468372563155,
     "countryId": "iso1:RU",
-    "name": "Новосибирская область, Russia",
+    "stateId": "iso2:RU-NVS",
+    "name": "Novosibirsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -120360,19 +120361,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Красноярский край",
-    "coordinates": [
-      95.03223717550006,
-      66.5351217717118
-    ],
-    "population": 2867875,
+    "state": "Krasnoyarsk Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      95.01150000000001,
+      66.5225
+    ],
     "tz": [
       "Asia/Krasnoyarsk"
     ],
-    "featureId": 439,
+    "featureId": "iso2:RU-KYA",
+    "population": 2876497,
+    "populationDensity": 1.2398127460365513,
     "countryId": "iso1:RU",
-    "name": "Красноярский край, Russia",
+    "stateId": "iso2:RU-KYA",
+    "name": "Krasnoyarsk Krai, Russia",
     "level": "state"
   },
   {
@@ -120400,19 +120403,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Тамбовская область",
-    "coordinates": [
-      41.59485680569699,
-      52.711950792095365
-    ],
-    "population": 1006962,
+    "state": "Tambov Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      41.581999999999994,
+      52.7055
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 485,
+    "featureId": "iso2:RU-TAM",
+    "population": 1033552,
+    "populationDensity": 30.040391501267695,
     "countryId": "iso1:RU",
-    "name": "Тамбовская область, Russia",
+    "stateId": "iso2:RU-TAM",
+    "name": "Tambov Oblast, Russia",
     "level": "state"
   },
   {
@@ -120440,19 +120445,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Липецкая область",
-    "coordinates": [
-      39.21200483550473,
-      52.73360321726463
-    ],
-    "population": 1139492,
+    "state": "Lipetsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      39.2435,
+      52.7375
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 443,
+    "featureId": "iso2:RU-LIP",
+    "population": 1150201,
+    "populationDensity": 47.79411618398921,
     "countryId": "iso1:RU",
-    "name": "Липецкая область, Russia",
+    "stateId": "iso2:RU-LIP",
+    "name": "Lipetsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -120480,19 +120487,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Тверская область",
-    "coordinates": [
-      34.561591017261605,
-      57.24892192275851
-    ],
-    "population": 1260345,
+    "state": "Tver Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      34.545,
+      57.2475
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 486,
+    "featureId": "iso2:RU-TVE",
+    "population": 1283873,
+    "populationDensity": 15.22858465269338,
     "countryId": "iso1:RU",
-    "name": "Тверская область, Russia",
+    "stateId": "iso2:RU-TVE",
+    "name": "Tver Oblast, Russia",
     "level": "state"
   },
   {
@@ -120520,19 +120529,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Хабаровский край",
-    "coordinates": [
-      138.80256676644308,
-      54.60521131789798
-    ],
-    "population": 1315310,
+    "state": "Khabarovsk Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      138.80349999999999,
+      54.5835
+    ],
     "tz": [
       "Etc/GMT-9"
     ],
-    "featureId": 492,
+    "featureId": "iso2:RU-KHA",
+    "population": 1328302,
+    "populationDensity": 1.6949531192698184,
     "countryId": "iso1:RU",
-    "name": "Хабаровский край, Russia",
+    "stateId": "iso2:RU-KHA",
+    "name": "Khabarovsk Krai, Russia",
     "level": "state"
   },
   {
@@ -120560,19 +120571,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Тюменская область",
-    "coordinates": [
-      69.99937625501013,
-      57.561332197545134
-    ],
-    "population": 1537684,
+    "state": "Tyumen Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      70.013,
+      57.569
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 489,
+    "featureId": "iso2:RU-TYU",
+    "population": 3692400,
+    "populationDensity": 23.1807319726451,
     "countryId": "iso1:RU",
-    "name": "Тюменская область, Russia",
+    "stateId": "iso2:RU-TYU",
+    "name": "Tyumen Oblast, Russia",
     "level": "state"
   },
   {
@@ -120600,19 +120613,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Тульская область",
-    "coordinates": [
-      37.42038292777988,
-      53.90495290810023
-    ],
-    "population": 1466025,
+    "state": "Tula Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      37.4255,
+      53.899
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 488,
+    "featureId": "iso2:RU-TUL",
+    "population": 1491855,
+    "populationDensity": 58.105536698795014,
     "countryId": "iso1:RU",
-    "name": "Тульская область, Russia",
+    "stateId": "iso2:RU-TUL",
+    "name": "Tula Oblast, Russia",
     "level": "state"
   },
   {
@@ -120640,19 +120655,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Пермский край",
+    "state": "Perm Krai",
+    "rating": 0.49019607843137253,
     "coordinates": [
-      55.62097741027924,
-      58.89513926886215
+      55.626999999999995,
+      58.884
     ],
+    "tz": [
+      "Asia/Yekaterinburg"
+    ],
+    "featureId": "iso2:RU-PER",
     "population": 2599301,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Asia/Yekaterinburg"
-    ],
-    "featureId": 455,
+    "populationDensity": 16.19720994323472,
     "countryId": "iso1:RU",
-    "name": "Пермский край, Russia",
+    "stateId": "iso2:RU-PER",
+    "name": "Perm Krai, Russia",
     "level": "state"
   },
   {
@@ -120680,19 +120697,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Нижегородская область",
-    "coordinates": [
-      44.77275068549571,
-      56.278012193807655
-    ],
-    "population": 3203818,
+    "state": "Nizhny Novgorod Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.778,
+      56.277
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 448,
+    "featureId": "iso2:RU-NIZ",
+    "population": 3234752,
+    "populationDensity": 42.13526143697135,
     "countryId": "iso1:RU",
-    "name": "Нижегородская область, Russia",
+    "stateId": "iso2:RU-NIZ",
+    "name": "Nizhny Novgorod Oblast, Russia",
     "level": "state"
   },
   {
@@ -120720,19 +120739,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Краснодарский край",
-    "coordinates": [
-      39.16124006450244,
-      45.125972212745225
-    ],
-    "population": 5677786,
+    "state": "Krasnodar Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      39.171,
+      45.133
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 438,
+    "featureId": "iso2:RU-KDA",
+    "population": 5603420,
+    "populationDensity": 74.43461105661132,
     "countryId": "iso1:RU",
-    "name": "Краснодарский край, Russia",
+    "stateId": "iso2:RU-KDA",
+    "name": "Krasnodar Krai, Russia",
     "level": "state"
   },
   {
@@ -120760,19 +120781,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Воронежская область",
-    "coordinates": [
-      40.54008914549763,
-      50.82018036194679
-    ],
-    "population": 2323657,
+    "state": "Voronezh Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      40.543000000000006,
+      50.83
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 425,
+    "featureId": "iso2:RU-VOR",
+    "population": 2333768,
+    "populationDensity": 44.76629149345078,
     "countryId": "iso1:RU",
-    "name": "Воронежская область, Russia",
+    "stateId": "iso2:RU-VOR",
+    "name": "Voronezh Oblast, Russia",
     "level": "state"
   },
   {
@@ -120800,19 +120823,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Кемеровская область",
-    "coordinates": [
-      86.92687015138634,
-      54.50048503315773
-    ],
-    "population": 2657758,
+    "state": "Kemerovo Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      86.9245,
+      54.4985
+    ],
     "tz": [
       "Asia/Novokuznetsk"
     ],
-    "featureId": 435,
+    "featureId": "iso2:RU-KEM",
+    "population": 2657758,
+    "populationDensity": 27.810793596936627,
     "countryId": "iso1:RU",
-    "name": "Кемеровская область, Russia",
+    "stateId": "iso2:RU-KEM",
+    "name": "Kemerovo Oblast, Russia",
     "level": "state"
   },
   {
@@ -120840,19 +120865,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Хакасия",
-    "coordinates": [
-      89.84276452016641,
-      53.380970428192654
-    ],
-    "population": 534186,
+    "state": "Republic of Khakassia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      89.90450000000001,
+      53.3615
+    ],
     "tz": [
       "Asia/Krasnoyarsk"
     ],
-    "featureId": 473,
+    "featureId": "iso2:RU-KK",
+    "population": 537513,
+    "populationDensity": 8.726619563311463,
     "countryId": "iso1:RU",
-    "name": "Республика Хакасия, Russia",
+    "stateId": "iso2:RU-KK",
+    "name": "Republic of Khakassia, Russia",
     "level": "state"
   },
   {
@@ -120880,19 +120907,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Мурманская область",
-    "coordinates": [
-      34.90373905100009,
-      68.00938548400006
-    ],
-    "population": 741511,
+    "state": "Murmansk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      34.909,
+      68.00200000000001
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 447,
+    "featureId": "iso2:RU-MUR",
+    "population": 753557,
+    "populationDensity": 5.279496923603006,
     "countryId": "iso1:RU",
-    "name": "Мурманская область, Russia",
+    "stateId": "iso2:RU-MUR",
+    "name": "Murmansk Oblast, Russia",
     "level": "state"
   },
   {
@@ -120920,19 +120949,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Коми",
-    "coordinates": [
-      55.824065789704406,
-      63.8317630077066
-    ],
-    "population": 820171,
+    "state": "Komi Republic",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      55.8255,
+      63.80800000000001
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 465,
+    "featureId": "iso2:RU-KO",
+    "population": 840873,
+    "populationDensity": 2.0244801293726025,
     "countryId": "iso1:RU",
-    "name": "Республика Коми, Russia",
+    "stateId": "iso2:RU-KO",
+    "name": "Komi Republic, Russia",
     "level": "state"
   },
   {
@@ -120960,19 +120991,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Калужская область",
+    "state": "Kaluga Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
-      35.38014570536001,
-      54.29542003021021
+      35.3555,
+      54.314
     ],
+    "tz": [
+      "Europe/Moscow"
+    ],
+    "featureId": "iso2:RU-KLU",
     "population": 1000070,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 432,
+    "populationDensity": 33.59615181581193,
     "countryId": "iso1:RU",
-    "name": "Калужская область, Russia",
+    "stateId": "iso2:RU-KLU",
+    "name": "Kaluga Oblast, Russia",
     "level": "state"
   },
   {
@@ -121000,19 +121033,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ивановская область",
-    "coordinates": [
-      41.5570813335367,
-      57.059127305630625
-    ],
-    "population": 997196,
+    "state": "Ivanovo Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      41.352000000000004,
+      57.046
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 428,
+    "featureId": "iso2:RU-IVA",
+    "population": 1014646,
+    "populationDensity": 47.02966176422126,
     "countryId": "iso1:RU",
-    "name": "Ивановская область, Russia",
+    "stateId": "iso2:RU-IVA",
+    "name": "Ivanovo Oblast, Russia",
     "level": "state"
   },
   {
@@ -121040,19 +121075,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Забайкальский край",
-    "coordinates": [
-      114.93598067831564,
-      53.76782989901964
-    ],
-    "population": 1059657,
+    "state": "Zabaykalsky Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      114.94,
+      53.795
+    ],
     "tz": [
       "Asia/Chita"
     ],
-    "featureId": 427,
+    "featureId": "iso2:RU-ZAB",
+    "population": 1072806,
+    "populationDensity": 2.4873261584217286,
     "countryId": "iso1:RU",
-    "name": "Забайкальский край, Russia",
+    "stateId": "iso2:RU-ZAB",
+    "name": "Zabaykalsky Krai, Russia",
     "level": "state"
   },
   {
@@ -121080,19 +121117,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Томская область",
-    "coordinates": [
-      82.23537356953457,
-      58.36996460628154
-    ],
-    "population": 1079051,
+    "state": "Tomsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      82.218,
+      58.326
+    ],
     "tz": [
       "Asia/Tomsk"
     ],
-    "featureId": 487,
+    "featureId": "iso2:RU-TOM",
+    "population": 1078280,
+    "populationDensity": 3.4388233316700565,
     "countryId": "iso1:RU",
-    "name": "Томская область, Russia",
+    "stateId": "iso2:RU-TOM",
+    "name": "Tomsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -121120,19 +121159,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Архангельская область",
-    "coordinates": [
-      52.40648013605133,
-      71.25419668220843
-    ],
-    "population": 1092277,
+    "state": "Arkhangelsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      52.2745,
+      71.2475
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 418,
+    "featureId": "iso2:RU-ARK",
+    "population": 1155028,
+    "populationDensity": 2.8693565025439574,
     "countryId": "iso1:RU",
-    "name": "Архангельская область, Russia",
+    "stateId": "iso2:RU-ARK",
+    "name": "Arkhangelsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -121160,19 +121201,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Рязанская область",
-    "coordinates": [
-      40.687211948222824,
-      54.34107615803825
-    ],
-    "population": 1108924,
+    "state": "Ryazan Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      40.6755,
+      54.337500000000006
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 476,
+    "featureId": "iso2:RU-RYA",
+    "population": 1121474,
+    "populationDensity": 28.316060230551503,
     "countryId": "iso1:RU",
-    "name": "Рязанская область, Russia",
+    "stateId": "iso2:RU-RYA",
+    "name": "Ryazan Oblast, Russia",
     "level": "state"
   },
   {
@@ -121200,55 +121243,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Чувашская Республика",
-    "coordinates": [
-      47.086875,
-      55.492022999999996
-    ],
-    "population": 1217820,
+    "state": "Ulyanovsk Oblast",
     "rating": 0.49019607843137253,
-    "countryId": "iso1:RU",
-    "name": "Чувашская Республика, Russia",
-    "level": "state"
-  },
-  {
-    "country": "Russia",
-    "aggregate": "state",
-    "url": "https://yandex.ru/maps/api/covid?csrfToken=",
-    "curators": [
-      {
-        "name": "Yandex",
-        "url": "https://yandex.ru"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Data provided by Rospotrebnadzor (Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing)",
-        "name": "Rospotrebnadzor",
-        "url": "https://www.rospotrebnadzor.ru/"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Arseniy Ivanov",
-        "twitter": "@freeatnet",
-        "github": "freeatnet",
-        "email": "arseniy+coronadatascraper@freeatnet.com"
-      }
-    ],
-    "state": "Ульяновская область",
     "coordinates": [
-      48.023870070097615,
-      53.726798407770275
+      48.028,
+      53.7195
     ],
-    "population": 1229687,
-    "rating": 0.49019607843137253,
     "tz": [
       "Europe/Ulyanovsk"
     ],
-    "featureId": 491,
+    "featureId": "iso2:RU-ULY",
+    "population": 1246618,
+    "populationDensity": 33.56299389599729,
     "countryId": "iso1:RU",
-    "name": "Ульяновская область, Russia",
+    "stateId": "iso2:RU-ULY",
+    "name": "Ulyanovsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -121276,19 +121285,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ярославская область",
-    "coordinates": [
-      39.256808302611034,
-      57.74603628194882
-    ],
-    "population": 1253189,
+    "state": "Yaroslavl Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      39.262,
+      57.745000000000005
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 497,
+    "featureId": "iso2:RU-YAR",
+    "population": 1265684,
+    "populationDensity": 35.04145805153087,
     "countryId": "iso1:RU",
-    "name": "Ярославская область, Russia",
+    "stateId": "iso2:RU-YAR",
+    "name": "Yaroslavl Oblast, Russia",
     "level": "state"
   },
   {
@@ -121316,19 +121327,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Пензенская область",
-    "coordinates": [
-      44.538553094549655,
-      53.16538564742967
-    ],
-    "population": 1304825,
+    "state": "Penza Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.5265,
+      53.158
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 454,
+    "featureId": "iso2:RU-PNZ",
+    "population": 1331655,
+    "populationDensity": 30.756970622739203,
     "countryId": "iso1:RU",
-    "name": "Пензенская область, Russia",
+    "stateId": "iso2:RU-PNZ",
+    "name": "Penza Oblast, Russia",
     "level": "state"
   },
   {
@@ -121356,19 +121369,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Белгородская область",
-    "coordinates": [
-      37.257911820915325,
-      50.611976016414836
-    ],
-    "population": 1547532,
+    "state": "Belgorod Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      37.307,
+      50.613
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 420,
+    "featureId": "iso2:RU-BEL",
+    "population": 1549876,
+    "populationDensity": 57.189214782243454,
     "countryId": "iso1:RU",
-    "name": "Белгородская область, Russia",
+    "stateId": "iso2:RU-BEL",
+    "name": "Belgorod Oblast, Russia",
     "level": "state"
   },
   {
@@ -121396,19 +121411,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ханты-Мансийский АО",
-    "coordinates": [
-      72.59394656733019,
-      62.153105780807095
-    ],
-    "population": 1674086,
+    "state": "Khanty-Mansiysk Autonomous Okrug – Ugra",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      72.5845,
+      62.149
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 493,
+    "featureId": "iso2:RU-KHM",
+    "population": 1625501,
+    "populationDensity": 3.0501240939064713,
     "countryId": "iso1:RU",
-    "name": "Ханты-Мансийский АО, Russia",
+    "stateId": "iso2:RU-KHM",
+    "name": "Khanty-Mansiysk Autonomous Okrug – Ugra, Russia",
     "level": "state"
   },
   {
@@ -121436,19 +121453,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ленинградская область",
-    "coordinates": [
-      31.690953920473945,
-      59.880169583309595
-    ],
-    "population": 1876392,
+    "state": "Leningrad oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      31.189500000000002,
+      59.8765
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 442,
+    "featureId": "iso2:RU-LEN",
+    "population": 1813816,
+    "populationDensity": 21.555217936070388,
     "countryId": "iso1:RU",
-    "name": "Ленинградская область, Russia",
+    "stateId": "iso2:RU-LEN",
+    "name": "Leningrad oblast, Russia",
     "level": "state"
   },
   {
@@ -121476,19 +121495,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Оренбургская область",
-    "coordinates": [
-      56.20663392436609,
-      52.42594798177135
-    ],
-    "population": 1956256,
+    "state": "Orenburg Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      56.229,
+      52.430499999999995
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 452,
+    "featureId": "iso2:RU-ORE",
+    "population": 1977720,
+    "populationDensity": 15.94004049758801,
     "countryId": "iso1:RU",
-    "name": "Оренбургская область, Russia",
+    "stateId": "iso2:RU-ORE",
+    "name": "Orenburg Oblast, Russia",
     "level": "state"
   },
   {
@@ -121516,19 +121537,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Саратовская область",
-    "coordinates": [
-      46.63994897159279,
-      51.3108997632721
-    ],
-    "population": 2421785,
+    "state": "Saratov Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      46.668499999999995,
+      51.308499999999995
+    ],
     "tz": [
       "Europe/Saratov"
     ],
-    "featureId": 479,
+    "featureId": "iso2:RU-SAR",
+    "population": 2462950,
+    "populationDensity": 24.372194514684036,
     "countryId": "iso1:RU",
-    "name": "Саратовская область, Russia",
+    "stateId": "iso2:RU-SAR",
+    "name": "Saratov Oblast, Russia",
     "level": "state"
   },
   {
@@ -121556,19 +121579,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Татарстан",
+    "state": "Tatarstan",
+    "rating": 0.49019607843137253,
     "coordinates": [
-      50.70933922692376,
-      55.3216364610538
+      50.751000000000005,
+      55.325
     ],
+    "tz": [
+      "Europe/Moscow"
+    ],
+    "featureId": "iso2:RU-TA",
     "population": 3902642,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 471,
+    "populationDensity": 57.539398392527296,
     "countryId": "iso1:RU",
-    "name": "Республика Татарстан, Russia",
+    "stateId": "iso2:RU-TA",
+    "name": "Tatarstan, Russia",
     "level": "state"
   },
   {
@@ -121596,19 +121621,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Курганская область",
-    "coordinates": [
-      65.35707555947121,
-      55.50209433754868
-    ],
-    "population": 826941,
+    "state": "Kurgan Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      65.3375,
+      55.518
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 440,
+    "featureId": "iso2:RU-KGN",
+    "population": 845537,
+    "populationDensity": 11.83692196909642,
     "countryId": "iso1:RU",
-    "name": "Курганская область, Russia",
+    "stateId": "iso2:RU-KGN",
+    "name": "Kurgan Oblast, Russia",
     "level": "state"
   },
   {
@@ -121636,19 +121663,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Кабардино-Балкарская Республика",
+    "state": "Kabardino-Balkaria",
+    "rating": 0.49019607843137253,
     "coordinates": [
-      43.39782079804138,
-      43.44054826788823
+      43.436,
+      43.455
     ],
+    "tz": [
+      "Europe/Moscow"
+    ],
+    "featureId": "iso2:RU-KB",
     "population": 868174,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 430,
+    "populationDensity": 69.7274423373867,
     "countryId": "iso1:RU",
-    "name": "Кабардино-Балкарская Республика, Russia",
+    "stateId": "iso2:RU-KB",
+    "name": "Kabardino-Balkaria, Russia",
     "level": "state"
   },
   {
@@ -121676,19 +121705,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Челябинская область",
-    "coordinates": [
-      60.232748754424904,
-      54.17980474289456
-    ],
-    "population": 3466960,
+    "state": "Chelyabinsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      60.241,
+      54.173500000000004
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 494,
+    "featureId": "iso2:RU-CHE",
+    "population": 3493036,
+    "populationDensity": 39.48911174930762,
     "countryId": "iso1:RU",
-    "name": "Челябинская область, Russia",
+    "stateId": "iso2:RU-CHE",
+    "name": "Chelyabinsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -121716,19 +121747,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ставропольский край",
-    "coordinates": [
-      43.27635623560175,
-      44.95066742621074
-    ],
-    "population": 2803021,
+    "state": "Stavropol Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      43.281,
+      44.9475
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 484,
+    "featureId": "iso2:RU-STA",
+    "population": 2795243,
+    "populationDensity": 42.226581852124774,
     "countryId": "iso1:RU",
-    "name": "Ставропольский край, Russia",
+    "stateId": "iso2:RU-STA",
+    "name": "Stavropol Krai, Russia",
     "level": "state"
   },
   {
@@ -121756,19 +121789,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Брянская область",
-    "coordinates": [
-      33.2805060190266,
-      52.92660191489801
-    ],
-    "population": 1192570,
+    "state": "Bryansk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      33.284,
+      52.9375
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 421,
+    "featureId": "iso2:RU-BRY",
+    "population": 1210982,
+    "populationDensity": 34.78703799301273,
     "countryId": "iso1:RU",
-    "name": "Брянская область, Russia",
+    "stateId": "iso2:RU-BRY",
+    "name": "Bryansk Oblast, Russia",
     "level": "state"
   },
   {
@@ -121796,19 +121831,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Удмуртская Республика",
-    "coordinates": [
-      52.736450636787424,
-      57.197697659119655
-    ],
-    "population": 1501005,
+    "state": "Udmurtia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      52.78,
+      57.203
+    ],
     "tz": [
       "Europe/Samara"
     ],
-    "featureId": 490,
+    "featureId": "iso2:RU-UD",
+    "population": 1513044,
+    "populationDensity": 36.00254269727983,
     "countryId": "iso1:RU",
-    "name": "Удмуртская Республика, Russia",
+    "stateId": "iso2:RU-UD",
+    "name": "Udmurtia, Russia",
     "level": "state"
   },
   {
@@ -121836,19 +121873,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Новгородская область",
-    "coordinates": [
-      32.91590335475601,
-      58.17642344813359
-    ],
-    "population": 596173,
+    "state": "Novgorod Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      32.924,
+      58.171
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 449,
+    "featureId": "iso2:RU-NGR",
+    "population": 606476,
+    "populationDensity": 11.05158191742533,
     "countryId": "iso1:RU",
-    "name": "Новгородская область, Russia",
+    "stateId": "iso2:RU-NGR",
+    "name": "Novgorod Oblast, Russia",
     "level": "state"
   },
   {
@@ -121876,19 +121915,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Крым",
-    "coordinates": [
-      34.563202345000064,
-      45.289353574844
-    ],
-    "population": 1912025,
+    "state": "Republic of Crimea",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      34.563,
+      45.3095
+    ],
     "tz": [
       "Europe/Simferopol"
     ],
-    "featureId": 466,
+    "featureId": "iso2:RU-CR",
+    "population": 1913731,
+    "populationDensity": 76.41634234154395,
     "countryId": "iso1:RU",
-    "name": "Республика Крым, Russia",
+    "stateId": "iso2:RU-CR",
+    "name": "Republic of Crimea, Russia",
     "level": "state"
   },
   {
@@ -121916,19 +121957,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Башкортостан",
-    "coordinates": [
-      56.56066165526113,
-      54.04502187745766
-    ],
-    "population": 4037811,
+    "state": "Bashkortostan",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      56.58,
+      54.055499999999995
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 459,
+    "featureId": "iso2:RU-BA",
+    "population": 4063293,
+    "populationDensity": 28.466582240401024,
     "countryId": "iso1:RU",
-    "name": "Республика Башкортостан, Russia",
+    "stateId": "iso2:RU-BA",
+    "name": "Bashkortostan, Russia",
     "level": "state"
   },
   {
@@ -121956,19 +121999,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Чеченская Республика",
-    "coordinates": [
-      45.71222822445296,
-      43.24292079784596
-    ],
-    "population": 1476752,
+    "state": "Chechen Republic",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      45.7435,
+      43.2435
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 495,
+    "featureId": "iso2:RU-CE",
+    "population": 1436981,
+    "populationDensity": 89.04218217373689,
     "countryId": "iso1:RU",
-    "name": "Чеченская Республика, Russia",
+    "stateId": "iso2:RU-CE",
+    "name": "Chechen Republic, Russia",
     "level": "state"
   },
   {
@@ -121996,19 +122041,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Приморский край",
-    "coordinates": [
-      134.7167686551439,
-      45.36984996141917
-    ],
-    "population": 1895305,
+    "state": "Primorsky Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      134.714,
+      45.3785
+    ],
     "tz": [
       "Asia/Vladivostok"
     ],
-    "featureId": 456,
+    "featureId": "iso2:RU-PRI",
+    "population": 1913037,
+    "populationDensity": 11.829828026838504,
     "countryId": "iso1:RU",
-    "name": "Приморский край, Russia",
+    "stateId": "iso2:RU-PRI",
+    "name": "Primorsky Krai, Russia",
     "level": "state"
   },
   {
@@ -122036,19 +122083,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Волгоградская область",
-    "coordinates": [
-      44.301002410981965,
-      49.34476614034509
-    ],
-    "population": 2491751,
+    "state": "Volgograd Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.3005,
+      49.3475
+    ],
     "tz": [
       "Europe/Volgograd"
     ],
-    "featureId": 423,
+    "featureId": "iso2:RU-VGG",
+    "population": 2521276,
+    "populationDensity": 22.360973156384862,
     "countryId": "iso1:RU",
-    "name": "Волгоградская область, Russia",
+    "stateId": "iso2:RU-VGG",
+    "name": "Volgograd Oblast, Russia",
     "level": "state"
   },
   {
@@ -122076,19 +122125,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Орловская область",
-    "coordinates": [
-      36.42168419751766,
-      52.79009847666333
-    ],
-    "population": 733682,
+    "state": "Oryol Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      36.448499999999996,
+      52.7935
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 453,
+    "featureId": "iso2:RU-ORL",
+    "population": 747247,
+    "populationDensity": 30.351607979043237,
     "countryId": "iso1:RU",
-    "name": "Орловская область, Russia",
+    "stateId": "iso2:RU-ORL",
+    "name": "Oryol Oblast, Russia",
     "level": "state"
   },
   {
@@ -122116,19 +122167,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Псковская область",
-    "coordinates": [
-      29.42523746466557,
-      57.29607624962487
-    ],
-    "population": 626046,
+    "state": "Pskov Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      29.4175,
+      57.3055
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 457,
+    "featureId": "iso2:RU-PSK",
+    "population": 636546,
+    "populationDensity": 11.557945468513955,
     "countryId": "iso1:RU",
-    "name": "Псковская область, Russia",
+    "stateId": "iso2:RU-PSK",
+    "name": "Pskov Oblast, Russia",
     "level": "state"
   },
   {
@@ -122156,19 +122209,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ростовская область",
-    "coordinates": [
-      41.267486203128044,
-      48.08657420483567
-    ],
-    "population": 4195327,
+    "state": "Rostov Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      41.272499999999994,
+      48.083
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 475,
+    "featureId": "iso2:RU-ROS",
+    "population": 4202320,
+    "populationDensity": 41.620071119458785,
     "countryId": "iso1:RU",
-    "name": "Ростовская область, Russia",
+    "stateId": "iso2:RU-ROS",
+    "name": "Rostov Oblast, Russia",
     "level": "state"
   },
   {
@@ -122196,19 +122251,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Бурятия",
-    "coordinates": [
-      107.78094607959787,
-      53.60371260690127
-    ],
-    "population": 986109,
+    "state": "Buryatia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      107.77600000000001,
+      53.61
+    ],
     "tz": [
       "Asia/Irkutsk"
     ],
-    "featureId": 460,
+    "featureId": "iso2:RU-BU",
+    "population": 984511,
+    "populationDensity": 2.803897745910066,
     "countryId": "iso1:RU",
-    "name": "Республика Бурятия, Russia",
+    "stateId": "iso2:RU-BU",
+    "name": "Buryatia, Russia",
     "level": "state"
   },
   {
@@ -122316,19 +122373,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Мордовия",
-    "coordinates": [
-      44.47003014472537,
-      54.42051575424861
-    ],
-    "population": 790829,
+    "state": "Republic of Mordovia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.444,
+      54.4195
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 468,
+    "featureId": "iso2:RU-MO",
+    "population": 805056,
+    "populationDensity": 31.05842464546444,
     "countryId": "iso1:RU",
-    "name": "Республика Мордовия, Russia",
+    "stateId": "iso2:RU-MO",
+    "name": "Republic of Mordovia, Russia",
     "level": "state"
   },
   {
@@ -122356,19 +122415,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Дагестан",
-    "coordinates": [
-      46.85152408187915,
-      43.09894854938602
-    ],
-    "population": 3111353,
+    "state": "Republic of Dagestan",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      46.8535,
+      43.087
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 461,
+    "featureId": "iso2:RU-DA",
+    "population": 3111353,
+    "populationDensity": 62.20253135198138,
     "countryId": "iso1:RU",
-    "name": "Республика Дагестан, Russia",
+    "stateId": "iso2:RU-DA",
+    "name": "Republic of Dagestan, Russia",
     "level": "state"
   },
   {
@@ -122456,19 +122517,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Сахалинская область",
-    "coordinates": [
-      149.07801019350006,
-      49.06702301650006
-    ],
-    "population": 488453,
+    "state": "Sakhalin Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      148.859,
+      48.88
+    ],
     "tz": [
       "Etc/GMT-10"
     ],
-    "featureId": 480,
+    "featureId": "iso2:RU-SAK",
+    "population": 488453,
+    "populationDensity": 5.7482169465557424,
     "countryId": "iso1:RU",
-    "name": "Сахалинская область, Russia",
+    "stateId": "iso2:RU-SAK",
+    "name": "Sakhalin Oblast, Russia",
     "level": "state"
   },
   {
@@ -122496,19 +122559,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Костромская область",
-    "coordinates": [
-      43.993676792350044,
-      58.45444265380539
-    ],
-    "population": 633392,
+    "state": "Kostroma Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.0165,
+      58.448
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 437,
+    "featureId": "iso2:RU-KOS",
+    "population": 643324,
+    "populationDensity": 10.710629364197551,
     "countryId": "iso1:RU",
-    "name": "Костромская область, Russia",
+    "stateId": "iso2:RU-KOS",
+    "name": "Kostroma Oblast, Russia",
     "level": "state"
   },
   {
@@ -122536,19 +122601,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Смоленская область",
-    "coordinates": [
-      33.08387719402245,
-      54.75278613861631
-    ],
-    "population": 934747,
+    "state": "Smolensk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      33.069,
+      54.7455
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 483,
+    "featureId": "iso2:RU-SMO",
+    "population": 949348,
+    "populationDensity": 19.09846984487442,
     "countryId": "iso1:RU",
-    "name": "Смоленская область, Russia",
+    "stateId": "iso2:RU-SMO",
+    "name": "Smolensk Oblast, Russia",
     "level": "state"
   },
   {
@@ -122576,19 +122643,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Адыгея",
-    "coordinates": [
-      39.676369256436004,
-      44.47209198665581
-    ],
-    "population": 463453,
+    "state": "Republic of Adygea",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      39.730000000000004,
+      44.4885
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 458,
+    "featureId": "iso2:RU-AD",
+    "population": 453376,
+    "populationDensity": 58.11870241324315,
     "countryId": "iso1:RU",
-    "name": "Республика Адыгея, Russia",
+    "stateId": "iso2:RU-AD",
+    "name": "Republic of Adygea, Russia",
     "level": "state"
   },
   {
@@ -122636,19 +122705,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Омская область",
-    "coordinates": [
-      73.36966149263375,
-      56.014791818937255
-    ],
-    "population": 1926562,
+    "state": "Omsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      73.331,
+      56.0055
+    ],
     "tz": [
       "Asia/Omsk"
     ],
-    "featureId": 451,
+    "featureId": "iso2:RU-OMS",
+    "population": 1960081,
+    "populationDensity": 13.909857128847115,
     "countryId": "iso1:RU",
-    "name": "Омская область, Russia",
+    "stateId": "iso2:RU-OMS",
+    "name": "Omsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -122676,19 +122747,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Иркутская область",
-    "coordinates": [
-      107.40531009328615,
-      57.70678803189213
-    ],
-    "population": 2390827,
+    "state": "Irkutsk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      107.393,
+      57.726
+    ],
     "tz": [
       "Asia/Irkutsk"
     ],
-    "featureId": 429,
+    "featureId": "iso2:RU-IRK",
+    "population": 2404195,
+    "populationDensity": 3.1106704424238147,
     "countryId": "iso1:RU",
-    "name": "Иркутская область, Russia",
+    "stateId": "iso2:RU-IRK",
+    "name": "Irkutsk Oblast, Russia",
     "level": "state"
   },
   {
@@ -122716,19 +122789,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Амурская область",
-    "coordinates": [
-      127.31298384038189,
-      52.94829335874619
-    ],
-    "population": 790676,
+    "state": "Amur Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      127.2885,
+      52.957
+    ],
     "tz": [
       "Asia/Yakutsk"
     ],
-    "featureId": 417,
+    "featureId": "iso2:RU-AMU",
+    "population": 798424,
+    "populationDensity": 2.206088374232648,
     "countryId": "iso1:RU",
-    "name": "Амурская область, Russia",
+    "stateId": "iso2:RU-AMU",
+    "name": "Amur Oblast, Russia",
     "level": "state"
   },
   {
@@ -123556,7 +123631,7 @@
     "tz": [
       "America/Rio_Branco"
     ],
-    "featureId": 240,
+    "featureId": 238,
     "countryId": "iso1:BR",
     "name": "AC, Brazil",
     "level": "state"
@@ -123592,7 +123667,7 @@
     "tz": [
       "America/Maceio"
     ],
-    "featureId": 241,
+    "featureId": 239,
     "countryId": "iso1:BR",
     "name": "AL, Brazil",
     "level": "state"
@@ -123628,7 +123703,7 @@
     "tz": [
       "America/Belem"
     ],
-    "featureId": 242,
+    "featureId": 240,
     "countryId": "iso1:BR",
     "name": "AP, Brazil",
     "level": "state"
@@ -123664,7 +123739,7 @@
     "tz": [
       "America/Manaus"
     ],
-    "featureId": 243,
+    "featureId": 241,
     "countryId": "iso1:BR",
     "name": "AM, Brazil",
     "level": "state"
@@ -123700,7 +123775,7 @@
     "tz": [
       "America/Bahia"
     ],
-    "featureId": 244,
+    "featureId": 242,
     "countryId": "iso1:BR",
     "name": "BA, Brazil",
     "level": "state"
@@ -123736,7 +123811,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 245,
+    "featureId": 243,
     "countryId": "iso1:BR",
     "name": "CE, Brazil",
     "level": "state"
@@ -123772,7 +123847,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 246,
+    "featureId": 244,
     "countryId": "iso1:BR",
     "name": "DF, Brazil",
     "level": "state"
@@ -123808,7 +123883,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 247,
+    "featureId": 245,
     "countryId": "iso1:BR",
     "name": "ES, Brazil",
     "level": "state"
@@ -123844,7 +123919,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 248,
+    "featureId": 246,
     "countryId": "iso1:BR",
     "name": "GO, Brazil",
     "level": "state"
@@ -123880,7 +123955,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 249,
+    "featureId": 247,
     "countryId": "iso1:BR",
     "name": "MA, Brazil",
     "level": "state"
@@ -123916,7 +123991,7 @@
     "tz": [
       "America/Cuiaba"
     ],
-    "featureId": 250,
+    "featureId": 248,
     "countryId": "iso1:BR",
     "name": "MT, Brazil",
     "level": "state"
@@ -123952,7 +124027,7 @@
     "tz": [
       "America/Campo_Grande"
     ],
-    "featureId": 251,
+    "featureId": 249,
     "countryId": "iso1:BR",
     "name": "MS, Brazil",
     "level": "state"
@@ -123988,7 +124063,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 252,
+    "featureId": 250,
     "countryId": "iso1:BR",
     "name": "MG, Brazil",
     "level": "state"
@@ -124024,7 +124099,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 253,
+    "featureId": 251,
     "countryId": "iso1:BR",
     "name": "PR, Brazil",
     "level": "state"
@@ -124060,7 +124135,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 254,
+    "featureId": 252,
     "countryId": "iso1:BR",
     "name": "PB, Brazil",
     "level": "state"
@@ -124096,7 +124171,7 @@
     "tz": [
       "America/Santarem"
     ],
-    "featureId": 255,
+    "featureId": 253,
     "countryId": "iso1:BR",
     "name": "PA, Brazil",
     "level": "state"
@@ -124132,7 +124207,7 @@
     "tz": [
       "America/Recife"
     ],
-    "featureId": 256,
+    "featureId": 254,
     "countryId": "iso1:BR",
     "name": "PE, Brazil",
     "level": "state"
@@ -124168,7 +124243,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 257,
+    "featureId": 255,
     "countryId": "iso1:BR",
     "name": "PI, Brazil",
     "level": "state"
@@ -124204,7 +124279,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 258,
+    "featureId": 256,
     "countryId": "iso1:BR",
     "name": "RN, Brazil",
     "level": "state"
@@ -124240,7 +124315,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 259,
+    "featureId": 257,
     "countryId": "iso1:BR",
     "name": "RS, Brazil",
     "level": "state"
@@ -124276,7 +124351,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 260,
+    "featureId": 258,
     "countryId": "iso1:BR",
     "name": "RJ, Brazil",
     "level": "state"
@@ -124312,7 +124387,7 @@
     "tz": [
       "America/Porto_Velho"
     ],
-    "featureId": 261,
+    "featureId": 259,
     "countryId": "iso1:BR",
     "name": "RO, Brazil",
     "level": "state"
@@ -124348,7 +124423,7 @@
     "tz": [
       "America/Boa_Vista"
     ],
-    "featureId": 262,
+    "featureId": 260,
     "countryId": "iso1:BR",
     "name": "RR, Brazil",
     "level": "state"
@@ -124384,7 +124459,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 263,
+    "featureId": 261,
     "countryId": "iso1:BR",
     "name": "SC, Brazil",
     "level": "state"
@@ -124420,7 +124495,7 @@
     "tz": [
       "America/Maceio"
     ],
-    "featureId": 264,
+    "featureId": 262,
     "countryId": "iso1:BR",
     "name": "SE, Brazil",
     "level": "state"
@@ -124456,7 +124531,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 265,
+    "featureId": 263,
     "countryId": "iso1:BR",
     "name": "SP, Brazil",
     "level": "state"
@@ -124492,7 +124567,7 @@
     "tz": [
       "America/Araguaina"
     ],
-    "featureId": 266,
+    "featureId": 264,
     "countryId": "iso1:BR",
     "name": "TO, Brazil",
     "level": "state"
@@ -124522,19 +124597,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Алтайский край",
-    "coordinates": [
-      82.4798643972741,
-      52.56088896735193
-    ],
-    "population": 2317052,
+    "state": "Altai Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      82.529,
+      52.5465
+    ],
     "tz": [
       "Asia/Barnaul"
     ],
-    "featureId": 416,
+    "featureId": "iso2:RU-ALT",
+    "population": 2317052,
+    "populationDensity": 13.813546312495749,
     "countryId": "iso1:RU",
-    "name": "Алтайский край, Russia",
+    "stateId": "iso2:RU-ALT",
+    "name": "Altai Krai, Russia",
     "level": "state"
   },
   {
@@ -124562,19 +124639,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Владимирская область",
-    "coordinates": [
-      40.61775882331102,
-      55.9653568590318
-    ],
-    "population": 1358538,
+    "state": "Vladimir Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      40.620000000000005,
+      55.9565
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 422,
+    "featureId": "iso2:RU-VLA",
+    "population": 1378337,
+    "populationDensity": 47.32458884630113,
     "countryId": "iso1:RU",
-    "name": "Владимирская область, Russia",
+    "stateId": "iso2:RU-VLA",
+    "name": "Vladimir Oblast, Russia",
     "level": "state"
   },
   {
@@ -124602,19 +124681,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Вологодская область",
-    "coordinates": [
-      40.921719597981024,
-      60.04233022695837
-    ],
-    "population": 1160721,
+    "state": "Vologda Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      40.9375,
+      60.0485
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 424,
+    "featureId": "iso2:RU-VLG",
+    "population": 1176689,
+    "populationDensity": 8.107061490035996,
     "countryId": "iso1:RU",
-    "name": "Вологодская область, Russia",
+    "stateId": "iso2:RU-VLG",
+    "name": "Vologda Oblast, Russia",
     "level": "state"
   },
   {
@@ -124642,19 +124723,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Калмыкия",
-    "coordinates": [
-      44.59612613267237,
-      46.50346660390062
-    ],
-    "population": 271035,
+    "state": "Republic of Kalmykia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.701,
+      46.5205
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 463,
+    "featureId": "iso2:RU-KL",
+    "population": 275413,
+    "populationDensity": 3.9431233544955866,
     "countryId": "iso1:RU",
-    "name": "Республика Калмыкия, Russia",
+    "stateId": "iso2:RU-KL",
+    "name": "Republic of Kalmykia, Russia",
     "level": "state"
   },
   {
@@ -124682,19 +124765,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Марий Эл",
+    "state": "Mari El",
+    "rating": 0.49019607843137253,
     "coordinates": [
-      47.91545291506995,
-      56.5604238960959
+      47.914,
+      56.5865
     ],
+    "tz": [
+      "Europe/Moscow"
+    ],
+    "featureId": "iso2:RU-ME",
     "population": 679094,
-    "rating": 0.49019607843137253,
-    "tz": [
-      "Europe/Moscow"
-    ],
-    "featureId": 467,
+    "populationDensity": 29.048824493006578,
     "countryId": "iso1:RU",
-    "name": "Республика Марий Эл, Russia",
+    "stateId": "iso2:RU-ME",
+    "name": "Mari El, Russia",
     "level": "state"
   },
   {
@@ -124722,18 +124807,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Чувашия",
-    "coordinates": [
-      47.16624799999519,
-      55.48089030609273
-    ],
+    "state": "Chuvashia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      47.159000000000006,
+      55.478
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 474,
+    "featureId": "iso2:RU-CU",
+    "population": 1223395,
+    "populationDensity": 66.72435540343356,
     "countryId": "iso1:RU",
-    "name": "Республика Чувашия, Russia",
+    "stateId": "iso2:RU-CU",
+    "name": "Chuvashia, Russia",
     "level": "state"
   },
   {
@@ -124762,6 +124850,16 @@
     "aggregate": "state",
     "state": "Andhra Pradesh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      80.7645,
+      15.893999999999998
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-AP",
+    "population": 49386799,
+    "populationDensity": 301.0208458370682,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AP",
     "name": "Andhra Pradesh, India",
@@ -124773,6 +124871,16 @@
     "aggregate": "state",
     "state": "Andaman and Nicobar Islands",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      93.232,
+      10.2165
+    ],
+    "tz": [
+      "Etc/GMT-6"
+    ],
+    "featureId": "iso2:IN-AN",
+    "population": 356152,
+    "populationDensity": 49.53120676750817,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AN",
     "name": "Andaman and Nicobar Islands, India",
@@ -124784,6 +124892,16 @@
     "aggregate": "state",
     "state": "Bihar",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      85.80250000000001,
+      25.9025
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-BR",
+    "population": 104099452,
+    "populationDensity": 1100.4169996813391,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-BR",
     "name": "Bihar, India",
@@ -124795,6 +124913,16 @@
     "aggregate": "state",
     "state": "Chandigarh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      76.777,
+      30.7305
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-CH",
+    "population": 1055450,
+    "populationDensity": 8376.705150745347,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-CH",
     "name": "Chandigarh, India",
@@ -124806,6 +124934,16 @@
     "aggregate": "state",
     "state": "Chhattisgarh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      82.3195,
+      20.942
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-CT",
+    "population": 25545198,
+    "populationDensity": 188.13421129487523,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-CT",
     "name": "Chhattisgarh, India",
@@ -124817,6 +124955,16 @@
     "aggregate": "state",
     "state": "Delhi",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      77.09299999999999,
+      28.644
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-DL",
+    "population": 26495000,
+    "populationDensity": 17943.68875333418,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-DL",
     "name": "Delhi, India",
@@ -124828,6 +124976,16 @@
     "aggregate": "state",
     "state": "Goa",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      74.0075,
+      15.3505
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-GA",
+    "population": 1458545,
+    "populationDensity": 398.6951839303502,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-GA",
     "name": "Goa, India",
@@ -124839,6 +124997,16 @@
     "aggregate": "state",
     "state": "Gujarat",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      71.3325,
+      22.415999999999997
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-GJ",
+    "population": 60383628,
+    "populationDensity": 331.26398415124083,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-GJ",
     "name": "Gujarat, India",
@@ -124850,6 +125018,16 @@
     "aggregate": "state",
     "state": "Haryana",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      76.03999999999999,
+      29.290999999999997
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-HR",
+    "population": 27761063,
+    "populationDensity": 625.333187521485,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-HR",
     "name": "Haryana, India",
@@ -124861,6 +125039,16 @@
     "aggregate": "state",
     "state": "Himachal Pradesh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      77.3065,
+      31.814
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-HP",
+    "population": 6864602,
+    "populationDensity": 122.89560566492136,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-HP",
     "name": "Himachal Pradesh, India",
@@ -124872,6 +125060,16 @@
     "aggregate": "state",
     "state": "Jammu and Kashmir",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      75.261,
+      33.5305
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-JK",
+    "population": 12258433,
+    "populationDensity": 288.46962825221624,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-JK",
     "name": "Jammu and Kashmir, India",
@@ -124883,6 +125081,16 @@
     "aggregate": "state",
     "state": "Karnataka",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      76.321,
+      15.027000000000001
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-KA",
+    "population": 61095297,
+    "populationDensity": 316.67467298695215,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-KA",
     "name": "Karnataka, India",
@@ -124894,6 +125102,16 @@
     "aggregate": "state",
     "state": "Kerala",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      76.138,
+      10.5425
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-KL",
+    "population": 34523726,
+    "populationDensity": 883.5420139590705,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-KL",
     "name": "Kerala, India",
@@ -124905,6 +125123,16 @@
     "aggregate": "state",
     "state": "Ladakh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      77.4135,
+      34.0025
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-LA",
+    "population": 274289,
+    "populationDensity": 4.222638338332109,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-LA",
     "name": "Ladakh, India",
@@ -124916,6 +125144,16 @@
     "aggregate": "state",
     "state": "Madhya Pradesh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      78.42,
+      23.9705
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-MP",
+    "population": 72597565,
+    "populationDensity": 234.29131407853154,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MP",
     "name": "Madhya Pradesh, India",
@@ -124927,6 +125165,16 @@
     "aggregate": "state",
     "state": "Maharashtra",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      76.775,
+      18.821
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-MH",
+    "population": 112374333,
+    "populationDensity": 363.92083469565114,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MH",
     "name": "Maharashtra, India",
@@ -124938,6 +125186,16 @@
     "aggregate": "state",
     "state": "Manipur",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      93.861,
+      24.762999999999998
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-MN",
+    "population": 2855794,
+    "populationDensity": 127.13774499140655,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MN",
     "name": "Manipur, India",
@@ -124949,6 +125207,16 @@
     "aggregate": "state",
     "state": "Mizoram",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      92.84800000000001,
+      23.231
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-MZ",
+    "population": 1097206,
+    "populationDensity": 51.973166645544055,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MZ",
     "name": "Mizoram, India",
@@ -124960,6 +125228,16 @@
     "aggregate": "state",
     "state": "Odisha",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      84.43549999999999,
+      20.1815
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-OR",
+    "population": 41974218,
+    "populationDensity": 268.6320042787697,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-OR",
     "name": "Odisha, India",
@@ -124971,6 +125249,16 @@
     "aggregate": "state",
     "state": "Puducherry",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      78.9215,
+      13.7805
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-PY",
+    "population": 973829,
+    "populationDensity": 2090.9474035046524,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-PY",
     "name": "Puducherry, India",
@@ -124982,6 +125270,16 @@
     "aggregate": "state",
     "state": "Punjab",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      75.4075,
+      31.0285
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-PB",
+    "population": 27743338,
+    "populationDensity": 549.4739826586025,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-PB",
     "name": "Punjab, India",
@@ -124993,6 +125291,16 @@
     "aggregate": "state",
     "state": "Rajasthan",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      73.878,
+      26.6295
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-RJ",
+    "population": 68548437,
+    "populationDensity": 199.565559278736,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-RJ",
     "name": "Rajasthan, India",
@@ -125004,6 +125312,16 @@
     "aggregate": "state",
     "state": "Tamil Nadu",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      78.29050000000001,
+      10.8205
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-TN",
+    "population": 72147030,
+    "populationDensity": 551.0616731906728,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-TN",
     "name": "Tamil Nadu, India",
@@ -125015,6 +125333,16 @@
     "aggregate": "state",
     "state": "Telangana",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      79.2795,
+      17.876
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-TG",
+    "population": 35193978,
+    "populationDensity": 312.12166464969437,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-TG",
     "name": "Telangana, India",
@@ -125026,6 +125354,16 @@
     "aggregate": "state",
     "state": "Uttarakhand",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      79.3045,
+      30.0925
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-UT",
+    "population": 10086292,
+    "populationDensity": 188.2808455864311,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-UT",
     "name": "Uttarakhand, India",
@@ -125037,6 +125375,16 @@
     "aggregate": "state",
     "state": "Uttar Pradesh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      80.86,
+      27.137999999999998
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-UP",
+    "population": 199812341,
+    "populationDensity": 825.8935340679977,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-UP",
     "name": "Uttar Pradesh, India",
@@ -125048,6 +125396,16 @@
     "aggregate": "state",
     "state": "West Bengal",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      87.8445,
+      24.3825
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-WB",
+    "population": 91276115,
+    "populationDensity": 1070.9123097701072,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-WB",
     "name": "West Bengal, India",
@@ -125807,19 +126165,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Астраханская область",
-    "coordinates": [
-      47.10724671439908,
-      47.217078355467635
-    ],
-    "population": 1005967,
+    "state": "Astrakhan Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      47.2695,
+      47.1125
+    ],
     "tz": [
       "Europe/Astrakhan"
     ],
-    "featureId": 419,
+    "featureId": "iso2:RU-AST",
+    "population": 1014065,
+    "populationDensity": 19.19358001536334,
     "countryId": "iso1:RU",
-    "name": "Астраханская область, Russia",
+    "stateId": "iso2:RU-AST",
+    "name": "Astrakhan Oblast, Russia",
     "level": "state"
   },
   {
@@ -125847,19 +126207,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Магаданская область",
-    "coordinates": [
-      154.0896956729169,
-      62.60417145339284
-    ],
-    "population": 140199,
+    "state": "Magadan Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      154.11599999999999,
+      62.587
+    ],
     "tz": [
       "Asia/Magadan"
     ],
-    "featureId": 444,
+    "featureId": "iso2:RU-MAG",
+    "population": 144091,
+    "populationDensity": 0.3128652714784197,
     "countryId": "iso1:RU",
-    "name": "Магаданская область, Russia",
+    "stateId": "iso2:RU-MAG",
+    "name": "Magadan Oblast, Russia",
     "level": "state"
   },
   {
@@ -125887,19 +126249,19 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Севастополь",
-    "coordinates": [
-      33.61585907774102,
-      44.62521949229629
-    ],
-    "population": 448829,
+    "state": "Sevastopol",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      33.6525,
+      44.6135
+    ],
     "tz": [
       "Europe/Simferopol"
     ],
-    "featureId": 482,
+    "featureId": "iso2:RU-SEV",
     "countryId": "iso1:RU",
-    "name": "Севастополь, Russia",
+    "stateId": "iso2:RU-SEV",
+    "name": "Sevastopol, Russia",
     "level": "state"
   },
   {
@@ -125966,6 +126328,16 @@
     "aggregate": "state",
     "state": "Assam",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      92.858,
+      26.054000000000002
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-AS",
+    "population": 31205576,
+    "populationDensity": 396.0639668871199,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AS",
     "name": "Assam, India",
@@ -125977,6 +126349,16 @@
     "aggregate": "state",
     "state": "Jharkhand",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      85.64500000000001,
+      23.651
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-JH",
+    "population": 32988134,
+    "populationDensity": 411.0303723796184,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-JH",
     "name": "Jharkhand, India",
@@ -126007,19 +126389,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Курская область",
-    "coordinates": [
-      36.26887658416072,
-      51.659870307068985
-    ],
-    "population": 1103059,
+    "state": "Kursk Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      36.2975,
+      51.673500000000004
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 441,
+    "featureId": "iso2:RU-KRS",
+    "population": 1115237,
+    "populationDensity": 37.25298575344933,
     "countryId": "iso1:RU",
-    "name": "Курская область, Russia",
+    "stateId": "iso2:RU-KRS",
+    "name": "Kursk Oblast, Russia",
     "level": "state"
   },
   {
@@ -126047,18 +126431,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Северная Осетия — Алания",
-    "coordinates": [
-      44.161397482407864,
-      43.19804830578465
-    ],
+    "state": "Republic of North Ossetia-Alania",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.1775,
+      43.188
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 470,
+    "featureId": "iso2:RU-SE",
+    "population": 697064,
+    "populationDensity": 87.11161866564028,
     "countryId": "iso1:RU",
-    "name": "Республика Северная Осетия — Алания, Russia",
+    "stateId": "iso2:RU-SE",
+    "name": "Republic of North Ossetia-Alania, Russia",
     "level": "state"
   },
   {
@@ -126113,6 +126500,16 @@
     "aggregate": "state",
     "state": "Arunachal Pradesh",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      94.4785,
+      28.020000000000003
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-AR",
+    "population": 1383727,
+    "populationDensity": 16.603492180265924,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AR",
     "name": "Arunachal Pradesh, India",
@@ -126143,19 +126540,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Ямало-Ненецкий автономный округ",
-    "coordinates": [
-      74.02326500822352,
-      67.86568716126831
-    ],
-    "population": 544008,
+    "state": "Yamalo-Nenets Autonomous Okrug",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      74.0035,
+      67.85900000000001
+    ],
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 496,
+    "featureId": "iso2:RU-YAN",
+    "population": 538547,
+    "populationDensity": 0.7921914858723185,
     "countryId": "iso1:RU",
-    "name": "Ямало-Ненецкий автономный округ, Russia",
+    "stateId": "iso2:RU-YAN",
+    "name": "Yamalo-Nenets Autonomous Okrug, Russia",
     "level": "state"
   },
   {
@@ -126203,19 +126602,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Еврейская автономная область",
-    "coordinates": [
-      132.75993778190755,
-      48.57703562786032
-    ],
-    "population": 158381,
+    "state": "Jewish Autonomous Oblast",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      132.76,
+      48.5755
+    ],
     "tz": [
       "Asia/Vladivostok"
     ],
-    "featureId": 426,
+    "featureId": "iso2:RU-YEV",
+    "population": 158381,
+    "populationDensity": 4.430543650288355,
     "countryId": "iso1:RU",
-    "name": "Еврейская автономная область, Russia",
+    "stateId": "iso2:RU-YEV",
+    "name": "Jewish Autonomous Oblast, Russia",
     "level": "state"
   },
   {
@@ -126243,19 +126644,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Ингушетия",
-    "coordinates": [
-      44.835279168249,
-      43.14869771655038
-    ],
-    "population": 506688,
+    "state": "Ingushetia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      44.839,
+      43.1165
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 462,
+    "featureId": "iso2:RU-IN",
+    "population": 488043,
+    "populationDensity": 156.82245950729543,
     "countryId": "iso1:RU",
-    "name": "Республика Ингушетия, Russia",
+    "stateId": "iso2:RU-IN",
+    "name": "Ingushetia, Russia",
     "level": "state"
   },
   {
@@ -126361,19 +126764,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Камчатский край",
-    "coordinates": [
-      165.0098144713644,
-      57.908945618725426
-    ],
-    "population": 312438,
+    "state": "Kamchatka Krai",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      165.036,
+      57.900999999999996
+    ],
     "tz": [
       "Etc/GMT-11"
     ],
-    "featureId": 433,
+    "featureId": "iso2:RU-KAM",
+    "population": 315557,
+    "populationDensity": 0.681587221179122,
     "countryId": "iso1:RU",
-    "name": "Камчатский край, Russia",
+    "stateId": "iso2:RU-KAM",
+    "name": "Kamchatka Krai, Russia",
     "level": "state"
   },
   {
@@ -126421,6 +126826,16 @@
     "aggregate": "state",
     "state": "Tripura",
     "rating": 0.47058823529411764,
+    "coordinates": [
+      91.747,
+      23.735500000000002
+    ],
+    "tz": [
+      "Asia/Kolkata"
+    ],
+    "featureId": "iso2:IN-TR",
+    "population": 3673917,
+    "populationDensity": 353.505229742731,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-TR",
     "name": "Tripura, India",
@@ -126451,19 +126866,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Карелия",
-    "coordinates": [
-      33.60183197741381,
-      63.66492564570197
-    ],
-    "population": 614628,
+    "state": "Republic of Karelia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      33.625,
+      63.673500000000004
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 464,
+    "featureId": "iso2:RU-KR",
+    "population": 618056,
+    "populationDensity": 3.5978414649417423,
     "countryId": "iso1:RU",
-    "name": "Республика Карелия, Russia",
+    "stateId": "iso2:RU-KR",
+    "name": "Republic of Karelia, Russia",
     "level": "state"
   },
   {
@@ -126491,19 +126908,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Карачаево-Черкесская Республика",
-    "coordinates": [
-      41.686589860883345,
-      43.83830678636408
-    ],
-    "population": 465669,
+    "state": "Karachay-Cherkessia",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      41.677,
+      43.842
+    ],
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 434,
+    "featureId": "iso2:RU-KC",
+    "population": 466305,
+    "populationDensity": 32.710060720138806,
     "countryId": "iso1:RU",
-    "name": "Карачаево-Черкесская Республика, Russia",
+    "stateId": "iso2:RU-KC",
+    "name": "Karachay-Cherkessia, Russia",
     "level": "state"
   },
   {
@@ -126531,19 +126950,21 @@
         "email": "arseniy+coronadatascraper@freeatnet.com"
       }
     ],
-    "state": "Республика Тыва",
-    "coordinates": [
-      93.99274376811039,
-      51.72730845517183
-    ],
-    "population": 327388,
+    "state": "Tuva Republic",
     "rating": 0.49019607843137253,
+    "coordinates": [
+      94.03200000000001,
+      51.735
+    ],
     "tz": [
       "Asia/Krasnoyarsk"
     ],
-    "featureId": 472,
+    "featureId": "iso2:RU-TY",
+    "population": 321722,
+    "populationDensity": 1.9117299817233875,
     "countryId": "iso1:RU",
-    "name": "Республика Тыва, Russia",
+    "stateId": "iso2:RU-TY",
+    "name": "Tuva Republic, Russia",
     "level": "state"
   },
   {
