@@ -63,8 +63,6 @@ async function generateTidyCSV(timeseriesByLocation) {
         row.push(location.coordinates ? location.coordinates[1] : '');
       } else if (column === 'long') {
         row.push(location.coordinates ? location.coordinates[0] : '');
-      } else if (column === 'tz') {
-        row.push(location[column] ? location[column].join(',') : null);
       } else {
         row.push(location[column]);
       }
@@ -116,8 +114,6 @@ async function generateCSV(timeseriesByLocation) {
         row.push(location.coordinates ? location.coordinates[1] : '');
       } else if (column === 'long') {
         row.push(location.coordinates ? location.coordinates[0] : '');
-      } else if (column === 'tz') {
-        row.push(location[column]);
       } else {
         row.push(location[column]);
       }
@@ -171,8 +167,6 @@ async function generateJHUCSV(timeseriesByLocation) {
         row.push(location.coordinates ? location.coordinates[1] : '');
       } else if (column === 'long') {
         row.push(location.coordinates ? location.coordinates[0] : '');
-      } else if (column === 'tz') {
-        row.push(location[column] ? location[column].join(',') : null);
       } else {
         row.push(location[column]);
       }
