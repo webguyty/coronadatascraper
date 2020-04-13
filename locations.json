@@ -115,10 +115,10 @@
   },
   {
     "country": "Puerto Rico",
-    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
+    "url": "http://www.salud.gov.pr/Pages/coronavirus.aspx",
     "sources": [
       {
-        "url": "http://salud.gov.pr/",
+        "url": "http://www.salud.gov.pr/",
         "name": "Gobierno de Puerto Rico Departamento de Salud"
       }
     ],
@@ -126,6 +126,15 @@
       {
         "name": "Jacob McGowan",
         "github": "jacobmcgowan"
+      },
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
       }
     ],
     "rating": 0.29411764705882354,
@@ -144,29 +153,30 @@
     "level": "country"
   },
   {
+    "country": "United States Virgin Islands",
+    "url": "https://doh.vi.gov/covid19usvi",
+    "sources": [
+      {
+        "url": "https://doh.vi.gov",
+        "name": "United States Virgin Islands Department of Health"
+      }
+    ],
     "maintainers": [
       {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "country": "United States Virgin Islands",
-    "aggregate": "county",
-    "curators": [
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      },
       {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
       }
     ],
-    "rating": 0.47058823529411764,
+    "rating": 0.2549019607843137,
     "coordinates": [
       -64.834,
       18.047
@@ -2919,31 +2929,20 @@
     "level": "county"
   },
   {
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
     "country": "United States",
     "aggregate": "county",
     "curators": [
       {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+        "name": "The New York Times",
+        "url": "http://nytimes.com/",
+        "twitter": "@nytimes",
+        "github": "nytimes"
       }
     ],
-    "county": "Prince of Wales-Hyder Census Area",
     "state": "Alaska",
-    "rating": 0.5882352941176471,
+    "county": "Prince of Wales-Hyder Census Area",
+    "rating": 0.6274509803921569,
     "coordinates": [
       -132.3350765,
       55.883404
@@ -6779,7 +6778,7 @@
     ],
     "url": "https://docs.google.com/spreadsheets/d/1CwZA4RPNf_hUrwzNLyGGNHRlh1cwl8vDHwIoae51Hac/gviz/tq?tqx=out:csv&sheet=master",
     "county": "El Dorado County",
-    "rating": 0.5686274509803921,
+    "rating": 0.6470588235294118,
     "coordinates": [
       -120.509148,
       38.785031499999995
@@ -13665,7 +13664,7 @@
       }
     ],
     "county": "Evans County",
-    "rating": 0.39215686274509803,
+    "rating": 0.47058823529411764,
     "coordinates": [
       -81.87199849999999,
       32.1633915
@@ -47762,7 +47761,7 @@
       }
     ],
     "county": "Adair County",
-    "publishedDate": "2020-04-11T21:31:34.399Z",
+    "publishedDate": "2020-04-12T18:17:29.691Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -92.6006275,
@@ -48113,7 +48112,7 @@
       }
     ],
     "county": "Boone County",
-    "publishedDate": "2020-04-11T21:23:20.863Z",
+    "publishedDate": "2020-04-12T18:07:42.310Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -92.3372425,
@@ -48659,7 +48658,7 @@
       }
     ],
     "county": "Clay County",
-    "publishedDate": "2020-04-11T21:23:49.616Z",
+    "publishedDate": "2020-04-12T18:08:10.367Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -94.408998,
@@ -49088,7 +49087,7 @@
       }
     ],
     "county": "Dunklin County",
-    "publishedDate": "2020-04-11T21:24:11.654Z",
+    "publishedDate": "2020-04-12T18:08:28.753Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -90.16587999999999,
@@ -49127,7 +49126,7 @@
       }
     ],
     "county": "Franklin County",
-    "publishedDate": "2020-04-11T21:24:14.385Z",
+    "publishedDate": "2020-04-12T18:08:31.832Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -91.0507265,
@@ -49595,7 +49594,7 @@
       }
     ],
     "county": "Jackson County",
-    "publishedDate": "2020-04-11T21:32:44.123Z",
+    "publishedDate": "2020-04-12T18:09:25.733Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -94.3565785,
@@ -50531,7 +50530,7 @@
       }
     ],
     "county": "New Madrid County",
-    "publishedDate": "2020-04-09T19:16:21.135Z",
+    "publishedDate": "2020-04-12T18:10:24.773Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -89.64997699999999,
@@ -50804,7 +50803,7 @@
       }
     ],
     "county": "Perry County",
-    "publishedDate": "2020-04-11T21:26:30.402Z",
+    "publishedDate": "2020-04-12T18:10:45.875Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -89.81135499999999,
@@ -51311,7 +51310,7 @@
       }
     ],
     "county": "St. Charles County",
-    "publishedDate": "2020-04-11T21:27:12.520Z",
+    "publishedDate": "2020-04-12T18:11:25.102Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -90.536784,
@@ -51389,7 +51388,7 @@
       }
     ],
     "county": "Ste. Genevieve County",
-    "publishedDate": "2020-04-08T19:11:47.600Z",
+    "publishedDate": "2020-04-12T18:11:37.921Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -90.19197199999999,
@@ -51428,7 +51427,7 @@
       }
     ],
     "county": "St. Francois County",
-    "publishedDate": "2020-04-11T21:27:16.346Z",
+    "publishedDate": "2020-04-12T18:11:28.104Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -90.3792055,
@@ -51469,7 +51468,7 @@
         "flag": "🇺🇸"
       }
     ],
-    "publishedDate": "2020-04-11T14:15:00.000Z",
+    "publishedDate": "2020-04-12T14:30:00.000Z",
     "rating": 0.5098039215686274,
     "coordinates": [
       -90.427009,
@@ -51625,7 +51624,7 @@
       }
     ],
     "county": "Scott County",
-    "publishedDate": "2020-04-11T21:27:02.362Z",
+    "publishedDate": "2020-04-12T18:11:18.104Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -89.54975430984456,
@@ -51976,7 +51975,7 @@
       }
     ],
     "county": "Warren County",
-    "publishedDate": "2020-04-10T18:46:31.028Z",
+    "publishedDate": "2020-04-12T18:12:39.424Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -91.18858649999999,
@@ -52210,7 +52209,7 @@
       }
     ],
     "county": "St. Louis City",
-    "publishedDate": "2020-04-11T21:27:23.478Z",
+    "publishedDate": "2020-04-12T18:15:20.523Z",
     "rating": 0.47058823529411764,
     "coordinates": [
       -90.24257592388109,
@@ -57093,20 +57092,25 @@
     "level": "city"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Belknap County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.4455355,
       43.5229865
@@ -57124,20 +57128,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Carroll County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.25772049999999,
       43.883900660786
@@ -57155,20 +57164,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Cheshire County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -72.24313320218239,
       42.94710310025125
@@ -57186,20 +57200,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Coos County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.3879800726503,
       44.695614
@@ -57217,20 +57236,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Grafton County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.8407005,
       43.967582343828994
@@ -57248,20 +57272,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Hillsborough County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.653880629697,
       42.9520445
@@ -57279,20 +57308,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Merrimack County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.66307849999998,
       43.3102545
@@ -57310,20 +57344,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Rockingham County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.0774765,
       43.006411
@@ -57341,20 +57380,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Strafford County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -71.028488,
       43.3266045
@@ -57372,20 +57416,25 @@
     "level": "county"
   },
   {
-    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
+    "state": "New Hampshire",
     "country": "United States",
-    "aggregate": "county",
-    "curators": [
+    "sources": [
       {
-        "name": "The New York Times",
-        "url": "http://nytimes.com/",
-        "twitter": "@nytimes",
-        "github": "nytimes"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "state": "New Hampshire",
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "county": "Sullivan County",
-    "rating": 0.6274509803921569,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -72.193933,
       43.364495320279445
@@ -87020,31 +87069,20 @@
     "level": "county"
   },
   {
-    "maintainers": [
-      {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
-      }
-    ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
     "country": "United States",
     "aggregate": "county",
     "curators": [
       {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+        "name": "The New York Times",
+        "url": "http://nytimes.com/",
+        "twitter": "@nytimes",
+        "github": "nytimes"
       }
     ],
-    "county": "Morgan County",
     "state": "Utah",
-    "rating": 0.5882352941176471,
+    "county": "Morgan County",
+    "rating": 0.6274509803921569,
     "coordinates": [
       -111.549186,
       41.0769745
@@ -94741,19 +94779,24 @@
     "level": "state"
   },
   {
+    "state": "New Hampshire",
     "country": "United States",
-    "url": "https://covidtracking.com/api/states",
-    "curators": [
+    "sources": [
       {
-        "name": "The COVID Tracking Project",
-        "url": "https://covidtracking.com/",
-        "twitter": "@COVID19Tracking",
-        "github": "COVID19Tracking"
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
       }
     ],
-    "aggregate": "state",
-    "state": "New Hampshire",
-    "rating": 0.49019607843137253,
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "rating": 0.5490196078431373,
     "coordinates": [
       -71.58449999999999,
       44.001000000000005
@@ -95643,6 +95686,17 @@
   },
   {
     "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "sources": [
       {
         "description": "NSW Government Health Department",
@@ -95784,6 +95838,17 @@
   {
     "aggregate": "state",
     "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "sources": [
       {
         "description": "Australian Government Department of Health",
@@ -98583,28 +98648,22 @@
     "level": "country"
   },
   {
+    "country": "Cyprus",
+    "url": "https://www.data.gov.cy/sites/default/files/CY%20Covid19%20Daily%20Statistics_6.csv",
     "maintainers": [
       {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "country": "Cyprus",
-    "curators": [
+    "sources": [
       {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+        "description": "Official website for Cyprus Open Data",
+        "url": "https://data.gov.cy/",
+        "name": "data.gov.cy"
       }
     ],
-    "aggregate": "country",
     "rating": 0.5490196078431373,
     "coordinates": [
       33.441,
@@ -98621,29 +98680,22 @@
     "level": "country"
   },
   {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
     "maintainers": [
       {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "country": "Czechia",
-    "curators": [
-      {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
-      }
-    ],
-    "aggregate": "country",
-    "rating": 0.5490196078431373,
+    "rating": 0.39215686274509803,
     "coordinates": [
       15.474499999999999,
       49.805
@@ -99001,29 +99053,22 @@
     "level": "country"
   },
   {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
     "maintainers": [
       {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "country": "Estonia",
-    "curators": [
+    "sources": [
       {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
       }
     ],
-    "aggregate": "country",
-    "rating": 0.5490196078431373,
+    "rating": 0.39215686274509803,
     "coordinates": [
       24.989,
       58.668000000000006
@@ -99760,10 +99805,29 @@
     "level": "country"
   },
   {
+    "maintainers": [
+      {
+        "name": "Larry Davis",
+        "email": "lazdnet@gmail.com",
+        "twitter": "lazdnet",
+        "github": "lazd",
+        "country": "iso1:US",
+        "state": "CA",
+        "county": "San Francisco",
+        "city": "San Francisco",
+        "flag": "🇺🇸"
+      }
+    ],
+    "url": "https://github.com/CSSEGISandData/COVID-19",
     "country": "India",
-    "url": "https://www.mohfw.gov.in/",
-    "aggregate": "state",
-    "rating": 0.43137254901960786,
+    "curators": [
+      {
+        "name": "JHU CSSE",
+        "url": "https://systems.jhu.edu/research/public-health/ncov/"
+      }
+    ],
+    "aggregate": "country",
+    "rating": 0.5490196078431373,
     "coordinates": [
       82.786,
       21.2135
@@ -99780,6 +99844,17 @@
   },
   {
     "country": "Indonesia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "sources": [
       {
         "description": "Ministry of Health Republic of Indonesia",
@@ -101022,29 +101097,23 @@
     "level": "country"
   },
   {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
     "maintainers": [
       {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "country": "Netherlands",
-    "curators": [
-      {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
-      }
-    ],
-    "aggregate": "country",
-    "rating": 0.5490196078431373,
+    "rating": 0.39215686274509803,
     "coordinates": [
       -31.418499999999995,
       32.7635
@@ -101061,6 +101130,17 @@
   },
   {
     "country": "New Zealand",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "sources": [
       {
         "description": "New Zealand Government Ministry of Health",
@@ -101883,29 +101963,16 @@
     "level": "country"
   },
   {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
     "maintainers": [
       {
-        "name": "Larry Davis",
-        "email": "lazdnet@gmail.com",
-        "twitter": "lazdnet",
-        "github": "lazd",
-        "country": "iso1:US",
-        "state": "CA",
-        "county": "San Francisco",
-        "city": "San Francisco",
-        "flag": "🇺🇸"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "country": "Saudi Arabia",
-    "curators": [
-      {
-        "name": "JHU CSSE",
-        "url": "https://systems.jhu.edu/research/public-health/ncov/"
-      }
-    ],
-    "aggregate": "country",
-    "rating": 0.5490196078431373,
+    "rating": 0.47058823529411764,
     "coordinates": [
       45.084500000000006,
       24.267000000000003
@@ -103958,6 +104025,17 @@
   {
     "aggregate": "state",
     "country": "Australia",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "sources": [
       {
         "description": "Australian Government Department of Health",
@@ -104811,9 +104889,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Vinnytsia Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Vinnytsia Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       28.695999999999998,
       48.983000000000004
@@ -104825,9 +104903,9 @@
     "population": 1575808,
     "populationDensity": 59.424284816936876,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-05",
+    "stateId": "iso2:UA-05",
     "name": "Vinnytsia Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -104849,9 +104927,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Volyn Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Volyn Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       24.856,
       51.128
@@ -104863,9 +104941,9 @@
     "population": 1038457,
     "populationDensity": 51.57021551087024,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-07",
+    "stateId": "iso2:UA-07",
     "name": "Volyn Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -104887,9 +104965,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Dnipropetrovsk Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Dnipropetrovsk Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       34.949,
       48.325500000000005
@@ -104901,9 +104979,9 @@
     "population": 3231140,
     "populationDensity": 101.25529246671012,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-12",
+    "stateId": "iso2:UA-12",
     "name": "Dnipropetrovsk Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -104925,9 +105003,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Donetsk Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Donetsk Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       37.816500000000005,
       48.058
@@ -104939,9 +105017,9 @@
     "population": 4200461,
     "populationDensity": 158.3885012740352,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-14",
+    "stateId": "iso2:UA-14",
     "name": "Donetsk Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -104963,9 +105041,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Zhytomyr Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Zhytomyr Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       28.463,
       50.6355
@@ -104977,9 +105055,9 @@
     "population": 1231239,
     "populationDensity": 41.25284055447831,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-18",
+    "stateId": "iso2:UA-18",
     "name": "Zhytomyr Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105001,9 +105079,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Zakarpattia Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Zakarpattia Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       23.3825,
       48.493
@@ -105015,9 +105093,9 @@
     "population": 1258155,
     "populationDensity": 98.76112436707649,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-21",
+    "stateId": "iso2:UA-21",
     "name": "Zakarpattia Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105039,9 +105117,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Zaporizhia Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Zaporizhia Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       35.692,
       47.205
@@ -105053,9 +105131,9 @@
     "population": 1723171,
     "populationDensity": 63.684592311420396,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-23",
+    "stateId": "iso2:UA-23",
     "name": "Zaporizhia Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105077,9 +105155,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Ivano-Frankivsk Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Ivano-Frankivsk Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       24.6,
       48.635999999999996
@@ -105091,9 +105169,9 @@
     "population": 1377496,
     "populationDensity": 98.87937590781378,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-26",
+    "stateId": "iso2:UA-26",
     "name": "Ivano-Frankivsk Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105115,9 +105193,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Kyiv Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Kyiv Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       30.715,
       50.367000000000004
@@ -105129,9 +105207,9 @@
     "population": 1754284,
     "populationDensity": 62.40636441095141,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-32",
+    "stateId": "iso2:UA-32",
     "name": "Kyiv Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105153,9 +105231,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Kirovohrad Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Kirovohrad Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       31.8215,
       48.4975
@@ -105167,9 +105245,9 @@
     "population": 956250,
     "populationDensity": 39.04230118545635,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-35",
+    "stateId": "iso2:UA-35",
     "name": "Kirovohrad Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105191,9 +105269,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Luhansk Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Luhansk Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       39.036500000000004,
       48.9555
@@ -105205,9 +105283,9 @@
     "population": 2167802,
     "populationDensity": 81.26028387580936,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-09",
+    "stateId": "iso2:UA-09",
     "name": "Luhansk Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105229,9 +105307,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Lviv Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Lviv Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       24.022,
       49.681
@@ -105243,9 +105321,9 @@
     "population": 2529608,
     "populationDensity": 116.19922272018626,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-46",
+    "stateId": "iso2:UA-46",
     "name": "Lviv Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105267,9 +105345,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Mykolaiv Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Mykolaiv Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       31.704,
       47.296499999999995
@@ -105281,9 +105359,9 @@
     "population": 1141324,
     "populationDensity": 47.93180441354539,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-48",
+    "stateId": "iso2:UA-48",
     "name": "Mykolaiv Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105305,9 +105383,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Kyiv",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Kyiv",
+    "rating": 0.49019607843137253,
     "coordinates": [
       30.5315,
       50.402
@@ -105319,9 +105397,9 @@
     "population": 2935239,
     "populationDensity": 3523.416609264931,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-30",
+    "stateId": "iso2:UA-30",
     "name": "Kyiv, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105343,9 +105421,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Odesa Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Odesa Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       29.7595,
       46.709500000000006
@@ -105357,9 +105435,9 @@
     "population": 2383075,
     "populationDensity": 71.49153486911344,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-51",
+    "stateId": "iso2:UA-51",
     "name": "Odesa Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105381,9 +105459,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Poltava Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Poltava Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       33.786500000000004,
       49.63849999999999
@@ -105395,9 +105473,9 @@
     "population": 1413829,
     "populationDensity": 49.285479455450115,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-53",
+    "stateId": "iso2:UA-53",
     "name": "Poltava Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105419,9 +105497,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Rivne Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Rivne Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       26.4185,
       50.977000000000004
@@ -105433,9 +105511,9 @@
     "population": 1160647,
     "populationDensity": 57.915799144574805,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-56",
+    "stateId": "iso2:UA-56",
     "name": "Rivne Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105457,9 +105535,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Sumy Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Sumy Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       34.316500000000005,
       51.239
@@ -105471,9 +105549,9 @@
     "population": 1094284,
     "populationDensity": 45.93373677528393,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-59",
+    "stateId": "iso2:UA-59",
     "name": "Sumy Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105495,9 +105573,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Ternopil Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Ternopil Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       25.582,
       49.3855
@@ -105509,9 +105587,9 @@
     "population": 1052312,
     "populationDensity": 76.26066023942941,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-61",
+    "stateId": "iso2:UA-61",
     "name": "Ternopil Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105533,9 +105611,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Kharkiv Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Kharkiv Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       36.475,
       49.4945
@@ -105547,9 +105625,9 @@
     "population": 2694007,
     "populationDensity": 85.78651151142137,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-63",
+    "stateId": "iso2:UA-63",
     "name": "Kharkiv Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105571,9 +105649,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Kherson Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Kherson Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       33.394999999999996,
       46.679500000000004
@@ -105585,9 +105663,9 @@
     "population": 1055600,
     "populationDensity": 41.43912691323679,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-65",
+    "stateId": "iso2:UA-65",
     "name": "Kherson Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105609,9 +105687,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Khmelnytskyi Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Khmelnytskyi Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       27.0155,
       49.522
@@ -105623,9 +105701,9 @@
     "population": 1274409,
     "populationDensity": 61.92767695887831,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-68",
+    "stateId": "iso2:UA-68",
     "name": "Khmelnytskyi Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105647,9 +105725,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Cherkasy Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Cherkasy Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       31.262500000000003,
       49.34
@@ -105661,9 +105739,9 @@
     "population": 1220363,
     "populationDensity": 58.38532710996137,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-71",
+    "stateId": "iso2:UA-71",
     "name": "Cherkasy Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105685,9 +105763,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Chernivtsi Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Chernivtsi Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       26.223,
       48.1995
@@ -105699,9 +105777,9 @@
     "population": 906701,
     "populationDensity": 111.85538896870199,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-77",
+    "stateId": "iso2:UA-77",
     "name": "Chernivtsi Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "country": "Ukraine",
@@ -105723,9 +105801,9 @@
         "flag": "🇰🇷"
       }
     ],
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "county": "Chernihiv Oblast",
-    "rating": 0.5294117647058824,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
+    "state": "Chernihiv Oblast",
+    "rating": 0.49019607843137253,
     "coordinates": [
       31.999000000000002,
       51.361
@@ -105737,9 +105815,9 @@
     "population": 985216,
     "populationDensity": 30.960817624826102,
     "countryId": "iso1:UA",
-    "countyId": "iso2:UA-74",
+    "stateId": "iso2:UA-74",
     "name": "Chernihiv Oblast, Ukraine",
-    "level": "county"
+    "level": "state"
   },
   {
     "state": "Washington",
@@ -105801,6 +105879,15 @@
     "state": "Washington, D.C.",
     "country": "United States",
     "county": "District of Columbia",
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "url": "https://aed3.github.io",
+        "county": "iso1:US",
+        "flag": "🇺🇸"
+      }
+    ],
     "sources": [
       {
         "name": "DC Public Health Laboratory"
@@ -111049,6 +111136,39 @@
     "level": "state"
   },
   {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Harju maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      24.843,
+      59.347
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-37",
+    "population": 589610,
+    "populationDensity": 137.60686193608797,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-37",
+    "name": "Harju maakond, Estonia",
+    "level": "state"
+  },
+  {
     "country": "Italy",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "aggregate": "state",
@@ -111466,6 +111586,72 @@
     "countryId": "iso1:IT",
     "stateId": "iso2:IT-34",
     "name": "Veneto, Italy",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Pärnu maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      24.354,
+      58.317
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-67",
+    "population": 85756,
+    "populationDensity": 15.840736054966795,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-67",
+    "name": "Pärnu maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Tartu maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      26.8035,
+      58.4075
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-78",
+    "population": 151122,
+    "populationDensity": 37.40761835056606,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-78",
+    "name": "Tartu maakond, Estonia",
     "level": "state"
   },
   {
@@ -112400,6 +112586,241 @@
     "level": "state"
   },
   {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "North Brabant",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      5.119,
+      51.525999999999996
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-NB",
+    "population": 2256848,
+    "populationDensity": 445.694269685017,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-NB",
+    "name": "North Brabant, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "North Holland",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      4.935499999999999,
+      52.674499999999995
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-NH",
+    "population": 2813466,
+    "populationDensity": 829.3933879813484,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-NH",
+    "name": "North Holland, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Hlavní město Praha",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      14.4785,
+      50.062
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-10",
+    "population": 1308632,
+    "populationDensity": 2655.7145472047796,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-10",
+    "name": "Hlavní město Praha, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Ústecký kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      13.799,
+      50.5665
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-42",
+    "population": 820789,
+    "populationDensity": 154.5223228780025,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-42",
+    "name": "Ústecký kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Viljandi maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      25.583,
+      58.323
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-84",
+    "population": 46782,
+    "populationDensity": 13.032480001134381,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-84",
+    "name": "Viljandi maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "South Holland",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      4.432,
+      51.9875
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-ZH",
+    "population": 3577032,
+    "populationDensity": 1148.3987466421272,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-ZH",
+    "name": "South Holland, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Drenthe",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      6.6065000000000005,
+      52.908
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-DR",
+    "population": 491792,
+    "populationDensity": 184.76563431090085,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-DR",
+    "name": "Drenthe, Netherlands",
+    "level": "state"
+  },
+  {
     "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
     "country": "United States",
     "aggregate": "county",
@@ -112418,6 +112839,713 @@
     "stateId": "iso2:US-NY",
     "name": "New York City, New York, United States",
     "level": "city"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Riyadh Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      45.141999999999996,
+      23.464
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-01",
+    "population": 6777146,
+    "populationDensity": 17.962652388669113,
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-01",
+    "name": "Riyadh Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Eastern Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      50.323,
+      23.1085
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-04",
+    "population": 4105780,
+    "populationDensity": 7.324232512973057,
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-04",
+    "name": "Eastern Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Al-Qassim Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      43.069500000000005,
+      26.2765
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-05",
+    "population": 1159438,
+    "populationDensity": 16.905603506183198,
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-05",
+    "name": "Al-Qassim Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Makkah Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      41.1635,
+      21.0335
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-02",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-02",
+    "name": "Makkah Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Jazan Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      42.3965,
+      17.354
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-09",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-09",
+    "name": "Jazan Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Al Madinah Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      39.438500000000005,
+      25.0065
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-03",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-03",
+    "name": "Al Madinah Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Tabuk Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      37.2525,
+      27.2675
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-07",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-07",
+    "name": "Tabuk Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Al Bahah Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      41.418,
+      20.060499999999998
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-11",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-11",
+    "name": "Al Bahah Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "'Asir Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      42.9525,
+      19.201
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-14",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-14",
+    "name": "'Asir Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Najran Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      45.6815,
+      18.240499999999997
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-10",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-10",
+    "name": "Najran Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Northern Borders Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      41.97,
+      29.8395
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-08",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-08",
+    "name": "Northern Borders Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Saudi Arabia",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Hayel Region",
+    "rating": 0.5098039215686274,
+    "coordinates": [
+      41.6485,
+      27.0945
+    ],
+    "tz": [
+      "Asia/Riyadh"
+    ],
+    "featureId": "iso2:SA-06",
+    "countryId": "iso1:SA",
+    "stateId": "iso2:SA-06",
+    "name": "Hayel Region, Saudi Arabia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Jõgeva maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      26.5535,
+      58.7695
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-49",
+    "population": 29119,
+    "populationDensity": 10.120221911590178,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-49",
+    "name": "Jõgeva maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Rapla maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      24.7025,
+      58.9415
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-70",
+    "population": 33299,
+    "populationDensity": 12.07879497572146,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-70",
+    "name": "Rapla maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Utrecht",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      5.209,
+      52.0805
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-UT",
+    "population": 1253672,
+    "populationDensity": 800.5396921491647,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-UT",
+    "name": "Utrecht, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Saare maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      22.6025,
+      58.233000000000004
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-74",
+    "population": 33231,
+    "populationDensity": 11.472399722810328,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-74",
+    "name": "Saare maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Järva maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      25.607,
+      58.937
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-51",
+    "population": 30661,
+    "populationDensity": 11.481694504750509,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-51",
+    "name": "Järva maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Gelderland",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      5.9145,
+      52.1275
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-GE",
+    "population": 2019692,
+    "populationDensity": 392.82648978422446,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-GE",
+    "name": "Gelderland, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Võru maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      27.1045,
+      57.8155
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-86",
+    "population": 36133,
+    "populationDensity": 12.960631598016127,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-86",
+    "name": "Võru maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Lääne-Viru maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      26.2485,
+      59.35
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-59",
+    "population": 59791,
+    "populationDensity": 16.195049476152743,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-59",
+    "name": "Lääne-Viru maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Valga maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      26.1025,
+      57.8695
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-82",
+    "population": 28669,
+    "populationDensity": 15.079009569950305,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-82",
+    "name": "Valga maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Flevoland",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      5.5385,
+      52.545
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-FL",
+    "population": 399893,
+    "populationDensity": 166.73071696914292,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-FL",
+    "name": "Flevoland, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Limburg",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      5.896,
+      51.266
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-LI",
+    "population": 1120006,
+    "populationDensity": 500.76517130266933,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-LI",
+    "name": "Limburg, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Overijssel",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      6.425,
+      52.4865
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-OV",
+    "population": 1142360,
+    "populationDensity": 333.74641356770394,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-OV",
+    "name": "Overijssel, Netherlands",
+    "level": "state"
   },
   {
     "country": "South Africa",
@@ -112726,6 +113854,205 @@
     "level": "state"
   },
   {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Lääne maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      23.637,
+      59.010000000000005
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-57",
+    "population": 20646,
+    "populationDensity": 11.580185993928808,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-57",
+    "name": "Lääne maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Zeeland",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      3.8175,
+      51.487
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-ZE",
+    "population": 380726,
+    "populationDensity": 166.39419423072684,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-ZE",
+    "name": "Zeeland, Netherlands",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Středočeský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      14.4665,
+      50.058
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-20",
+    "population": 1369332,
+    "populationDensity": 125.10711638966657,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-20",
+    "name": "Středočeský kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Královéhradecký kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      15.841999999999999,
+      50.409000000000006
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-52",
+    "population": 551021,
+    "populationDensity": 115.59824846422646,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-52",
+    "name": "Královéhradecký kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Zlínský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      17.7695,
+      49.196
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-72",
+    "population": 582921,
+    "populationDensity": 147.02944101690855,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-72",
+    "name": "Zlínský kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Hiiu maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      22.616500000000002,
+      58.8895
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-39",
+    "population": 9387,
+    "populationDensity": 9.198605386576343,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-39",
+    "name": "Hiiu maakond, Estonia",
+    "level": "state"
+  },
+  {
     "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
     "country": "United States",
     "aggregate": "county",
@@ -112744,6 +114071,139 @@
     "stateId": "iso2:US-VA",
     "name": "Virginia Beach city, Virginia, United States",
     "level": "city"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Kraj Vysočina",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      15.652999999999999,
+      49.4015
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-63",
+    "population": 509274,
+    "populationDensity": 75.13924040773088,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-63",
+    "name": "Kraj Vysočina, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Olomouc Region",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      17.314500000000002,
+      49.861999999999995
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-71",
+    "population": 632492,
+    "populationDensity": 119.8981538104448,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-71",
+    "name": "Olomouc Region, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Ida-Viru maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      27.456000000000003,
+      59.1295
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-44",
+    "population": 138266,
+    "populationDensity": 40.21608251646996,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-44",
+    "name": "Ida-Viru maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Friesland",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      5.6455,
+      53.1405
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-FR",
+    "population": 646317,
+    "populationDensity": 161.82710102792709,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-FR",
+    "name": "Friesland, Netherlands",
+    "level": "state"
   },
   {
     "country": "Canada",
@@ -112771,6 +114231,171 @@
     "countryId": "iso1:CA",
     "stateId": "iso2:CA-NU",
     "name": "Nunavut, Canada",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Jihočeský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      14.573,
+      49.085499999999996
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-31",
+    "population": 642133,
+    "populationDensity": 63.930268200018304,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-31",
+    "name": "Jihočeský kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Plzeňský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      13.1205,
+      49.522999999999996
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-32",
+    "population": 584672,
+    "populationDensity": 76.59621595994561,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-32",
+    "name": "Plzeňský kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Karlovarský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      12.7,
+      50.176500000000004
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-41",
+    "population": 294896,
+    "populationDensity": 89.13522459424773,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-41",
+    "name": "Karlovarský kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Pardubický kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      16.113,
+      49.888999999999996
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-53",
+    "population": 520316,
+    "populationDensity": 115.16321151440943,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-53",
+    "name": "Pardubický kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Jihomoravský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      16.5945,
+      49.1225
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-64",
+    "population": 1187667,
+    "populationDensity": 165.47232192801377,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-64",
+    "name": "Jihomoravský kraj, Czechia",
     "level": "state"
   },
   {
@@ -113462,6 +115087,139 @@
     "level": "state"
   },
   {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Liberecký kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      14.9915,
+      50.7515
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-51",
+    "population": 442356,
+    "populationDensity": 140.5416136070536,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-51",
+    "name": "Liberecký kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Czechia",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Moravskoslezský kraj",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      17.999,
+      49.861000000000004
+    ],
+    "tz": [
+      "Europe/Prague"
+    ],
+    "featureId": "iso2:CZ-80",
+    "population": 1203299,
+    "populationDensity": 221.1469472323392,
+    "countryId": "iso1:CZ",
+    "stateId": "iso2:CZ-80",
+    "name": "Moravskoslezský kraj, Czechia",
+    "level": "state"
+  },
+  {
+    "country": "Estonia",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "state": "Põlva maakond",
+    "rating": 0.43137254901960786,
+    "coordinates": [
+      27.085,
+      58.1695
+    ],
+    "tz": [
+      "Europe/Tallinn"
+    ],
+    "featureId": "iso2:EE-65",
+    "population": 25290,
+    "populationDensity": 12.858483409576596,
+    "countryId": "iso1:EE",
+    "stateId": "iso2:EE-65",
+    "name": "Põlva maakond, Estonia",
+    "level": "state"
+  },
+  {
+    "country": "Netherlands",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "state": "Groningen",
+    "rating": 0.35294117647058826,
+    "coordinates": [
+      6.702,
+      53.189499999999995
+    ],
+    "tz": [
+      "Europe/Amsterdam"
+    ],
+    "featureId": "iso2:NL-GR",
+    "population": 582728,
+    "populationDensity": 242.36678670872539,
+    "countryId": "iso1:NL",
+    "stateId": "iso2:NL-GR",
+    "name": "Groningen, Netherlands",
+    "level": "state"
+  },
+  {
     "url": "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv",
     "country": "United States",
     "aggregate": "county",
@@ -113656,7 +115414,7 @@
     ],
     "featureId": "fips:49003+fips:49005+fips:49033",
     "population": 186818,
-    "populationDensity": 8.018302867695931,
+    "populationDensity": 8.018302867696056,
     "countryId": "iso1:US",
     "stateId": "iso2:US-UT",
     "countyId": "fips:49003+fips:49005+fips:49033",
@@ -113685,7 +115443,7 @@
     ],
     "featureId": "fips:49023+fips:49027+fips:49031+fips:49039+fips:49041+fips:49055",
     "population": 81954,
-    "populationDensity": 1.859066659038077,
+    "populationDensity": 1.8590666590381224,
     "countryId": "iso1:US",
     "stateId": "iso2:US-UT",
     "countyId": "fips:49023+fips:49027+fips:49031+fips:49039+fips:49041+fips:49055",
@@ -113714,7 +115472,7 @@
     ],
     "featureId": "fips:49007+fips:49015+fips:49019",
     "population": 40229,
-    "populationDensity": 1.6069104506304555,
+    "populationDensity": 1.6069104506304654,
     "countryId": "iso1:US",
     "stateId": "iso2:US-UT",
     "countyId": "fips:49007+fips:49015+fips:49019",
@@ -113743,7 +115501,7 @@
     ],
     "featureId": "fips:49001+fips:49017+fips:49021+fips:49025+fips:49053",
     "population": 252042,
-    "populationDensity": 5.509532641154943,
+    "populationDensity": 5.509532641154889,
     "countryId": "iso1:US",
     "stateId": "iso2:US-UT",
     "countyId": "fips:49001+fips:49017+fips:49021+fips:49025+fips:49053",
@@ -113772,7 +115530,7 @@
     ],
     "featureId": "fips:49047+fips:49013+fips:49009",
     "population": 56622,
-    "populationDensity": 2.5793416807140823,
+    "populationDensity": 2.57934168071408,
     "countryId": "iso1:US",
     "stateId": "iso2:US-UT",
     "countyId": "fips:49047+fips:49013+fips:49009",
@@ -113801,7 +115559,7 @@
     ],
     "featureId": "fips:49057+fips:49029",
     "population": 272337,
-    "populationDensity": 82.55381810968692,
+    "populationDensity": 82.55381810968137,
     "countryId": "iso1:US",
     "stateId": "iso2:US-UT",
     "countyId": "fips:49057+fips:49029",
@@ -117728,21 +119486,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Ayrshire and Arran",
+    "county": "Scottish Borders",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Ayrshire and Arran, Scotland, United Kingdom",
-    "level": "county"
-  },
-  {
-    "country": "United Kingdom",
-    "state": "Scotland",
-    "url": "https://www.gov.scot/coronavirus-covid-19/",
-    "aggregate": "county",
-    "county": "Borders",
-    "rating": 0.39215686274509803,
-    "countryId": "iso1:GB",
-    "name": "Borders, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-SCB",
+    "name": "Scottish Borders, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117753,6 +119502,8 @@
     "county": "Dumfries and Galloway",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-DGY",
     "name": "Dumfries and Galloway, Scotland, United Kingdom",
     "level": "county"
   },
@@ -117764,6 +119515,8 @@
     "county": "Fife",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-FIF",
     "name": "Fife, Scotland, United Kingdom",
     "level": "county"
   },
@@ -117772,10 +119525,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Forth Valley",
+    "county": "Clackmannanshire, Falkirk, Stirling",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Forth Valley, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-CLK+iso2:GB-FAL+iso2:GB-STG",
+    "name": "Clackmannanshire, Falkirk, Stirling, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117783,10 +119538,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Grampian",
+    "county": "Aberdeenshire, Aberdeen City, Moray",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Grampian, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-ABD+iso2:GB-ABE+iso2:GB-MRY",
+    "name": "Aberdeenshire, Aberdeen City, Moray, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117794,10 +119551,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Greater Glasgow and Clyde",
+    "county": "Glasgow City, East Dunbartonshire, East Renfrewshire, Inverclyde, Renfrewshire, West Dunbartonshire",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Greater Glasgow and Clyde, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-GLG+iso2:GB-EDU+iso2:GB-ERW+iso2:GB-IVC+iso2:GB-RFW+iso2:GB-WDU",
+    "name": "Glasgow City, East Dunbartonshire, East Renfrewshire, Inverclyde, Renfrewshire, West Dunbartonshire, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117805,10 +119564,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Highland",
+    "county": "Highland, Argyll and Bute",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Highland, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-HLD+iso2:GB-AGB",
+    "name": "Highland, Argyll and Bute, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117816,10 +119577,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Lanarkshire",
+    "county": "North Lanarkshire, South Lanarkshire",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Lanarkshire, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-NLK+iso2:GB-SLK",
+    "name": "North Lanarkshire, South Lanarkshire, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117827,10 +119590,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Lothian",
+    "county": "City of Edinburgh, East Lothian, Midlothian, West Lothian",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Lothian, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-EDH+iso2:GB-ELN+iso2:GB-MLN+iso2:GB-WLN",
+    "name": "City of Edinburgh, East Lothian, Midlothian, West Lothian, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117838,10 +119603,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Shetland",
+    "county": "Shetland Islands",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Shetland, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-ZET",
+    "name": "Shetland Islands, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117849,10 +119616,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Tayside",
+    "county": "Angus, Dundee City, Perth and Kinross",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Tayside, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-ANS+iso2:GB-DND+iso2:GB-PKN",
+    "name": "Angus, Dundee City, Perth and Kinross, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -117861,7 +119630,18 @@
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
     "rating": 0.27450980392156865,
+    "coordinates": [
+      -4.6899999999999995,
+      57.739000000000004
+    ],
+    "tz": [
+      "Europe/London"
+    ],
+    "featureId": "iso2:GB-SCT",
+    "population": 5404700,
+    "populationDensity": 68.69804657978987,
     "countryId": "iso1:GB",
+    "stateId": "iso2:GB-SCT",
     "name": "Scotland, United Kingdom",
     "level": "state"
   },
@@ -118230,7 +120010,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 439,
+    "featureId": 445,
     "countryId": "iso1:RU",
     "name": "Москва, Russia",
     "level": "state"
@@ -118270,7 +120050,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 440,
+    "featureId": 446,
     "countryId": "iso1:RU",
     "name": "Московская область, Russia",
     "level": "state"
@@ -118310,7 +120090,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 472,
+    "featureId": 478,
     "countryId": "iso1:RU",
     "name": "Санкт-Петербург, Russia",
     "level": "state"
@@ -118350,7 +120130,7 @@
     "tz": [
       "Europe/Samara"
     ],
-    "featureId": 471,
+    "featureId": 477,
     "countryId": "iso1:RU",
     "name": "Самарская область, Russia",
     "level": "state"
@@ -118390,7 +120170,7 @@
     "tz": [
       "Asia/Vladivostok"
     ],
-    "featureId": 463,
+    "featureId": 469,
     "countryId": "iso1:RU",
     "name": "Республика Саха (Якутия), Russia",
     "level": "state"
@@ -118430,7 +120210,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 475,
+    "featureId": 481,
     "countryId": "iso1:RU",
     "name": "Свердловская область, Russia",
     "level": "state"
@@ -118470,7 +120250,7 @@
     "tz": [
       "Europe/Kaliningrad"
     ],
-    "featureId": 425,
+    "featureId": 431,
     "countryId": "iso1:RU",
     "name": "Калининградская область, Russia",
     "level": "state"
@@ -118510,7 +120290,7 @@
     "tz": [
       "Europe/Kirov"
     ],
-    "featureId": 430,
+    "featureId": 436,
     "countryId": "iso1:RU",
     "name": "Кировская область, Russia",
     "level": "state"
@@ -118550,7 +120330,7 @@
     "tz": [
       "Asia/Novosibirsk"
     ],
-    "featureId": 444,
+    "featureId": 450,
     "countryId": "iso1:RU",
     "name": "Новосибирская область, Russia",
     "level": "state"
@@ -118590,7 +120370,7 @@
     "tz": [
       "Asia/Krasnoyarsk"
     ],
-    "featureId": 433,
+    "featureId": 439,
     "countryId": "iso1:RU",
     "name": "Красноярский край, Russia",
     "level": "state"
@@ -118630,7 +120410,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 479,
+    "featureId": 485,
     "countryId": "iso1:RU",
     "name": "Тамбовская область, Russia",
     "level": "state"
@@ -118670,7 +120450,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 437,
+    "featureId": 443,
     "countryId": "iso1:RU",
     "name": "Липецкая область, Russia",
     "level": "state"
@@ -118710,7 +120490,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 480,
+    "featureId": 486,
     "countryId": "iso1:RU",
     "name": "Тверская область, Russia",
     "level": "state"
@@ -118750,7 +120530,7 @@
     "tz": [
       "Etc/GMT-9"
     ],
-    "featureId": 486,
+    "featureId": 492,
     "countryId": "iso1:RU",
     "name": "Хабаровский край, Russia",
     "level": "state"
@@ -118790,7 +120570,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 483,
+    "featureId": 489,
     "countryId": "iso1:RU",
     "name": "Тюменская область, Russia",
     "level": "state"
@@ -118830,7 +120610,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 482,
+    "featureId": 488,
     "countryId": "iso1:RU",
     "name": "Тульская область, Russia",
     "level": "state"
@@ -118870,7 +120650,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 449,
+    "featureId": 455,
     "countryId": "iso1:RU",
     "name": "Пермский край, Russia",
     "level": "state"
@@ -118910,7 +120690,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 442,
+    "featureId": 448,
     "countryId": "iso1:RU",
     "name": "Нижегородская область, Russia",
     "level": "state"
@@ -118950,7 +120730,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 432,
+    "featureId": 438,
     "countryId": "iso1:RU",
     "name": "Краснодарский край, Russia",
     "level": "state"
@@ -118990,7 +120770,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 419,
+    "featureId": 425,
     "countryId": "iso1:RU",
     "name": "Воронежская область, Russia",
     "level": "state"
@@ -119030,7 +120810,7 @@
     "tz": [
       "Asia/Novokuznetsk"
     ],
-    "featureId": 429,
+    "featureId": 435,
     "countryId": "iso1:RU",
     "name": "Кемеровская область, Russia",
     "level": "state"
@@ -119070,7 +120850,7 @@
     "tz": [
       "Asia/Krasnoyarsk"
     ],
-    "featureId": 467,
+    "featureId": 473,
     "countryId": "iso1:RU",
     "name": "Республика Хакасия, Russia",
     "level": "state"
@@ -119110,7 +120890,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 441,
+    "featureId": 447,
     "countryId": "iso1:RU",
     "name": "Мурманская область, Russia",
     "level": "state"
@@ -119150,7 +120930,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 459,
+    "featureId": 465,
     "countryId": "iso1:RU",
     "name": "Республика Коми, Russia",
     "level": "state"
@@ -119190,7 +120970,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 426,
+    "featureId": 432,
     "countryId": "iso1:RU",
     "name": "Калужская область, Russia",
     "level": "state"
@@ -119230,7 +121010,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 422,
+    "featureId": 428,
     "countryId": "iso1:RU",
     "name": "Ивановская область, Russia",
     "level": "state"
@@ -119270,7 +121050,7 @@
     "tz": [
       "Asia/Chita"
     ],
-    "featureId": 421,
+    "featureId": 427,
     "countryId": "iso1:RU",
     "name": "Забайкальский край, Russia",
     "level": "state"
@@ -119310,7 +121090,7 @@
     "tz": [
       "Asia/Tomsk"
     ],
-    "featureId": 481,
+    "featureId": 487,
     "countryId": "iso1:RU",
     "name": "Томская область, Russia",
     "level": "state"
@@ -119350,7 +121130,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 412,
+    "featureId": 418,
     "countryId": "iso1:RU",
     "name": "Архангельская область, Russia",
     "level": "state"
@@ -119390,7 +121170,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 470,
+    "featureId": 476,
     "countryId": "iso1:RU",
     "name": "Рязанская область, Russia",
     "level": "state"
@@ -119466,7 +121246,7 @@
     "tz": [
       "Europe/Ulyanovsk"
     ],
-    "featureId": 485,
+    "featureId": 491,
     "countryId": "iso1:RU",
     "name": "Ульяновская область, Russia",
     "level": "state"
@@ -119506,7 +121286,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 491,
+    "featureId": 497,
     "countryId": "iso1:RU",
     "name": "Ярославская область, Russia",
     "level": "state"
@@ -119546,7 +121326,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 448,
+    "featureId": 454,
     "countryId": "iso1:RU",
     "name": "Пензенская область, Russia",
     "level": "state"
@@ -119586,7 +121366,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 414,
+    "featureId": 420,
     "countryId": "iso1:RU",
     "name": "Белгородская область, Russia",
     "level": "state"
@@ -119626,7 +121406,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 487,
+    "featureId": 493,
     "countryId": "iso1:RU",
     "name": "Ханты-Мансийский АО, Russia",
     "level": "state"
@@ -119666,7 +121446,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 436,
+    "featureId": 442,
     "countryId": "iso1:RU",
     "name": "Ленинградская область, Russia",
     "level": "state"
@@ -119706,7 +121486,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 446,
+    "featureId": 452,
     "countryId": "iso1:RU",
     "name": "Оренбургская область, Russia",
     "level": "state"
@@ -119746,7 +121526,7 @@
     "tz": [
       "Europe/Saratov"
     ],
-    "featureId": 473,
+    "featureId": 479,
     "countryId": "iso1:RU",
     "name": "Саратовская область, Russia",
     "level": "state"
@@ -119786,7 +121566,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 465,
+    "featureId": 471,
     "countryId": "iso1:RU",
     "name": "Республика Татарстан, Russia",
     "level": "state"
@@ -119826,7 +121606,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 434,
+    "featureId": 440,
     "countryId": "iso1:RU",
     "name": "Курганская область, Russia",
     "level": "state"
@@ -119866,7 +121646,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 424,
+    "featureId": 430,
     "countryId": "iso1:RU",
     "name": "Кабардино-Балкарская Республика, Russia",
     "level": "state"
@@ -119906,7 +121686,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 488,
+    "featureId": 494,
     "countryId": "iso1:RU",
     "name": "Челябинская область, Russia",
     "level": "state"
@@ -119946,7 +121726,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 478,
+    "featureId": 484,
     "countryId": "iso1:RU",
     "name": "Ставропольский край, Russia",
     "level": "state"
@@ -119986,7 +121766,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 415,
+    "featureId": 421,
     "countryId": "iso1:RU",
     "name": "Брянская область, Russia",
     "level": "state"
@@ -120026,7 +121806,7 @@
     "tz": [
       "Europe/Samara"
     ],
-    "featureId": 484,
+    "featureId": 490,
     "countryId": "iso1:RU",
     "name": "Удмуртская Республика, Russia",
     "level": "state"
@@ -120066,7 +121846,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 443,
+    "featureId": 449,
     "countryId": "iso1:RU",
     "name": "Новгородская область, Russia",
     "level": "state"
@@ -120106,7 +121886,7 @@
     "tz": [
       "Europe/Simferopol"
     ],
-    "featureId": 460,
+    "featureId": 466,
     "countryId": "iso1:RU",
     "name": "Республика Крым, Russia",
     "level": "state"
@@ -120146,7 +121926,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 453,
+    "featureId": 459,
     "countryId": "iso1:RU",
     "name": "Республика Башкортостан, Russia",
     "level": "state"
@@ -120186,7 +121966,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 489,
+    "featureId": 495,
     "countryId": "iso1:RU",
     "name": "Чеченская Республика, Russia",
     "level": "state"
@@ -120226,7 +122006,7 @@
     "tz": [
       "Asia/Vladivostok"
     ],
-    "featureId": 450,
+    "featureId": 456,
     "countryId": "iso1:RU",
     "name": "Приморский край, Russia",
     "level": "state"
@@ -120266,7 +122046,7 @@
     "tz": [
       "Europe/Volgograd"
     ],
-    "featureId": 417,
+    "featureId": 423,
     "countryId": "iso1:RU",
     "name": "Волгоградская область, Russia",
     "level": "state"
@@ -120306,7 +122086,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 447,
+    "featureId": 453,
     "countryId": "iso1:RU",
     "name": "Орловская область, Russia",
     "level": "state"
@@ -120346,7 +122126,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 451,
+    "featureId": 457,
     "countryId": "iso1:RU",
     "name": "Псковская область, Russia",
     "level": "state"
@@ -120386,7 +122166,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 469,
+    "featureId": 475,
     "countryId": "iso1:RU",
     "name": "Ростовская область, Russia",
     "level": "state"
@@ -120426,7 +122206,7 @@
     "tz": [
       "Asia/Irkutsk"
     ],
-    "featureId": 454,
+    "featureId": 460,
     "countryId": "iso1:RU",
     "name": "Республика Бурятия, Russia",
     "level": "state"
@@ -120546,7 +122326,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 462,
+    "featureId": 468,
     "countryId": "iso1:RU",
     "name": "Республика Мордовия, Russia",
     "level": "state"
@@ -120586,7 +122366,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 455,
+    "featureId": 461,
     "countryId": "iso1:RU",
     "name": "Республика Дагестан, Russia",
     "level": "state"
@@ -120686,7 +122466,7 @@
     "tz": [
       "Etc/GMT-10"
     ],
-    "featureId": 474,
+    "featureId": 480,
     "countryId": "iso1:RU",
     "name": "Сахалинская область, Russia",
     "level": "state"
@@ -120726,7 +122506,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 431,
+    "featureId": 437,
     "countryId": "iso1:RU",
     "name": "Костромская область, Russia",
     "level": "state"
@@ -120766,7 +122546,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 477,
+    "featureId": 483,
     "countryId": "iso1:RU",
     "name": "Смоленская область, Russia",
     "level": "state"
@@ -120806,7 +122586,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 452,
+    "featureId": 458,
     "countryId": "iso1:RU",
     "name": "Республика Адыгея, Russia",
     "level": "state"
@@ -120866,7 +122646,7 @@
     "tz": [
       "Asia/Omsk"
     ],
-    "featureId": 445,
+    "featureId": 451,
     "countryId": "iso1:RU",
     "name": "Омская область, Russia",
     "level": "state"
@@ -120906,7 +122686,7 @@
     "tz": [
       "Asia/Irkutsk"
     ],
-    "featureId": 423,
+    "featureId": 429,
     "countryId": "iso1:RU",
     "name": "Иркутская область, Russia",
     "level": "state"
@@ -120946,7 +122726,7 @@
     "tz": [
       "Asia/Yakutsk"
     ],
-    "featureId": 411,
+    "featureId": 417,
     "countryId": "iso1:RU",
     "name": "Амурская область, Russia",
     "level": "state"
@@ -120996,10 +122776,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Ayrshire and Arran",
+    "county": "North Ayrshire, East Ayrshire, South Ayrshire",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Ayrshire and Arran, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-NAY+iso2:GB-EAY+iso2:GB-SAY",
+    "name": "North Ayrshire, East Ayrshire, South Ayrshire, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -121774,7 +123556,7 @@
     "tz": [
       "America/Rio_Branco"
     ],
-    "featureId": 247,
+    "featureId": 240,
     "countryId": "iso1:BR",
     "name": "AC, Brazil",
     "level": "state"
@@ -121810,7 +123592,7 @@
     "tz": [
       "America/Maceio"
     ],
-    "featureId": 248,
+    "featureId": 241,
     "countryId": "iso1:BR",
     "name": "AL, Brazil",
     "level": "state"
@@ -121846,7 +123628,7 @@
     "tz": [
       "America/Belem"
     ],
-    "featureId": 249,
+    "featureId": 242,
     "countryId": "iso1:BR",
     "name": "AP, Brazil",
     "level": "state"
@@ -121882,7 +123664,7 @@
     "tz": [
       "America/Manaus"
     ],
-    "featureId": 250,
+    "featureId": 243,
     "countryId": "iso1:BR",
     "name": "AM, Brazil",
     "level": "state"
@@ -121918,7 +123700,7 @@
     "tz": [
       "America/Bahia"
     ],
-    "featureId": 251,
+    "featureId": 244,
     "countryId": "iso1:BR",
     "name": "BA, Brazil",
     "level": "state"
@@ -121954,7 +123736,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 252,
+    "featureId": 245,
     "countryId": "iso1:BR",
     "name": "CE, Brazil",
     "level": "state"
@@ -121990,7 +123772,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 253,
+    "featureId": 246,
     "countryId": "iso1:BR",
     "name": "DF, Brazil",
     "level": "state"
@@ -122026,7 +123808,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 254,
+    "featureId": 247,
     "countryId": "iso1:BR",
     "name": "ES, Brazil",
     "level": "state"
@@ -122062,7 +123844,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 255,
+    "featureId": 248,
     "countryId": "iso1:BR",
     "name": "GO, Brazil",
     "level": "state"
@@ -122098,7 +123880,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 256,
+    "featureId": 249,
     "countryId": "iso1:BR",
     "name": "MA, Brazil",
     "level": "state"
@@ -122134,7 +123916,7 @@
     "tz": [
       "America/Cuiaba"
     ],
-    "featureId": 257,
+    "featureId": 250,
     "countryId": "iso1:BR",
     "name": "MT, Brazil",
     "level": "state"
@@ -122170,7 +123952,7 @@
     "tz": [
       "America/Campo_Grande"
     ],
-    "featureId": 258,
+    "featureId": 251,
     "countryId": "iso1:BR",
     "name": "MS, Brazil",
     "level": "state"
@@ -122206,7 +123988,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 259,
+    "featureId": 252,
     "countryId": "iso1:BR",
     "name": "MG, Brazil",
     "level": "state"
@@ -122242,7 +124024,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 260,
+    "featureId": 253,
     "countryId": "iso1:BR",
     "name": "PR, Brazil",
     "level": "state"
@@ -122278,7 +124060,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 261,
+    "featureId": 254,
     "countryId": "iso1:BR",
     "name": "PB, Brazil",
     "level": "state"
@@ -122314,7 +124096,7 @@
     "tz": [
       "America/Santarem"
     ],
-    "featureId": 262,
+    "featureId": 255,
     "countryId": "iso1:BR",
     "name": "PA, Brazil",
     "level": "state"
@@ -122350,7 +124132,7 @@
     "tz": [
       "America/Recife"
     ],
-    "featureId": 263,
+    "featureId": 256,
     "countryId": "iso1:BR",
     "name": "PE, Brazil",
     "level": "state"
@@ -122386,7 +124168,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 264,
+    "featureId": 257,
     "countryId": "iso1:BR",
     "name": "PI, Brazil",
     "level": "state"
@@ -122422,7 +124204,7 @@
     "tz": [
       "America/Fortaleza"
     ],
-    "featureId": 265,
+    "featureId": 258,
     "countryId": "iso1:BR",
     "name": "RN, Brazil",
     "level": "state"
@@ -122458,7 +124240,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 266,
+    "featureId": 259,
     "countryId": "iso1:BR",
     "name": "RS, Brazil",
     "level": "state"
@@ -122494,7 +124276,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 267,
+    "featureId": 260,
     "countryId": "iso1:BR",
     "name": "RJ, Brazil",
     "level": "state"
@@ -122530,7 +124312,7 @@
     "tz": [
       "America/Porto_Velho"
     ],
-    "featureId": 268,
+    "featureId": 261,
     "countryId": "iso1:BR",
     "name": "RO, Brazil",
     "level": "state"
@@ -122566,7 +124348,7 @@
     "tz": [
       "America/Boa_Vista"
     ],
-    "featureId": 269,
+    "featureId": 262,
     "countryId": "iso1:BR",
     "name": "RR, Brazil",
     "level": "state"
@@ -122602,7 +124384,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 270,
+    "featureId": 263,
     "countryId": "iso1:BR",
     "name": "SC, Brazil",
     "level": "state"
@@ -122638,7 +124420,7 @@
     "tz": [
       "America/Maceio"
     ],
-    "featureId": 271,
+    "featureId": 264,
     "countryId": "iso1:BR",
     "name": "SE, Brazil",
     "level": "state"
@@ -122674,7 +124456,7 @@
     "tz": [
       "America/Sao_Paulo"
     ],
-    "featureId": 272,
+    "featureId": 265,
     "countryId": "iso1:BR",
     "name": "SP, Brazil",
     "level": "state"
@@ -122710,7 +124492,7 @@
     "tz": [
       "America/Araguaina"
     ],
-    "featureId": 273,
+    "featureId": 266,
     "countryId": "iso1:BR",
     "name": "TO, Brazil",
     "level": "state"
@@ -122750,7 +124532,7 @@
     "tz": [
       "Asia/Barnaul"
     ],
-    "featureId": 410,
+    "featureId": 416,
     "countryId": "iso1:RU",
     "name": "Алтайский край, Russia",
     "level": "state"
@@ -122790,7 +124572,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 416,
+    "featureId": 422,
     "countryId": "iso1:RU",
     "name": "Владимирская область, Russia",
     "level": "state"
@@ -122830,7 +124612,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 418,
+    "featureId": 424,
     "countryId": "iso1:RU",
     "name": "Вологодская область, Russia",
     "level": "state"
@@ -122870,7 +124652,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 457,
+    "featureId": 463,
     "countryId": "iso1:RU",
     "name": "Республика Калмыкия, Russia",
     "level": "state"
@@ -122910,7 +124692,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 461,
+    "featureId": 467,
     "countryId": "iso1:RU",
     "name": "Республика Марий Эл, Russia",
     "level": "state"
@@ -122949,7 +124731,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 468,
+    "featureId": 474,
     "countryId": "iso1:RU",
     "name": "Республика Чувашия, Russia",
     "level": "state"
@@ -122980,16 +124762,6 @@
     "aggregate": "state",
     "state": "Andhra Pradesh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      80.7645,
-      15.893999999999998
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-AP",
-    "population": 49386799,
-    "populationDensity": 301.0208458370682,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AP",
     "name": "Andhra Pradesh, India",
@@ -123001,16 +124773,6 @@
     "aggregate": "state",
     "state": "Andaman and Nicobar Islands",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      93.232,
-      10.2165
-    ],
-    "tz": [
-      "Etc/GMT-6"
-    ],
-    "featureId": "iso2:IN-AN",
-    "population": 356152,
-    "populationDensity": 49.53120676750817,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AN",
     "name": "Andaman and Nicobar Islands, India",
@@ -123022,16 +124784,6 @@
     "aggregate": "state",
     "state": "Bihar",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      85.80250000000001,
-      25.9025
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-BR",
-    "population": 104099452,
-    "populationDensity": 1100.4169996813391,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-BR",
     "name": "Bihar, India",
@@ -123043,16 +124795,6 @@
     "aggregate": "state",
     "state": "Chandigarh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      76.777,
-      30.7305
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-CH",
-    "population": 1055450,
-    "populationDensity": 8376.705150745347,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-CH",
     "name": "Chandigarh, India",
@@ -123064,16 +124806,6 @@
     "aggregate": "state",
     "state": "Chhattisgarh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      82.3195,
-      20.942
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-CT",
-    "population": 25545198,
-    "populationDensity": 188.13421129487523,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-CT",
     "name": "Chhattisgarh, India",
@@ -123085,16 +124817,6 @@
     "aggregate": "state",
     "state": "Delhi",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      77.09299999999999,
-      28.644
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-DL",
-    "population": 26495000,
-    "populationDensity": 17943.68875333418,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-DL",
     "name": "Delhi, India",
@@ -123106,16 +124828,6 @@
     "aggregate": "state",
     "state": "Goa",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      74.0075,
-      15.3505
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-GA",
-    "population": 1458545,
-    "populationDensity": 398.6951839303502,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-GA",
     "name": "Goa, India",
@@ -123127,16 +124839,6 @@
     "aggregate": "state",
     "state": "Gujarat",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      71.3325,
-      22.415999999999997
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-GJ",
-    "population": 60383628,
-    "populationDensity": 331.26398415124083,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-GJ",
     "name": "Gujarat, India",
@@ -123148,16 +124850,6 @@
     "aggregate": "state",
     "state": "Haryana",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      76.03999999999999,
-      29.290999999999997
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-HR",
-    "population": 27761063,
-    "populationDensity": 625.333187521485,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-HR",
     "name": "Haryana, India",
@@ -123169,16 +124861,6 @@
     "aggregate": "state",
     "state": "Himachal Pradesh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      77.3065,
-      31.814
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-HP",
-    "population": 6864602,
-    "populationDensity": 122.89560566492136,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-HP",
     "name": "Himachal Pradesh, India",
@@ -123190,16 +124872,6 @@
     "aggregate": "state",
     "state": "Jammu and Kashmir",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      75.261,
-      33.5305
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-JK",
-    "population": 12258433,
-    "populationDensity": 288.46962825221624,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-JK",
     "name": "Jammu and Kashmir, India",
@@ -123211,16 +124883,6 @@
     "aggregate": "state",
     "state": "Karnataka",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      76.321,
-      15.027000000000001
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-KA",
-    "population": 61095297,
-    "populationDensity": 316.67467298695215,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-KA",
     "name": "Karnataka, India",
@@ -123232,16 +124894,6 @@
     "aggregate": "state",
     "state": "Kerala",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      76.138,
-      10.5425
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-KL",
-    "population": 34523726,
-    "populationDensity": 883.5420139590705,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-KL",
     "name": "Kerala, India",
@@ -123253,16 +124905,6 @@
     "aggregate": "state",
     "state": "Ladakh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      77.4135,
-      34.0025
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-LA",
-    "population": 274289,
-    "populationDensity": 4.222638338332109,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-LA",
     "name": "Ladakh, India",
@@ -123274,16 +124916,6 @@
     "aggregate": "state",
     "state": "Madhya Pradesh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      78.42,
-      23.9705
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-MP",
-    "population": 72597565,
-    "populationDensity": 234.29131407853154,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MP",
     "name": "Madhya Pradesh, India",
@@ -123295,16 +124927,6 @@
     "aggregate": "state",
     "state": "Maharashtra",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      76.775,
-      18.821
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-MH",
-    "population": 112374333,
-    "populationDensity": 363.92083469565114,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MH",
     "name": "Maharashtra, India",
@@ -123316,16 +124938,6 @@
     "aggregate": "state",
     "state": "Manipur",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      93.861,
-      24.762999999999998
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-MN",
-    "population": 2855794,
-    "populationDensity": 127.13774499140655,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MN",
     "name": "Manipur, India",
@@ -123337,16 +124949,6 @@
     "aggregate": "state",
     "state": "Mizoram",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      92.84800000000001,
-      23.231
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-MZ",
-    "population": 1097206,
-    "populationDensity": 51.973166645544055,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-MZ",
     "name": "Mizoram, India",
@@ -123358,16 +124960,6 @@
     "aggregate": "state",
     "state": "Odisha",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      84.43549999999999,
-      20.1815
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-OR",
-    "population": 41974218,
-    "populationDensity": 268.6320042787697,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-OR",
     "name": "Odisha, India",
@@ -123379,16 +124971,6 @@
     "aggregate": "state",
     "state": "Puducherry",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      78.9215,
-      13.7805
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-PY",
-    "population": 973829,
-    "populationDensity": 2090.9474035046524,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-PY",
     "name": "Puducherry, India",
@@ -123400,16 +124982,6 @@
     "aggregate": "state",
     "state": "Punjab",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      75.4075,
-      31.0285
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-PB",
-    "population": 27743338,
-    "populationDensity": 549.4739826586025,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-PB",
     "name": "Punjab, India",
@@ -123421,16 +124993,6 @@
     "aggregate": "state",
     "state": "Rajasthan",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      73.878,
-      26.6295
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-RJ",
-    "population": 68548437,
-    "populationDensity": 199.565559278736,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-RJ",
     "name": "Rajasthan, India",
@@ -123442,16 +125004,6 @@
     "aggregate": "state",
     "state": "Tamil Nadu",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      78.29050000000001,
-      10.8205
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-TN",
-    "population": 72147030,
-    "populationDensity": 551.0616731906728,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-TN",
     "name": "Tamil Nadu, India",
@@ -123463,16 +125015,6 @@
     "aggregate": "state",
     "state": "Telangana",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      79.2795,
-      17.876
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-TG",
-    "population": 35193978,
-    "populationDensity": 312.12166464969437,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-TG",
     "name": "Telangana, India",
@@ -123484,16 +125026,6 @@
     "aggregate": "state",
     "state": "Uttarakhand",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      79.3045,
-      30.0925
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-UT",
-    "population": 10086292,
-    "populationDensity": 188.2808455864311,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-UT",
     "name": "Uttarakhand, India",
@@ -123505,16 +125037,6 @@
     "aggregate": "state",
     "state": "Uttar Pradesh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      80.86,
-      27.137999999999998
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-UP",
-    "population": 199812341,
-    "populationDensity": 825.8935340679977,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-UP",
     "name": "Uttar Pradesh, India",
@@ -123526,16 +125048,6 @@
     "aggregate": "state",
     "state": "West Bengal",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      87.8445,
-      24.3825
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-WB",
-    "population": 91276115,
-    "populationDensity": 1070.9123097701072,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-WB",
     "name": "West Bengal, India",
@@ -124305,7 +125817,7 @@
     "tz": [
       "Europe/Astrakhan"
     ],
-    "featureId": 413,
+    "featureId": 419,
     "countryId": "iso1:RU",
     "name": "Астраханская область, Russia",
     "level": "state"
@@ -124345,7 +125857,7 @@
     "tz": [
       "Asia/Magadan"
     ],
-    "featureId": 438,
+    "featureId": 444,
     "countryId": "iso1:RU",
     "name": "Магаданская область, Russia",
     "level": "state"
@@ -124385,7 +125897,7 @@
     "tz": [
       "Europe/Simferopol"
     ],
-    "featureId": 476,
+    "featureId": 482,
     "countryId": "iso1:RU",
     "name": "Севастополь, Russia",
     "level": "state"
@@ -124454,16 +125966,6 @@
     "aggregate": "state",
     "state": "Assam",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      92.858,
-      26.054000000000002
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-AS",
-    "population": 31205576,
-    "populationDensity": 396.0639668871199,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AS",
     "name": "Assam, India",
@@ -124475,16 +125977,6 @@
     "aggregate": "state",
     "state": "Jharkhand",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      85.64500000000001,
-      23.651
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-JH",
-    "population": 32988134,
-    "populationDensity": 411.0303723796184,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-JH",
     "name": "Jharkhand, India",
@@ -124525,7 +126017,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 435,
+    "featureId": 441,
     "countryId": "iso1:RU",
     "name": "Курская область, Russia",
     "level": "state"
@@ -124564,7 +126056,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 464,
+    "featureId": 470,
     "countryId": "iso1:RU",
     "name": "Республика Северная Осетия — Алания, Russia",
     "level": "state"
@@ -124594,10 +126086,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Orkney",
+    "county": "Orkney Islands",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Orkney, Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-ORK",
+    "name": "Orkney Islands, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -124605,10 +126099,12 @@
     "state": "Scotland",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
-    "county": "Eileanan Siar (Western Isles)",
+    "county": "Western Isles",
     "rating": 0.39215686274509803,
     "countryId": "iso1:GB",
-    "name": "Eileanan Siar (Western Isles), Scotland, United Kingdom",
+    "stateId": "iso2:GB-SCT",
+    "countyId": "iso2:GB-ELS",
+    "name": "Western Isles, Scotland, United Kingdom",
     "level": "county"
   },
   {
@@ -124617,16 +126113,6 @@
     "aggregate": "state",
     "state": "Arunachal Pradesh",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      94.4785,
-      28.020000000000003
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-AR",
-    "population": 1383727,
-    "populationDensity": 16.603492180265924,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-AR",
     "name": "Arunachal Pradesh, India",
@@ -124667,7 +126153,7 @@
     "tz": [
       "Asia/Yekaterinburg"
     ],
-    "featureId": 490,
+    "featureId": 496,
     "countryId": "iso1:RU",
     "name": "Ямало-Ненецкий автономный округ, Russia",
     "level": "state"
@@ -124727,7 +126213,7 @@
     "tz": [
       "Asia/Vladivostok"
     ],
-    "featureId": 420,
+    "featureId": 426,
     "countryId": "iso1:RU",
     "name": "Еврейская автономная область, Russia",
     "level": "state"
@@ -124767,7 +126253,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 456,
+    "featureId": 462,
     "countryId": "iso1:RU",
     "name": "Республика Ингушетия, Russia",
     "level": "state"
@@ -124885,7 +126371,7 @@
     "tz": [
       "Etc/GMT-11"
     ],
-    "featureId": 427,
+    "featureId": 433,
     "countryId": "iso1:RU",
     "name": "Камчатский край, Russia",
     "level": "state"
@@ -124935,16 +126421,6 @@
     "aggregate": "state",
     "state": "Tripura",
     "rating": 0.47058823529411764,
-    "coordinates": [
-      91.747,
-      23.735500000000002
-    ],
-    "tz": [
-      "Asia/Kolkata"
-    ],
-    "featureId": "iso2:IN-TR",
-    "population": 3673917,
-    "populationDensity": 353.505229742731,
     "countryId": "iso1:IN",
     "stateId": "iso2:IN-TR",
     "name": "Tripura, India",
@@ -124985,7 +126461,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 458,
+    "featureId": 464,
     "countryId": "iso1:RU",
     "name": "Республика Карелия, Russia",
     "level": "state"
@@ -125025,7 +126501,7 @@
     "tz": [
       "Europe/Moscow"
     ],
-    "featureId": 428,
+    "featureId": 434,
     "countryId": "iso1:RU",
     "name": "Карачаево-Черкесская Республика, Russia",
     "level": "state"
@@ -125065,7 +126541,7 @@
     "tz": [
       "Asia/Krasnoyarsk"
     ],
-    "featureId": 466,
+    "featureId": 472,
     "countryId": "iso1:RU",
     "name": "Республика Тыва, Russia",
     "level": "state"
@@ -125243,6 +126719,49 @@
     "countryId": "iso1:US",
     "stateId": "iso2:US-VT",
     "name": "(unassigned), Vermont, United States",
+    "level": "county"
+  },
+  {
+    "state": "Georgia",
+    "country": "United States",
+    "url": "https://d20s4vd27d0hk0.cloudfront.net",
+    "aggregate": "county",
+    "sources": [
+      {
+        "url": "https://dph.georgia.gov",
+        "name": "Georgia Department of Public Health"
+      }
+    ],
+    "county": "Non-Georgia Resident County",
+    "rating": 0.47058823529411764,
+    "countryId": "iso1:US",
+    "stateId": "iso2:US-GA",
+    "name": "Non-Georgia Resident County, Georgia, United States",
+    "level": "county"
+  },
+  {
+    "state": "New Hampshire",
+    "country": "United States",
+    "sources": [
+      {
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
+      }
+    ],
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "county": "(unassigned)",
+    "rating": 0.39215686274509803,
+    "countryId": "iso1:US",
+    "stateId": "iso2:US-NH",
+    "name": "(unassigned), New Hampshire, United States",
     "level": "county"
   }
 ]

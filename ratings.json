@@ -298,6 +298,31 @@
     "rating": 0.5686274509803921
   },
   {
+    "country": "iso1:CY",
+    "url": "https://www.data.gov.cy/sites/default/files/CY%20Covid19%20Daily%20Statistics_6.csv",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "description": "Official website for Cyprus Open Data",
+        "url": "https://data.gov.cy/",
+        "name": "data.gov.cy"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.5490196078431373
+  },
+  {
     "state": "IL",
     "country": "iso1:US",
     "priority": 1,
@@ -330,6 +355,32 @@
     "url": "https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml",
     "type": "table",
     "aggregate": "county",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.5490196078431373
+  },
+  {
+    "state": "NH",
+    "country": "iso1:US",
+    "sources": [
+      {
+        "name": "New Hampshire Department of Health and Human Services",
+        "url": "https://www.nh.gov/covid19/"
+      }
+    ],
+    "url": "https://www.nh.gov/covid19/",
+    "aggregate": "county",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "type": "table",
     "timeseries": false,
     "headless": false,
     "certValidation": true,
@@ -375,35 +426,6 @@
     "type": "table",
     "ssl": true,
     "rating": 0.5490196078431373
-  },
-  {
-    "country": "iso1:UA",
-    "sources": [
-      {
-        "url": "https://www.rnbo.gov.ua/en/",
-        "name": "National Security and Defense Council of Ukraine"
-      }
-    ],
-    "type": "json",
-    "aggregate": "state",
-    "maintainers": [
-      {
-        "name": "Christopher Rucinski",
-        "email": "ciscorucinski@gmail.com",
-        "github": "ciscorucinski",
-        "country": "KOR",
-        "state": "Seoul",
-        "city": "Gwanak-gu",
-        "flag": "🇰🇷"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-11",
-    "ssl": true,
-    "rating": 0.5294117647058824
   },
   {
     "state": "IA",
@@ -502,6 +524,24 @@
     "rating": 0.5098039215686274
   },
   {
+    "country": "iso1:SA",
+    "url": "https://datasource.kapsarc.org/explore/dataset/saudi-arabia-coronavirus-disease-covid-19-situation/download/?format=csv&disjunctive.daily_cumulative=true&disjunctive.region=true&refine.daily_cumulative=Daily&timezone=America/Los_Angeles&lang=en&csv_separator=%2C",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.5098039215686274
+  },
+  {
     "state": "MI",
     "country": "iso1:US",
     "sources": [
@@ -580,6 +620,35 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
+    "country": "iso1:UA",
+    "sources": [
+      {
+        "url": "https://www.rnbo.gov.ua/en/",
+        "name": "National Security and Defense Council of Ukraine"
+      }
+    ],
+    "type": "json",
+    "aggregate": "state",
+    "maintainers": [
+      {
+        "name": "Christopher Rucinski",
+        "email": "ciscorucinski@gmail.com",
+        "github": "ciscorucinski",
+        "country": "KOR",
+        "state": "Seoul",
+        "city": "Gwanak-gu",
+        "flag": "🇰🇷"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
     "ssl": true,
     "rating": 0.49019607843137253
   },
@@ -863,18 +932,6 @@
     "rating": 0.49019607843137253
   },
   {
-    "country": "iso1:IN",
-    "url": "https://www.mohfw.gov.in/",
-    "type": "table",
-    "aggregate": "state",
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "priority": 0,
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
     "country": "iso1:ZA",
     "url": "https://github.com/dsfsi/covid19za",
     "timeseries": true,
@@ -1134,6 +1191,30 @@
         "name": "Quentin Golsteyn",
         "github": "qgolsteyn",
         "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.43137254901960786
+  },
+  {
+    "country": "iso1:EE",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
       }
     ],
     "headless": false,
@@ -1832,6 +1913,55 @@
     "rating": 0.4117647058823529
   },
   {
+    "country": "iso1:CZ",
+    "url": "https://onemocneni-aktualne.mzcr.cz/",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "sources": [
+      {
+        "url": "https://onemocneni-aktualne.mzcr.cz/",
+        "name": "Ministry of Health of the Czech Republic"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
+    "country": "iso1:NL",
+    "url": "https://github.com/J535D165/CoronaWatchNL",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "sources": [
+      {
+        "description": "RIVM reported numbers on the Coronavirus outbreak in The Netherlands",
+        "url": "https://github.com/J535D165/CoronaWatchNL",
+        "name": "CoronaWatchNL"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
     "aggregate": "state",
     "country": "iso1:AU",
     "maintainers": [
@@ -1865,6 +1995,15 @@
     "state": "DC",
     "country": "iso1:US",
     "county": "District of Columbia",
+    "maintainers": [
+      {
+        "name": "Albert III",
+        "github": "aed3",
+        "url": "https://aed3.github.io",
+        "county": "iso1:US",
+        "flag": "🇺🇸"
+      }
+    ],
     "timeseries": true,
     "sources": [
       {
@@ -2046,6 +2185,17 @@
   },
   {
     "country": "iso1:AU",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 2,
     "sources": [
       {
@@ -2188,6 +2338,44 @@
     "rating": 0.3333333333333333
   },
   {
+    "country": "iso1:US",
+    "county": "Los Angeles County",
+    "maintainers": [
+      {
+        "name": "John Bencina",
+        "github": "jbencina",
+        "country": "iso1:US",
+        "state": "CA",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "sources": [
+      {
+        "description": "County of Los Angeles Public Health",
+        "name": "County of Los Angeles Public Health",
+        "url": "http://www.publichealth.lacounty.gov"
+      }
+    ],
+    "state": "CA",
+    "type": "table",
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/js/casecounter.js",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": false,
+    "rating": 0.3333333333333333
+  },
+  {
     "county": "Mono County",
     "state": "CA",
     "country": "iso1:US",
@@ -2300,6 +2488,17 @@
   {
     "aggregate": "state",
     "country": "iso1:AU",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 1,
     "sources": [
       {
@@ -2318,6 +2517,17 @@
   },
   {
     "country": "iso1:ID",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 1,
     "sources": [
       {
@@ -2336,6 +2546,17 @@
   },
   {
     "country": "iso1:NZ",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
     "priority": 1,
     "sources": [
       {
@@ -2400,10 +2621,10 @@
     "country": "iso1:PR",
     "type": "table",
     "timeseries": false,
-    "url": "http://salud.gov.pr/Pages/coronavirus.aspx",
+    "url": "http://www.salud.gov.pr/Pages/coronavirus.aspx",
     "sources": [
       {
-        "url": "http://salud.gov.pr/",
+        "url": "http://www.salud.gov.pr/",
         "name": "Gobierno de Puerto Rico Departamento de Salud"
       }
     ],
@@ -2411,6 +2632,15 @@
       {
         "name": "Jacob McGowan",
         "github": "jacobmcgowan"
+      },
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
       }
     ],
     "headless": false,
@@ -2420,26 +2650,8 @@
     "rating": 0.29411764705882354
   },
   {
-    "state": "iso2:CA-NS",
-    "country": "iso1:CA",
-    "url": "https://novascotia.ca/coronavirus/COVID-19-cases.csv",
-    "type": "csv",
-    "certValidation": false,
-    "sources": [
-      {
-        "name": "Government of Nova Scotia",
-        "url": "https://novascotia.ca/coronavirus/#cases"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "priority": 0,
-    "ssl": false,
-    "rating": 0.27450980392156865
-  },
-  {
     "country": "iso1:GB",
-    "state": "Scotland",
+    "state": "iso2:GB-SCT",
     "url": "https://www.gov.scot/coronavirus-covid-19/",
     "aggregate": "county",
     "type": "table",
@@ -2484,6 +2696,38 @@
     "type": "table",
     "ssl": true,
     "rating": 0.27450980392156865
+  },
+  {
+    "country": "iso1:VI",
+    "type": "paragraph",
+    "url": "https://doh.vi.gov/covid19usvi",
+    "sources": [
+      {
+        "url": "https://doh.vi.gov",
+        "name": "United States Virgin Islands Department of Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      },
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.2549019607843137
   },
   {
     "state": "AK",
