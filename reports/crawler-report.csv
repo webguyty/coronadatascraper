@@ -1,254 +1,476 @@
 date,country,state,county,city,type,description,severity,category
-2020-04-12,iso1:BE,,,,scraper failed,AssertionError [ERR_ASSERTION]: Missing iso2 code for province iso2:BE-WHT,critical,scraper failure
-2020-04-12,iso1:FR,,,,scraper failed,AssertionError [ERR_ASSERTION]: Missing iso2 code for département iso2:FR-10,critical,scraper failure
-2020-04-12,iso1:CA,iso2:CA-NS,,,scraper failed,Error: Someone needs to scrape this new data properly,critical,scraper failure
-2020-04-12,iso1:US,CA,Alameda County,,scraper failed,TypeError: Cannot read property 'match' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Calaveras County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Glenn County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Kern County,,scraper failed,"Error: Kern County, CA now uses a PNG and PDF",critical,scraper failure
-2020-04-12,iso1:US,CA,Kings County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Madera County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Marin County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Mendocino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
-2020-04-12,iso1:US,CA,Merced County,,scraper failed,Error: Unknown html table format/labels,critical,scraper failure
-2020-04-12,iso1:US,CA,Orange County,,scraper failed,Error: Need to scrape new page,critical,scraper failure
-2020-04-12,iso1:US,CA,Riverside County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,CA,Sacramento County,,scraper failed,Error: Invalid data: deaths is not a number,critical,scraper failure
-2020-04-12,iso1:US,CA,San Benito County,,scraper failed,Error: Need to scrape new arcgis,critical,scraper failure
-2020-04-12,iso1:US,CA,San Bernardino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
-2020-04-12,iso1:US,CA,Santa Barbara County,,scraper failed,TypeError: Cannot read property '0' of undefined,critical,scraper failure
-2020-04-12,iso1:US,CA,Santa Clara County,,scraper failed,TypeError: Cannot read property 'children' of undefined,critical,scraper failure
-2020-04-12,iso1:US,CA,Santa Cruz County,,scraper failed,Error: H2 not found,critical,scraper failure
-2020-04-12,iso1:US,CA,Solano County,,scraper failed,"Error: Solano County, CA now uses a PDF",critical,scraper failure
-2020-04-12,iso1:US,CA,Sonoma County,,scraper failed,"DeprecatedError: Sonoma switched to ArcGIS, which is handled by another scraper",critical,scraper failure
-2020-04-12,iso1:US,CA,Ventura County,,scraper failed,Error: Unexpected table layout/labels,critical,scraper failure
-2020-04-12,iso1:US,CA,Yolo County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
-2020-04-12,iso1:US,GU,,,scraper failed,"DeprecatedError: Guam stopped offering totals on their website, but there's a sweet coloring book",critical,scraper failure
-2020-04-12,iso1:KR,(unassigned),,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-MD,,Baltimore city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-MO,,Kansas City,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-MO,,St. Louis city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-NV,,Carson City,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-NY,,New York City,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Alexandria city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Bristol city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Buena Vista city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Charles City,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Charlottesville city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Chesapeake city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Colonial Heights city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Covington city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Danville city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Emporia city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Fairfax city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Franklin city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Fredericksburg city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Galax city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Hampton city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Harrisonburg city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Hopewell city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,James City,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Lexington city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Lynchburg city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Manassas Park city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Manassas city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Newport News city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Norfolk city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Petersburg city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Poquoson city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Portsmouth city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Radford city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Richmond city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Roanoke city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Salem city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Staunton city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Suffolk city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Virginia Beach city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Waynesboro city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Williamsburg city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-VA,,Winchester city,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-DE,Unknown County,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-GA,Non-Georgia Resident County,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-MI,fips:26163,Detroit City,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-MI,MDOC,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-MI,FCI,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-NV,Douglas,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-NV,Lyon,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-NV,Storey,,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44001,Barrington,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44001,Bristol,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Burrillville,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Central Falls,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Charlestown,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,Coventry,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Cranston,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Cumberland,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,East Greenwich,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,East Providence,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Exeter,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Foster,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Glocester,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Hopkinton,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Jamestown,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Johnston,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Lincoln,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Little Compton,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Middletown,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Narragansett,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,New Shoreham,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Newport,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,North Kingstown,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,North Providence,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,North Smithfield,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Pawtucket,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Portsmouth,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Providence,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Richmond,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Scituate,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Smithfield,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,South Kingstown,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Tiverton,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44001,Warren,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,Warwick,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,West Greenwich,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,West Warwick,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Westerly,missing location,,low,locations
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Woonsocket,missing location,,low,locations
-2020-04-12,iso1:KR,iso2:KR-41,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-42,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-43,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-44,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-45,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-46,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-48,,,missing population,,low,population
-2020-04-12,iso1:KR,iso2:KR-49,,,missing population,,low,population
-2020-04-12,iso1:KR,(unassigned),,,missing population,,low,population
-2020-04-12,iso1:RU,iso2:RU-SEV,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-02,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-09,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-03,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-07,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-11,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-14,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-10,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-08,,,missing population,,low,population
-2020-04-12,iso1:SA,iso2:SA-06,,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MD,,Baltimore city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MO,,Kansas City,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MO,,St. Louis city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-NV,,Carson City,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-NY,,New York City,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Alexandria city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Bristol city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Buena Vista city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Charles City,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Charlottesville city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Chesapeake city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Colonial Heights city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Covington city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Danville city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Emporia city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Fairfax city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Franklin city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Fredericksburg city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Galax city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Hampton city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Harrisonburg city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Hopewell city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,James City,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Lexington city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Lynchburg city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Manassas Park city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Manassas city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Newport News city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Norfolk city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Petersburg city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Poquoson city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Portsmouth city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Radford city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Richmond city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Roanoke city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Salem city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Staunton city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Suffolk city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Virginia Beach city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Waynesboro city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Williamsburg city,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VA,,Winchester city,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-MDB,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-BST,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-SHR,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-XBCP,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-OLD,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-RCH,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-SKP,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-TAM,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-KWL,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-SFT,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-WRL,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-BNS,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-WLL,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-BRD,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-CLD,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-KIR,,missing population,,low,population
-2020-04-12,iso1:GB,iso2:GB-ENG,iso2:GB-NYK,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-AR,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-DE,Unknown County,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-FL,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-GA,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-GA,Non-Georgia Resident County,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-IL,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-LA,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MA,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-ME,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MI,fips:26163,Detroit City,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MI,MDOC,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MI,FCI,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MI,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-MO,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-ND,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-NH,(unassigned),,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-NV,Douglas,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-NV,Lyon,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-NV,Storey,,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44001,Barrington,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44001,Bristol,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Burrillville,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Central Falls,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Charlestown,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,Coventry,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Cranston,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Cumberland,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,East Greenwich,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,East Providence,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Exeter,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Foster,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Glocester,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Hopkinton,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Jamestown,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Johnston,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Lincoln,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Little Compton,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Middletown,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Narragansett,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,New Shoreham,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Newport,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,North Kingstown,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,North Providence,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,North Smithfield,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Pawtucket,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Portsmouth,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Providence,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Richmond,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Scituate,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Smithfield,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,South Kingstown,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44005,Tiverton,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44001,Warren,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,Warwick,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,West Greenwich,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44003,West Warwick,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44009,Westerly,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-RI,fips:44007,Woonsocket,missing population,,low,population
-2020-04-12,iso1:US,iso2:US-VT,(unassigned),,missing population,,low,population
-2020-04-12,United States,Missouri,(unassigned),,invalid location object,"(unassigned), Missouri, United States .deaths should be <= 0",low,location validation
+2020-04-13,iso1:BE,,,,scraper failed,AssertionError [ERR_ASSERTION]: Missing iso2 code for province iso2:BE-WHT,critical,scraper failure
+2020-04-13,iso1:CA,iso2:CA-NS,,,scraper failed,Error: Someone needs to scrape this new data properly,critical,scraper failure
+2020-04-13,iso1:CY,,,,scraper failed,TypeError: Cannot convert undefined or null to object,critical,scraper failure
+2020-04-13,iso1:FR,,,,scraper failed,AssertionError [ERR_ASSERTION]: Missing iso2 code for département iso2:FR-10,critical,scraper failure
+2020-04-13,iso1:TH,,,,scraper failed,AssertionError [ERR_ASSERTION]: Table can not be found,critical,scraper failure
+2020-04-13,iso1:US,CA,Alameda County,,scraper failed,TypeError: Cannot read property 'match' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Calaveras County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Glenn County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Kern County,,scraper failed,"Error: Kern County, CA now uses a PNG and PDF",critical,scraper failure
+2020-04-13,iso1:US,CA,Kings County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Madera County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Marin County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Mendocino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
+2020-04-13,iso1:US,CA,Merced County,,scraper failed,Error: Unknown html table format/labels,critical,scraper failure
+2020-04-13,iso1:US,CA,Orange County,,scraper failed,Error: Need to scrape new page,critical,scraper failure
+2020-04-13,iso1:US,CA,Riverside County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,CA,Sacramento County,,scraper failed,Error: Invalid data: deaths is not a number,critical,scraper failure
+2020-04-13,iso1:US,CA,San Benito County,,scraper failed,Error: Need to scrape new arcgis,critical,scraper failure
+2020-04-13,iso1:US,CA,San Bernardino County,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
+2020-04-13,iso1:US,CA,Santa Barbara County,,scraper failed,TypeError: Cannot read property '0' of undefined,critical,scraper failure
+2020-04-13,iso1:US,CA,Santa Clara County,,scraper failed,TypeError: Cannot read property 'children' of undefined,critical,scraper failure
+2020-04-13,iso1:US,CA,Santa Cruz County,,scraper failed,Error: H2 not found,critical,scraper failure
+2020-04-13,iso1:US,CA,Solano County,,scraper failed,"Error: Solano County, CA now uses a PDF",critical,scraper failure
+2020-04-13,iso1:US,CA,Sonoma County,,scraper failed,"DeprecatedError: Sonoma switched to ArcGIS, which is handled by another scraper",critical,scraper failure
+2020-04-13,iso1:US,CA,Ventura County,,scraper failed,Error: Unexpected table layout/labels,critical,scraper failure
+2020-04-13,iso1:US,CA,Yolo County,,scraper failed,TypeError: Cannot read property '1' of null,critical,scraper failure
+2020-04-13,iso1:US,FL,,,scraper failed,Error: Cannot parse undefined as number.,critical,scraper failure
+2020-04-13,iso1:US,GU,,,scraper failed,"DeprecatedError: Guam stopped offering totals on their website, but there's a sweet coloring book",critical,scraper failure
+2020-04-13,iso1:US,WV,,,scraper failed,TypeError: Cannot read property 'exploration' of null,critical,scraper failure
+2020-04-13,iso1:ZA,,,,scraper failed,"Error: Invalid Record Length: columns length is 13, got 1 on line 40",critical,scraper failure
+2020-04-13,iso1:KR,(unassigned),,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-AL,Unknown or Out of State County,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-DE,Unknown County,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-GA,Non-Georgia Resident County,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-MI,fips:26163,Detroit City,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-MI,MDOC,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-MI,FCI,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-NV,Douglas,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-NV,Lyon,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-NV,Storey,,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44001,Barrington,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44001,Bristol,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Burrillville,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Central Falls,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Charlestown,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,Coventry,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Cranston,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Cumberland,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,East Greenwich,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,East Providence,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Exeter,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Foster,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Glocester,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Hopkinton,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Jamestown,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Johnston,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Lincoln,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Little Compton,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Middletown,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Narragansett,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,New Shoreham,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Newport,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,North Kingstown,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,North Providence,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,North Smithfield,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Pawtucket,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Portsmouth,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Providence,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Richmond,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Scituate,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Smithfield,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,South Kingstown,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Tiverton,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44001,Warren,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,Warwick,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,West Greenwich,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,West Warwick,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Westerly,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Woonsocket,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-MD,,Baltimore city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-MO,,Kansas City,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-MO,,St. Louis city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-NV,,Carson City,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-NY,,New York City,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Alexandria city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Bristol city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Buena Vista city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Charles City,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Charlottesville city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Chesapeake city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Colonial Heights city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Covington city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Danville city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Emporia city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Fairfax city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Franklin city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Fredericksburg city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Galax city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Hampton city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Harrisonburg city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Hopewell city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,James City,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Lexington city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Lynchburg city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Manassas Park city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Manassas city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Newport News city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Norfolk city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Petersburg city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Poquoson city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Portsmouth city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Radford city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Richmond city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Roanoke city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Salem city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Staunton city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Suffolk city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Virginia Beach city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Waynesboro city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Williamsburg city,missing location,,low,locations
+2020-04-13,iso1:US,iso2:US-VA,,Winchester city,missing location,,low,locations
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-MDB,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-BST,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-SHR,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-XBCP,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-OLD,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-RCH,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-SKP,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-TAM,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-KWL,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-SFT,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-WRL,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-BNS,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-WLL,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-BRD,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-CLD,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-KIR,,missing population,,low,population
+2020-04-13,iso1:GB,iso2:GB-ENG,iso2:GB-NYK,,missing population,,low,population
+2020-04-13,iso1:IE,iso2:IE-G,,,missing population,,low,population
+2020-04-13,iso1:IE,iso2:IE-KY,,,missing population,,low,population
+2020-04-13,iso1:IE,iso2:IE-KK,,,missing population,,low,population
+2020-04-13,iso1:IE,iso2:IE-LD,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-41,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-42,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-43,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-44,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-45,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-46,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-48,,,missing population,,low,population
+2020-04-13,iso1:KR,iso2:KR-49,,,missing population,,low,population
+2020-04-13,iso1:KR,(unassigned),,,missing population,,low,population
+2020-04-13,iso1:LV,Liepāja,,,missing population,,low,population
+2020-04-13,iso1:LV,Rēzekne,,,missing population,,low,population
+2020-04-13,iso1:PL,iso2:PL-26,,,missing population,,low,population
+2020-04-13,iso1:PL,iso2:PL-30,,,missing population,,low,population
+2020-04-13,iso1:RU,iso2:RU-SEV,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-03,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-02,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-09,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-07,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-14,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-11,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-10,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-08,,,missing population,,low,population
+2020-04-13,iso1:SA,iso2:SA-06,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-011,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-154,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-155,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-051,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-062,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-079,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-083,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-107,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-184,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-133,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-137,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-139,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-110,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-003,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-207,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-041,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-052,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-082,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-095,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-102,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-008,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-020,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-032,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-162,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-037,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-043,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-164,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-061,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-064,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-068,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-071,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-186,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-138,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-140,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-148,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-153,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-026,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-159,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-055,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-058,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-070,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-168,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-171,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-089,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-096,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-002,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-047,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-056,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-063,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-097,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-006,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-014,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-036,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-128,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-073,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-212,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-104,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-130,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-013,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-091,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-094,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-025,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-093,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-175,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-034,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-060,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-129,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-092,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-106,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-114,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-120,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-124,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-126,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-190,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-149,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-009,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-099,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-035,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-040,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-050,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-090,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-111,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-012,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-053,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-131,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-117,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-122,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-146,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-192,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-021,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-022,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-023,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-039,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-208,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-072,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-077,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-134,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-123,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-194,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-160,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-045,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-167,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-069,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-169,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-087,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-098,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-108,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-178,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-113,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-115,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-181,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-118,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-191,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-156,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-166,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-059,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-080,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-116,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-010,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-132,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-188,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-015,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-033,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-001,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-084,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-183,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-157,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-048,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-199,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-085,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-109,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-017,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-211,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-206,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-193,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-038,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-074,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-101,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-103,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-177,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-112,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-016,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-142,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-213,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-195,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-150,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-004,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-005,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-151,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-007,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-152,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-196,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-018,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-019,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-024,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-027,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-028,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-029,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-030,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-031,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-158,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-161,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-163,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-042,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-044,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-046,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-049,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-197,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-165,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-054,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-065,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-066,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-067,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-198,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-075,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-170,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-076,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-078,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-081,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-088,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-172,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-200,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-173,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-100,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-176,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-209,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-201,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-105,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-179,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-180,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-202,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-203,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-204,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-182,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-210,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-205,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-119,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-121,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-125,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-127,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-185,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-187,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-135,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-136,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-189,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-141,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-143,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-144,,,missing population,,low,population
+2020-04-13,iso1:SI,iso2:SI-147,,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-AL,Unknown or Out of State County,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-AR,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-DE,Unknown County,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-GA,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-GA,Non-Georgia Resident County,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-IL,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-LA,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MA,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-ME,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MI,fips:26163,Detroit City,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MI,MDOC,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MI,FCI,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MI,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MO,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-ND,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-NH,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-NV,Douglas,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-NV,Lyon,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-NV,Storey,,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44001,Barrington,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44001,Bristol,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Burrillville,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Central Falls,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Charlestown,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,Coventry,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Cranston,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Cumberland,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,East Greenwich,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,East Providence,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Exeter,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Foster,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Glocester,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Hopkinton,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Jamestown,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Johnston,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Lincoln,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Little Compton,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Middletown,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Narragansett,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,New Shoreham,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Newport,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,North Kingstown,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,North Providence,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,North Smithfield,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Pawtucket,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Portsmouth,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Providence,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Richmond,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Scituate,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Smithfield,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,South Kingstown,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44005,Tiverton,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44001,Warren,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,Warwick,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,West Greenwich,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44003,West Warwick,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44009,Westerly,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-RI,fips:44007,Woonsocket,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VT,(unassigned),,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MD,,Baltimore city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MO,,Kansas City,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-MO,,St. Louis city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-NV,,Carson City,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-NY,,New York City,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Alexandria city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Bristol city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Buena Vista city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Charles City,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Charlottesville city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Chesapeake city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Colonial Heights city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Covington city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Danville city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Emporia city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Fairfax city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Franklin city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Fredericksburg city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Galax city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Hampton city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Harrisonburg city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Hopewell city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,James City,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Lexington city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Lynchburg city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Manassas Park city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Manassas city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Newport News city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Norfolk city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Petersburg city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Poquoson city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Portsmouth city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Radford city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Richmond city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Roanoke city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Salem city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Staunton city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Suffolk city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Virginia Beach city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Waynesboro city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Williamsburg city,missing population,,low,population
+2020-04-13,iso1:US,iso2:US-VA,,Winchester city,missing population,,low,population

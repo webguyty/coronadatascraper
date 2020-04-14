@@ -241,25 +241,6 @@
     "rating": 0.5686274509803921
   },
   {
-    "state": "FL",
-    "country": "iso1:US",
-    "priority": 1,
-    "aggregate": "county",
-    "sources": [
-      {
-        "url": "http://www.floridahealth.gov",
-        "name": "Florida Health"
-      }
-    ],
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
-    "type": "csv",
-    "url": "https://opendata.arcgis.com/datasets/a7887f1940b34bf5a02c6f7f27a5cb2c_0.csv",
-    "ssl": true,
-    "rating": 0.5686274509803921
-  },
-  {
     "state": "MA",
     "country": "iso1:US",
     "aggregate": "county",
@@ -296,31 +277,6 @@
     "url": "https://services1.arcgis.com/TXaY625xGc0yvAuQ/arcgis/rest/services/COVID_CASES_MA/FeatureServer/0/query?f=json&where=1%3D1&returnGeometry=false&outFields=*",
     "ssl": true,
     "rating": 0.5686274509803921
-  },
-  {
-    "country": "iso1:CY",
-    "url": "https://www.data.gov.cy/sites/default/files/CY%20Covid19%20Daily%20Statistics_6.csv",
-    "timeseries": true,
-    "priority": 1,
-    "type": "csv",
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "sources": [
-      {
-        "description": "Official website for Cyprus Open Data",
-        "url": "https://data.gov.cy/",
-        "name": "data.gov.cy"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.5490196078431373
   },
   {
     "state": "IL",
@@ -648,27 +604,7 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-12",
-    "ssl": true,
-    "rating": 0.49019607843137253
-  },
-  {
-    "country": "iso1:US",
-    "url": "https://covidtracking.com/api/states",
-    "type": "json",
-    "curators": [
-      {
-        "name": "The COVID Tracking Project",
-        "url": "https://covidtracking.com/",
-        "twitter": "@COVID19Tracking",
-        "github": "COVID19Tracking"
-      }
-    ],
-    "aggregate": "state",
-    "priority": -0.5,
-    "timeseries": false,
-    "headless": false,
-    "certValidation": true,
+    "url": "https://api-covid19.rnbo.gov.ua/data?to=2020-04-13",
     "ssl": true,
     "rating": 0.49019607843137253
   },
@@ -932,6 +868,26 @@
     "rating": 0.49019607843137253
   },
   {
+    "country": "iso1:US",
+    "url": "https://covidtracking.com/api/states",
+    "type": "json",
+    "curators": [
+      {
+        "name": "The COVID Tracking Project",
+        "url": "https://covidtracking.com/",
+        "twitter": "@COVID19Tracking",
+        "github": "COVID19Tracking"
+      }
+    ],
+    "aggregate": "state",
+    "priority": -0.5,
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.49019607843137253
+  },
+  {
     "country": "iso1:IN",
     "url": "https://www.mohfw.gov.in/",
     "type": "table",
@@ -940,31 +896,6 @@
     "headless": false,
     "certValidation": true,
     "priority": 0,
-    "ssl": true,
-    "rating": 0.47058823529411764
-  },
-  {
-    "country": "iso1:ZA",
-    "url": "https://github.com/dsfsi/covid19za",
-    "timeseries": true,
-    "priority": 1,
-    "type": "csv",
-    "sources": [
-      {
-        "description": "COVID 19 Data for South Africa created, maintained and hosted by Data Science for Social Impact research group, led by Dr. Vukosi Marivate, at the University of Pretoria.",
-        "url": "https://github.com/dsfsi/covid19za",
-        "name": "Coronavirus COVID-19 (2019-nCoV) Data Repository for South Africa"
-      }
-    ],
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
     "ssl": true,
     "rating": 0.47058823529411764
   },
@@ -1193,48 +1124,6 @@
     "rating": 0.45098039215686275
   },
   {
-    "country": "iso1:CH",
-    "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
-    "timeseries": true,
-    "priority": 1,
-    "type": "csv",
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.43137254901960786
-  },
-  {
-    "country": "iso1:EE",
-    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
-    "timeseries": true,
-    "priority": 1,
-    "type": "csv",
-    "maintainers": [
-      {
-        "name": "Quentin Golsteyn",
-        "github": "qgolsteyn",
-        "flag": "🇨🇦"
-      }
-    ],
-    "sources": [
-      {
-        "name": "Estonia Health and Welfare Information Systems Center",
-        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
-      }
-    ],
-    "headless": false,
-    "certValidation": true,
-    "ssl": true,
-    "rating": 0.43137254901960786
-  },
-  {
     "country": "iso1:AU",
     "maintainers": [
       {
@@ -1259,6 +1148,24 @@
     "type": "table",
     "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
     "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.43137254901960786
+  },
+  {
+    "country": "iso1:CH",
+    "url": "https://github.com/daenuprobst/covid19-cases-switzerland/",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
     "headless": false,
     "certValidation": true,
     "ssl": true,
@@ -1825,6 +1732,30 @@
     "rating": 0.43137254901960786
   },
   {
+    "country": "iso1:EE",
+    "url": "https://opendata.digilugu.ee/opendata_covid19_test_results.csv",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Estonia Health and Welfare Information Systems Center",
+        "url": "https://www.terviseamet.ee/et/koroonaviirus/avaandmed"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.43137254901960786
+  },
+  {
     "country": "iso1:CA",
     "sources": [
       {
@@ -1925,6 +1856,36 @@
     "rating": 0.4117647058823529
   },
   {
+    "aggregate": "state",
+    "country": "iso1:AU",
+    "maintainers": [
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "priority": 0.5,
+    "sources": [
+      {
+        "description": "Government of Western Australia, Department of Health",
+        "name": "WA Health",
+        "url": "https://ww2.health.wa.gov.au"
+      }
+    ],
+    "type": "table",
+    "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.39215686274509803
+  },
+  {
     "country": "iso1:CZ",
     "url": "https://onemocneni-aktualne.mzcr.cz/",
     "timeseries": true,
@@ -1974,32 +1935,26 @@
     "rating": 0.39215686274509803
   },
   {
-    "aggregate": "state",
-    "country": "iso1:AU",
+    "country": "iso1:PL",
+    "url": "https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2",
+    "timeseries": true,
+    "priority": 1,
     "maintainers": [
       {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "iso1:AU",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "priority": 0.5,
-    "sources": [
-      {
-        "description": "Government of Western Australia, Department of Health",
-        "name": "WA Health",
-        "url": "https://ww2.health.wa.gov.au"
-      }
-    ],
-    "type": "table",
-    "url": "https://ww2.health.wa.gov.au/Articles/A_E/Coronavirus/COVID19-statistics",
-    "timeseries": false,
     "headless": false,
     "certValidation": true,
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Republic of Poland"
+      }
+    ],
+    "type": "list",
     "ssl": true,
     "rating": 0.39215686274509803
   },
@@ -2079,6 +2034,30 @@
     "rating": 0.39215686274509803
   },
   {
+    "country": "iso1:LT",
+    "url": "https://services.arcgis.com/XdDVrnFqA9CT3JgB/arcgis/rest/services/covid_locations/FeatureServer/0/query?f=json&where=1%3D1&outFields=*&returnGeometry=false",
+    "priority": 1,
+    "type": "csv",
+    "sources": [
+      {
+        "url": "http://sam.lrv.lt/lt/news/koronavirusas",
+        "name": "Ministry of Health of the Republic of Lithuania"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.37254901960784315
+  },
+  {
     "country": "iso1:US",
     "state": "HI",
     "priority": 1,
@@ -2147,23 +2126,28 @@
     "rating": 0.37254901960784315
   },
   {
-    "state": "WV",
-    "country": "iso1:US",
-    "sources": [
+    "country": "iso1:AT",
+    "url": "https://info.gesundheitsministerium.at/data/Bundesland.js",
+    "timeseries": true,
+    "priority": 1,
+    "maintainers": [
       {
-        "url": "https://dhhr.wv.gov/COVID-19/Pages/default.aspx",
-        "name": "West Virginia Department of Health & Human Resources"
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
       }
     ],
-    "url": "https://wabi-us-gov-virginia-api.analysis.usgovcloudapi.net/public/reports/187b4de8-78ef-40be-9510-7fa9a1ef89f2/modelsAndExploration",
-    "type": "list",
-    "aggregate": "county",
-    "timeseries": false,
+    "type": "csv",
     "headless": false,
     "certValidation": true,
-    "priority": 0,
+    "sources": [
+      {
+        "url": "https://info.gesundheitsministerium.at",
+        "name": "Austrian Ministry of Health"
+      }
+    ],
     "ssl": true,
-    "rating": 0.37254901960784315
+    "rating": 0.35294117647058826
   },
   {
     "country": "iso1:AU",
@@ -2304,6 +2288,54 @@
     "priority": 0,
     "ssl": true,
     "rating": 0.35294117647058826
+  },
+  {
+    "country": "iso1:IE",
+    "url": "http://opendata-geohive.hub.arcgis.com/datasets/d9be85b30d7748b5b7c09450b8aede63_0.csv?outSR={\"latestWkid\":3857,\"wkid\":102100}",
+    "timeseries": true,
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://data.gov.ie/",
+        "name": "Ireland Open Data Portal"
+      }
+    ],
+    "headless": false,
+    "certValidation": true,
+    "ssl": false,
+    "rating": 0.3333333333333333
+  },
+  {
+    "country": "iso1:SI",
+    "url": "https://raw.githubusercontent.com/slo-covid-19/data/master/csv/stats.csv",
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://covid-19.sledilnik.org/",
+        "name": "COVID-19 Sledilnik"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.3333333333333333
   },
   {
     "county": "Contra Costa County",
@@ -2710,34 +2742,26 @@
     "rating": 0.27450980392156865
   },
   {
-    "country": "iso1:VI",
-    "type": "paragraph",
-    "url": "https://doh.vi.gov/covid19usvi",
-    "sources": [
-      {
-        "url": "https://doh.vi.gov",
-        "name": "United States Virgin Islands Department of Health"
-      }
-    ],
+    "country": "iso1:SE",
+    "url": "https://services5.arcgis.com/fsYDFeRKu1hELJJs/arcgis/rest/services/FOHM_Covid_19_FME_1/FeatureServer/1/query?f=json&where=1%3D1&outFields=*&returnGeometry=false",
+    "priority": 1,
+    "type": "csv",
     "maintainers": [
       {
-        "name": "Jacob McGowan",
-        "github": "jacobmcgowan"
-      },
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
       {
-        "name": "Cameron Chamberlain",
-        "email": "corona@camjc.com",
-        "github": "camjc",
-        "country": "iso1:AU",
-        "state": "Victoria",
-        "city": "Melbourne",
-        "flag": "🇦🇺"
+        "url": "https://folkhalsomyndigheten.se",
+        "name": "Public Health Agency of Sweden"
       }
     ],
     "timeseries": false,
     "headless": false,
     "certValidation": true,
-    "priority": 0,
     "ssl": true,
     "rating": 0.2549019607843137
   },
@@ -2824,6 +2848,38 @@
     "rating": 0.2549019607843137
   },
   {
+    "country": "iso1:VI",
+    "type": "paragraph",
+    "url": "https://doh.vi.gov/covid19usvi",
+    "sources": [
+      {
+        "url": "https://doh.vi.gov",
+        "name": "United States Virgin Islands Department of Health"
+      }
+    ],
+    "maintainers": [
+      {
+        "name": "Jacob McGowan",
+        "github": "jacobmcgowan"
+      },
+      {
+        "name": "Cameron Chamberlain",
+        "email": "corona@camjc.com",
+        "github": "camjc",
+        "country": "iso1:AU",
+        "state": "Victoria",
+        "city": "Melbourne",
+        "flag": "🇦🇺"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "priority": 0,
+    "ssl": true,
+    "rating": 0.2549019607843137
+  },
+  {
     "county": "Colusa County",
     "state": "CA",
     "country": "iso1:US",
@@ -2844,6 +2900,30 @@
     "type": "list",
     "ssl": false,
     "rating": 0.23529411764705882
+  },
+  {
+    "country": "iso1:LV",
+    "url": "https://services7.arcgis.com/g8j6ESLxQjUogx9p/arcgis/rest/services/Latvia_covid_novadi/FeatureServer/0/query?f=json&where=1%3D1&outFields=*&returnGeometry=false",
+    "priority": 1,
+    "type": "csv",
+    "maintainers": [
+      {
+        "name": "Quentin Golsteyn",
+        "github": "qgolsteyn",
+        "flag": "🇨🇦"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://arkartassituacija.gov.lv/",
+        "name": "Latvia Management of the Center for Disease Prevention and Control"
+      }
+    ],
+    "timeseries": false,
+    "headless": false,
+    "certValidation": true,
+    "ssl": true,
+    "rating": 0.21568627450980393
   },
   {
     "county": "San Francisco County",
