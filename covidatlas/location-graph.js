@@ -45,7 +45,10 @@ function showGraph({ timeseries, location }) {
 
   // Pull in data
   const data = generateGraphData({ timeseries, location });
-  console.log(data);
+
+  data.forEach(d => {
+    console.log(`${JSON.stringify(d)},`);
+  });
 
   // Parse time for cross browser compatability
   const parseTime = d3.timeParse('%Y-%m-%d');
@@ -181,7 +184,7 @@ function showGraph({ timeseries, location }) {
       return 1;
     }
   }
-  console.log(lines);
+
   //
   // Legend
   //
@@ -248,8 +251,6 @@ function showGraph({ timeseries, location }) {
   const margin = { top: 20, right: 10, bottom: 10, left: 45 };
   const width = el.offsetWidth - margin.left - margin.right - 10;
   const height = el.offsetHeight - margin.top - margin.bottom - 10;
-
-  // console.log(lines);
 
   function generateGraph() {
     // Clear any previous graph and append legend
@@ -374,8 +375,6 @@ function showGraph({ timeseries, location }) {
 
       // Create paths for lines for different data
 
-      console.log(nestedLines);
-
       const nestedFiltered = d3
         .nest()
         .key(d => d.name)
@@ -447,7 +446,6 @@ function showGraph({ timeseries, location }) {
       };
 
       const mousemove = function(d) {
-        // console.log(box);
         tooltip
           .html(tooltipHTML(d))
           .style('left', `${placeTooltipX(d3.mouse(this)[0])}px`)
